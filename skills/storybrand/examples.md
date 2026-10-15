@@ -1,404 +1,405 @@
-# Examples - StoryBrand
+> 中文译文｜[英文对照](examples.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/storybrand/examples.md)。原项目整理：AgentSeal；书籍来源：《Building a StoryBrand》— Donald Miller；AI 辅助翻译。
 
-## BrandScript Worksheet
+# 示例——StoryBrand
 
-Fill in every field. If you can't fill one in clearly, that's where your messaging is broken.
+## BrandScript 工作表
 
-```
-=== BRANDSCRIPT ===
+填完每个字段。如果某一项无法说清，那就是表达存在缺口的地方。
 
-COMPANY/PRODUCT: _________________________
+```text
+=== 品牌故事脚本 ===
 
-1. CHARACTER (Your Customer)
-   What does your customer want?
-   _________________________________________________
-   
-   Which survival category does this connect to?
-   [ ] Conserving financial resources
-   [ ] Conserving time  
-   [ ] Building social networks
-   [ ] Gaining status
-   [ ] Accumulating resources
-   [ ] The desire to be generous
-   [ ] The desire for meaning
+公司／产品：_________________________
 
-2. PROBLEM
-   Villain (root cause):
-   _________________________________________________
-   
-   External Problem (tangible):
-   _________________________________________________
-   
-   Internal Problem (how it FEELS):
-   _________________________________________________
-   
-   Philosophical Problem (why it's WRONG):
+1. 角色（客户）
+   客户想要什么？
    _________________________________________________
 
-3. GUIDE (Your Brand)
-   Empathy statement ("We understand..."):
-   _________________________________________________
-   
-   Authority proof (pick strongest):
-   [ ] Testimonial: ________________________________
-   [ ] Statistic: _________________________________
-   [ ] Award/certification: ________________________
-   [ ] Client logos: ______________________________
+   对应哪类生存需要？
+   [ ] 节省财务资源
+   [ ] 节省时间
+   [ ] 建立社会网络
+   [ ] 获得地位
+   [ ] 积累资源
+   [ ] 慷慨给予的愿望
+   [ ] 对意义的渴望
 
-4. PLAN
-   Process Plan:
-   Step 1: ________________________________________
-   Step 2: ________________________________________
-   Step 3: ________________________________________
-   
-   Plan name (optional): ___________________________
-   
-   Agreement Plan (fears you address):
-   - _______________________________________________
-   - _______________________________________________
-   - _______________________________________________
-
-5. CALL TO ACTION
-   Direct CTA (the sale):
-   _________________________________________________
-   
-   Transitional CTA (not ready to buy):
+2. 问题
+   反派（根因）：
    _________________________________________________
 
-6. FAILURE (What happens if they DON'T act)
+   外在问题（具体的）：
+   _________________________________________________
+
+   内在问题（带来什么感受）：
+   _________________________________________________
+
+   理念问题（为什么这不对）：
+   _________________________________________________
+
+3. 向导（品牌）
+   共情表述（“我们理解……”）：
+   _________________________________________________
+
+   权威证据（选择最有力的）：
+   [ ] 客户证言：__________________________________
+   [ ] 统计数据：__________________________________
+   [ ] 奖项／认证：________________________________
+   [ ] 客户标志：__________________________________
+
+4. 计划
+   流程计划：
+   第一步：________________________________________
+   第二步：________________________________________
+   第三步：________________________________________
+
+   计划名称（可选）：______________________________
+
+   承诺计划（回应哪些顾虑）：
    - _______________________________________________
    - _______________________________________________
    - _______________________________________________
 
-7. SUCCESS (What life looks like AFTER)
+5. 行动号召
+   直接型（促成销售）：
+   _________________________________________________
+
+   过渡型（尚未准备购买）：
+   _________________________________________________
+
+6. 失败（不行动会怎样）
    - _______________________________________________
    - _______________________________________________
    - _______________________________________________
 
-8. IDENTITY TRANSFORMATION
-   FROM: ___________________________________________
-   TO: _____________________________________________
-```
+7. 成功（之后的生活是什么样）
+   - _______________________________________________
+   - _______________________________________________
+   - _______________________________________________
 
----
-
-## Worked Example: SaaS Project Management Tool
-
-```
-=== BRANDSCRIPT ===
-
-COMPANY/PRODUCT: TaskFlow (project management SaaS)
-
-1. CHARACTER
-   Want: Projects that finish on time without the chaos.
-   Survival category: Conserving time + Gaining status
-
-2. PROBLEM
-   Villain: Disorganization and scattered communication
-   External: "Projects are late and over budget"
-   Internal: "I feel like I'm losing control and it's embarrassing"
-   Philosophical: "Teams shouldn't have to work this hard just to stay coordinated"
-
-3. GUIDE
-   Empathy: "We've managed complex projects and know the frustration of chasing updates across email, Slack, and spreadsheets."
-   Authority: "Trusted by 5,000+ teams including [Logo] [Logo] [Logo]"
-
-4. PLAN
-   Step 1: Connect your tools (2-minute setup)
-   Step 2: See everything in one view (we organize it automatically)
-   Step 3: Deliver on time (and look good doing it)
-   
-   Plan name: "The Clarity System"
-   
-   Agreement Plan:
-   - Free 14-day trial, no credit card required
-   - Cancel anytime with one click
-   - Your data is always exportable
-
-5. CALL TO ACTION
-   Direct: "Start Free Trial"
-   Transitional: "Download: The Project Recovery Checklist (free PDF)"
-
-6. FAILURE
-   - Projects keep slipping and stakeholders lose confidence
-   - Team burnout from constant firefighting
-   - You become the bottleneck everyone blames
-
-7. SUCCESS
-   - Projects launch on time and stakeholders notice
-   - Your team spends time building, not status-updating
-   - You're seen as the leader who brought order to the chaos
-
-8. TRANSFORMATION
-   FROM: Overwhelmed project manager constantly chasing updates
-   TO: Confident leader who delivers predictably
+8. 身份转变
+   从：_____________________________________________
+   到：_____________________________________________
 ```
 
 ---
 
-## One-Liner Worksheet
+## 完整实例：SaaS 项目管理工具
 
-**Formula:** [PROBLEM] + [SOLUTION] + [RESULT]
+```text
+=== 品牌故事脚本 ===
 
+公司／产品：TaskFlow（项目管理 SaaS）
+
+1. 角色
+   愿望：项目按时完成，不再混乱。
+   生存类别：节省时间 + 获得地位。
+
+2. 问题
+   反派：组织混乱、沟通分散。
+   外在：“项目延期、预算超支。”
+   内在：“我觉得正在失去控制，而且很丢脸。”
+   理念：“团队不该为了保持协调，就必须这么辛苦。”
+
+3. 向导
+   共情：“我们管理过复杂项目，知道在邮件、Slack 和表格之间追问进度有多烦。”
+   权威：“超过 5,000 个团队信任我们，包括［标志］［标志］［标志］。”
+
+4. 计划
+   第一步：连接你的工具，两分钟设置完成。
+   第二步：一个视图看清全局，由我们自动整理。
+   第三步：按时交付，并因此赢得好评。
+
+   计划名称：“清晰系统”。
+
+   承诺计划：
+   - 免费试用 14 天，无需信用卡。
+   - 随时一键取消。
+   - 数据始终可以导出。
+
+5. 行动号召
+   直接型：“开始免费试用”。
+   过渡型：“下载《项目挽救检查表》，免费 PDF”。
+
+6. 失败
+   - 项目持续延期，利益相关者失去信心。
+   - 团队因不断救火而倦怠。
+   - 你成为所有人责怪的瓶颈。
+
+7. 成功
+   - 项目按时上线，利益相关者看得到。
+   - 团队把时间用于建设，而非汇报状态。
+   - 你被视为让混乱恢复秩序的领导者。
+
+8. 转变
+   从：不堪重负、不断追问进度的项目经理。
+   到：能稳定交付的自信领导者。
 ```
-PROBLEM (1 sentence - name the pain):
+
+---
+
+## 一句话介绍工作表
+
+**公式：**［问题］+［解决方案］+［结果］。
+
+```text
+问题：用一句话点出痛苦。
 _________________________________________________
 
-SOLUTION (1 sentence - what you offer):
+解决方案：用一句话说明提供什么。
 _________________________________________________
 
-RESULT (1 sentence - paint the success):
+结果：用一句话描绘成功。
 _________________________________________________
 
-COMBINED ONE-LINER:
+合并后的一句话介绍：
 _________________________________________________
 _________________________________________________
 _________________________________________________
 ```
 
-### Worked Examples
+### 完整示例
 
-**Financial Advisor:**
-"Most people feel anxious about retirement because planning is overwhelming. We create a simple, personalized plan in one meeting. Our clients retire with confidence, not confusion."
+**理财顾问：**
+“多数人对退休感到焦虑，因为规划太复杂。我们用一次会面，为你制定简单、个性化的计划。我们的客户能够自信退休，不再困惑。”
 
-**Web Design Agency:**
-"Small businesses lose customers every day because their website confuses visitors. We redesign websites using a proven messaging framework. Our clients see more leads within 30 days."
+**网站设计机构：**
+“小企业每天都因网站让访客困惑而失去客户。我们使用经过验证的信息表达框架重做网站。我们的客户在 30 天内就能看到更多销售线索。”
 
-**Meal Kit Service:**
-"Busy parents feel guilty about feeding their kids processed food. We deliver pre-portioned, healthy meals that take 15 minutes to cook. Families sit down to real dinners without the stress."
+**净菜餐包服务：**
+“忙碌的父母因给孩子吃加工食品而内疚。我们配送预先分装的健康餐食，烹饪只需 15 分钟。全家可以轻松坐下来，好好吃一顿饭。”
 
-**Cybersecurity Company:**
-"Most businesses don't know they're vulnerable until it's too late. We monitor your systems 24/7 and stop threats before they hit. Our clients sleep well knowing their data is safe."
+**网络安全公司：**
+“多数企业直到为时已晚，才意识到自己有安全漏洞。我们全天候监控系统，在威胁袭来前将其阻止。客户知道数据安全，就能安心入睡。”
 
 ---
 
-## Website Wireframe Template
+## 网站线框模板
 
-```
+```text
 +==============================================================+
-|  SECTION 1: HEADER (Above the Fold)                          |
-|                                                               |
-|  [Logo]                    [Nav] [Nav] [Nav]  [CTA BUTTON]    |
-|                                                               |
-|     HEADLINE: [What you offer - 5-8 words]                    |
-|     Sub: [How it makes life better - 1 line]                  |
-|                                                               |
-|     [CTA BUTTON - primary color]     [Transitional link]      |
-|                                                               |
-|     [IMAGE: Customer in successful end state]                 |
-+==============================================================+
-
-+==============================================================+
-|  SECTION 2: STAKES (The Problem)                             |
-|                                                               |
-|  "Are you tired of [villain/problem]?"                        |
-|  - [Pain point 1]                                             |
-|  - [Pain point 2]                                             |
-|  - [Pain point 3]                                             |
+|  第一部分：页首（首屏）                                      |
+|                                                              |
+|  ［标志］             ［导航］［导航］［导航］［行动按钮］    |
+|                                                              |
+|     标题：［你提供什么，五至八个词］                          |
+|     副标题：［一行说明怎样让生活更好］                        |
+|                                                              |
+|     ［主色行动按钮］             ［过渡型链接］               |
+|                                                              |
+|     ［图片：成功状态中的客户］                                |
 +==============================================================+
 
 +==============================================================+
-|  SECTION 3: VALUE PROPOSITION (The Success)                  |
-|                                                               |
-|  "Imagine if..."                                              |
-|  [Icon] [Benefit 1]    [Icon] [Benefit 2]    [Icon] [Benefit 3]
+|  第二部分：利害（问题）                                      |
+|                                                              |
+|  “你是否厌倦了［反派／问题］？”                             |
+|  - ［痛点一］                                                |
+|  - ［痛点二］                                                |
+|  - ［痛点三］                                                |
 +==============================================================+
 
 +==============================================================+
-|  SECTION 4: THE GUIDE (Empathy + Authority)                  |
-|                                                               |
-|  [Short paragraph: "We understand [pain]. We've helped        |
-|   [number] [customers] achieve [result]."]                    |
-|                                                               |
-|  [Logo]  [Logo]  [Logo]  [Logo]  (client logos or trust bars) |
+|  第三部分：价值主张（成功）                                  |
+|                                                              |
+|  “想象一下，如果……”                                       |
+|  ［图标］［收益一］   ［图标］［收益二］   ［图标］［收益三］|
 +==============================================================+
 
 +==============================================================+
-|  SECTION 5: THE PLAN                                         |
-|                                                               |
-|  How It Works:                                                |
-|  [1] ___________    [2] ___________    [3] ___________        |
-|                                                               |
-|  [CTA BUTTON]                                                 |
+|  第四部分：向导（共情 + 权威）                               |
+|                                                              |
+|  ［短段落：“我们理解［痛苦］。我们已帮助                    |
+|    ［数量］位［客户］实现［结果］。”］                      |
+|                                                              |
+|  ［标志］［标志］［标志］［标志］，客户标志或信任标识        |
 +==============================================================+
 
 +==============================================================+
-|  SECTION 6: EXPLANATORY PARAGRAPH (optional)                 |
-|                                                               |
-|  [2-3 sentences expanding on the offer. Keep it short.]       |
+|  第五部分：计划                                              |
+|                                                              |
+|  如何进行：                                                  |
+|  ［1］___________   ［2］___________   ［3］___________        |
+|                                                              |
+|  ［行动按钮］                                                |
 +==============================================================+
 
 +==============================================================+
-|  SECTION 7: TRANSFORMATION TESTIMONIALS                      |
-|                                                               |
-|  "[Before quote]. Then [discovery]. Now [after quote]."       |
-|  - Customer Name, Title                                       |
-|                                                               |
-|  "[Before quote]. Then [discovery]. Now [after quote]."       |
-|  - Customer Name, Title                                       |
+|  第六部分：解释段落（可选）                                  |
+|                                                              |
+|  ［用两至三句话进一步说明所提供的价值，保持简短。］          |
 +==============================================================+
 
 +==============================================================+
-|  SECTION 8: BOTTOM CTA                                       |
-|                                                               |
-|  [Headline restating the offer or transformation]             |
-|  [CTA BUTTON]           [Transitional link]                   |
+|  第七部分：转变型客户证言                                    |
+|                                                              |
+|  “［之前的原话］。后来［发现品牌］。现在［之后的原话］。”   |
+|  ——客户姓名、职衔                                           |
+|                                                              |
+|  “［之前的原话］。后来［发现品牌］。现在［之后的原话］。”   |
+|  ——客户姓名、职衔                                           |
 +==============================================================+
-```
 
----
-
-## Email Drip Campaign Template
-
-### Nurture Sequence (Post-Lead Generator Download)
-
-**Email 1: Deliver + Welcome** (Send immediately)
-```
-Subject: Here's your [Lead Generator Name]
-Body:
-- Deliver the asset (download link)
-- One sentence of empathy ("We know [problem] is frustrating")
-- One sentence positioning you as guide ("We've helped [X] people solve this")
-- Sign off warmly
-- NO selling
-```
-
-**Email 2: Value** (Send Day 3)
-```
-Subject: [One tip related to their problem]
-Body:
-- Provide a genuinely useful tip or insight
-- Connect it to the problem they downloaded the lead generator for
-- Keep it short (150-250 words)
-- NO selling
-```
-
-**Email 3: Story** (Send Day 5)
-```
-Subject: How [Customer Name] went from [problem] to [success]
-Body:
-- Tell a transformation testimonial as a story
-- Before: what they struggled with
-- Turning point: how they found you
-- After: what life looks like now
-- Subtle positioning (not hard sell)
-```
-
-**Email 4: Value** (Send Day 8)
-```
-Subject: [Another useful insight]
-Body:
-- Another tip, resource, or perspective
-- Build trust and demonstrate expertise
-- NO selling
-```
-
-**Email 5: Sales** (Send Day 11)
-```
-Subject: Ready to [achieve desired outcome]?
-Body:
-- Briefly restate the problem and stakes
-- Present your solution with clear CTA
-- Include process plan (3 steps)
-- Add agreement plan element (guarantee, no risk)
-- Direct CTA button
-```
-
-**Email 6: Value** (Send Day 15)
-```
-Subject: [One more insight to keep the relationship warm]
-Body:
-- Provide value
-- Maintain the relationship for those not ready to buy
-- Soft mention of your offering if appropriate
++==============================================================+
+|  第八部分：底部行动号召                                      |
+|                                                              |
+|  ［标题，重申所提供的价值或转变］                            |
+|  ［行动按钮］                 ［过渡型链接］                 |
++==============================================================+
 ```
 
 ---
 
-## Transformation Testimonial Collection Template
+## 自动邮件序列模板
 
-Send this to happy customers:
+### 培育序列（下载引流资料之后）
 
-```
-Subject: Quick favor? Your story could help others like you.
-
-Hi [Name],
-
-We'd love to share your experience. Would you mind answering these
-four questions? (Takes about 5 minutes.)
-
-1. What was the problem you were dealing with before you found us?
-
-2. What did the frustration feel like as you tried to solve it?
-
-3. What was different about working with us?
-
-4. What does your life/business look like now?
-
-Feel free to write as much or as little as you'd like. Your words
-(not ours) are what make these stories real.
-
-Thanks,
-[Your name]
+**邮件一：交付与欢迎**，立即发送。
+```text
+主题：你的［引流资料名称］在这里
+正文：
+- 交付资料，附下载链接。
+- 一句共情：“我们知道［问题］让人沮丧。”
+- 一句向导定位：“我们已帮助［X］人解决这个问题。”
+- 温暖落款。
+- 不推销。
 ```
 
-**How to format the response:**
-
+**邮件二：价值**，第三天发送。
+```text
+主题：［一条与其问题相关的技巧］
+正文：
+- 提供真正有用的技巧或洞见。
+- 关联对方下载资料想解决的问题。
+- 保持简短，150—250 词。
+- 不推销。
 ```
-"[Answer to Q1 - the problem]. [Answer to Q2 - the feeling].
-Then I found [Brand]. [Answer to Q3 - what was different].
-Now [Answer to Q4 - the transformation]."
 
-- [Customer Name], [Title/Company]
+**邮件三：故事**，第五天发送。
+```text
+主题：［客户姓名］如何从［问题］走向［成功］
+正文：
+- 把转变型证言讲成故事。
+- 之前：他们在什么问题上挣扎。
+- 转折：如何找到你。
+- 之后：现在生活是什么样。
+- 自然传达定位，不强推销售。
+```
+
+**邮件四：价值**，第八天发送。
+```text
+主题：［另一条有用的洞见］
+正文：
+- 再提供一个技巧、资源或视角。
+- 建立信任并展示专业能力。
+- 不推销。
+```
+
+**邮件五：销售**，第十一天发送。
+```text
+主题：准备好［实现理想结果］了吗？
+正文：
+- 简短重述问题与利害。
+- 提出解决方案和清晰行动号召。
+- 包含三步流程计划。
+- 添加承诺计划元素，如保证、无风险。
+- 放直接行动按钮。
+```
+
+**邮件六：价值**，第十五天发送。
+```text
+主题：［再提供一个洞见，维持关系热度］
+正文：
+- 提供价值。
+- 与尚未准备购买者保持关系。
+- 适当时轻轻提及所提供的产品或服务。
 ```
 
 ---
 
-## Lead Generator Title Formulas
+## 转变型证言收集模板
 
-Pick a format and fill in the blanks:
+发给满意的客户：
 
+```text
+主题：能帮个小忙吗？你的故事可能帮到有相似处境的人。
+
+你好，［姓名］：
+
+我们很想分享你的经历。方便回答这四个问题吗？
+大约需要五分钟。
+
+1. 找到我们之前，你在应对什么问题？
+
+2. 尝试解决它时，那种挫败是什么感受？
+
+3. 与我们合作有什么不同？
+
+4. 现在你的生活或生意是什么样？
+
+想写多少都可以。让故事真实的是你的话，而不是我们的话。
+
+谢谢！
+［你的姓名］
 ```
-"[Number] Mistakes That Cost [Audience] [Bad Outcome]"
-Example: "5 Mistakes That Cost Homeowners Thousands on Renovations"
 
-"The [Audience]'s Guide to [Desired Outcome]"
-Example: "The First-Time Manager's Guide to Leading with Confidence"
+**如何整理回答：**
 
-"How to [Desired Outcome] Without [Pain Point]"
-Example: "How to Grow Revenue Without Burning Out Your Team"
+```text
+“［第一题答案：问题］。［第二题答案：感受］。
+后来我找到［品牌］。［第三题答案：不同之处］。
+如今［第四题答案：转变］。”
 
-"[Number] Steps to [Desired Outcome] in [Timeframe]"
-Example: "3 Steps to a Cleaner Home in 15 Minutes a Day"
-
-"The [Desired Outcome] Checklist"
-Example: "The Launch-Ready Website Checklist"
-
-"Are You Making These [Number] [Problem] Mistakes?"
-Example: "Are You Making These 7 Hiring Mistakes?"
+——［客户姓名］，［职衔／公司］
 ```
 
 ---
 
-## Quick Diagnostic: Is Your Messaging Working?
+## 引流资料标题公式
 
-Score each element 1-5 (1 = missing, 5 = crystal clear):
+选择一种形式，再填空：
 
+```text
+“让［受众］遭受［坏结果］的［数字］个错误”
+例：“让屋主在装修上多花数千美元的五个错误”
+
+“［受众］实现［理想结果］的指南”
+例：“新任经理自信带队指南”
+
+“如何不受［痛点］困扰，也能［实现理想结果］”
+例：“如何增加收入，又不让团队累垮”
+
+“在［时间范围］内实现［理想结果］的［数字］个步骤”
+例：“每天 15 分钟，三步让家更整洁”
+
+“［理想结果］检查表”
+例：“网站上线准备检查表”
+
+“你正在犯这［数字］个［问题］错误吗？”
+例：“你正在犯这七个招聘错误吗？”
 ```
-[ ] Customer's desire is stated in the first line of the website     ___/5
-[ ] The villain/problem is named explicitly                          ___/5
-[ ] The internal problem (feeling) is addressed, not just external   ___/5
-[ ] Brand is positioned as guide (empathy + authority), not hero     ___/5
-[ ] There's a clear plan (3 steps or similar)                        ___/5
-[ ] Direct CTA is visible and repeated                               ___/5
-[ ] Stakes are clear (what happens if they don't act)                ___/5
-[ ] Success is painted specifically (not vague "improvement")        ___/5
-[ ] Identity transformation is implied (FROM → TO)                   ___/5
-[ ] A first-time visitor could explain what you do in 5 seconds      ___/5
 
-TOTAL: ___/50
+---
 
-40+: Strong messaging. Optimize details.
-25-39: Core structure exists but gaps are hurting conversion.
-Below 25: Significant rewrite needed. Start with the BrandScript.
+## 快速诊断：你的表达有效吗？
+
+逐项打 1—5 分：1 表示缺失，5 表示极其清楚。
+
+```text
+[ ] 网站第一行就说明客户愿望                              ___/5
+[ ] 明确点出反派或问题                                    ___/5
+[ ] 回应内在感受，而非只有外在问题                        ___/5
+[ ] 品牌定位为兼具共情与权威的向导，而非英雄              ___/5
+[ ] 有清晰计划，如三步计划                                ___/5
+[ ] 直接行动号召明显可见，并重复出现                      ___/5
+[ ] 利害清楚，说明不行动会怎样                            ___/5
+[ ] 成功图景具体，不是模糊的“改善”                        ___/5
+[ ] 暗含身份转变，即从何种状态走向何种状态                ___/5
+[ ] 初次访客五秒内就能解释你做什么                        ___/5
+
+总分：___/50
+
+40 分以上：表达有力，优化细节。
+25—39 分：已有核心结构，但缺口正在损害转化。
+低于 25 分：需要大幅重写，从 BrandScript 开始。
 ```

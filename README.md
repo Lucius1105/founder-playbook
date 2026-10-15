@@ -6,7 +6,7 @@
 
 [English 原版说明](README.en.md) · [原始项目](https://github.com/getagentseal/founder-playbook) · [使用方法](#使用方法) · [来源与许可](#来源与许可)
 
-> **中文版本说明**：本仓库是 [Lucius1105/founder-playbook](https://github.com/Lucius1105/founder-playbook)，Fork 自 **AgentSeal** 维护的 [getagentseal/founder-playbook](https://github.com/getagentseal/founder-playbook)。本轮完成仓库介绍与使用说明的中文翻译；`skills/` 内的技能正文和配套材料仍为英文，后续再逐篇翻译。英文原稿保留在 [README.en.md](README.en.md)。
+> **中文版本说明**：本仓库是 [Lucius1105/founder-playbook](https://github.com/Lucius1105/founder-playbook)，Fork 自 **AgentSeal** 维护的 [getagentseal/founder-playbook](https://github.com/getagentseal/founder-playbook)。本仓库提供完整中文阅读版：仓库介绍与使用说明、16 个技能目录中的 78 份技能文档，以及 1 份实验记录均有中文版本。原路径默认显示中文；英文原稿保留为同目录的 `*.en.md`，首页英文原稿见 [README.en.md](README.en.md)。
 >
 > **翻译基线**：上游提交 [`e811e63`](https://github.com/getagentseal/founder-playbook/commit/e811e63be42c9b64a208707220b145451ad4b6c8)，核对日期为 2026 年 10 月 15 日。可查阅该版本的 [README 原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/README.md)。
 
@@ -18,7 +18,7 @@ Founder Playbook 是一个面向创业者的商业方法参考库，包含 **15 
 
 ## 包含哪些内容
 
-下表保留原书英文名和作者，便于追溯来源。技能名称及文件路径保持不变，点击后目前进入英文正文。
+下表保留原书英文名和作者，便于追溯来源。技能标识和文件路径保持不变，点击进入中文正文；每份译文顶部提供英文对照和固定版本的上游原文链接。
 
 | 技能 | 来源 | 适用场景 |
 |------|------|----------|
@@ -61,7 +61,7 @@ Founder Playbook 是一个面向创业者的商业方法参考库，包含 **15 
 npx skills add Lucius1105/founder-playbook
 ```
 
-这是本中文整理仓库的地址，按安装器提示选择目标工具和技能即可。**目前安装到的技能正文仍为英文**；中文化的是本页介绍与使用说明。
+这是本中文仓库的地址，按安装器提示选择目标工具和技能即可。**安装命令默认读取仓库主分支；完整中文版合并到主分支后，才会通过该命令安装到。** 当前可先按下方预览分支命令手动安装。
 
 如果希望安装 AgentSeal 维护的上游版本，可使用原命令：
 
@@ -75,7 +75,7 @@ npx skills add getagentseal/founder-playbook
 
 ```bash
 # 克隆本仓库
-git clone https://github.com/Lucius1105/founder-playbook.git
+git clone --branch docs/chinese-readme-20261015 https://github.com/Lucius1105/founder-playbook.git
 
 # 准备 Claude Code 的个人技能目录
 mkdir -p "$HOME/.claude/skills"
@@ -94,7 +94,7 @@ for skill in "$PWD"/founder-playbook/skills/*/SKILL.md; do
 done
 ```
 
-上述命令应在同一个终端中依次运行；若克隆失败，先处理错误。链接依赖克隆目录，请保留该目录及路径。
+上面的命令指向本次完整中文预览分支。合并到主分支后，可以去掉 `--branch docs/chinese-readme-20261015`。上述命令应在同一个终端中依次运行；若克隆失败，先处理错误。链接依赖克隆目录，请保留该目录及路径。
 
 安装后，可以直接用自然语言描述问题。Claude 会参考技能描述，按需要加载相关内容。例如：
 
@@ -114,7 +114,7 @@ done
 2. 打开对应的 `SKILL.md`，把内容粘贴到对话中作为参考资料，并说明你的具体问题。
 3. 需要更深入的内容时，再提供该技能目录下的相关配套文件，例如 `frameworks.md`、`cases.md` 或 `examples.md`；以目录中实际存在的文件为准。
 
-文件开头的 YAML 区块主要记录名称、描述等元数据，使用时重点参考正文。你可以用中文提问，并要求 AI 用中文回答；这不代表仓库内的英文文件已经完成翻译。
+文件开头的 YAML 区块主要记录名称、描述等元数据，使用时重点参考正文。技能正文和配套文件均有中文版本，可以直接用中文提问。文件中的技能 ID、可执行命令、URL、产品名称与框架缩写按需保留，避免影响调用或来源核对。
 
 ### 方法四：在 Cursor、Windsurf 或 Cline 中使用
 
@@ -131,9 +131,22 @@ skill-name/
   cases.md        书中企业案例：需要案例参考时阅读
   examples.md     模板、工作表和示例：具体应用时阅读
   integration.md  与其他技能的关联、互补和冲突
+  *.en.md         对应文件的完整英文原稿
 ```
 
 原 README 对这种分层加载的估计是：启动时，每个技能只读取约 100 tokens 的描述；触发后加载约 250—500 行的入口文件；配套文件按需加载。这些是原项目的概略说明，实际长度与上下文用量会随技能和工具而变化。
+
+## 中文覆盖范围
+
+| 内容 | 中文入口 | 覆盖情况 |
+|------|----------|----------|
+| 仓库介绍、安装及使用说明 | 本页 | 完整中文说明；保留英文 README |
+| 15 个书籍技能＋1 个诊断技能 | 上方技能目录 | 78 份文档，涵盖入口、框架、案例、模板和方法配合 |
+| 实验记录 | [真实创始人问题实验](experiments/real-founder-problems.md) | 1 份，含全部 10 个问题、对照表、评分及调整记录 |
+| 插件界面 | `.codex-plugin/plugin.json` | 名称、介绍及示例提示词中文化 |
+| 许可证阅读参考 | [MIT 许可证中文参考](LICENSE.zh-CN.md) | 附中文译文，正式 `LICENSE` 原样保留 |
+
+英文原文逐文件保留，来源链接固定到翻译基线，不随上游后续修改而漂移。原文中发现的数字或逻辑冲突用“译注”单独说明；翻译不代表重新验证书中所有研究、平台规则或经营建议。实验评分来自上游记录，未作为本中文版的实际运行结果。原书名、作者名、书封图和必要技术标识保留原样。
 
 ## 推荐使用顺序
 
@@ -237,9 +250,9 @@ skill-name/
 ## 来源与许可
 
 - **原始开源项目与整理者**：[Founder Playbook](https://github.com/getagentseal/founder-playbook)，由 [AgentSeal](https://github.com/getagentseal) 维护。
-- **本中文整理仓库**：[Lucius1105/founder-playbook](https://github.com/Lucius1105/founder-playbook)。本页根据上游 README 翻译整理，中文翻译由 AI 辅助完成。
-- **本轮改动范围**：翻译仓库介绍、技能目录说明和使用说明；保留英文 README；补充来源与翻译状态。安装示例改为本仓库地址，并增加已有同名技能的跳过处理；对不同工具的加载行为作了限定说明。
+- **本中文整理仓库**：[Lucius1105/founder-playbook](https://github.com/Lucius1105/founder-playbook)。仓库文档根据上游对应文件翻译整理，中文翻译由 AI 辅助完成；每份技能及实验译文都注明原出处。
+- **本轮改动范围**：完整中文化 README、78 份技能文档、1 份实验记录和插件的用户可见说明；保留对应英文原稿，另附许可证中文参考。安装示例与插件仓库地址指向本中文分支；保留上游作者署名与正式许可证。
 - **书籍来源**：上述 15 本书及其作者。AgentSeal 是开源项目整理者，书籍中的原创思想与内容应追溯到各自原作者。本中文整理版不是书籍全文翻译。
 - **开源许可证**：[MIT License](LICENSE)。保留原版权声明：`Copyright (c) 2026 AgentSeal`。书籍与封面等第三方材料的权利仍归相应权利人；仓库的 MIT 许可不表示这些原著与图片也被重新授予 MIT 许可。
 
-逐篇翻译后续内容时，会继续保留原文件来源与对应书籍作者，并明确译文和补充说明的区别。
+如上游更新，后续翻译应继续对照固定版本，保留英文原稿，并区分上游内容与译者补充。

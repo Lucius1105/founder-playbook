@@ -1,470 +1,513 @@
-# Examples - The Four Steps to the Epiphany
+> 中文译文｜[英文对照](examples.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/four-steps/examples.md)。原项目整理：AgentSeal；书籍来源：《The Four Steps to the Epiphany》— Steve Blank；AI辅助翻译。
 
-## Earlyvangelist Pain Hierarchy - Scoring Template
+<a id="examples---the-four-steps-to-the-epiphany"></a>
+# 示例——The Four Steps to the Epiphany
 
-When talking to potential customers, map their response to the hierarchy:
+<a id="earlyvangelist-pain-hierarchy---scoring-template"></a>
+## 早期核心客户痛点层次：评分模板
 
+与潜在客户交谈时，把其回答对应到以下层次：
+
+```text
+第 1 层：“什么问题？”
+         → 潜在需求，至少两年内都不会成为客户。
+         → 得分：1／5。
+         → 行动：找别人。
+
+第 2 层：“对，这个问题很糟糕。天热时我会给大家发杯水。”
+         → 主动需求，但只是在处理表面症状。
+         → 得分：2／5。
+         → 行动：记录，以后再看。不是早期核心客户。
+
+第 3 层：“我们每年损失 50 万美元，正在找能把耗时缩短 70% 的软件。
+          必须能集成 Oracle，价格低于 15 万美元，六个月内到位。”
+         → 已经想清楚方案的样子，开始接近。
+         → 得分：3／5。
+         → 行动：有希望，深入了解预算与时间表。
+
+第 4 层：“我向 IT 提了开发申请，他们拼了一个出来，但总是崩溃。”
+         → 已有自制方案。
+         → 得分：4／5。
+         → 行动：很强的早期核心客户候选，向其销售。
+
+第 5 层：“如果能找到解决这个问题的供应商，就可以花掉
+          我已经安排的 50 万美元预算。”
+         → 已分配预算。
+         → 得分：5／5。
+         → 行动：这就是你的客户，促成成交。
 ```
-Level 1: "What problem?"
-         → LATENT NEED. Not a customer for 2+ years.
-         → Score: 1/5
-         → Action: Move on.
 
-Level 2: "Yes, that's a terrible problem. I hand out cups of water on hot days."
-         → ACTIVE NEED, but only papering symptoms.
-         → Score: 2/5
-         → Action: Note for later. Not an earlyvangelist.
-
-Level 3: "We're losing $500K/year. Looking for software that cuts time 70%.
-          Must integrate with Oracle, under $150K, within 6 months."
-         → VISUALIZED SOLUTION. Getting warm.
-         → Score: 3/5
-         → Action: Promising. Dig deeper on budget and timeline.
-
-Level 4: "I wrote a request for IT to build one. They cobbled something
-          together but it keeps crashing."
-         → HAS A HOMEMADE SOLUTION.
-         → Score: 4/5
-         → Action: Strong earlyvangelist candidate. Sell to them.
-
-Level 5: "If we could find a vendor who could solve this, we could spend
-          the $500,000 I've budgeted."
-         → HAS BUDGET ALLOCATED.
-         → Score: 5/5
-         → Action: This is your customer. Close them.
-```
-
-**Rule:** Earlyvangelists live at Levels 4 and 5 ONLY. Don't waste Steps 1-2 on Levels 1-3.
+**规则：**早期核心客户只在第 4、5 层。不要把第 1—2 步的时间浪费在第 1—3 层客户上。
 
 ---
 
-## Market Type Decision Worksheet
+<a id="market-type-decision-worksheet"></a>
+## 市场类型判断工作表
 
-### Step 1: Competitive Landscape
+<a id="step-1-competitive-landscape"></a>
+### 第 1 步：竞争格局
 
-List all companies selling products that solve a similar problem:
+列出所有销售类似问题解决方案的公司：
 
-```
-Company A: _________ Market share: ___% Product: _________
-Company B: _________ Market share: ___% Product: _________
-Company C: _________ Market share: ___% Product: _________
-(If none exist → likely New Market)
-```
-
-### Step 2: Lanchester Analysis (if competitors exist)
-
-```
-Largest player's share: ___%
-
-≥74%? → Monopoly. Do NOT attack head-on.
-        → Consider: Resegment or New Market
-
-Combined top-2 ≥74%? → Duopoly. Also unassailable.
-                      → Consider: Resegment or New Market
-
-Largest ≥41% and ≥1.7× next? → Clear leader.
-                               → Consider: Resegment or New Market
-
-Largest 26-41%? → Unstable. Some entry opportunity.
-                 → Cost: 1.7× weakest relevant player
-
-Largest <26%? → Fragmented. Easiest entry.
-               → Market ripe for innovation.
+```text
+公司 A：_________ 市场份额：___% 产品：_________
+公司 B：_________ 市场份额：___% 产品：_________
+公司 C：_________ 市场份额：___% 产品：_________
+（如果不存在，很可能是新市场。）
 ```
 
-### Step 3: Market Type Selection
+<a id="step-2-lanchester-analysis-if-competitors-exist"></a>
+### 第 2 步：兰彻斯特分析（已有竞争者时）
 
+```text
+最大企业的份额：___%
+
+≥74%？→ 垄断，不要正面攻击。
+         → 考虑重新细分或新市场。
+
+前两名合计≥74%？→ 双寡头，同样难以攻破。
+                    → 考虑重新细分或新市场。
+
+最大企业≥41%，且≥第二名的1.7倍？→ 领导者明确。
+                                    → 考虑重新细分或新市场。
+
+最大企业26%—41%？→ 不稳定，有一些进入机会。
+                    → 成本：最弱相关竞争者预算的1.7倍。
+
+最大企业<26%？→ 分散，最容易进入。
+                → 市场适合创新。
 ```
-□ EXISTING MARKET
-  Evidence: Known competitors, known basis of competition
-  My differentiator: _________________________
-  Lanchester cost of entry: $_______ (affordable? Y/N)
-  Year 1 goal: ___% market share
 
-□ NEW MARKET
-  Evidence: No comparable products exist; enables something new
-  What customers couldn't do before: _________________________
-  Year 1 goal: Adoption from 0 to meaningful (NOT market share)
-  Timeline to profit: 3-7 years (can we afford this?)
+<a id="step-3-market-type-selection"></a>
+### 第 3 步：选择市场类型
 
-□ RESEGMENTED (LOW-COST)
-  Evidence: Underserved low-end of existing market
-  Existing market I'm resegmenting: _________________________
-  Price point: $_______ (vs incumbent: $_______)
-  Can I be profitable at this price? Y/N
+```text
+□ 现有市场
+  证据：竞争者已知，竞争基础已知。
+  我的差异化：_________________________
+  兰彻斯特进入成本：_______美元（承担得起？是／否）
+  第一年目标：___%市场份额
 
-□ RESEGMENTED (NICHE)
-  Evidence: Specific subset poorly served by incumbents
-  Segment definition: _________________________
-  What incumbents don't provide: _________________________
-  Is this segment large enough? _________________________
+□ 新市场
+  证据：没有可比较产品，能让客户做新事情。
+  客户此前做不到什么：_________________________
+  第一年目标：采用从零增长到有意义的规模，而非市场份额。
+  盈利时间：3—7年（能撑得住吗？）
+
+□ 重新细分（低成本）
+  证据：现有市场的低端客户服务不足。
+  我正在重新细分的现有市场：_________________________
+  价位：_______美元（现有企业：_______美元）
+  这个价格下能盈利吗？是／否
+
+□ 重新细分（利基）
+  证据：现有企业未能良好服务某个具体子群体。
+  客群定义：_________________________
+  现有企业未提供什么：_________________________
+  这个客群够大吗：_________________________
 ```
 
 ---
 
-## Sales Roadmap Template (Customer Validation)
+<a id="sales-roadmap-template-customer-validation"></a>
+## 销售路线图模板（客户验证）
 
-Fill this out BEFORE hiring any salespeople:
+招聘任何销售人员之前，先填好：
 
-### The Buying Process Map
+<a id="the-buying-process-map"></a>
+### 采购流程图
 
+```text
+谁有这个问题？       _________________________
+谁影响决定？         _________________________
+谁提出推荐？         _________________________
+谁是决策者？         _________________________
+谁是经济决策者？     _________________________
+谁是阻挠者？         _________________________
+预算在哪里？         _________________________
 ```
-Who has the problem?          _________________________
-Who influences the decision?  _________________________
-Who recommends?               _________________________
-Who is the decision-maker?    _________________________
-Who is the economic buyer?    _________________________
-Who is the saboteur?          _________________________
-Where is the budget?          _________________________
-```
 
-### The Sales Process
+<a id="the-sales-process"></a>
+### 销售流程
 
-```
-How many sales calls per sale?      _____
-Average sales cycle length?          _____ weeks/months
-Selling strategy?                    □ Solution sale □ Product sale □ Other
-Key customer problems (top 3):
+```text
+每笔成交需要多少次销售会谈？ _____
+平均销售周期？               _____周／月
+销售策略？                   □ 方案销售 □ 产品销售 □ 其他
+最重要的三个客户问题：
   1. _________________________
   2. _________________________
   3. _________________________
-Top objections (top 3):
+最重要的三个异议：
   1. _________________________
   2. _________________________
   3. _________________________
-Profile of optimal earlyvangelist:   _________________________
+最佳早期核心客户画像：       _________________________
 ```
 
-### Validation Criteria
+<a id="validation-criteria"></a>
+### 验证标准
 
-```
-Have founders personally sold?                    □ Yes □ No
-Number of full-price orders:                      _____
-Is the sales process repeatable?                  □ Yes □ No
-  (Evidence: same process worked with ≥3 customers)
-Is the business model profitable at unit level?   □ Yes □ No
+```text
+创始人是否亲自卖出过？                 □ 是 □ 否
+全价订单数量：                         _____
+销售流程是否可重复？                   □ 是 □ 否
+  （证据：同样流程已对至少三位客户有效。）
+商业模式在单位层面是否盈利？           □ 是 □ 否
 ```
 
-**If any answer is No → do NOT proceed to Customer Creation. Iterate or pivot back to Customer Discovery.**
+**只要有一个答案为“否”，就不要进入客户创造。继续迭代，或转回客户探索。**
 
 ---
 
-## Customer Validation Pass/Fail Criteria
+<a id="customer-validation-passfail-criteria"></a>
+## 客户验证通过／失败标准
 
-### Pass (proceed to Customer Creation)
+<a id="pass-proceed-to-customer-creation"></a>
+### 通过（进入客户创造）
 
-All three conditions must be met:
+三个条件必须全部满足：
 
+```text
+1. 可重复的客户
+   □ 有多位客户，不只是一个或两个关系友好的客户。
+   □ 他们符合可以描述的画像。
+   □ 符合同一画像的新客户会作出相似反应。
+
+2. 可重复的销售流程
+   □ 同样步骤顺序对不同客户有效。
+   □ 销售路线图已有文档，且经过测试。
+   □ 创始人以外的人也能照着执行。
+   □ 获得全价订单，而非免费或大幅折扣。
+
+3. 可盈利的商业模式
+   □ 单位经济模型成立，收入高于服务成本。
+   □ 获客成本可持续。
+   □ 能说清规模化后的盈利路径。
 ```
-1. REPEATABLE CUSTOMERS
-   □ Multiple customers (not just 1-2 friendly ones)
-   □ They match a describable profile
-   □ New prospects matching the profile respond similarly
 
-2. REPEATABLE SALES PROCESS
-   □ Same sequence of steps works across customers
-   □ Sales roadmap is documented and tested
-   □ Someone other than the founder could follow it
-   □ Full-price orders (not free/heavily discounted)
+<a id="fail-pivot-back-to-customer-discovery"></a>
+### 失败（转回客户探索）
 
-3. PROFITABLE BUSINESS MODEL
-   □ Unit economics work (revenue > cost to serve)
-   □ Customer acquisition cost is sustainable
-   □ Can articulate path to profitability at scale
-```
+出现任一信号：
 
-### Fail (pivot back to Customer Discovery)
-
-Any of these signals:
-- Every sale requires heroic founder effort with no pattern
-- Customers like the product but won't pay
-- Can't describe who the customer is
-- Each sale requires different positioning/pitch
-- Revenue per customer doesn't support the business
+- 每次销售都靠创始人英雄式努力，没有规律。
+- 客户喜欢产品，却不愿付钱。
+- 无法描述客户是谁。
+- 每笔交易都需要不同的定位或推介。
+- 每位客户带来的收入不足以支撑业务。
 
 ---
 
-## Positioning Templates by Market Type
+<a id="positioning-templates-by-market-type"></a>
+## 不同市场类型的定位模板
 
-### Existing Market Template
+<a id="existing-market-template"></a>
+### 现有市场模板
 
-```
-For [target customer segment]
-Who need [primary need / job to be done],
-[Company name] provides [product category]
-That [key differentiator vs. incumbents - faster/cheaper/better on known dimension].
-Unlike [primary competitor],
-Our product [specific advantage + evidence].
-```
-
-Example (Handspring):
-> For PDA users who need expandability, Handspring provides personal digital assistants that are expandable with a Springboard module and have 16MB of memory. Unlike Palm, our product lets you add new capabilities without buying a new device.
-
-### New Market Template
-
-```
-For [people who currently can't do X],
-[Company name] is [changing/enabling] [the problem with the current world].
-[Product name] lets [target customer] [do the thing they couldn't do before]
-By [how it works in simple language].
+```text
+面向[目标客群]，
+他们需要[主要需求／待完成任务]，
+[公司名]提供[产品品类]，
+能够[相较现有企业的关键差异——在已知维度上更快／更便宜／更好]。
+与[主要竞争者]不同，
+我们的产品[具体优势＋证据]。
 ```
 
-Example (Palm in 1996):
-> For busy executives who can't keep their computer and paper calendar in sync, Palm is enabling portable digital organization. The PalmPilot lets executives put their contacts, calendar, and notes in their pocket and sync with their computer in one button press.
+示例（Handspring）：
 
-Note: NO features. No "16MB" or "expandable." In a new market, there's no context for features.
+> 面向需要可扩展性的 PDA 用户，Handspring 提供带有 16MB 内存、可以通过 Springboard 模块扩展的个人数字助理。与 Palm 不同，我们的产品让你无需购买新设备，就能增加新能力。
 
-### Resegmented Market Template (Low-Cost)
+<a id="new-market-template"></a>
+### 新市场模板
 
-```
-For [segment of existing market] who need [core capability]
-But find [incumbent] too expensive,
-[Company name] provides [same core result]
-At [price point] - [fraction] of the incumbent price.
-```
-
-### Resegmented Market Template (Niche)
-
-```
-For [specific underserved segment] in the [existing market]
-Who need [specific thing incumbents ignore],
-[Company name] is the first [category] built specifically for [their use case].
-Unlike [incumbent], we [specific advantage for this niche].
+```text
+面向[目前无法做 X 的人]，
+[公司名]正在[改变／实现][当下世界中的问题]。
+[产品名]通过[用简单语言说明如何运作]，
+让[目标客户]能够[做到此前做不到的事情]。
 ```
 
-Example (In-N-Out):
-> For fast food customers who want a great-tasting hamburger and nothing else, In-N-Out is the first fast food chain built for quality over variety. Unlike McDonald's with 55 menu items, we offer three - all fresh, high-quality, and great-tasting.
+示例（1996 年的 Palm）：
+
+> 对于无法让电脑与纸质日历保持同步的忙碌高管，Palm 正在实现可随身携带的数字化事务管理。PalmPilot 让高管把联系人、日历和笔记装进口袋，按一个按钮就能与电脑同步。
+
+注意：不讲功能，没有“16MB”或“可扩展”。新市场缺少理解这些功能的背景。
+
+<a id="resegmented-market-template-low-cost"></a>
+### 重新细分市场模板（低成本）
+
+```text
+面向[现有市场中的某个客群]，他们需要[核心能力]，
+却觉得[现有企业]太贵，
+[公司名]以[价位]提供[相同核心结果]，
+价格只有现有企业的[比例]。
+```
+
+<a id="resegmented-market-template-niche"></a>
+### 重新细分市场模板（利基）
+
+```text
+面向[现有市场]中[具体且服务不足的客群]，
+他们需要[现有企业忽略的具体东西]，
+[公司名]是首个专为[其使用场景]打造的[品类]。
+与[现有企业]不同，我们[针对这个利基的具体优势]。
+```
+
+示例（In-N-Out）：
+
+> 面向只想吃到美味汉堡、别无他求的快餐客户，In-N-Out 是首个把质量置于品种之上的快餐连锁。McDonald's 有 55 个菜单品项，我们只有三个，每一个都新鲜、高品质、美味。
 
 ---
 
-## Launch Type Selection Matrix
+<a id="launch-type-selection-matrix"></a>
+## 推出方式选择矩阵
 
+```text
+市场类型             → 推出方式             → 预算特征
+─────────────────────────────────────────────────────────
+现有市场             → 全面猛攻             → 前期重投入
+                       正面进攻                适用兰彻斯特规则
+                       使用所有需求工具        目标：市场份额
+
+新市场               → 早期采用者           → 低成本、精准
+                       教育活动                保留现金极其关键
+                       面向早期核心客户        目标：心智份额、采用
+                       创造引爆点              时间：3—7年
+
+重新细分市场         → 利基                 → 集中投入
+（客户已准备好）       定向猛攻                兰彻斯特规则影响减弱
+                       只攻一个细分市场        目标：主导细分市场
+
+重新细分市场         → 早期采用者           → 低成本、精准
+（客群尚未验证）       当作新市场处理          直到细分市场被证明成立
 ```
-MARKET TYPE          →  LAUNCH TYPE         →  BUDGET PROFILE
-─────────────────────────────────────────────────────────────
-Existing Market      →  ONSLAUGHT           →  Heavy upfront
-                        Full-frontal assault    (Lanchester rules apply)
-                        Every demand tool       Goal: market share
 
-New Market           →  EARLY ADOPTER       →  Low-cost, targeted
-                        Education campaign      (Cash preservation critical)
-                        Target earlyvangelists  Goal: mind share, adoption
-                        Create tipping point    Timeline: 3-7 years
-
-Resegmented Market   →  NICHE               →  Focused spending
-(customers ready)       Targeted onslaught     (Lanchester rules diluted)
-                        One segment only       Goal: segment dominance
-
-Resegmented Market   →  EARLY ADOPTER       →  Low-cost, targeted
-(segment speculative)   Treat as new market    (Until segment proves out)
-```
-
-**The #1 mistake: using an Onslaught launch for a New Market. It burns all your cash reaching customers who don't exist yet.**
+**头号错误：在新市场采用全面猛攻式推出。这样会把现金烧光，却只是在触达尚不存在的客户。**
 
 ---
 
-## Demand Creation Backwards Math
+<a id="demand-creation-backwards-math"></a>
+## 需求创造倒推计算
 
-Example: Existing market, year 1 target of $3M revenue, $500 average selling price.
+示例：现有市场，第一年收入目标 300 万美元，平均售价 500 美元。
 
-```
-Revenue target:           $3,000,000
-÷ Average selling price:  $500
-= Units needed:           6,000
+```text
+收入目标：     3,000,000美元
+÷平均售价：    500美元
+=所需销量：    6,000
 
-Work backwards through the funnel:
+沿漏斗倒推：
 ─────────────────────────────────────────
-Stage              Conversion Rate    Volume Needed
+阶段             转化率             所需数量
 ─────────────────────────────────────────
-Orders             -                  6,000
-Active customers   80% close rate     7,500
-Qualified leads    25% qualify        30,000
-Raw leads          10% respond        300,000
+订单             —                  6,000
+活跃客户         成交率80%           7,500
+合格线索         合格率25%           30,000
+原始线索         响应率10%           300,000
 ─────────────────────────────────────────
 
-Cost per raw lead:        $____
-Cost per qualified lead:  $____
-Cost per acquisition:     $____
+每条原始线索成本： ____美元
+每条合格线索成本： ____美元
+每位客户获取成本： ____美元
 
-Total demand creation budget: raw leads × cost per lead + one-time launch costs
+需求创造总预算＝原始线索数×每条线索成本＋一次性推出费用
 
-Sanity check against Lanchester:
-  Competitor's S&M budget: $_____
-  × 1.7 (or 3.0 if monopolist): $_____
-  Can we afford this? □ Yes □ No → If No, resegment or create new market
+用兰彻斯特做合理性检验：
+  竞争者销售与营销预算： _____美元
+  ×1.7（垄断者则×3.0）：_____美元
+  承担得起吗？□ 是 □ 否 → 如果否，重新细分或创造新市场。
 ```
 
 ---
 
-## Demand Creation: Is It Working?
+<a id="demand-creation-is-it-working"></a>
+## 需求创造有效吗？
 
-Run this diagnostic at weeks 2, 4, and 8 after launch. Do not wait for a full quarter to discover a failing campaign.
+推出后第 2、4、8 周运行这项诊断，不要等完整一个季度后才发现活动失败。
 
-| Signal | Healthy | Failing | Action if Failing |
+| 信号 | 健康 | 失败 | 失败时的行动 |
 |---|---|---|---|
-| Week 1-2 leads | Tracking to target | <50% of target | Check messaging, not budget |
-| Lead → qualified conversion | >15% | <5% | Wrong audience or wrong message |
-| Qualified → close rate | >20% | <10% | Product/offer problem, not marketing |
-| Cost per acquisition | <1/3 of LTGP | >LTGP | Cut spend immediately, iterate message |
-| Messenger pickup | Press/analysts using your language | Silence or mischaracterization | Re-audit positioning |
+| 第 1—2 周线索 | 按目标推进 | 不足目标的 50% | 检查信息表达，而非预算 |
+| 线索转合格率 | >15% | <5% | 受众错误或信息错误 |
+| 合格线索成交率 | >20% | <10% | 产品／销售方案问题，而非营销问题 |
+| 获客成本 | <客户生命周期毛利（LTGP）的 1／3 | >LTGP | 立刻削减支出，迭代信息 |
+| 传播者采用情况 | 媒体／分析师使用你的表述 | 无人理会或理解失真 | 重新审计定位 |
 
-**Note:** If messaging changes don't improve metrics within 2 iterations, re-examine Market Type. You may be spending like an existing market when you're actually in a new one.
-
----
-
-## The "Which Step Am I In?" Diagnostic
-
-Answer these questions honestly:
-
-```
-1. Can you describe your customer in one sentence?
-   □ No  → CUSTOMER DISCOVERY
-   □ Yes → Next question
-
-2. Have you talked to 15+ potential customers about their problem?
-   □ No  → CUSTOMER DISCOVERY (Phase 2)
-   □ Yes → Next question
-
-3. Have earlyvangelists paid full price for your product?
-   □ No  → CUSTOMER VALIDATION
-   □ Yes → Next question
-
-4. Can someone other than the founder close a deal using your process?
-   □ No  → CUSTOMER VALIDATION (still)
-   □ Yes → Next question
-
-5. Do you know your Market Type and have you matched your launch to it?
-   □ No  → CUSTOMER CREATION (Phase 1)
-   □ Yes → Next question
-
-6. Are you driving demand and seeing the sales roadmap work at scale?
-   □ No  → CUSTOMER CREATION (Phases 2-4)
-   □ Yes → COMPANY BUILDING
-```
+**注意：**如果两轮信息调整仍未改善指标，重新检查市场类型。你可能实际上处于新市场，却按现有市场方式花钱。
 
 ---
 
-## The Premature Scaling Checklist
+<a id="the-which-step-am-i-in-diagnostic"></a>
+## “我处于哪一步？”诊断
 
-Red flags that you're scaling too early:
+如实回答：
 
-```
-□ Hired VP of Sales before founders have personally sold
-□ Hired >5 sales/marketing staff before repeatable sales process
-□ Committed to infrastructure (offices, warehouses, servers) based on
-  business plan projections, not actual customer data
-□ Marketing budget set before knowing Market Type
-□ Launched national advertising before completing Customer Validation
-□ Board measuring progress by revenue vs plan (not customer learning)
-□ More than one product SKU before first product validated
-□ Expanding to new geographies before dominating first market
-□ "Get big fast" in meeting vocabulary
-□ VP of Sales presenting pipeline forecasts based on "lighthouse" accounts
-  rather than repeatable process
+```text
+1. 能用一句话描述客户吗？
+   □ 不能 → 客户探索
+   □ 能   → 下一问
+
+2. 与15位以上潜在客户谈过他们的问题吗？
+   □ 没有 → 客户探索，第2阶段
+   □ 有   → 下一问
+
+3. 早期核心客户为产品付过全价吗？
+   □ 没有 → 客户验证
+   □ 有   → 下一问
+
+4. 创始人以外的人，能按你的流程成交吗？
+   □ 不能 → 仍在客户验证
+   □ 能   → 下一问
+
+5. 知道市场类型，并让推出方式与之匹配了吗？
+   □ 没有 → 客户创造，第1阶段
+   □ 有   → 下一问
+
+6. 正在创造需求，并看到销售路线图规模化有效吗？
+   □ 没有 → 客户创造，第2—4阶段
+   □ 有   → 公司建设
 ```
 
-**If ≥3 boxes checked: you are likely in premature scaling. Stop. Go back to Customer Validation.**
+---
+
+<a id="the-premature-scaling-checklist"></a>
+## 过早扩张检查表
+
+以下信号表明你扩张过早：
+
+```text
+□ 创始人尚未亲自成交，就聘请销售副总裁。
+□ 尚无可重复销售流程，就招聘超过五名销售／营销人员。
+□ 根据商业计划预测，而非真实客户数据，投入办公室、仓库、服务器等基础设施。
+□ 尚不知道市场类型，就确定营销预算。
+□ 尚未完成客户验证，就投放全国广告。
+□ 董事会按实际收入与计划的差距衡量进展，而非客户学习。
+□ 第一个产品未经验证，就有多个产品SKU。
+□ 尚未主导第一个市场，就扩展到新地域。
+□ 会议中不断出现“快速做大”。
+□ 销售副总裁依据“灯塔客户”而非可重复流程，展示销售管道预测。
+```
+
+**如果勾选三项以上，很可能正在过早扩张。停下来，回到客户验证。**
 
 ---
 
-## End-to-End Example: ContractAI (Fictional Startup)
+<a id="end-to-end-example-contractai-fictional-startup"></a>
+## 端到端示例：ContractAI（虚构创业公司）
 
-### Customer Discovery (Round 1)
+<a id="customer-discovery-round-1"></a>
+### 客户探索（第一轮）
 
-**Hypothesis (Phase 1):** Legal teams waste 20+ hours per week reviewing and tracking contracts manually.
+**假设（第 1 阶段）：**法务团队每周耗费 20 多小时手工审核与追踪合同。
 
-**Testing the problem (Phase 2):** Founders talk to 15 General Counsels across company sizes. Findings:
-- Enterprise GCs (1,000+ employees): "We have an in-house contracts team. Not a problem."
-- SMB GCs (<50 employees): "We just use outside counsel for anything complex. Cheaper than building systems."
-- Mid-market GCs (50-500 employees): "Yes, this is a nightmare. We're tracking 200+ contracts in a spreadsheet that breaks every quarter."
+**检验问题（第 2 阶段）：**创始人与不同规模公司的 15 位总法律顾问（GC）交谈，发现：
 
-**Pain hierarchy scoring for mid-market GCs:**
-- 3 GCs at Level 2 (annoyed but passive)
-- 7 GCs at Level 3 (actively searching, have spec'd out features they'd need)
-- 5 GCs at Level 4 (built homemade solutions - one had IT cobble together a SharePoint tracker; another maintains a 900-row Excel macro)
+- 大型企业 GC，员工 1,000 人以上：“我们有内部合同团队，不是问题。”
+- 小型企业 GC，员工不足 50 人：“复杂事情直接找外部律师，比建系统便宜。”
+- 中型企业 GC，员工 50—500 人：“对，这简直是噩梦。我们用表格追踪 200 多份合同，每个季度都会出问题。”
 
-**Earlyvangelists identified:** Mid-market GCs with homemade tracking systems (Level 4). Correct customer segment confirmed. Proceed to Customer Validation.
+**中型企业 GC 的痛点层次评分：**
 
-*Templates used: Earlyvangelist Pain Hierarchy, Sales Roadmap - Buying Process Map*
+- 三位处于第 2 层，烦恼但被动。
+- 七位处于第 3 层，主动寻找，已列出所需功能。
+- 五位处于第 4 层，已经自制方案：一位让 IT 拼出 SharePoint 追踪器，另一位维护带有 900 行数据的 Excel 宏。
 
----
+**识别出的早期核心客户：**拥有自制合同追踪系统的中型企业 GC，第 4 层。确认了正确客群，进入客户验证。
 
-### Customer Validation (Attempt 1) - FAIL
-
-**Phase 2 (Sell to earlyvangelists):** Founders demo to 8 mid-market GCs at $2,000/month. Reactions:
-- "This is exactly what we need." (All 8 said something like this.)
-- Zero purchase orders after 10 weeks.
-
-**Post-mortem investigation:** IT security review is mandatory for any SaaS tool touching contracts. Average review time: 6 months. Budget approval goes through procurement, which requires a security sign-off first. Three deals stalled indefinitely in procurement queues.
-
-**Validation check:**
-- Repeatable sales process? No. Every deal dies in a different procurement bottleneck.
-- Full-price orders? Zero.
-- Decision: **FAIL. Pivot back to Customer Discovery.**
-
-*Templates used: Customer Validation Pass/Fail Criteria, Sales Roadmap - Validation Criteria*
+*使用的模板：早期核心客户痛点层次、销售路线图中的采购流程图。*
 
 ---
 
-### Customer Discovery (Round 2)
+<a id="customer-validation-attempt-1---fail"></a>
+### 客户验证（第一次尝试）：失败
 
-**Re-hypothesis:** GCs are users, not buyers. Who actually controls budget for operational tools in mid-market companies?
+**第 2 阶段，向早期核心客户销售：**创始人向八位中型企业 GC 演示，价格每月 2,000 美元。反应：
 
-**10 additional interviews, now targeting ops managers and COOs.** Findings:
-- Ops managers control discretionary tool budgets under $500/month without triggering IT security review or procurement.
-- Ops managers own the contract-tracking problem too - they're the ones building the spreadsheets, not the GCs.
-- Ops managers have Level 4-5 pain: "I have a spreadsheet and a calendar full of renewal reminders. Last year we auto-renewed a $180K contract we were going to cancel."
+- “这正是我们需要的。”八人都说过类似的话。
+- 十周后，采购订单仍为零。
 
-**New earlyvangelist profile:** Ops managers at 50-500 person companies who have built their own contract tracking systems and have suffered at least one costly renewal miss.
+**复盘调查：**所有涉及合同的 SaaS 工具，都必须接受 IT 安全审查，平均耗时六个月。预算审批经采购部门，而采购又要求先通过安全审批。三笔交易无限期卡在采购队列中。
 
-*Templates used: Earlyvangelist Pain Hierarchy, Sales Roadmap - Buying Process Map*
+**验证检查：**
 
----
+- 销售流程可重复吗？不，每笔交易都死在不同采购瓶颈中。
+- 全价订单？零。
+- 决定：**失败，转回客户探索。**
 
-### Customer Validation (Attempt 2) - PASS
-
-**Repositioning:** Product reframed for ops managers. Price dropped to $400/month (under the $500 threshold for discretionary spend). No IT security review triggered at this price point.
-
-**Sales process tested:**
-1. Cold email to ops managers at target companies
-2. 15-minute demo (screenshare, no deck)
-3. 7-day free trial with onboarding call
-4. Close at day 7
-
-**Results over 6 weeks:**
-- 5 full-price purchase orders from ops managers at unrelated companies
-- Same 4-step sequence worked for all 5
-- Average cycle: 12 days from first email to signed order
-
-**Validation check:**
-- Repeatable customers? Yes - all match the ops manager profile at 50-500 person companies.
-- Repeatable sales process? Yes - same 4-step sequence, no heroics required.
-- Profitable unit economics? Yes - $400/month, CAC ~$120, payback in <1 month.
-- Decision: **PASS. Proceed to Customer Creation.**
-
-*Templates used: Customer Validation Pass/Fail Criteria, Validation Criteria checklist*
+*使用的模板：客户验证通过／失败标准、销售路线图中的验证标准。*
 
 ---
 
-### Customer Creation
+<a id="customer-discovery-round-2"></a>
+### 客户探索（第二轮）
 
-**Market Type determination:**
-- Competitors exist: DocuSign CLM, Ironclad, manual processes (spreadsheets + email).
-- Lanchester analysis: No single player above 26% in the ops-manager-focused segment. Fragmented.
-- Market Type: **Existing** (ops managers already solving this problem with spreadsheets; competing with current behavior and CLM tools).
-- Launch type: **Onslaught** - drive awareness hard, target ops managers directly.
+**重新提出假设：**GC 是使用者，不是购买者。中型企业的运营工具预算究竟由谁控制？
 
-**Positioning (Existing Market Template):**
-> For ops managers at growing companies who track contracts in spreadsheets, ContractAI provides contract lifecycle management that catches renewals before they auto-renew and surfaces every active obligation in one place. Unlike DocuSign CLM built for legal teams, ContractAI is built for the person who actually manages the renewal calendar.
+**追加十次访谈，改为面向运营经理与 COO。**发现：
 
-**Demand creation backwards math (Year 1 target: $600K ARR):**
-- $600K ÷ $4,800/year per customer = 125 customers needed
-- At 20% close rate: 625 qualified leads
-- At 15% qualify rate: ~4,200 raw leads
-- Channels: LinkedIn outreach to ops managers, cold email, targeted content on ops forums
+- 运营经理可以自行决定每月不足 500 美元的工具预算，不触发 IT 安全审查或采购流程。
+- 运营经理同样负责合同追踪；真正建立表格的是他们，不是 GC。
+- 运营经理处于第 4—5 层痛苦：“我有一张表格，以及塞满续约提醒的日历。去年我们原本打算取消的一份 18 万美元合同，却被自动续约了。”
 
-**Launch message:** "Stop losing contracts in email threads."
+**新的早期核心客户画像：**50—500 人公司的运营经理，已经自建合同追踪系统，且至少经历过一次代价高昂的续约遗漏。
 
-**Messenger strategy:** Ops and finance influencers on LinkedIn; no press push (ops managers don't read TechCrunch).
+*使用的模板：早期核心客户痛点层次、销售路线图中的采购流程图。*
 
-*Templates used: Market Type Decision Worksheet, Launch Type Selection Matrix, Demand Creation Backwards Math, Positioning Templates - Existing Market*
+---
+
+<a id="customer-validation-attempt-2---pass"></a>
+### 客户验证（第二次尝试）：通过
+
+**重新定位：**产品改为面向运营经理，降价至每月 400 美元，低于 500 美元自主支出门槛。这个价位不触发 IT 安全审查。
+
+**测试的销售流程：**
+
+1. 向目标企业运营经理发送陌生开发邮件。
+2. 15 分钟演示，屏幕共享，不用演示文稿。
+3. 七天免费试用，附上手通话。
+4. 第七天成交。
+
+**六周结果：**
+
+- 来自五家无关联公司的运营经理的五份全价采购订单。
+- 同样四步流程对五家都有效。
+- 从首封邮件到签单，平均 12 天。
+
+**验证检查：**
+
+- 客户可重复吗？是，都符合 50—500 人公司运营经理的画像。
+- 销售流程可重复吗？是，同样四步，无需英雄式努力。
+- 单位经济模型盈利吗？是，每月 400 美元，CAC 约 120 美元，不到一个月回本。
+- 决定：**通过，进入客户创造。**
+
+*使用的模板：客户验证通过／失败标准、验证标准检查表。*
+
+---
+
+<a id="customer-creation"></a>
+### 客户创造
+
+**判断市场类型：**
+
+- 竞争者存在：DocuSign CLM、Ironclad、人工流程——表格与邮件。
+- 兰彻斯特分析：面向运营经理的细分市场里，没有企业份额超过 26%，市场分散。
+- 市场类型：**现有市场**，运营经理已经用表格解决问题；竞争对象是当前行为与合同生命周期管理（CLM）工具。
+- 推出方式：**全面猛攻**，大力提升认知，直接面向运营经理。
+
+**定位（现有市场模板）：**
+
+> 面向成长型企业中用表格追踪合同的运营经理，ContractAI 提供合同生命周期管理：在自动续约前提醒，并在一个地方呈现所有有效义务。DocuSign CLM 为法务团队打造，而 ContractAI 为真正负责续约日历的人打造。
+
+**需求创造倒推计算（第一年目标：60 万美元 ARR）：**
+
+- 60 万美元÷每位客户每年 4,800 美元＝需要 125 位客户。
+- 按 20% 成交率，需要 625 条合格线索。
+- 按 15% 合格率，需要约 4,200 条原始线索。
+- 渠道：LinkedIn 触达运营经理、陌生开发邮件、运营论坛定向内容。
+
+**推出信息：**“别再让合同淹没在邮件往来里。”
+
+**传播者策略：**LinkedIn 上的运营与财务影响者，不做媒体报道推动，因为运营经理不读 TechCrunch。
+
+*使用的模板：市场类型判断工作表、推出方式选择矩阵、需求创造倒推计算、现有市场定位模板。*

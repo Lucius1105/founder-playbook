@@ -1,216 +1,238 @@
-# Blue Ocean Strategy - Worked Examples
+> 中文译文｜[英文对照](examples.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/blue-ocean-strategy/examples.md)。原项目整理：AgentSeal；书籍来源：《Blue Ocean Strategy》— W. Chan Kim 与 Renée Mauborgne；AI辅助翻译。
 
-## Worked ERRC Tables
+<a id="blue-ocean-strategy---worked-examples"></a>
+# Blue Ocean Strategy——完整示例
 
-### Example: Cirque du Soleil (Circus → Hybrid)
+<a id="worked-errc-tables"></a>
+## 填写好的 ERRC 表
 
-| Action | Move |
-|--------|------|
-| Eliminate | Star performers, animal shows, three-ring format, aisle concession sales |
-| Reduce | Fun and humor, thrill and danger |
-| Raise | Unique venue (theater quality) |
-| Create | Theme, refined environment, multiple productions, artistic music and dance |
+<a id="example-cirque-du-soleil-circus--hybrid"></a>
+### 示例：Cirque du Soleil，马戏 → 混合形式
 
-### Example: [yellow tail] (Wine)
+| 行动 | 做法 |
+|------|------|
+| 剔除 | 明星演员、动物表演、三环马戏形式、过道售卖商品 |
+| 减少 | 趣味与幽默、惊险与危险 |
+| 增加 | 独特场馆，达到剧院品质 |
+| 创造 | 主题、精致环境、多套剧目、艺术化音乐与舞蹈 |
 
-| Action | Move |
-|--------|------|
-| Eliminate | Wine terminology, vineyard prestige, aging, complex marketing |
-| Reduce | Wine complexity, range of wines |
-| Raise | Price vs budget wines, retail involvement |
-| Create | Easy drinking, ease of selection, fun and adventure |
+<a id="example-yellow-tail-wine"></a>
+### 示例：[yellow tail] 葡萄酒
 
-### Example: QB House (Hairdressing)
+| 行动 | 做法 |
+|------|------|
+| 剔除 | 葡萄酒术语、葡萄园声望、陈酿、复杂营销 |
+| 减少 | 葡萄酒复杂度、酒款数量 |
+| 增加 | 相比廉价葡萄酒的价格、零售参与 |
+| 创造 | 易饮、易选、乐趣与冒险感 |
 
-| Action | Move |
-|--------|------|
-| Eliminate | Long social experience, hot towels, multiple services |
-| Reduce | Time per cut |
-| Raise | Cleanliness, predictability, low price |
-| Create | 10-minute buzz-cut model, ticket-vending entry |
+<a id="example-qb-house-hairdressing"></a>
+### 示例：QB House 理发
+
+| 行动 | 做法 |
+|------|------|
+| 剔除 | 漫长社交体验、热毛巾、多种服务 |
+| 减少 | 每次理发所需时间 |
+| 增加 | 清洁度、可预测性、低价程度 |
+| 创造 | 10 分钟快剪模式、自助售票入场 |
 
 ---
 
-## Strategy Canvas Walk-Through
+<a id="strategy-canvas-walk-through"></a>
+## 战略布局图演示
 
-For a SaaS product, plot these factors:
+以 SaaS 产品为例，绘出这些要素：
 
 ```
-HIGH ┤    ●─●─●  ← Industry leader
-     │ ●─●     ●─●  ← Competitor B
-     │       ●─●─●─● ← Industry average
-LOW  ┤───────────────────
-       Setup  Custom  Support  Price  Integrations  Onboarding
-       Time   ization                                Speed
+高 ┤    ●─●─●       ← 行业领导者
+   │ ●─●     ●─●    ← 竞争者 B
+   │       ●─●─●─●  ← 行业平均
+低 ┤────────────────────────
+     设置时间  定制化  支持  价格  集成  上手速度
 ```
 
-**Test the curve:**
-- Focus: Are 2-3 factors disproportionately invested?
-- Divergence: Does the shape differ from competitors?
-- Tagline: Can you summarize in one memorable phrase?
+**检验曲线：**
+- 聚焦：是否将资源集中投入 2—3 个要素？
+- 差异：曲线形态是否不同于竞争者？
+- 宣传语：能否用一句令人记住的话概括？
 
-If your shape mirrors industry-average → red ocean.
-
----
-
-## Compelling Tagline Examples
-
-| Company | Tagline |
-|---------|---------|
-| Southwest Airlines | "The speed of a plane at the price of a car--whenever you need it" |
-| [yellow tail] | "A fun and simple wine to be enjoyed every day" |
-| EFS (after BOS process) | "FedEx of corporate foreign exchange" |
-| Cirque du Soleil | "We Reinvent the Circus" |
-
-The tagline must capture the strategy, not the slogan. If the marketing tagline is the strategy tagline, you're doing it right.
+如果曲线形态与行业平均一致，就是红海。
 
 ---
 
-## Strategic Sequence Walkthrough (SaaS Example)
+<a id="compelling-tagline-examples"></a>
+## 引人入胜的宣传语示例
 
-Hypothetical product: "AI-powered legal document review for small law firms."
+| 公司 | 宣传语 |
+|------|--------|
+| Southwest Airlines | “汽车的价格、飞机的速度，随时满足所需。” |
+| [yellow tail] | “每天都能享用的轻松、简单葡萄酒。” |
+| EFS，应用 BOS 流程之后 | “企业外汇领域的 FedEx。” |
+| Cirque du Soleil | “我们重新发明马戏。” |
 
-### Step 1: Buyer Utility Map
-
-Find empty cells across 6 stages × 6 levers (36 cells):
-
-- Purchase × Simplicity: Current legal-tech sales cycles are months; can we make trial purchase one-click?
-- Use × Customer Productivity: Hours of review per case → minutes
-- Maintenance × Risk Reduction: Audit trail is currently manual; auto-generate
-
-If multiple empty cells → utility passes.
-
-### Step 2: Price Corridor
-
-Alternatives:
-- **Same function, different form:** hiring contract paralegals, outsourcing to LPO firms
-- **Different form, same objective:** doing it manually, accepting the risk
-
-Set price below junior paralegal salary, above DIY tools. Mass-accessible to small firms (not enterprise).
-
-### Step 3: Cost Innovation
-
-Strategic price: $200/mo
-- Margin target: 70% gross
-- Target cost: $60/mo per customer
-
-Levers:
-- Cost innovation: shared inference (multi-tenant)
-- Partnering: integration with existing case management vs build
-- Pricing innovation: usage-based with floor
-
-### Step 4: Adoption Hurdles
-
-- Employees (paralegals fearing replacement) → frame as augmentation; firm's existing staff still needed
-- Partners (case management vendors) → revenue-share API integration
-- Public (legal accuracy concerns) → transparency on confidence scores, lawyer-in-loop required
-
-If all four pass → launch. If any fails → don't launch yet.
+宣传语必须概括战略，不能只是口号。如果营销宣传语同时也是战略概括，你就做对了。
 
 ---
 
-## When Decision Trees Fire
+<a id="strategic-sequence-walkthrough-saas-example"></a>
+## 战略序列演示：SaaS 示例
 
-### "We've been improving but margins keep falling"
+假设产品：“面向小型律师事务所的 AI 法律文档审查”。
 
-Run Strategy Canvas. If your curve has converged with competitors' → red ocean. Apply ERRC + Six Paths.
+<a id="step-1-buyer-utility-map"></a>
+### 第一步：买方效用图
 
-### "Our product is technically superior but won't take off"
+在 6 个阶段 × 6 个杠杆，共 36 格中寻找空白：
 
-Probably failed Buyer Utility Map. Tech ≠ value. Iridium had genius engineering and zero adoption.
+- 购买 × 简单性：当前法律科技产品的销售周期长达数月，能否一键购买试用？
+- 使用 × 顾客生产效率：每案数小时的审查缩短为数分钟。
+- 维护 × 风险降低：审计记录目前靠手工整理，改为自动生成。
 
-### "We're the first mover in a new category"
+存在多个空白格，效用测试通过。
 
-Tellis & Golder data: ~90% of pioneers fail. Question isn't "are we first?" but "do we have value-cost balance + adoption hurdles addressed?"
+<a id="step-2-price-corridor"></a>
+### 第二步：价格走廊
 
-### "Our blue ocean idea has competitors copying us already"
+替代方案：
+- **功能相同、形式不同：** 雇合同制法律助理，或外包给法律流程外包公司。
+- **形式不同、目标相同：** 手工完成，或接受风险。
 
-Check imitation barriers (alignment, cognitive, brand, economic, legal). Premature renewal destroys value while curve still has Focus + Divergence + Tagline. Renew when curves converge.
+价格低于初级法律助理的工资，高于自行处理的工具。让小型事务所大众群体能够负担，而非只面向大型企业。
 
----
+<a id="step-3-cost-innovation"></a>
+### 第三步：成本创新
 
-## Anti-Examples (What Not to Do)
+战略价格：每月 200 美元。
+- 目标毛利率：70%。
+- 目标成本：每客户每月 60 美元。
 
-**Niche thinking masquerading as Blue Ocean:**
-- "We'll find a small corner of the security software market"
-- This is Red Ocean Trap #8. Niches are small red oceans, not blue oceans.
+杠杆：
+- 成本创新：多租户共享推理。
+- 合作：与现有案件管理系统集成，而非自建。
+- 定价创新：设置最低费用的按使用量定价。
 
-**Tech innovation = blue ocean:**
-- "Our product uses LLMs!"
-- Tech ≠ value innovation. Iridium failed despite genius tech.
+<a id="step-4-adoption-hurdles"></a>
+### 第四步：采用障碍
 
-**First-mover obsession:**
-- "We need to ship before competitors!"
-- Tellis & Golder: 90% of pioneers fail. First to GET IT RIGHT wins.
+- 员工：法律助理担心被替代 → 定义为能力增强，事务所仍需要现有员工。
+- 伙伴：案件管理供应商 → 通过 API 集成分成。
+- 公众：担心法律准确性 → 透明展示置信度，必须由律师参与把关。
 
-**Differentiation = premium pricing:**
-- "We're differentiated, so we charge more"
-- BOS = differentiation AND low cost simultaneously.
-
----
-
-## Quick Reference Checklist
-
-**Diagnosing red ocean:**
-- [ ] Competitors converging in offering
-- [ ] Margins shrinking despite operational gains
-- [ ] Customers commoditizing
-- [ ] Industry growth flat/negative
-
-**Strategy canvas:**
-- [ ] 5-12 competing factors listed
-- [ ] Self, competitors, industry-average plotted
-- [ ] Focus + divergence + tagline test passed
-
-**ERRC:**
-- [ ] What does industry take for granted to ELIMINATE?
-- [ ] What to REDUCE below standard?
-- [ ] What to RAISE above standard?
-- [ ] What new factor to CREATE?
-
-**Strategic sequence:**
-- [ ] UTILITY: Buyer Utility Map test passed?
-- [ ] PRICE: Accessible to mass via Price Corridor?
-- [ ] COST: Hits target via cost innovation/partnering?
-- [ ] ADOPTION: Employee, partner, public hurdles addressed?
-
-**Execution readiness:**
-- [ ] Cognitive hurdle plan?
-- [ ] Resource hurdle plan?
-- [ ] Motivational hurdle plan?
-- [ ] Political hurdle plan?
-- [ ] Fair process designed (3 E's)?
-- [ ] Three propositions aligned (value, profit, people)?
+四项全部通过，再发布；任何一项失败，暂不发布。
 
 ---
 
-## Blank Strategy Canvas
+<a id="when-decision-trees-fire"></a>
+## 何时触发决策树
+
+<a id="weve-been-improving-but-margins-keep-falling"></a>
+### “我们一直改进，利润率却不断下降”
+
+绘制战略布局图。如果你的曲线已与竞争者趋同，就是红海。应用 ERRC 和六条路径。
+
+<a id="our-product-is-technically-superior-but-wont-take-off"></a>
+### “产品技术领先，却始终起不来”
+
+很可能未通过买方效用图检验。技术不等于价值。Iridium 工程技术精妙，却无人采用。
+
+<a id="were-the-first-mover-in-a-new-category"></a>
+### “我们是新品类的先行者”
+
+Tellis 与 Golder 的数据表明，约 90% 的先驱失败。问题不在“我们是不是最早”，而在“是否兼顾价值与成本，并已解决采用障碍”。
+
+<a id="our-blue-ocean-idea-has-competitors-copying-us-already"></a>
+### “我们的蓝海构想已经被竞争者复制”
+
+检查模仿壁垒：一致性、认知、品牌、经济、法律。当曲线仍有聚焦、差异和宣传语时，过早更新会破坏价值。曲线趋同时再更新。
+
+---
+
+<a id="anti-examples-what-not-to-do"></a>
+## 反面示例：不该怎么做
+
+**把利基思维包装成蓝海：**
+- “我们会在安全软件市场找一个小角落。”
+- 这是第八个红海陷阱。利基是小型红海，并非蓝海。
+
+**技术创新等于蓝海：**
+- “我们的产品用了大语言模型！”
+- 技术不等于价值创新。Iridium 技术精妙，仍然失败。
+
+**迷恋先发：**
+- “必须在竞品之前发布！”
+- Tellis 与 Golder：90% 的先驱失败。最先把事情做对的人才会赢。
+
+**差异化等于溢价：**
+- “我们有差异化，所以收得更贵。”
+- BOS 要求同时实现差异化与低成本。
+
+---
+
+<a id="quick-reference-checklist"></a>
+## 速查核对表
+
+**诊断红海：**
+- [ ] 竞争者的供给趋同。
+- [ ] 运营改进，但利润率下降。
+- [ ] 客户越来越把产品视为同质化商品。
+- [ ] 行业增长停滞或为负。
+
+**战略布局图：**
+- [ ] 列出 5—12 个竞争要素。
+- [ ] 绘出自身、竞争者与行业平均。
+- [ ] 通过聚焦、差异、宣传语测试。
+
+**ERRC：**
+- [ ] 行业视为理所当然的哪些要素应剔除？
+- [ ] 哪些要素应减少到标准之下？
+- [ ] 哪些要素应增加到标准之上？
+- [ ] 应创造什么新要素？
+
+**战略序列：**
+- [ ] 效用：通过买方效用图测试？
+- [ ] 价格：通过价格走廊让大众能够负担？
+- [ ] 成本：能以成本创新／合作达到目标？
+- [ ] 采用：已解决员工、伙伴、公众障碍？
+
+**执行准备：**
+- [ ] 有解决认知障碍的计划？
+- [ ] 有解决资源障碍的计划？
+- [ ] 有解决动机障碍的计划？
+- [ ] 有解决政治障碍的计划？
+- [ ] 已设计符合三个 E 的公平过程？
+- [ ] 价值、利润、人员三项主张一致？
+
+---
+
+<a id="blank-strategy-canvas"></a>
+## 空白战略布局图
 
 ```
-Factor:     |____|____|____|____|____|____|____|
-Your Co:    |____|____|____|____|____|____|____|
-Competitor: |____|____|____|____|____|____|____|
-Scale: 1 (low) to 5 (high)
+要素：     |____|____|____|____|____|____|____|
+你的公司： |____|____|____|____|____|____|____|
+竞争者：   |____|____|____|____|____|____|____|
+评分：1（低）到 5（高）
 ```
 
-List 6-8 factors the industry competes on. Score each 1-5 for your company and the dominant competitor. Look for where lines diverge - that's your potential blue ocean.
+列出行业竞争的 6—8 个要素，为你的公司与主要竞争者逐项打 1—5 分。寻找曲线分叉处，那是潜在蓝海。
 
 ---
 
-## Blank ERRC Grid
+<a id="blank-errc-grid"></a>
+## 空白 ERRC 网格
 
 ```
-┌─────────────────────────────┬─────────────────────────────┐
-│ ELIMINATE                   │ RAISE                       │
-│ (factors the industry       │ (factors to raise well      │
-│  takes for granted)         │  above standard)            │
-│                             │                             │
-├─────────────────────────────┼─────────────────────────────┤
-│ REDUCE                      │ CREATE                      │
-│ (factors to reduce well     │ (factors the industry has   │
-│  below standard)            │  never offered)             │
-│                             │                             │
-└─────────────────────────────┴─────────────────────────────┘
+┌─────────────────────────┬─────────────────────────┐
+│ 剔除                    │ 增加                    │
+│ 行业视为理所当然的要素  │ 提高到远超行业标准      │
+│                         │ 的要素                  │
+│                         │                         │
+├─────────────────────────┼─────────────────────────┤
+│ 减少                    │ 创造                    │
+│ 降到远低于行业标准      │ 行业从未提供过的要素    │
+│ 的要素                  │                         │
+│                         │                         │
+└─────────────────────────┴─────────────────────────┘
 ```
 
-Fill each quadrant with 2-4 specific factors. Eliminate and Reduce drive cost down. Raise and Create drive buyer value up. Both must happen simultaneously.
+每个象限填入 2—4 个具体要素。剔除与减少降低成本，增加与创造提升买方价值，两者必须同时发生。

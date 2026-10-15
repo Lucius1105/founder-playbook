@@ -1,202 +1,230 @@
-# Cases - The Four Steps to the Epiphany
+> 中文译文｜[英文对照](cases.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/four-steps/cases.md)。原项目整理：AgentSeal；书籍来源：《The Four Steps to the Epiphany》— Steve Blank；AI辅助翻译。
 
-## Webvan - The Canonical Failure ($800M → Bankruptcy)
+<a id="cases---the-four-steps-to-the-epiphany"></a>
+# 案例——The Four Steps to the Epiphany
 
-**Setup:** Late 1990s dot-com boom. Online grocery delivery. Raised $800M+ in private and public capital. IPO at $8.5B market cap (larger than top 3 grocery chains combined). CEO told Forbes: "We'll set the rules for the largest consumer sector in the economy."
+<a id="webvan---the-canonical-failure-800m--bankruptcy"></a>
+## Webvan——典型失败（8 亿美元走向破产）
 
-**What they did:**
-- Built automated warehouses ($40M each) - "technological marvels far beyond existing grocery chains"
-- Developed $18M in proprietary software before shipping a single item
-- Committed to $1B Bechtel deal for 26 distribution centers - before meaningful customer feedback
-- Launched first regional store June 1999, just one month after beta test
-- Filed for IPO 60 days after first customer ship
+**背景：**20 世纪 90 年代末互联网热潮中的线上杂货配送企业，累计通过私募与公开市场融资超过 8 亿美元。IPO 时市值为 85 亿美元，比前三大连锁杂货商总和还高。CEO 对《福布斯》说：“我们将为经济中最大的消费行业制定规则。”
 
-**What went wrong (mapped to the four steps):**
-1. **No Customer Discovery** - assumed customers wanted online grocery delivery; never validated at scale
-2. **No Customer Validation** - 2,500 orders/day vs 8,000 forecasted; 30% warehouse capacity utilization
-3. **Wrong Market Type** - treated new/resegmented market as existing; spent like incumbents
-4. **Premature scaling** - fully staffed before knowing if model worked; 400 employees at FCS, 500+ more in 6 months
-5. **Death spiral** - accumulated deficit of $612.7M; bankrupt 24 months after IPO
+**他们做了什么：**
 
-**Key lesson:** "It wasn't a failure of execution. Webvan did everything its board and investors asked. Its failure to ask 'Where are the customers?' illuminates how a tried-and-true model can lead even the best-funded startup to disaster."
+- 建设每座耗资 4,000 万美元的自动化仓库，被称为“远超现有杂货连锁的技术奇迹”。
+- 在发出第一件商品之前，就投入 1,800 万美元开发专有软件。
+- 尚未获得有意义的客户反馈，就与 Bechtel 签下价值 10 亿美元、建设 26 个配送中心的协议。
+- 1999 年 6 月开出第一个区域门店，距离测试版试运行仅一个月。
+- 首次向客户交付 60 天后便申请 IPO。
 
----
+**哪里出错了（对应四个步骤）：**
 
-## Tesco - Webvan's Antithesis
+1. **没有客户探索**：假设客户需要线上杂货配送，从未规模化验证。
+2. **没有客户验证**：预测每日 8,000 单，实际只有 2,500 单，仓库利用率为 30%。
+3. **市场类型判断错误**：把新市场／重新细分市场当作现有市场，像成熟企业一样花钱。
+4. **过早扩张**：还不知道模式是否有效就配齐人员；首次客户交付（FCS）时已有 400 名员工，六个月内又增聘 500 多人。
+5. **死亡螺旋**：累计亏损 6.127 亿美元，IPO 后 24 个月破产。
 
-**Setup:** Same era, same space (online grocery), dramatically different approach.
-
-**What they did:**
-- Used existing UK retail stores (929 stores) as the launching pad
-- Learned what customers wanted before building new infrastructure
-- Found a profitable financial model through iteration
-
-**Result:** By 2002: profitable online business, 85,000 orders/week, $559M in sales. Fraction of Webvan's investment. By 2001: expanded to US by purchasing 35% of Safeway's online service.
-
-**Key lesson:** "Explicitly or implicitly, Tesco understood the process embodied by the Customer Development model."
+**关键教训：**“这不是执行失败。董事会和投资者要求做的事情，Webvan 全都做到了。它没有问‘客户在哪里？’，说明一种看似久经考验的模式，也会把资金最充裕的创业公司带向灾难。”
 
 ---
 
-## PhotosToYou - New Market, Existing Market Launch
+<a id="tesco---webvans-antithesis"></a>
+## Tesco——Webvan 的反例
 
-**Setup:** Late 1990s. Online photo printing for digital cameras. Founders (Ernie, Chen, Dave) saw opportunity early: 82B photos/year on traditional cameras, digital camera sales growing 50%/year.
+**背景：**同一时代、同一领域——线上杂货——采用完全不同的方法。
 
-**What went right:**
-- Built color correction tech optimized per camera model
-- Created all-digital print facility + easy web upload
-- Beta customers liked the product and told friends
+**他们做了什么：**
 
-**What went wrong:**
-- Hired new CEO and VP Marketing - both "passionate believers in branding"
-- Launched national advertising campaign + expensive corporate identity program
-- Partnership strategy failed (camera manufacturers, AOL, Yahoo all wanted huge upfront payments)
+- 以英国现有的 929 家零售店为起点。
+- 先了解客户想要什么，再建设新基础设施。
+- 通过迭代找到可盈利的财务模式。
 
-**Steve Blank's diagnosis (as advisory board member):**
-- PhotosToYou was in a **new market** - revenue bounded by small digital camera installed base in 1999
-- "Even 100% acquisition of digital camera customers with broadband wouldn't matter because there were so few"
-- Recommended: preserve cash, early adopter launch, focus on market adoption not market share
-- Executive team: "Why are you telling us about this different Market Type stuff? We've always done it this way."
+**结果：**到 2002 年，线上业务已经盈利，每周 85,000 单，销售额 5.59 亿美元，投入只是 Webvan 的一小部分。2001 年通过购买 Safeway 线上服务的 35% 股权，扩展到美国。
 
-**Result:** Burned through venture money in 2 years. Forced to raise at 1/10th previous valuation. New investors replaced entire executive staff including founders, banned the word "branding."
-
-**Key lesson:** "Not understanding Market Type almost sank PhotosToYou." Onslaught launch in a new market = "throwing money down the toilet."
+**关键教训：**“无论是否明确意识到，Tesco 都理解了客户开发模型所体现的过程。”
 
 ---
 
-## FastOffice - The Death Spiral Through Plans B, C, D
+<a id="photostoyou---new-market-existing-market-launch"></a>
+## PhotosToYou——新市场，却按现有市场方式上市
 
-**Setup:** 1994. Steve Powell envisioned "Swiss Army knife of home office devices" - fax, voicemail, call forwarding, email, video, phone in one box using high-speed ISDN. Called it Front Desk. Raised $3M, then $5M at higher valuation.
+**背景：**20 世纪 90 年代末，为数码相机提供线上照片冲印服务。创始人 Ernie、Chen、Dave 很早看到机会：传统相机每年拍摄 820 亿张照片，数码相机销量每年增长 50%。
 
-**What went wrong:**
-- 18 months to first customer ship. Product cost $1,395.
-- Steve Blank's reaction: "Wow, innovative device. How much? $1,400? I wouldn't buy one."
-- Powell: "That's the reaction everyone has."
-- Diagnosis: "FastOffice had built a Rolls Royce for people with Volkswagen budgets."
+**做对了什么：**
 
-**The death spiral:**
-1. **Plan B:** Fired VP Sales. New strategy: sell to Fortune 1000 with distributed workforce. Renamed HomeDesk. Failed - VPs of Sales worried about quotas, not remote offices.
-2. **Plan C:** Fired VP Marketing. New strategy also failed.
-3. **Plan D:** Steve Powell removed as CEO. Board brought in experienced executive.
-4. **Resolution:** New CEO + Powell (now CTO) re-evaluated assets. Discovered real value was data communications technology for voice-over-data. Discarded home products. Became major supplier to telecom carriers.
+- 开发针对不同相机型号优化的色彩校正技术。
+- 建立全数字化冲印设施，并提供方便的网页上传。
+- 测试版客户喜欢产品，也推荐给朋友。
 
-**Key lesson:** "The Customer Discovery process would have gotten the company there a lot sooner."
+**做错了什么：**
 
----
+- 聘请新 CEO 与营销副总裁，两人都“热烈信奉品牌建设”。
+- 启动全国广告活动，并开展昂贵的企业形象项目。
+- 合作策略失败：相机厂商、AOL、Yahoo 都要求巨额预付款。
 
-## InLook - Premature VP Sales Hiring
+**Steve Blank 作为顾问委员会成员的诊断：**
 
-**Setup:** Raised $8M. Built Snapshot - enterprise software ($250K+) helping CFOs manage profitability.
+- PhotosToYou 处于**新市场**，收入受限于 1999 年很小的数码相机装机基础。
+- “即使拿下所有同时拥有数码相机和宽带的客户也没用，因为这样的人太少了。”
+- 建议保留现金，先面向早期采用者推出，关注市场采用，而非市场份额。
+- 管理团队回应：“为什么要跟我们讲这些不同市场类型的东西？我们一直都是这样做的。”
 
-**What went wrong:**
-- 15 months of dev, then shipped
-- VP Sales hired 5 salespeople, 4 sales engineers, 2 marketers (11 total) before any revenue
-- Beta customers became "imminent" forecasted closes that never materialized
-- CEO had stopped talking to customers and trusted VP Sales' Rolodex
+**结果：**两年耗尽风投资金，被迫按此前估值的十分之一融资。新投资者更换包括创始人在内的全部管理层，并禁止使用“品牌建设”一词。
 
-**Steve Blank's diagnostic question:** "If you give them your product today for free, are they prepared to install and use it across their department and company?"
-
-**Answer:** No, across the entire pipeline. Product wasn't mission-critical enough to justify the disruption.
-
-**Resolution:** CEO (Chip) fired VP Sales and 7 of 11 sales/marketing staff. Kept one salesperson, one SE, and marketing VP. Went out personally to find what would make a customer buy.
-
-**Key lesson:** Building a sales organization before building a sales roadmap is backwards. Founders must sell first.
+**关键教训：**“不理解市场类型，差点让 PhotosToYou 沉没。”在新市场里进行全面猛攻式上市，等于“把钱冲进马桶”。
 
 ---
 
-## Design Within Reach - The Positive Case ($180M)
+<a id="fastoffice---the-death-spiral-through-plans-b-c-d"></a>
+## FastOffice——从 B、C、D 计划一路跌入死亡螺旋
 
-**Setup:** Same era as Furniture.com / Living.com. Same broad space (furniture). Rob Forbes was rejected by VCs: "Furniture.com is one of the hottest dot-coms. Come back when you rethink your strategy." Funded via friends/family.
+**背景：**1994 年，Steve Powell 想打造“家庭办公设备中的瑞士军刀”：用高速 ISDN，把传真、语音留言、呼叫转移、邮件、视频和电话装进一个盒子，名为 Front Desk。先融资 300 万美元，再以更高估值融资 500 万美元。
 
-**What Forbes did differently:**
-- Believed the opportunity was high-quality products to a select audience delivered quickly - NOT just online furniture purchasing
-- Was "talking to customers and suppliers continually"
-- Did NOT pontificate about a vision in his office
-- Was in the field "listening, discovering how his customers worked and what their key problems were"
-- Each new catalog was a learning vehicle - feedback + sales → adjustments
-- Entire staff meetings dedicated to "lessons learned" and "what didn't work"
-- Burn rate kept low first by necessity, then "by plan as his team was finding a sales road map that could scale"
+**做错了什么：**
 
-**Result:** Thriving $180M public company, 56 retail stores + e-commerce. Competitors "relegated to the dustbin of forgotten failures."
+- 用 18 个月完成首次客户交付，产品售价 1,395 美元。
+- Steve Blank 的反应：“哇，很有创新的设备。多少钱？1,400 美元？我不会买。”
+- Powell：“所有人都是这个反应。”
+- 诊断：“FastOffice 为只有大众汽车预算的人，造了一辆劳斯莱斯。”
 
-**Key lesson:** The company that iterated with customers won. The well-funded competitors who executed on assumptions lost.
+**死亡螺旋：**
 
----
+1. **B 计划：**解雇销售副总裁。新策略是卖给拥有分布式员工的《财富》1000 强企业，改名 HomeDesk。失败，因为销售副总裁关心销售指标，不关心远程办公室。
+2. **C 计划：**解雇营销副总裁，新策略同样失败。
+3. **D 计划：**Steve Powell 被撤去 CEO 职务，董事会引入有经验的高管。
+4. **最终解决：**新 CEO 与已转任 CTO 的 Powell 重新评估资产，发现真正价值是通过数据网络传输语音的数据通信技术。他们放弃家用产品，成为电信运营商的重要供应商。
 
-## Furniture.com - Design Within Reach's Inverse
-
-**Setup:** $100M+ in VC funding. Dot-com darling.
-
-**What went wrong:**
-- Product development milestones, NO Customer Development milestones
-- Spent $7M building website, e-commerce, supply chain BEFORE knowing customer demand
-- When customers didn't respond as predicted: "the company pressed forward with its existing business plan"
-- $34M on marketing/advertising vs $10.9M revenue
-- Living.com agreed to pay Amazon $145M over 4 years for home-page placement
-- 209 employees on $10M in sales
-- Damaged/lost/delayed deliveries; response was "spending money"
-- IPO filed January 2000 → pulled June 2000 → bankruptcy talks
-- Never answered the key question: "Is there a way to sell commodity furniture over the Web and ship it cost-effectively when you don't have a nationwide network of stores?"
-
-**Key lesson:** "When customers did not respond as their business models predicted, further execution on the same failed plan guaranteed disaster."
+**关键教训：**“客户探索流程本可以让公司更早走到这一步。”
 
 ---
 
-## BetaSheet - Founder vs. Professional Management
+<a id="inlook---premature-vp-sales-hiring"></a>
+## InLook——过早聘请销售副总裁
 
-**Setup:** Pharmaceutical drug discovery company. Co-founders Mark (CEO) and Dave.
+**背景：**融资 800 万美元，开发帮助 CFO 管理盈利能力的企业软件 Snapshot，售价超过 25 万美元。
 
-**What went wrong:**
-- Mark thrived in startup chaos - visionary, chaotic, hands-on
-- Hired "professional" executives as company grew
-- Mark couldn't let go of his next-vision idea
-- Undermined new VP of Sales, alienated exec staff
-- Got ousted by board
-- Replacement CEO imported rigid big-company processes
-- Killed innovation DNA
-- Company died within five years
+**做错了什么：**
 
-**Key lesson:** Both extremes fail - the entrepreneur who refuses to adapt AND the professional manager who bureaucratizes. The answer is **mission-centric organization** that keeps founders productive while building execution capability. "The long-term success of a startup requires founder continuity long past the point when conventional wisdom says the founders should be replaced."
+- 开发 15 个月后开始交付。
+- 在尚无任何收入时，销售副总裁就招了五名销售、四名售前工程师、两名营销人员，共 11 人。
+- 测试版客户成了预测中“即将”成交的订单，却始终未兑现。
+- CEO 不再与客户交谈，而是相信销售副总裁的人脉。
 
----
+**Steve Blank 的诊断问题：**“如果今天免费把产品给他们，他们准备好在整个部门和公司安装并使用了吗？”
 
-## Handspring vs. Palm - Same Team, Opposite Market Types
+**答案：**整条销售管道中的客户都没有准备好。产品还没有重要到值得承受引入它带来的扰动。
 
-**Handspring (1999, existing market):**
-- PDA market was billion-dollar, well-defined (Palm, Microsoft, HP)
-- Differentiated on expandability + performance
-- "Drive end user demand away from competitors into our sales channel"
-- $170M revenue in 12 months
+**解决方式：**CEO Chip 解雇销售副总裁，以及 11 名销售／营销人员中的七人，保留一名销售、一名售前工程师与营销副总裁。他亲自出去了解，什么才能让客户购买。
 
-**Palm (1996, new market):**
-- PDA market didn't exist (only failed Newton)
-- If they'd used Handspring's playbook: zero dollars in sales
-- Had to educate customers about what a PDA could do for them
-- "In 1996 no potential customer had even heard of a Personal Digital Assistant"
-
-**Key lesson:** "Even with essentially identical products and team, Handspring would have failed if it had used the same sales and marketing strategy previously used successfully at Palm. Market Type changes everything."
+**关键教训：**先建立销售组织、后建立销售路线图，是顺序颠倒。创始人必须先亲自卖。
 
 ---
 
-## Product Disasters Referenced (Chapter 1)
+<a id="design-within-reach---the-positive-case-180m"></a>
+## Design Within Reach——正面案例（1.8 亿美元）
 
-| Company/Product | Market Type Error | Cost |
+**背景：**与 Furniture.com、Living.com 处在同一时代、同一大领域——家具。Rob Forbes 被风投拒绝：“Furniture.com 是最热门的互联网公司之一，等你重新想好策略再来。”他转而向亲友融资。
+
+**Forbes 有何不同：**
+
+- 认为机会在于向特定人群快速交付高品质产品，而不仅是让人在线买家具。
+- “持续与客户和供应商交谈。”
+- 没有坐在办公室里对愿景高谈阔论。
+- 在现场“倾听，探索客户如何工作，以及关键问题是什么”。
+- 每一期新目录都是学习工具：反馈＋销售 → 调整。
+- 全员会议专门讨论“学到了什么”与“哪些不起作用”。
+- 最初因为资金有限而控制烧钱速度，后来则“有计划地控制，因为团队正在寻找可以扩大的销售路线图”。
+
+**结果：**成为繁荣的、规模达 1.8 亿美元的上市公司，拥有 56 家零售店和电商业务；竞争对手则“被丢进无人记得的失败者垃圾堆”。
+
+**关键教训：**与客户共同迭代的公司获胜；资金充足、却按假设执行的竞争者失败。
+
+---
+
+<a id="furniturecom---design-within-reachs-inverse"></a>
+## Furniture.com——Design Within Reach 的反面
+
+**背景：**获得超过 1 亿美元风投，是互联网宠儿。
+
+**做错了什么：**
+
+- 有产品开发里程碑，却没有客户开发里程碑。
+- 尚不了解客户需求，就投入 700 万美元建设网站、电商系统和供应链。
+- 客户未按预测作出反应时，“公司仍继续推进现有商业计划”。
+- 营销／广告花费 3,400 万美元，收入仅 1,090 万美元。
+- Living.com 同意在四年内向 Amazon 支付 1.45 亿美元，换取首页展示位置。
+- 销售额 1,000 万美元时，拥有 209 名员工。
+- 出现损坏、丢失、延迟配送，回应办法仍是“继续花钱”。
+- 2000 年 1 月提交 IPO 申请 → 6 月撤回 → 开始讨论破产。
+- 始终没有回答关键问题：“没有全国门店网络，能否在网上销售标准化家具，并以划算的成本完成配送？”
+
+**关键教训：**“当客户没有按照商业模式的预测作出反应时，继续执行同一失败计划，就确保了灾难发生。”
+
+---
+
+<a id="betasheet---founder-vs-professional-management"></a>
+## BetaSheet——创始人与职业管理层
+
+**背景：**一家药物研发公司，联合创始人为 CEO Mark 与 Dave。
+
+**做错了什么：**
+
+- Mark 在创业混沌中如鱼得水：有愿景、随性、亲力亲为。
+- 随着公司增长，他聘请了“职业”高管。
+- Mark 放不下自己下一个愿景中的想法。
+- 削弱新销售副总裁的权威，疏远高管团队。
+- 被董事会罢免。
+- 接任 CEO 搬入僵化的大公司流程。
+- 创新基因被扼杀。
+- 公司五年内倒闭。
+
+**关键教训：**两个极端都会失败：拒绝适应的创业者，以及把企业官僚化的职业经理人。答案是**以使命为中心的组织**，在建立执行能力的同时，让创始人继续发挥作用。“创业公司的长期成功，要求创始人持续参与，远远超过传统观点认为应该替换他们的时点。”
+
+---
+
+<a id="handspring-vs-palm---same-team-opposite-market-types"></a>
+## Handspring 与 Palm——同一团队，相反的市场类型
+
+**Handspring（1999 年，现有市场）：**
+
+- PDA 市场规模达到十亿美元，边界明确，已有 Palm、Microsoft、HP。
+- 通过可扩展性与性能差异化。
+- “把终端用户需求从竞争对手引入我们的销售渠道。”
+- 12 个月实现 1.7 亿美元收入。
+
+**Palm（1996 年，新市场）：**
+
+- PDA 市场尚不存在，只有失败的 Newton。
+- 如果当时使用 Handspring 的打法，销售额会是零。
+- 必须教育客户，PDA 能为他们做什么。
+- “1996 年，没有潜在客户听说过个人数字助理。”
+
+**关键教训：**“即使产品和团队基本相同，如果 Handspring 使用此前在 Palm 成功的销售营销策略，也会失败。市场类型改变一切。”
+
+---
+
+<a id="product-disasters-referenced-chapter-1"></a>
+## 第一章提到的产品失败
+
+| 公司／产品 | 市场类型判断错误 | 代价 |
 |---|---|---|
-| **Segway** | Confused PR with customers; thought market was "everyone who walks" | $200M |
-| **Apple Newton** | Right about PDA market, 5 years too soon; spent like existing market | $100M |
-| **Motorola Iridium** | Engineering triumph, never asked if customers wanted it | $5B |
-| **Kodak Photo CD** | 10 years too soon; marketed to wrong customers | $150M |
-| **Volkswagen Phaeton** | Ignored all lessons from Toyota's Lexus launch | $500M |
-| **Sony MiniDisc** | "The US isn't Japan" | $500M over 10 years |
-| **R.J. Reynolds smokeless cigarettes** | Understood nonsmokers; "didn't understand customers didn't care" | $450M |
+| **Segway** | 把公关声量当作客户，认为市场是“所有走路的人” | 2 亿美元 |
+| **Apple Newton** | 正确看见 PDA 市场，却早了五年；花钱方式像现有市场 | 1 亿美元 |
+| **Motorola Iridium** | 工程上的胜利，却从未问客户是否想要 | 50 亿美元 |
+| **Kodak Photo CD** | 早了十年；向错误客户营销 | 1.5 亿美元 |
+| **Volkswagen Phaeton** | 忽视 Toyota 推出 Lexus 的全部经验 | 5 亿美元 |
+| **Sony MiniDisc** | “美国不是日本。” | 十年内 5 亿美元 |
+| **R.J. Reynolds 无烟香烟** | 理解不吸烟者，却“不理解客户根本不在乎” | 4.5 亿美元 |
 
-## Product Successes Referenced
+<a id="product-successes-referenced"></a>
+## 文中提到的产品成功
 
-| Company/Product | What They Did Right |
+| 公司／产品 | 做对了什么 |
 |---|---|
-| **P&G Swiffer** | Sophisticated planning + consumer research → $2.1B market |
-| **Toyota Prius** | Found profitable niche for hybrid → $5B sales in 5 years |
-| **General Mills GoGurt** | Research-driven packaging to keep kid base |
-| **In-N-Out Burger** | Niche resegmentation of fast food (3 items, high quality, when McDonald's had 55 mediocre items) |
-| **Wal-Mart** | "Small towns first" niche resegmentation → world's largest company |
-| **Jet Blue** | Low-cost resegmentation with high-quality service on underserved routes |
-| **IKEA** | Low-cost + niche: cheap furniture with style sense |
+| **P&G Swiffer** | 精细规划＋消费者研究 → 21 亿美元市场 |
+| **Toyota Prius** | 为混合动力找到可盈利的细分市场 → 五年销售额 50 亿美元 |
+| **General Mills GoGurt** | 基于研究设计包装，保住儿童客户群 |
+| **In-N-Out Burger** | 对快餐进行利基细分：三种高品质产品，而 McDonald's 有 55 种平庸产品 |
+| **Wal-Mart** | “先做小城镇”的利基细分 → 世界最大公司 |
+| **Jet Blue** | 在服务不足的航线上，以低成本重新细分并提供优质服务 |
+| **IKEA** | 低成本＋利基：价格便宜，又有设计感的家具 |

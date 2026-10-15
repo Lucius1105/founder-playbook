@@ -1,177 +1,200 @@
-# 100m-offers - Integration with Other Skills
+> 中文译文｜[英文对照](integration.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/100m-offers/integration.md)。原项目整理：AgentSeal；书籍来源：《$100M Offers》— Alex Hormozi；AI辅助翻译。
 
-## The Hormozi Sequence
+<a id="100m-offers---integration-with-other-skills"></a>
+# 100m-offers——与其他技能的结合
 
-```
+<a id="the-hormozi-sequence"></a>
+## Hormozi 技能的使用顺序
+
+```text
 mom-test → 100m-offers → money-models → 100m-leads
    ↓             ↓              ↓             ↓
- discovery   packaging     monetization     traffic
+  需求探索      方案包装         商业变现        流量获取
 ```
 
-| Skill | When to Use |
+| 技能 | 使用时机 |
 |-------|-------------|
-| **mom-test** | BEFORE - validate market and extract dream outcome language |
-| **100m-offers** (this) | Build the offer they can't refuse |
-| **money-models** | AFTER - sequence this offer with upsells, downsells, and continuity so customers fund acquisition |
-| **100m-leads** | AFTER - get traffic to the offer |
+| **mom-test** | 之前：验证市场，提取描述理想结果的客户语言 |
+| **100m-offers**（本技能） | 设计客户难以拒绝的销售方案 |
+| **money-models** | 之后：把此方案与升级销售、降档销售、持续收费结合起来，让客户收入支持获客 |
+| **100m-leads** | 之后：为方案获取流量 |
 
-If a business has products but no paid customers, it's almost always missing step 2 (the offer).
+如果企业有产品却没有付费客户，几乎总是缺少第 2 步，即销售方案。
 
-## Skill Combinations
+<a id="skill-combinations"></a>
+## 技能组合
 
+<a id="100m-offers--mom-test"></a>
 ### 100m-offers + mom-test
 
-Mom Test interviews provide the raw material for the offer:
+Mom Test 访谈提供设计方案所需的原材料：
 
-| Mom Test Output | Offer Input |
+| Mom Test 的输出 | 销售方案的输入 |
 |-----------------|-------------|
-| Customer's actual words about their pain | Dream outcome language |
-| Specific past behavior (last time problem happened) | Obstacle list |
-| Current solution + price | Price anchor for your offer |
-| Workarounds they've cobbled together | Components your offer should include |
-| Emotional moments in interviews | Hook/marketing copy |
+| 客户描述痛苦时的原话 | 描述理想结果的语言 |
+| 具体的过去行为，例如上次问题出现时的情况 | 障碍清单 |
+| 当前方案与价格 | 你的方案的价格参照 |
+| 客户自己拼凑的变通办法 | 方案应包含的组成部分 |
+| 访谈中的情绪时刻 | 吸引注意的切入点／营销文案 |
 
-Without mom-test, the offer is built on assumptions. With it, the offer literally uses the words of the people you're selling to.
+没有 mom-test，方案建立在假设上；有了它，就能真正用你要卖给的那群人的原话设计方案。
 
+<a id="100m-offers--money-models"></a>
 ### 100m-offers + money-models
 
-The Grand Slam Offer is the unit; money-models is the sequence of units. 100m-offers makes one offer convert. money-models decides which offer comes first (attraction), what follows immediately after the yes (upsell), what catches the no (downsell), and what makes revenue recurring (continuity).
+大满贯方案是一个单元，money-models 设计单元之间的顺序。100m-offers 让单个方案能够转化；money-models 决定先用什么吸引客户、答应购买后立刻提供什么升级方案、用什么降档方案承接拒绝者，以及用什么持续收费方案让收入重复发生。
 
-| Question | Skill |
+| 问题 | 技能 |
 |----------|-------|
-| Does this one offer convert? | 100m-offers |
-| What offer comes first to attract customers cheaply? | money-models |
-| What do we offer immediately after the yes? | money-models |
-| What catches the people who said no? | money-models |
-| What makes this revenue recurring instead of one-time? | money-models |
+| 这个单独方案能转化吗？ | 100m-offers |
+| 最先提供什么，才能低成本吸引客户？ | money-models |
+| 客户答应后立刻提供什么？ | money-models |
+| 用什么承接说“不”的人？ | money-models |
+| 怎样让收入持续发生，而非只有一次？ | money-models |
 
-Build the Grand Slam Offer first with 100m-offers. Then use money-models to decide where it sits in the sequence and what surrounds it.
+先用 100m-offers 设计大满贯方案，再用 money-models 确定它在顺序中的位置，以及前后搭配什么。
 
+<a id="100m-offers--100m-leads"></a>
 ### 100m-offers + 100m-leads
 
-Don't generate leads for a bad offer. Sequence:
+不要给糟糕方案引流。顺序是：
 
-1. Build and test the offer with warm traffic / referrals first
-2. Confirm it converts
-3. Only then scale traffic via 100m-leads
+1. 先用熟人流量或转介绍建立并测试方案。
+2. 确认能够转化。
+3. 然后才用 100m-leads 扩大流量。
 
-If the offer doesn't convert warm traffic, it won't convert cold. More leads to a bad offer = more wasted money.
+如果熟人流量都不能转化，陌生流量也不会。给坏方案带来更多线索，只会浪费更多钱。
 
+<a id="100m-offers--obviously-awesome"></a>
 ### 100m-offers + obviously-awesome
 
-Obviously Awesome positions the offer in a category. The offer is the substance; positioning is the wrapper.
+Obviously Awesome 把销售方案放进某个品类中定位。方案是内容，定位是包装。
 
-| Layer | Skill |
+| 层次 | 技能 |
 |-------|-------|
-| Category positioning ("we are X for Y") | obviously-awesome |
-| Offer construction (what's inside) | 100m-offers |
-| Pricing tactics | 100m-offers + monetizing-innovation |
-| Lead generation to the offer | 100m-leads |
+| 品类定位，例如“我们是面向 Y 的 X” | obviously-awesome |
+| 方案构建，即内部包含什么 | 100m-offers |
+| 定价策略的具体落实 | 100m-offers + monetizing-innovation |
+| 为方案获取销售线索 | 100m-leads |
 
-Build the offer, then position it.
+先构建方案，再进行定位。
 
+<a id="100m-offers--monetizing-innovation"></a>
 ### 100m-offers + monetizing-innovation
 
-Both skills cover pricing but from different angles:
+两者都讨论定价，但角度不同：
 
-| Aspect | 100m-offers | monetizing-innovation |
+| 方面 | 100m-offers | monetizing-innovation |
 |--------|-------------|------------------------|
-| Approach | Stack value > price | Willingness-to-pay research |
-| Style | Tactical, conversion-focused | Strategic, segment-focused |
-| Best for | Direct response, info products, services | New products, B2B SaaS, multi-tier |
-| Method | Anchor with stacked components | Survey customers, find segments |
+| 方法 | 叠加价值，使其高于价格 | 研究支付意愿 |
+| 风格 | 战术性，聚焦转化 | 战略性，聚焦客群 |
+| 最适合 | 直接响应营销、信息产品、服务 | 新产品、B2B SaaS、多档套餐 |
+| 手段 | 用叠加的组成部分建立价格锚点 | 调研客户，寻找细分客群 |
 
-Use monetizing-innovation for the strategic pricing question (which segments? what tiers? what model?). Use 100m-offers for the tactical execution (how do I package and present this offer?).
+战略性定价问题——哪些客群、哪些档位、什么模式——用 monetizing-innovation；具体执行问题——如何包装和展示方案——用 100m-offers。
 
+<a id="100m-offers--spin-selling"></a>
 ### 100m-offers + spin-selling
 
-Offers are presentations of value. SPIN is the conversation that surfaces the need for the offer.
+销售方案负责呈现价值，SPIN 会谈负责让对方案的需求显现出来。
 
-| Stage | Skill |
+| 阶段 | 技能 |
 |-------|-------|
-| Discovery (Situation, Problem, Implication) | spin-selling |
-| Offer presentation when need is established | 100m-offers |
-| Closing (Need-Payoff) | spin-selling |
+| 探索需求：情境、问题、影响 | spin-selling |
+| 需求确立后呈现方案 | 100m-offers |
+| 成交：需求回报 | spin-selling |
 
-In a high-ticket B2B sale, you'd run SPIN questions, then present the Grand Slam Offer at the right moment. Offer-first selling without SPIN feels pushy in B2B.
+在高客单价 B2B 销售中，先提 SPIN 问题，再在合适时机展示大满贯方案。缺少 SPIN、上来就讲方案，在 B2B 中容易让人觉得被强推。
 
+<a id="100m-offers--crossing-the-chasm"></a>
 ### 100m-offers + crossing-the-chasm
 
-Chasm logic says different markets (early adopters vs mainstream) require different offers. Hormozi's framework doesn't differentiate.
+跨越鸿沟的逻辑认为，不同市场——早期采用者与主流客户——需要不同方案。Hormozi 的框架没有作这个区分。
 
-Resolution: build different offers for different chasm-stage segments:
-- Early adopter offer: bigger promise, less proof, premium price for visionaries
-- Pragmatist offer: more proof, more references, more specific outcomes, slightly lower premium
+处理方法：为不同采用阶段的客群设计不同方案：
 
-The offer-construction process is the same; the inputs differ by segment.
+- 早期采用者方案：更大的承诺、较少证明，面向愿景型客户收取高价。
+- 实用主义者方案：更多证据、更多参考客户、更具体的结果，溢价略低。
 
-## Conflicts and Tensions
+构建方案的流程相同，输入因客群而异。
 
-### Conflict 1: "Premium price = premium product" vs commodity markets
+<a id="conflicts-and-tensions"></a>
+## 冲突与张力
 
-**Hormozi:** Charge more, signal value.
-**Reality:** In commodity markets (basic SaaS, general services, retail), you can't always price way above market.
+<a id="conflict-1-premium-price--premium-product-vs-commodity-markets"></a>
+### 冲突 1：“高价＝高端产品”与同质化市场
 
-**Resolution:** The 100m-offers framework is best for differentiable products. In commodity markets, work the value equation by reducing time delay and effort, even if you can't dramatically raise dream outcome.
+**Hormozi：**多收费，传递价值。
+**现实：**在基础 SaaS、通用服务、零售等同质化市场，未必能远高于市场价定价。
 
-### Conflict 2: "Solve every obstacle" vs scope creep
+**处理方式：**100m-offers 最适合可差异化的产品。在同质化市场中，即使无法显著放大理想结果，也可以通过减少时间延迟和客户付出来改善价值方程。
 
-**Hormozi:** 15+ obstacles, solve all of them.
-**Reality:** A startup with limited resources can't solve every obstacle.
+<a id="conflict-2-solve-every-obstacle-vs-scope-creep"></a>
+### 冲突 2：“解决每个障碍”与范围失控
 
-**Resolution:** The trim step (5) is the safety valve. List 15+ obstacles; only solve the 6-10 highest-value ones in the offer. Other obstacles can be addressed in:
-- Self-serve content (blog, FAQ)
-- Customer success programs (post-sale)
-- Future product expansion
+**Hormozi：**列出 15 个以上障碍，全部解决。
+**现实：**资源有限的创业公司不可能解决每个障碍。
 
-### Conflict 3: "Stack everything" vs "category clarity"
+**处理方式：**第 5 步的删减就是安全阀。列出 15 个以上障碍，在方案里只解决价值最高的 6—10 个。其余障碍可以通过以下方式处理：
 
-**Hormozi:** More components, more perceived value.
-**Obviously Awesome:** Category clarity > feature density.
+- 自助内容，例如博客、常见问题。
+- 售后客户成功项目。
+- 未来的产品扩展。
 
-**Resolution:** Don't confuse components with capability sprawl. Each component should serve the same dream outcome. Stacking 7 components that all drive "lose 20 lbs in 8 weeks" is good. Stacking 7 components that pull customers in different directions is bad.
+<a id="conflict-3-stack-everything-vs-category-clarity"></a>
+### 冲突 3：“全部叠加”与“品类清晰”
 
-### Conflict 4: Hormozi's 5-10x value framing vs honest claims
+**Hormozi：**组成部分越多，感知价值越高。
+**Obviously Awesome：**品类清晰比功能密集更重要。
 
-**Hormozi-style copy:** "Total value: $30,000. Yours for $3,000."
-**Reality:** If the value isn't real, savvy customers see through it and trust collapses.
+**处理方式：**不要把方案组成部分与能力无序扩张混为一谈。每一部分都应服务于同一个理想结果。七个部分都推动“八周减掉 20 磅”，很好；七个部分把客户拉向不同方向，就不好。
 
-**Resolution:** Each value figure must be defensible. If you say "weekly calls valued at $5,000," you should be able to explain why someone would pay $5,000 for them elsewhere. Inflated stack values that customers can't verify destroy long-term trust and inflate refund rates.
+<a id="conflict-4-hormozis-5-10x-value-framing-vs-honest-claims"></a>
+### 冲突 4：Hormozi 的五至十倍价值表达与诚实宣传
 
-### Conflict 5: Aggressive guarantees vs operational risk
+**Hormozi 风格的文案：**“总价值 30,000 美元，只需 3,000 美元。”
+**现实：**如果价值不真实，精明客户会看穿，信任随之崩塌。
 
-**Hormozi:** Bigger guarantee = bigger price you can charge.
-**Reality:** A guarantee you can't honor at scale will sink the business.
+**处理方式：**每个价值数字都必须说得通。如果声称“每周通话价值 5,000 美元”，就应解释为什么有人会在别处为它支付 5,000 美元。客户无法核实的虚高叠加价值，会破坏长期信任并提高退款率。
 
-**Resolution:** Design guarantees you can actually fulfill. Model the worst case: if X% of customers invoke the guarantee, can the unit economics still work? If not, the guarantee is too aggressive.
+<a id="conflict-5-aggressive-guarantees-vs-operational-risk"></a>
+### 冲突 5：强保障与运营风险
 
-### Conflict 6: "Validate first" vs "build the offer to validate"
+**Hormozi：**保障越大，可以收取的价格越高。
+**现实：**无法规模化履行的保障会拖垮企业。
 
-**100m-offers warning:** Validate the market first.
-**Lean Startup:** The offer IS the test.
+**处理方式：**设计能够真正兑现的保障。对最坏情况建模：如果 X% 的客户要求兑现保障，单位经济模型还能成立吗？如果不能，保障就过头了。
 
-**Resolution:** A simple offer (landing page + price + CTA) can validate. A fully-built Grand Slam Offer probably can't be A/B tested cheaply. Start with a simple offer test, then build the Grand Slam version once a market is validated.
+<a id="conflict-6-validate-first-vs-build-the-offer-to-validate"></a>
+### 冲突 6：“先验证”与“用销售方案来验证”
 
-## When 100m-offers is the Wrong Tool
+**100m-offers 的提醒：**先验证市场。
+**Lean Startup：**销售方案本身就是测试。
 
-- **Pure positioning problem:** Use obviously-awesome
-- **Channel/marketing channel choice:** Use 100m-leads
-- **Customers convert but cash flow can't fund growth:** Use money-models
-- **Pricing model question (subscription vs one-time):** Use monetizing-innovation
-- **Sales conversation structure:** Use spin-selling
-- **Adoption-stage strategy:** Use crossing-the-chasm
-- **Market creation:** Use blue-ocean-strategy
+**处理方式：**简单方案——落地页＋价格＋行动指引——可以用来验证；完整的大满贯方案，可能无法低成本做 A/B 测试。先做简单方案测试，市场验证之后再制作大满贯版本。
 
-## The Dependency Map
+<a id="when-100m-offers-is-the-wrong-tool"></a>
+## 什么时候 100m-offers 不是合适工具
 
+- **纯定位问题：**用 obviously-awesome。
+- **渠道／营销渠道选择：**用 100m-leads。
+- **客户能转化，但现金流无法支持增长：**用 money-models。
+- **定价模式问题，例如订阅还是一次性收费：**用 monetizing-innovation。
+- **销售会谈结构：**用 spin-selling。
+- **采用阶段策略：**用 crossing-the-chasm。
+- **创造市场：**用 blue-ocean-strategy。
+
+<a id="the-dependency-map"></a>
+## 依赖关系图
+
+```text
+需求探索层： mom-test → spin-selling
+                ↓
+战略层：     blue-ocean / crossing-the-chasm / obviously-awesome / monetizing-innovation
+                ↓
+战术层：     100m-offers（本技能）→ money-models → 100m-leads
+                ↓
+影响力层：   influence（促使对方答应的原则）
 ```
-Discovery layer:    mom-test → spin-selling
-                       ↓
-Strategy layer:     blue-ocean / crossing-the-chasm / obviously-awesome / monetizing-innovation
-                       ↓
-Tactical layer:     100m-offers (THIS) → money-models → 100m-leads
-                       ↓
-Influence layer:    influence (compliance principles)
-```
 
-100m-offers operates at the tactical layer. It assumes higher layers have been resolved. If you're in this skill but the layers above are unclear, go up the stack first.
+100m-offers 工作在战术层，默认上层问题已经解决。如果使用本技能时发现上面的层次还不清楚，应先回到上层处理。

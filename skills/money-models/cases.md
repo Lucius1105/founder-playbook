@@ -1,147 +1,161 @@
-# money-models - Case Studies
+> 中文译文｜[英文对照](cases.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/money-models/cases.md)。原项目整理：AgentSeal；原书：Alex Hormozi 的《$100M Money Models》；AI 辅助翻译。
 
-The book's case studies with their real numbers. Referenced from [SKILL.md](SKILL.md).
+<a id="money-models---case-studies"></a>
+# 收入模式：案例研究
 
-> **Verification note (applies to every case below):** these are Hormozi's *self-reported* figures from his own businesses and portfolio companies. None are independently audited, and reporting periods, definitions of "profit," and market conditions vary. Treat the *structure* of each play as the transferable lesson and the *numbers* as illustrative - especially before mapping them onto a SaaS or low-margin model.
+本篇列出书中案例及其数字，供 [SKILL.md](SKILL.md) 引用。
 
----
-
-## The Storage Unit "Free Month" (the opening lesson)
-
-A 27-location storage operator teaches young, broke Hormozi how a "free" offer actually makes money. The advertised first month is genuinely $0. The profit is the necessary follow-on stack:
-
-| Item | Price |
-|------|-------|
-| Advertised free month | $0 |
-| Proprietary heavy-duty lock (flimsy locks framed as inadequate) | $47 |
-| Boxes, tape, labels, markers | bundled |
-| Moving help (affiliate kickback) or dolly/strap rental | fee |
-| Insurance upgrade: $500 default → $100,000 coverage (gated behind their lock) | +$10/mo |
-| Size-up (everyone under-estimates their stuff) | near-automatic |
-| **Realized cost of the "free" month** | **~$127** |
-
-**Lesson:** an attraction offer is a delivery vehicle for a chain of obviously-necessary purchases, not a loss-leader given away for nothing. The front-desk quoting $127 instantly signals it's a drilled, standardized number.
+> **核验说明，适用于以下所有案例：**这些都是 Hormozi 对自有业务及投资组合公司的自述数字，未经独立审计。“利润”的定义、报告周期和市场条件也不一致。应迁移的是每种打法的结构，数字只作示意，尤其不要直接套到 SaaS 或低毛利模式中。
 
 ---
 
-## The Gym Launch at $3,000 Down (48-hour payback)
+<a id="the-storage-unit-free-month-the-opening-lesson"></a>
+## 仓储单元“免费一个月”：开篇启示
 
-Hormozi opens each gym by selling into an empty building before buildout, funding the fit-out with pre-sale cash, opening at full capacity with no debt, every ~6 months.
+一位拥有27个网点的仓储运营商，向年轻且缺钱的 Hormozi 解释“免费”如何赚钱。宣传中的首月确实是0美元，利润来自必要的后续组合：
 
-| Metric | Value |
-|--------|-------|
-| Lease down payment | $3,000 |
-| Ad offer | Free 6-Week Challenge |
-| Cost per lead | $5 |
-| Lead target | ~20/day |
-| Show rate | ~50% |
-| Close rate (of shows) into a $600 program | ~50% (≈25% of leads) |
-| Supplement profit per customer | +$80 |
-| Avg profit per customer, before doors open | ~$680 |
-| Ad ROI (the standout number) | **$1 in → $34 out, within 48 hours** |
-| Continuity: $600 credited back for annual membership | 2/3 convert |
-| Recurring revenue per location | $20,000/mo |
+| 项目 | 价格 |
+|---|---|
+| 宣传中的免费首月 | 0美元 |
+| 专用重型锁，普通薄弱锁被描述为不够用 | 47美元 |
+| 纸箱、胶带、标签、记号笔 | 打包销售 |
+| 搬家协助及合作返佣，或推车、绑带租赁 | 收费 |
+| 保险从默认500美元升级到100,000美元保障，须使用其专用锁 | 每月加10美元 |
+| 升级仓储面积，因为大家都低估了物品数量 | 几乎自然发生 |
+| **“免费”首月实际花费** | **约127美元** |
 
-**Lesson:** speed of payback (48 hours) is the headline, not the raw funnel. The credit-back-to-annual is a Rollover Upsell into continuity.
+**启示：**获客方案承载的是一连串看起来显然需要的购买，而不是毫无回报地赠送引流品。前台立即报出127美元，说明这个数字经过训练并已标准化。
 
 ---
 
-## Boot Factory - Buy X Get Y Free (one-shot maximization)
+<a id="the-gym-launch-at-3000-down-48-hour-payback"></a>
+## 3,000美元启动健身房：48小时回本
 
-Downtown Nashville tourist strip. Offer: **"Buy 1 Pair, Get Two Pair Free."** One pair normally $200; the marked-up anchor is **$600 for the deal**. The customer still buys 3 pairs at $200 = $600 - identical revenue to fair-priced sales - but the "free" framing plus neon signage out-pulled neighbors (bachelorette parties buying matching boots).
+Hormozi 在装修前，先对着空场地销售，用预售现金支付装修；约每6个月开一家，开业即满员且没有债务。
 
-**Lesson:** when purchases are one-shot (tourists, no repeat), maximize the single basket; free framing beats a plain discount for the same math. Raise the base price *first*.
+| 指标 | 数值 |
+|---|---|
+| 租赁首付款 | 3,000美元 |
+| 广告方案 | 免费六周挑战 |
+| 单条线索成本 | 5美元 |
+| 目标线索量 | 每天约20条 |
+| 到场率 | 约50% |
+| 到场者购买600美元项目的成交率 | 约50%，即线索的约25% |
+| 每客营养补剂利润 | 加80美元 |
+| 正式开门前每客平均利润 | 约680美元 |
+| 突出的广告回报数字 | **投入1美元，48小时内回收34美元** |
+| 持续订阅：600美元抵扣年度会员 | 三分之二转化 |
+| 每个网点经常性收入 | 每月20,000美元 |
 
----
-
-## The $5 VIP Tanning Decoy → Membership
-
-A $5 five-day VIP tanning pass. Customers who want to get noticeably darker get "the turkey talk" (doubling oven heat burns the turkey; rushing tanning burns skin - real color takes 5-10 sessions). Then: credit the $5 toward the first month of membership - "why buy $25 day passes when members get unlimited for $19.99?"
-
-**Lesson:** a cheap decoy generates the lead; the real sale is the membership it credits into. Later reused as the fitness Decoy Offer (free 1-session/week vs $399 Ultimate → 8 of 10 chose $399).
-
----
-
-## The Suit Shop - $16,000 Anchor
-
-Hormozi walks in with a $500 budget. The owner shows a suit priced at **$16,000** (the gasp), asks "do you care about the designer?", and immediately produces a pre-staged **$2,200** suit. Hormozi buys it plus $300 of add-ons = **$2,500 spent vs $500 budgeted** (5x) and feels good about it.
-
-**Lesson:** the anchor at 5-10x recalibrates the reference point; the rescue item must be pre-staged because the gasp is expected. Anchor and main share primary features (both are "a suit"); only secondary features differ.
-
----
-
-## Gym Launch Rollover / Winback (~$1.9M/yr)
-
-Hormozi's original problem: Win-Your-Money-Back winners applied their $600 to 3 months of membership, then churned - monthly revenue reset to zero. His friend Justin **rolled the winnings over** as ~$50/mo credit across a 12-month membership: customers "still get their money back," it just takes a year, and they pay immediately. He called it "the missing link."
-
-Winback campaign: personalized videos to **200 lapsed customers** (6+ months inactive) offering $4,000 of return credit → **~20% conversion**, one day of recording → **~$1.9M of additional annual revenue.**
-
-**Lesson:** spreading credit over time (skin in the game) converts a churn-and-reset model into recurring revenue; lapsed customers are still customers.
+**启示：**重点是48小时的回本速度，不只是漏斗数字。把金额抵扣到年费，是通往持续订阅的抵扣升级。
 
 ---
 
-## Six-Week-Challenge Continuity Conversion (Fall 2019)
+<a id="boot-factory---buy-x-get-y-free-one-shot-maximization"></a>
+## Boot Factory：买X送Y，最大化一次性购买
 
-One gym vastly out-performed top peers. The operator wasn't really selling the six-week challenge - he used it as a hook, then at point of sale offered to make it *free* if they became a member (unlocking member-only perks), then upsold a prepaid six-month block.
+地点是 Nashville 市中心旅游街。方案为：**“买一双，免费送两双。”**一双通常200美元，组合展示的加价锚点是**600美元**。客户仍然购买3双，每双200美元，总计600美元，与正常定价收入相同；但“免费”表达和霓虹招牌比邻店更吸引人，例如单身派对一起购买同款靴子。
 
-| Per 100 leads | Before (plain challenge) | After (bonus-led continuity) |
+**启示：**游客等一次性购买场景中，要最大化单次购物篮。相同计算结果下，“免费”表达优于普通折扣，且应先提高基础价格。
+
+---
+
+<a id="the-5-vip-tanning-decoy--membership"></a>
+## 5美元VIP美黑诱饵：转化为会员
+
+提供5美元的五天VIP美黑卡。想明显变黑的客户会听到“烤火鸡”的比喻：把烤箱温度加倍只会烤焦火鸡；美黑太急会灼伤皮肤，真正上色需要5—10次。接着让5美元抵扣首月会员：“单次要25美元，会员19.99美元就能不限次，为什么还买单次？”
+
+**启示：**低价诱饵带来线索，真正销售的是后续抵扣进入的会员。之后又用于健身诱饵方案：每周一次免费训练，对比399美元 Ultimate 方案，10人中8人选399美元。
+
+---
+
+<a id="the-suit-shop---16000-anchor"></a>
+## 西装店：16,000美元锚点
+
+Hormozi 带着500美元预算进店。店主先展示一套**16,000美元**的西装，引来惊讶，然后问“你在意设计师吗”，立即拿出预先准备的**2,200美元**西装。他买下并加购300美元配件，**最终花2,500美元，是原预算500美元的5倍**，还觉得很满意。
+
+**启示：**5—10倍价格的锚点会重设参照。客户惊讶在预料之中，所以接替的商品要提前准备。锚点与主推商品共享主要功能，都是西装，仅次要特征不同。
+
+---
+
+<a id="gym-launch-rollover--winback-19myr"></a>
+## Gym Launch 抵扣升级与老客挽回：每年约190万美元
+
+Hormozi 原先的问题是：达标返款的获胜者用600美元兑换3个月会员，随后流失，每月收入又归零。朋友 Justin 将奖金改为12个月会员中每月约50美元的抵扣；客户“仍能拿回钱”，只是分一年完成，而且立即继续付款。他称之为“缺失的一环”。
+
+挽回活动：向**200位超过6个月未活跃的老客户**发送个性化视频，提供4,000美元回归抵扣，得到**约20%的转化率**。录制一天，带来**每年约190万美元新增收入**。
+
+**启示：**把抵扣分散到时间中，让客户持续投入，能将流失归零模式转为经常性收入；流失客户仍然是客户。
+
+---
+
+<a id="six-week-challenge-continuity-conversion-fall-2019"></a>
+## 六周挑战转持续订阅：2019年秋
+
+一家健身房明显优于其他优秀同行。运营者其实不是在卖六周挑战，而是把它当钩子；成交时提出，只要成为会员就免费参加，并享有会员专属权益，随后再升级到预付六个月。
+
+| 每100条线索 | 改进前：普通挑战 | 改进后：赠品驱动持续订阅 |
 |---|---|---|
-| Standalone challenge signups | 34 | ~15 |
-| Convert to ongoing membership | ~17 (half of 34) | 40 (straight to continuity) |
-| Take 6-month prepay upsell | - | ~8 |
+| 单独报名挑战 | 34 | 约15 |
+| 转为长期会员 | 约17，即34的一半 | 40，直接进入持续订阅 |
+| 接受六个月预付升级 | — | 约8 |
 
-Membership sales roughly **2.35x** (dialogue calls it "tripled"), while still collecting up-front cash from remaining challenge signups and prepay blocks.
+会员销售约为原来的**2.35倍**，对话中称为“三倍”；同时仍从其余挑战报名者及预付方案收取现金。
 
-**Lesson:** advertise the bonus, not the membership; convert to continuity at the point of sale, then stack a prepay block for cash today.
-
----
-
-## The Full Gym Launch Money Model ($476K → $2.3M/mo)
-
-The book's flagship end-to-end example, built one stage at a time:
-
-| Stage | Offer type(s) | Structure | Result |
-|-------|---------------|-----------|--------|
-| I Attraction | **Decoy** | Free DIY content + strategy call vs **$16,000 / 16-week** Done-With-You | $476,000/mo within 3 months |
-| II Upsell + Continuity Bonus | **Classic Upsell** | "Gym Lords" at **$42,000/yr ($36,000 prepaid)**, community as continuity bonus | - |
-| II Downsell | **Payment Plan ("Seesaw")** | $10,000 down + spread → fallback ~**$800/wk for 52 weeks** → free start via Continuity Discount rolling into continuity | Stack → ~$1,500,000/mo |
-| III | **Menu Upsell + Feature Downsell** | DFY advertising, sales training, turnkey campaigns; discounted "minimum" package | ~$2,300,000/mo within 14 months |
-
-> **Source inconsistency flagged:** the itemized Stage III features are listed as DFY advertising $300/wk + sales training $200/wk + monthly releases $500/wk + licensing/tech $100/wk = **$1,100/wk**, against a stated "$800/wk full package." The book doesn't reconcile this (likely a menu where customers pick a subset, or undisclosed bundling). Reported as-is, not resolved.
-
-**Lesson:** none of it launched finished. Each stage funded the next; the model evolved from a single Decoy Offer.
+**启示：**广告宣传赠品，而非会员；在成交点转为持续订阅，再叠加预付，为今天带来现金。
 
 ---
 
-## Newsletter (Digital) - the "six-headed monster"
+<a id="the-full-gym-launch-money-model-476k--23mmo"></a>
+## Gym Launch 完整收入模式：月收入47.6万至230万美元
 
-Stage I attraction: **Free Trial** - $0, then **$399/month** after 30 days. Combined upsell + continuity: **Pay Less Now / Pay More Later + Lifetime Discount** - pay **$297 now and keep that rate for life.** One offer simultaneously acts as free trial, pay-less-now, lifetime discount, attraction, upsell, and continuity.
+这是书中端到端的旗舰案例，逐阶段建成：
 
-**Lesson:** offer types are combinable; a single well-designed offer can play six roles at once.
+| 阶段 | 方案类型 | 结构 | 结果 |
+|---|---|---|---|
+| 第一阶段获客 | **诱饵** | 免费自行学习内容+策略通话，对比**16周16,000美元**的陪同实施 | 3个月内达到每月476,000美元 |
+| 第二阶段升级+持续订阅赠品 | **经典升级** | Gym Lords **每年42,000美元，预付36,000美元**；社群作为持续订阅赠品 | — |
+| 第二阶段降档 | **分期跷跷板** | 首付10,000美元再分摊；退而求其次为**每周约800美元、52周**；再用免费启动和持续订阅折扣进入订阅 | 组合达到每月约1,500,000美元 |
+| 第三阶段 | **菜单升级+功能降档** | 代做广告、销售培训、开箱即用营销活动；打折的“最低配置”套餐 | 14个月内达到每月约2,300,000美元 |
 
----
+> **原始来源不一致：**第三阶段逐项列为代做广告每周300美元、销售培训200美元、每月新方案按周500美元、授权与技术100美元，合计**每周1,100美元**，但又称完整套餐800美元。书中没有解释，可能是客户只选部分项目，或存在未披露捆绑。此处如实保留，不自行解决。
 
-## Dog Food (Physical Product)
-
-| Stage | Offer | Structure |
-|-------|-------|-----------|
-| I Attraction | **Buy X Get Y Free** | Buy 4 months, get 2 free |
-| II Upsell | **Classic Upsell** | Monthly add-ons: toys? vitamins? |
-| II Downsell | **Feature Downsell** | "Just the premium food then? You don't want anything else, do you?" |
-| III Continuity | **Automatic renewal** | After the initial 6 months, continues month-to-month, cancel anytime |
-
-**Lesson:** a physical, lower-margin product still runs all four stages - but note the margin caveat in SKILL.md; the free months only pencil out if the continuity margin covers them.
+**启示：**它不是一次性完整上线。每阶段为下一阶段供资，模式由一个诱饵方案逐步长成。
 
 ---
 
-## Profitwell Churn Data (the one cited external dataset)
+<a id="newsletter-digital---the-six-headed-monster"></a>
+## 数字通讯：六头怪
 
-Analysis across **14,000 businesses** on how billing cadence correlates with monthly cancellation:
+第一阶段获客是**免费试用**：先0美元，30天后**每月399美元**。升级与持续订阅组合为**现在少付/以后多付+终身折扣**：**现在付297美元，终身保持该价格**。同一方案同时承担免费试用、现在少付、终身折扣、获客、升级与持续订阅六种角色。
 
-| Billing | Frequency | Monthly cancellation |
-|---------|-----------|----------------------|
-| Monthly | 12x/yr | 10.7% |
-| Quarterly | 4x/yr | 5% |
-| Annual | 1x/yr | 2% |
+**启示：**方案类型可以组合，一个设计良好的方案可以同时承担六种作用。
 
-**Lesson:** less-frequent, larger up-front billing correlates with dramatically lower churn - the empirical basis for ordering the whole downsell ladder from most-cash-now to least. This is the closest the book comes to third-party data; even so, correlation is not causation (annual buyers may simply be higher-intent to begin with).
+---
+
+<a id="dog-food-physical-product"></a>
+## 狗粮：实物产品
+
+| 阶段 | 方案 | 结构 |
+|---|---|---|
+| 第一阶段获客 | **买X送Y** | 买4个月，送2个月 |
+| 第二阶段升级 | **经典升级** | 每月增加玩具、维生素等 |
+| 第二阶段降档 | **功能降档** | “那就只要高端狗粮？别的都不需要，对吗？” |
+| 第三阶段持续订阅 | **自动续订** | 最初6个月结束后，按月继续，随时可取消 |
+
+**启示：**实物、低毛利产品仍可运行四阶段，但要注意 SKILL.md 的毛利限制；只有后续持续订阅利润能覆盖，赠送月份才算得过账。
+
+---
+
+<a id="profitwell-churn-data-the-one-cited-external-dataset"></a>
+## ProfitWell 流失数据：书中引用的外部数据集
+
+对**14,000家企业**的分析，考察收费频率与月度取消率的关联：
+
+| 计费周期 | 频率 | 每月取消率 |
+|---|---|---|
+| 月付 | 每年12次 | 10.7% |
+| 季付 | 每年4次 | 5% |
+| 年付 | 每年1次 | 2% |
+
+**启示：**低频、大额预收款与显著更低的流失率相关，这是把降档阶梯按“现在收款最多到最少”排列的经验依据。它是书中最接近第三方证据的部分，但相关不等于因果；年付用户可能本来就有更强意愿。

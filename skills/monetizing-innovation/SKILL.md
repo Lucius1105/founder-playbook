@@ -1,241 +1,267 @@
 ---
 name: monetizing-innovation
-description: "Designs products around price using the 9 rules from Ramanujam and Tacke - WTP conversations, needs-based segmentation, Good/Better/Best configuration, monetization models, behavioral pricing, and price integrity. Use when designing new products, validating pricing for SaaS/B2B/B2C launches, choosing between subscription/usage/freemium models, fixing post-launch sales below plan, diagnosing failed launches as Feature Shock/Minivation/Hidden Gem/Undead, or when product teams say 'let's price it later'. Not for pure commodities or cost-plus regulated environments."
+description: "运用 Ramanujam 与 Tacke 的9条规则，围绕价格设计产品：支付意愿（WTP）访谈、基于需求的细分、基础/进阶/旗舰配置、变现模式、行为定价及价格完整性。适用于设计新产品、验证 SaaS/B2B/B2C 上市定价、选择订阅/按用量/免费增值模式、修复上市后销售不达标、把失败诊断为功能过载/创新低价化/隐藏宝石/僵尸产品，或产品团队说‘定价以后再说’时。不适用于纯大宗商品或受监管的成本加成环境。"
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/monetizing-innovation/SKILL.md)。原项目整理：AgentSeal；原书：Madhavan Ramanujam 与 Georg Tacke 的《Monetizing Innovation》；AI 辅助翻译。
 
+> **说明：**本技能是独立分析与评论，不是对原著的复制。它将书中核心思想与当代创业实践结合，指出框架过时或不完整之处，并整合相邻领域的观点。完整论证和背景请阅读原书。
 
-# Monetizing Innovation
+<a id="monetizing-innovation"></a>
+# 创新变现（Monetizing Innovation）
 
-> "Design the product around the price." - Ramanujam & Tacke
+> “围绕价格设计产品。”——Ramanujam 与 Tacke
 
-## Core Insight
+<a id="core-insight"></a>
+## 核心洞察
 
-**72% of new products fail** (Simon-Kucher 2014, n=1,615). Root cause: pricing is decided LAST instead of designing the product around it. This figure comes from Simon-Kucher's own client survey data and has not been independently verified. The authors are principals at Simon-Kucher, a pricing consultancy - the stat motivates hiring firms like theirs. Treat it as directionally correct but not independently validated.
+**72%的新产品会失败**（Simon-Kucher，2014年，样本量1,615）。根本原因是把定价放在最后，而没有围绕价格设计产品。这个数字来自 Simon-Kucher 自身的客户调查，未经独立核实。两位作者是这家定价咨询公司的负责人；这一统计也支持聘用他们这类咨询机构的主张。可把它视为方向性的提示，不能视为经独立验证的结论。
 
-| Old paradigm | New paradigm |
-|--------------|--------------|
-| design → build → market → price | market & price → design → build |
+| 旧思路 | 新思路 |
+|---|---|
+| 设计 → 开发 → 营销 → 定价 | 市场与价格 → 设计 → 开发 |
 
-Only ~5% of business cases include real WTP (willingness-to-pay) data. Most companies wait until weeks before launch to set price.
-
----
-
-## The 4 Failure Types (Diagnose Before Fixing)
-
-| Failure | Definition | Cultural Cause | Tell-Tale Signs |
-|---------|------------|----------------|-----------------|
-| **Feature Shock** | Cram too many features → confusing, overpriced | Engineering-driven | Can't articulate value; price slashed post-launch |
-| **Minivation** | Right product, priced too low | Risk-averse | Sales easily hits target; sellouts; channel maxes margin |
-| **Hidden Gem** | Great idea never properly launched | Coddles core business | Mid-level execs kill it; sold as deal sweetener; rival ships first |
-| **Undead** | Wrong answer (or no question asked) | Top-down, no dissent | Sales avoid raising it; pet project of senior management |
-
-**Real examples:** Amazon Fire Phone (Feature Shock, $170M write-down), Audi Q7 (Minivation, missed €210M/yr), Kodak digital camera 1974 (Hidden Gem), Segway/Google Glass (Undead).
-
-Full case file: see [cases.md](cases.md).
+只有约5%的商业论证包含真实的支付意愿（WTP）数据。多数公司直到产品上市前几周才定价。
 
 ---
 
-## The 5 Pricing Myths (Counter These)
+<a id="the-4-failure-types-diagnose-before-fixing"></a>
+## 四类失败：先诊断，再修复
 
-1. "Build it and they will come" - hides 95% of failures
-2. "Innovation needs isolated artists" - customer input informs, doesn't pollute
-3. "High failure rates are normal" - failure is preventable
-4. "Customers must experience product to price it" - false, they react to concepts
-5. "You can't price what you haven't built" - cost-plus thinking; price is set by VALUE
+| 失败类型 | 定义 | 文化成因 | 典型信号 |
+|---|---|---|---|
+| **功能过载（Feature Shock）** | 塞入太多功能，导致难以理解、价格过高 | 工程主导 | 说不清价值；上市后大幅降价 |
+| **创新低价化（Minivation）** | 产品正确，价格却定得太低 | 规避风险 | 销售轻易达标；售罄；渠道利润最大化 |
+| **隐藏宝石（Hidden Gem）** | 好创意从未得到恰当推出 | 过度保护核心业务 | 被中层高管否决；作为促成交易的附赠品；竞争对手先推出 |
+| **僵尸产品（Undead）** | 给出了错误答案，或根本没问过问题 | 自上而下、不容异议 | 销售不愿提起；高层个人偏爱的项目 |
 
----
+**真实例子：**Amazon Fire Phone（功能过载，减记1.7亿美元）；Audi Q7（创新低价化，每年错失2.1亿欧元）；Kodak 1974年数码相机（隐藏宝石）；Segway / Google Glass（僵尸产品）。
 
-## The 9 Rules (Summary)
-
-| # | Rule | Headline |
-|---|------|----------|
-| 1 | **WTP Talk Early** | 80% of companies skip this. Have it before design freezes. |
-| 2 | **Needs-Based Segmentation** | Demographic segmentation is broken. Segment by needs/value/WTP. |
-| 3 | **Configuration & Bundling** | Use Leaders/Fillers/Killers + Good/Better/Best with FENCES. |
-| 4 | **How You Charge > What You Charge** | Choose the right monetization model (5 options). |
-| 5 | **Pricing Strategy** | Maximization / Penetration / Skimming. Apply the BECAUSE test. |
-| 6 | **Living Business Case** | Link Price-Value-Volume-Cost. Update at every milestone. |
-| 7 | **Value Communication** | Sell benefits, not features. Use MOCA matrix. |
-| 8 | **Behavioral Pricing** | 6 tactics: compromise, anchoring, signals, razor-blade, pennies-a-day, thresholds. |
-| 9 | **Maintain Price Integrity** | Don't cut after launch. Use 3 nonprice actions first. |
-
-Full framework details with sub-frameworks, methods, and checklists: see [frameworks.md](frameworks.md).
+完整案例见 [cases.md](cases.md)。
 
 ---
 
-## Critical Frameworks (At-a-Glance)
+<a id="the-5-pricing-myths-counter-these"></a>
+## 五个定价迷思：需要反驳的说法
 
-### Leaders / Fillers / Killers
-
-| Type | Definition | Action |
-|------|------------|--------|
-| **Leader** | Drives buying, high WTP | Always include |
-| **Filler** | Nice-to-have | Use to fill gaps |
-| **Killer** | Blows the deal if forced to pay | Eliminate or sell à la carte |
-
-Killer test: valued by <20% of customers AND not valued at all by >20%. Killers are segment-dependent (heated seats: leader in cold, killer in tropical).
-
-### Good/Better/Best Distribution
-
-| Distribution | Diagnosis |
-|--------------|-----------|
-| ≤25% Good, ~70% Better+Best, ≥10% Best | Healthy |
-| >50% Good | Trip-wire: cut features from Good |
-| Best <10% | Premium tier underpowered |
-
-**Fences are mandatory.** Every tier needs visible, defensible differences. Without fences G/B/B cannibalizes itself. Fence test: in 10 seconds can a customer see what's missing from Good?
-
-### The 5 Monetization Models
-
-| Model | When to Use | Example |
-|-------|-------------|---------|
-| **Subscription** | Continual usage | Netflix, Adobe |
-| **Dynamic Pricing** | Volatile demand or constrained supply | Uber, airlines |
-| **Auctions** | Seller's market, constrained inventory | Google AdWords ($35B/yr), eBay |
-| **Pay-As-You-Go / Alternative Metric** | Usage tracks value | Michelin (per-mile), GE engines |
-| **Freemium** | Near-zero production AND fixed cost | LinkedIn, Dropbox |
-
-**Freemium warning:** fails for 90% of companies; software conversion typically <10%; games lose 75% of users in day 1.
-
-Models are mix-and-matchable (Costco = subscription + per-product; OpenTable = subscription + transaction fee).
-
-### The 6 Behavioral Pricing Tactics
-
-1. **Compromise effect** - always have 3 tiers; people avoid extremes
-2. **Anchoring** - The Economist test: $59 vs $125 vs $125-print-only made bundle pick rate jump 32% → 84%
-3. **Price signals quality** - Ariely placebo: $2.50 pill 85% pain relief, $0.10 same pill 61%
-4. **Razor / razor blades** - low upfront preferred even if total cost identical
-5. **Pennies-a-day** - $9.99/mo converts very differently from $120/yr
-6. **Psychological thresholds** - $69.99 works, $71 doesn't (drops acceptance >20%)
-
-**Caveat:** can't price purely on behavior. Combine with rational/value-based.
+1. “造出来，自然就有人来”——掩盖了95%的失败。
+2. “创新需要与外界隔绝的艺术家”——客户输入提供信息，并不会污染创意。
+3. “高失败率很正常”——失败可以预防。
+4. “客户必须体验产品，才知道愿意付多少钱”——并非如此，他们可以对概念作出反应。
+5. “还没造出来就没法定价”——这是成本加成思维；价格由价值决定。
 
 ---
 
-## Decision Trees
+<a id="the-9-rules-summary"></a>
+## 九条规则概览
 
-### "Is my product likely to fail?"
+| 序号 | 规则 | 要点 |
+|---|---|---|
+| 1 | **尽早讨论支付意愿** | 80%的公司会跳过；应在设计冻结前进行。 |
+| 2 | **基于需求细分** | 仅按人口统计特征细分已失效；应按需求、价值、支付意愿细分。 |
+| 3 | **配置与捆绑** | 运用主力项/补充项/破坏项，以及有清晰分界的基础/进阶/旗舰档。 |
+| 4 | **怎么收费比收多少钱更重要** | 从5种选项中选择合适的变现模式。 |
+| 5 | **定价策略** | 利润最大化、渗透或撇脂；通过“因为”检验。 |
+| 6 | **动态商业论证** | 连接价格、价值、销量和成本；每个里程碑都更新。 |
+| 7 | **价值沟通** | 销售客户收益，而非功能；使用 MOCA 矩阵。 |
+| 8 | **行为定价** | 六种手段：折中、锚定、信号、剃须刀与刀片、每日小额、心理阈值。 |
+| 9 | **保持价格完整性** | 上市后不要轻易降价，先尝试3种非价格行动。 |
+
+完整框架、子框架、方法和检查清单见 [frameworks.md](frameworks.md)。
+
+---
+
+<a id="critical-frameworks-at-a-glance"></a>
+## 核心框架速览
+
+<a id="leaders--fillers--killers"></a>
+### 主力项 / 补充项 / 破坏项
+
+| 类型 | 定义 | 行动 |
+|---|---|---|
+| **主力项（Leader）** | 驱动购买，支付意愿高 | 必须包含 |
+| **补充项（Filler）** | 有了更好，但不是必需 | 用来填补缺口 |
+| **破坏项（Killer）** | 强迫客户为其付费，会破坏交易 | 删除或单独销售 |
+
+破坏项检验：认可它的客户不足20%，同时超过20%的客户认为它完全没有价值。破坏项取决于细分人群，例如座椅加热在寒冷地区是主力项，在热带可能是破坏项。
+
+<a id="goodbetterbest-distribution"></a>
+### 基础 / 进阶 / 旗舰档的分布
+
+| 分布 | 诊断 |
+|---|---|
+| 基础档≤25%，进阶+旗舰约70%，旗舰≥10% | 健康 |
+| 基础档>50% | 触发警报：减少基础档功能 |
+| 旗舰档<10% | 高端档吸引力不足 |
+
+**必须设置清晰的档位分界。**每一档都需要可见、可解释的差异。没有分界，三档产品就会互相蚕食。检验方法：客户能否在10秒内看出基础档少了什么？
+
+<a id="the-5-monetization-models"></a>
+### 五种变现模式
+
+| 模式 | 适用情况 | 例子 |
+|---|---|---|
+| **订阅** | 持续使用 | Netflix、Adobe |
+| **动态定价** | 需求波动大，或供给受限 | Uber、航空公司 |
+| **拍卖** | 卖方市场、库存有限 | Google AdWords（每年350亿美元）、eBay |
+| **按用量付费 / 替代计价指标** | 使用量与价值相对应 | Michelin（按里程）、GE 发动机 |
+| **免费增值** | 生产成本和固定成本都接近零 | LinkedIn、Dropbox |
+
+**免费增值提醒：**对90%的公司不奏效；软件付费转化通常低于10%；游戏首日会流失75%的用户。
+
+不同模式可以组合，例如 Costco = 订阅+按产品收费；OpenTable = 订阅+交易费。
+
+<a id="the-6-behavioral-pricing-tactics"></a>
+### 六种行为定价手段
+
+1. **折中效应**——始终设置3档，人们会回避极端选项。
+2. **锚定**——《经济学人》测试中，59美元、125美元和125美元的纯纸刊选项，使组合订阅选择率从32%升至84%。
+3. **价格传递质量信号**——Ariely 的安慰剂实验：2.50美元的药片有85%的人报告疼痛缓解；相同药片标价0.10美元时为61%。
+4. **剃须刀 / 刀片模式**——即使总成本相同，人们也更偏好较低的前期费用。
+5. **每日小额表达**——每月9.99美元与每年120美元的转化表现会很不一样。
+6. **心理价格阈值**——69.99美元可以，71美元不行，接受度下降超过20%。
+
+**注意：**不能只靠行为心理定价，要结合理性与价值依据。
+
+---
+
+<a id="decision-trees"></a>
+## 决策树
+
+<a id="is-my-product-likely-to-fail"></a>
+### “我的产品很可能失败吗？”
 
 ```
-Can I clearly state the customer benefit (not features)?
-├─ NO  → Likely Feature Shock
-└─ YES → Has WTP been validated with real customers?
-         ├─ NO  → Could be Undead or Minivation
-         └─ YES → Did C-suite engage personally?
-                  ├─ NO  → Likely Hidden Gem (won't get launched right)
-                  └─ YES → On the right track
+我能清楚说出客户收益，而不仅是功能吗？
+├─ 不能 → 可能是功能过载
+└─ 能 → 是否用真实客户验证过支付意愿？
+         ├─ 否 → 可能是僵尸产品或创新低价化
+         └─ 是 → 高层是否亲自参与？
+                  ├─ 否 → 可能是隐藏宝石，无法得到恰当推出
+                  └─ 是 → 方向正确
 ```
 
-### "Which monetization model?"
+<a id="which-monetization-model"></a>
+### “应该采用哪种变现模式？”
 
 ```
-Is value tied to usage?
-├─ YES → Alternative Metric (Michelin model)
-└─ NO  → Demand volatile or supply constrained?
-        ├─ YES → Dynamic Pricing
-        └─ NO  → Production cost near zero?
-                ├─ YES → Freemium (only if 90% of users still profitable)
-                └─ NO  → Subscription or per-unit
+价值是否与使用量相关？
+├─ 是 → 使用替代计价指标，例如 Michelin 模式
+└─ 否 → 需求波动大，或供给受限吗？
+        ├─ 是 → 动态定价
+        └─ 否 → 生产成本接近零吗？
+                ├─ 是 → 免费增值，仅适用于90%的用户仍能带来盈利时
+                └─ 否 → 订阅或按件收费
 ```
 
-### "Should I cut the price?"
+<a id="should-i-cut-the-price"></a>
+### “我应该降价吗？”
 
 ```
-Sales below plan?
-└─ YES → Identified ROOT CAUSE?
-         ├─ NO  → Diagnose first (likely not price)
-         └─ YES → Pricing-specific?
-                  ├─ NO  → Fix actual problem
-                  └─ YES → Tried 3 nonprice actions?
-                           ├─ NO  → Try those (advertise; add value; upgrade)
-                           └─ YES → War-game competitor reaction
-                                    └─ Worse off after counter? → don't cut
+销量低于计划？
+└─ 是 → 找到根本原因了吗？
+         ├─ 否 → 先诊断，很可能不是价格问题
+         └─ 是 → 确实与定价有关吗？
+                  ├─ 否 → 修复真正的问题
+                  └─ 是 → 试过3种非价格行动吗？
+                           ├─ 否 → 先尝试广告、增加价值、升级
+                           └─ 是 → 推演竞争对手的反应
+                                    └─ 对方反击后处境更差？→ 不降价
 ```
 
 ---
 
-## Critical Numbers
+<a id="critical-numbers"></a>
+## 关键数字
 
-| Number | Rule |
-|--------|------|
-| **72%** | New products fail |
-| **80%** | Companies wait until just before launch to set price |
-| **5%** | Business cases include real WTP data |
-| **3-4** | Ideal starting number of segments |
-| **<10%** | Killer features valued by less than this % |
-| **9 / 4** | Max benefits / products before psychological overload |
-| **≤25% / 70% / ≥10%** | G/B/B target (Good / Better+Best / Best) |
-| **50%** | Trip-wire: more than this picking Good = bleeding |
-| **20-30%** | Healthy deal escalation rate |
-| **30-40%** | Of ALL DEALS should have price changes upon escalation |
-| **3** | Nonprice actions required before any price cut |
-| **40%** | More likely to realize potential with defined pricing strategy |
-| **33%** | More profit when C-suite leads pricing (vs delegates) - also from Simon-Kucher client data; same provenance caveat as the 72% figure applies |
-| **25%** | Of customer interview questions should be "Why?" |
+| 数字 | 规则 |
+|---|---|
+| **72%** | 新产品失败比例 |
+| **80%** | 直到上市前才定价的公司比例 |
+| **5%** | 包含真实支付意愿数据的商业论证比例 |
+| **3—4** | 初始细分人群的理想数量 |
+| **<10%** | 破坏项获得认可的客户比例低于此值 |
+| **9 / 4** | 超过9项收益或4款产品后，容易出现心理信息过载 |
+| **≤25% / 70% / ≥10%** | 三档产品目标：基础 / 进阶+旗舰 / 旗舰 |
+| **50%** | 超过此比例的人选择基础档，是利润流失警报 |
+| **20—30%** | 健康的交易升级审批比例 |
+| **30—40%** | 全部交易中，应在升级审批时发生价格调整的比例 |
+| **3** | 任何降价前必须尝试的非价格行动数量 |
+| **40%** | 有明确定价策略时，更可能实现潜力的提升幅度 |
+| **33%** | 高层亲自领导定价，相比下放决策可增加的利润；同样来自 Simon-Kucher 客户数据，适用与72%数字相同的来源保留意见 |
+| **25%** | 客户访谈中“为什么”类问题应占的比例 |
 
----
-
-## The "BECAUSE" Test
-
-Every pricing decision must end with a "because" traceable to customer data.
-
-**Bad:** "We priced at $99 to be competitive."
-**Good:** "We priced at $99 BECAUSE 60% of segment B told us $100 was the threshold above which they'd reconsider, and our value advantage justifies the high end."
-
-If you can't say "because customers told us X," you don't have a pricing strategy.
+> 译注：原文在上文将破坏项门槛写为“少于20%”，本表则写为“少于10%”；此处保留原文差异，实际使用前应核实。
 
 ---
 
-## Quick Reference Checklist
+<a id="the-because-test"></a>
+## “因为”检验
 
-Before designing a new product:
-- [ ] WTP conversations with real customers held
-- [ ] Segmented by needs/value/WTP (not demographics)
-- [ ] Leaders, fillers, killers identified
-- [ ] G/B/B configuration designed with FENCES
-- [ ] Monetization model picked (aligns with value)
-- [ ] Pricing strategy documented (max/penetration/skimming)
-- [ ] Living business case links Price/Value/Volume/Cost
-- [ ] Benefit-not-feature messaging tested
-- [ ] Behavioral tactics considered
-- [ ] Team prepared to maintain price integrity post-launch
+每项定价决定，都必须以能够追溯到客户数据的“因为”来收尾。
 
-**The test:** Ask anyone "Why this price?" If the answer is "cost-plus" or "competitor benchmark," failure is coming.
+**不好的说法：**“我们定价99美元，是为了有竞争力。”
+
+**好的说法：**“我们定价99美元，因为细分人群 B 中60%的受访者表示，100美元是他们会重新考虑的门槛，而我们的价值优势足以支持区间上限。”
+
+如果你无法说出“因为客户告诉我们 X”，就还没有定价策略。
 
 ---
 
-## Critical Quotes
+<a id="quick-reference-checklist"></a>
+## 速查清单
 
-- "Design the product around the price."
-- "How you charge trumps what you charge."
-- "Pricing too low is worse than pricing too high."
-- "Customers don't buy products. They buy benefits." - Drucker
-- "The single most important decision in evaluating a business is pricing power." - Buffett
-- "If I have 2,000 customers and 400 prices, I'm short 1,600 prices." - Crandall (American Airlines)
+设计新产品之前：
 
----
+- [ ] 已与真实客户开展支付意愿访谈。
+- [ ] 按需求、价值与支付意愿细分，而不是人口统计特征。
+- [ ] 已识别主力项、补充项和破坏项。
+- [ ] 已设计带清晰分界的基础/进阶/旗舰配置。
+- [ ] 已选择与价值一致的变现模式。
+- [ ] 已记录定价策略：最大化、渗透或撇脂。
+- [ ] 动态商业论证已连接价格、价值、销量与成本。
+- [ ] 已测试以收益为中心、而非以功能为中心的表达。
+- [ ] 已考虑行为定价手段。
+- [ ] 团队已准备好在上市后保持价格完整性。
 
-## Supporting Files
-
-- **[frameworks.md](frameworks.md)** - Full detail on all 9 rules, sub-frameworks, methods, and lists (10 WTP insights, 10 bundling insights, 6 post-launch tips, etc.)
-- **[cases.md](cases.md)** - Detailed case studies (Porsche, Dodge Dart, LinkedIn, Dräger, Uber, Swarovski, Optimizely, Innovative Pharma) plus failure exemplars
-- **[examples.md](examples.md)** - Worked examples: Pizza & Breadsticks bundling math, MOCA matrix, value-selling spreadsheet, 100-point goal allocation, BECAUSE test templates
-- **[integration.md](integration.md)** - Implementation roadmap (4 phases), 9 pitfalls, startup/SaaS adaptation, WTP research limitations, conflict resolution with Mom Test/$100M Offers/SPIN
-
----
-
-## When This Doesn't Apply
-
-- Pure cost-plus regulated environments (utilities, some defense)
-- Pure commodities (sugar, copper)
-- Very early stage with no product (use Mom Test first)
-- B2C impulse buys under $50 (simpler approaches work)
-- Geographic markets with no purchasing power
+**检验：**随便问一个人“为什么是这个价格？”如果答案是“成本加成”或“参考竞争对手”，失败正在逼近。
 
 ---
 
-## Caveat on WTP Research
+<a id="critical-quotes"></a>
+## 关键引语
 
-Stated WTP and revealed WTP differ. Customers predict their own behavior poorly in interviews. Treat WTP findings as a strong prior, not certainty. Validate with paid pilots, pre-orders, live A/B price tests, or money-back guarantees. See [integration.md](integration.md#wtp-research-limitations-critical-caveat).
+- “围绕价格设计产品。”
+- “怎么收费比收多少钱更重要。”
+- “价格定得太低，比定得太高更糟。”
+- “客户购买的不是产品，而是收益。”——Drucker
+- “评估一家企业时，最重要的单项决策因素是定价权。”——Buffett
+- “如果我有2,000位客户和400种价格，那就还少了1,600种价格。”——American Airlines 的 Crandall
+
+---
+
+<a id="supporting-files"></a>
+## 配套文件
+
+- **[frameworks.md](frameworks.md)**：全部9条规则、子框架、方法与清单的细节，包括10条支付意愿洞察、10条捆绑洞察、6条上市后建议等。
+- **[cases.md](cases.md)**：Porsche、Dodge Dart、LinkedIn、Dräger、Uber、Swarovski、Optimizely、Innovative Pharma 等详细案例，以及失败案例。
+- **[examples.md](examples.md)**：披萨与面包条捆绑的计算示例、MOCA 矩阵、价值销售表、100分目标分配、“因为”检验模板。
+- **[integration.md](integration.md)**：四阶段实施路线、9个陷阱、创业与 SaaS 调整、支付意愿研究局限，以及与 Mom Test / $100M Offers / SPIN 的冲突处理。
+
+---
+
+<a id="when-this-doesnt-apply"></a>
+## 不适用的情况
+
+- 纯成本加成且受监管的环境，例如公用事业、部分国防领域。
+- 纯大宗商品，例如糖、铜。
+- 极早期、还没有产品的阶段，先用 Mom Test。
+- 低于50美元的 B2C 冲动消费，简单方法即可。
+- 缺乏购买力的地理市场。
+
+---
+
+<a id="caveat-on-wtp-research"></a>
+## 关于支付意愿研究的保留意见
+
+客户口头表达的支付意愿，与行为中显露的支付意愿不同。人们在访谈中很难准确预测自己的行为。应把调查结果视为有力的先验判断，而非确定结论，再通过付费试点、预售、真实 A/B 价格测试或退款保证来验证。详见 [integration.md](integration.md#wtp-research-limitations-critical-caveat)。

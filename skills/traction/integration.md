@@ -1,275 +1,291 @@
-# Integration - Traction
+> 中文译文｜[英文对照](integration.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/traction/integration.md)。原项目整理：AgentSeal；书籍来源：《Traction》— Gabriel Weinberg 与 Justin Mares；AI辅助翻译。
 
-## Relationship to Other Skills
+<a id="integration---traction"></a>
+# Traction——技能结合
 
-### Traction --> Lean Startup
+<a id="relationship-to-other-skills"></a>
+## 与其他技能的关系
 
-**Traction's channel testing IS Build-Measure-Learn applied to growth.**
+<a id="traction----lean-startup"></a>
+### Traction → Lean Startup
 
-| Dimension | Traction | Lean Startup |
-|---|---|---|
-| **Focus** | Finding and optimizing customer acquisition channels | Building and validating the product |
-| **Core loop** | Bullseye: Brainstorm -> Rank -> Test -> Focus | Build -> Measure -> Learn |
-| **Testing approach** | Cheap parallel tests on 3 channels | MVP experiments on product hypotheses |
-| **Metrics** | CPA, volume, quality, cycle time | Innovation accounting (baseline, tune, pivot) |
-| **Pivot** | Channel saturates -> re-run Bullseye | Strategy pivot (10 types) |
+**Traction 的渠道测试，就是将构建—衡量—学习应用于增长。**
 
-**Where they align:**
-- Both demand empirical testing over intuition
-- Both say: start cheap, test fast, double down on what works
-- Both treat growth as a systematic, measurable process
-- Traction's "test vs. optimize" distinction mirrors Lean Startup's "validate vs. tune"
+| 维度 | Traction | Lean Startup |
+|------|----------|--------------|
+| **焦点** | 发现并优化获客渠道 | 构建与验证产品 |
+| **核心循环** | 靶心：头脑风暴 → 排序 → 测试 → 聚焦 | 构建 → 衡量 → 学习 |
+| **测试方式** | 三个渠道低成本并行测试 | 针对产品假设的 MVP 实验 |
+| **指标** | CPA、数量、质量、周期 | 创新核算：基线、调优、转型 |
+| **转型** | 渠道饱和，重跑靶心 | 十种战略转型 |
 
-**Where they complement:**
-- Lean Startup tells you what to BUILD. Traction tells you how to GET CUSTOMERS.
-- Lean Startup's innovation accounting can measure whether a traction channel is actually driving valuable customers (not just volume)
-- Traction's 50% rule operationalizes Lean Startup's principle that product and growth should develop in parallel
-- Lean Startup's engine of growth framework (sticky/viral/paid) maps to specific traction channels
+**一致之处：**
+- 都要求实证测试优于直觉。
+- 都主张低成本开始、快速测试、加倍投入有效方法。
+- 都将增长视为系统、可测量过程。
+- Traction 的“测试与优化”对应 Lean Startup 的“验证与调优”。
 
-**Engine-to-channel mapping:**
+**互补之处：**
+- Lean Startup 告诉你造什么，Traction 告诉你如何获得客户。
+- 创新核算能衡量渠道是否带来有价值客户，而非仅数量。
+- 50% 规则将产品与增长并行原则转为实际行动。
+- Lean Startup 的增长引擎，黏性／病毒／付费，对应具体增长渠道。
 
-| Lean Startup Engine | Primary Traction Channels |
-|---|---|
-| **Sticky** | Email Marketing, Community Building, Content Marketing |
-| **Viral** | Viral Marketing, Existing Platforms, Engineering as Marketing |
-| **Paid** | SEM, Social & Display Ads, Offline Ads, Affiliate Programs |
+**引擎与渠道映射：**
 
-**Where they create tension:**
-- Lean Startup says "focus on one engine of growth." Traction says "test 3 channels, focus on 1." These are compatible - determine your engine (Lean Startup), then test specific channels within that engine (Traction).
-- Lean Startup's MVP-first approach can conflict with Traction's 50% rule. Resolution: the 50% rule doesn't mean building marketing before you have a product. It means thinking about distribution from day one and running traction tests in parallel with product development.
+| Lean Startup 引擎 | 主要 Traction 渠道 |
+|------------------|-------------------|
+| **黏性** | 邮件、社群、内容 |
+| **病毒** | 病毒营销、现有平台、工程营销 |
+| **付费** | SEM、社交与展示广告、线下广告、联盟计划 |
 
-**Integration rule:** Use Lean Startup to validate the product (value hypothesis + growth hypothesis). Use Traction to find and optimize the specific acquisition channels. Lean Startup's engine of growth tells you which CATEGORY of channels to explore; Traction's Bullseye tells you which SPECIFIC channel to test.
+**张力：**
+- Lean Startup 要求聚焦一个增长引擎，Traction 要求测试三个渠道再聚焦一个。可以兼容：先确定引擎，再测试其中的具体渠道。
+- MVP 优先可能与 50% 规则冲突。解法：50% 并不意味着没产品就大建营销，而是第一天起思考分销，并与产品开发并行测试增长。
 
----
-
-### Traction --> Four Steps to the Epiphany
-
-**Traction operationalizes Four Steps' Customer Creation step.**
-
-| Dimension | Traction | Four Steps |
-|---|---|---|
-| **Focus** | Finding acquisition channels | The full customer development process |
-| **Scope** | Channel selection and testing | Discovery -> Validation -> Creation -> Building |
-| **When** | Throughout (50% rule) but especially post-validation | Customer Creation (Step 3) is the closest match |
-| **Market Type** | Not addressed | The master variable that changes everything |
-
-**Where they align:**
-- Both say: don't wait until after launch to think about customers
-- Both say: founders should be directly involved in early customer acquisition
-- Traction's Phase I/II/III maps loosely to Four Steps' four steps:
-
-| Traction Phase | Four Steps Equivalent |
-|---|---|
-| Phase I (making something people want) | Customer Discovery + Customer Validation |
-| Phase II (marketing something people want) | Customer Creation |
-| Phase III (scaling) | Company Building |
-
-**Where they complement:**
-- Four Steps provides the Market Type framework that Traction lacks. Market Type should INFORM channel selection:
-
-| Market Type | Best Traction Channels |
-|---|---|
-| **Existing** | SEM, SEO, Sales, Trade Shows (demand already exists) |
-| **New** | Content Marketing, Speaking, Community, Targeting Blogs (education needed) |
-| **Resegmented (low-cost)** | SEM (long-tail), Affiliate, Social Ads (price-conscious segments) |
-| **Resegmented (niche)** | Targeting Blogs, Community, Trade Shows (niche audiences) |
-
-- Four Steps says WHEN to scale marketing (after Customer Validation). Traction says HOW to test channels even before that (50% rule for traction testing in parallel with product development).
-- Four Steps' earlyvangelist profiles tell you WHO to target. Traction tells you WHERE to reach them.
-
-**Where they create tension:**
-- Four Steps says "no serious marketing spending until the company has a proven and repeatable sales roadmap." Traction says "spend 50% of your time on traction from day one."
-- Resolution: Traction's 50% rule during Phase I is about TESTING channels cheaply, not about spending heavily on marketing. The cheap tests (~$250) are compatible with Four Steps' cash-preservation advice. Scale spending only after validation (which aligns with Four Steps' Customer Creation step).
-
-**Integration rule:** Use Four Steps to determine Market Type and validate the business model. Use Traction's Bullseye Framework within Customer Creation (Step 3) to systematically select and test acquisition channels. Market Type should be an input to channel selection.
+**结合规则：** 用 Lean Startup 验证价值假设与增长假设，用 Traction 找到并优化具体获客渠道。增长引擎决定探索哪类渠道，靶心决定测试哪个具体渠道。
 
 ---
 
-### Traction --> $100M Leads
+<a id="traction----four-steps-to-the-epiphany"></a>
+### Traction → Four Steps to the Epiphany
 
-**$100M Leads is the detailed tactical playbook for several of Traction's 19 channels.**
+**Traction 将 Four Steps 的“客户创造”转为具体操作。**
 
-| Dimension | Traction | $100M Leads |
-|---|---|---|
-| **Scope** | All 19 channels, selection framework | Deep dive on lead generation tactics |
-| **Depth** | Overview of each channel + selection methodology | Detailed playbooks for specific channels |
-| **Focus** | Which channel to use | How to maximize each channel's output |
+| 维度 | Traction | Four Steps |
+|------|----------|------------|
+| **焦点** | 找获客渠道 | 完整客户发展过程 |
+| **范围** | 渠道选择与测试 | 探索 → 验证 → 创造 → 建设 |
+| **时机** | 按 50% 规则贯穿全程，验证后尤其重要 | 第三步客户创造最接近 |
+| **市场类型** | 未涉及 | 改变一切的主变量 |
 
-**Where they overlap:**
-- Both cover paid ads, content marketing, outbound outreach, and referral/affiliate strategies
-- Both emphasize testing and measurement
-- Both distinguish between different types of lead generation
+**一致之处：**
+- 都反对发布后才考虑客户。
+- 都要求创始人直接参与早期获客。
+- Traction 三阶段大致对应 Four Steps：
 
-**Where they complement:**
-- Traction's Bullseye Framework identifies WHICH channel to pursue
-- $100M Leads provides the detailed tactical playbook for HOW to execute within that channel
-- Traction is broad (19 channels); $100M Leads is deep (fewer channels, more detail)
-- $100M Leads covers "warm outreach" and "cold outreach" in more operational detail than Traction's Sales chapter
+| Traction 阶段 | Four Steps 对应 |
+|---------------|----------------|
+| 第一阶段，做出人们想要的东西 | 客户探索 + 客户验证 |
+| 第二阶段，营销人们想要的东西 | 客户创造 |
+| 第三阶段，扩大规模 | 公司建设 |
 
-**Integration rule:** Use Traction's Bullseye to select your channel. Use $100M Leads for the detailed execution playbook once you've committed to a channel. Traction is the strategist; $100M Leads is the operator.
+**互补之处：**
+- Four Steps 提供 Traction 缺少的市场类型框架，应作为渠道选择依据：
 
----
+| 市场类型 | 最佳增长渠道 |
+|----------|--------------|
+| **现有市场** | SEM、SEO、销售、展会，需求已存在 |
+| **新市场** | 内容、演讲、社群、博客触达，需要教育 |
+| **重新细分，低价** | 长尾 SEM、联盟、社交广告，面向价格敏感群体 |
+| **重新细分，利基** | 博客触达、社群、展会，面向利基受众 |
 
-### Traction --> Crossing the Chasm
+- Four Steps 告诉你何时扩大营销，即客户验证后；Traction 告诉你此前如何用 50% 规则，与产品开发并行测试渠道。
+- Four Steps 的早期布道者画像告诉你找谁；Traction 告诉你在哪里找到。
 
-**Traction's Phase I/II/III maps to the Technology Adoption Life Cycle.**
+**张力：**
+- Four Steps 主张“证明并形成可重复销售路线之前，不做大额营销投入”，Traction 主张第一天起用 50% 时间做增长。
+- 解法：第一阶段的 50% 是低成本测试渠道，不是重金营销。约 250 美元的测试符合保现金建议。验证后再扩大，正好对应客户创造。
 
-| Dimension | Traction | Crossing the Chasm |
-|---|---|---|
-| **Focus** | Channel selection across all phases | Crossing from early adopters to mainstream |
-| **Phase mapping** | Phase I = early adopters, Phase II = chasm-crossing, Phase III = mainstream | Pre-chasm -> Chasm -> Post-chasm |
-
-**Where they complement:**
-- Crossing the Chasm's beachhead strategy informs Traction's channel selection: which channels reach your beachhead segment specifically?
-- Traction's Bullseye can be run separately for pre-chasm (visionaries) and post-chasm (pragmatists) - different channels work for each
-- Crossing the Chasm's "whole product" concept affects which channels are viable: you can't scale a channel if the product isn't complete enough for mainstream
-
-**Pre-chasm vs. post-chasm channel differences:**
-
-| Pre-Chasm (Visionaries) | Post-Chasm (Pragmatists) |
-|---|---|
-| Speaking, Targeting Blogs, Community | SEO, SEM, Trade Shows, Sales |
-| Unconventional PR, Offline Events | Content Marketing, Affiliate |
-| Direct founder outreach | Scalable, measurable channels |
-
-**Integration rule:** Determine whether you're pre-chasm or post-chasm (Crossing the Chasm). Run Traction's Bullseye with that context - the right channels differ dramatically based on which side of the chasm you're on.
+**结合规则：** 用 Four Steps 确定市场类型、验证商业模式。在第三步客户创造中使用靶心框架系统选择和测试渠道，并将市场类型作为输入。
 
 ---
 
-### Traction --> Obviously Awesome
+<a id="traction----100m-leads"></a>
+### Traction → $100M Leads
 
-| Dimension | Traction | Obviously Awesome |
-|---|---|---|
-| **Focus** | Which channels to use for acquisition | How to position the product for those channels |
-| **Messaging** | Briefly covered (ad copy, landing pages) | Core focus (positioning, value proposition) |
+**$100M Leads 是 Traction 部分渠道的详细战术手册。**
 
-**Where they complement:**
-- Obviously Awesome's positioning informs Traction's creative: ad copy, landing page messaging, PR angles, blog post topics
-- Traction's channel testing can validate positioning: does this positioning convert better in ads? In blog outreach? In sales conversations?
-- Poor positioning will cause every traction channel to underperform. Fix positioning first (Obviously Awesome), then test channels (Traction).
+| 维度 | Traction | $100M Leads |
+|------|----------|-------------|
+| **范围** | 全部 19 渠道与选择框架 | 深入线索生成战术 |
+| **深度** | 各渠道概览 + 选择方法 | 特定渠道详细打法 |
+| **焦点** | 用哪个渠道 | 如何最大化每个渠道产出 |
 
-**Integration rule:** Get positioning right BEFORE running Bullseye tests. If every channel test fails, the problem may be positioning, not channels. Use Obviously Awesome to craft the message, then Traction to find the delivery mechanism.
+**重叠之处：**
+- 都覆盖付费广告、内容、主动触达、推荐／联盟。
+- 都强调测试和衡量。
+- 都区分不同线索生成类型。
 
----
+**互补之处：**
+- 靶心确定追求哪个渠道。
+- $100M Leads 给出渠道内怎么执行的详细打法。
+- Traction 广，19 渠道；$100M Leads 深，渠道较少但细节更多。
+- $100M Leads 对熟人触达和冷触达的操作说明，比 Traction 销售章节更细。
 
-### Traction --> Mom Test
-
-| Dimension | Traction | Mom Test |
-|---|---|---|
-| **Focus** | Acquiring customers at scale | Learning from individual conversations |
-| **When** | Throughout, especially Phase II-III | Phase I (pre-product/market fit) |
-
-**Where they complement:**
-- Mom Test conversations during Phase I reveal WHERE customers currently look for solutions - this directly informs Bullseye brainstorming
-- Questions like "Where did you first hear about [competitor]?" and "What blogs/publications do you read?" give channel intelligence
-- Mom Test's "commitment and advancement" signals help validate whether a traction channel is producing REAL interest or just clicks
-
-**Integration rule:** Use Mom Test conversations to gather channel intelligence during customer discovery. Feed those insights into Traction's Bullseye brainstorm. The best channel is often one your customers tell you about during interviews.
+**结合规则：** 用靶心选渠道，承诺投入后用 $100M Leads 执行。Traction 是策略师，$100M Leads 是操盘手。
 
 ---
 
-### Traction --> SPIN Selling
+<a id="traction----crossing-the-chasm"></a>
+### Traction → Crossing the Chasm
 
-| Dimension | Traction | SPIN Selling |
-|---|---|---|
-| **Focus** | All 19 channels | Sales channel specifically |
-| **Sales methodology** | Brief overview (PNAME qualification, funnel structure) | Deep methodology for complex B2B sales |
+**Traction 的三阶段对应技术采用生命周期。**
 
-**Where they complement:**
-- Traction's Sales chapter (Channel 13) references SPIN Selling directly
-- SPIN provides the tactical methodology for executing Traction's Sales channel
-- Traction's funnel framework (Generate -> Qualify -> Close) maps to SPIN's progression
+| 维度 | Traction | Crossing the Chasm |
+|------|----------|--------------------|
+| **焦点** | 全阶段渠道选择 | 从早期采用者跨到主流 |
+| **阶段映射** | 第一阶段早期采用者、第二阶段跨鸿沟、第三阶段主流 | 鸿沟前 → 鸿沟 → 鸿沟后 |
 
-**Integration rule:** If Sales is your winning traction channel (from Bullseye), use SPIN Selling as the execution methodology within that channel.
+**互补之处：**
+- 滩头战略指导渠道选择：哪些渠道具体触达你的滩头？
+- 靶心可分别用于鸿沟前愿景者与鸿沟后实用主义者，两者有效渠道不同。
+- 完整产品影响渠道可行性：不够完整、无法服务主流时，不能放大渠道。
 
----
+**鸿沟前后的渠道差异：**
 
-### Traction --> $100M Offers
+| 鸿沟前，愿景者 | 鸿沟后，实用主义者 |
+|----------------|--------------------|
+| 演讲、博客触达、社群 | SEO、SEM、展会、销售 |
+| 非常规公关、线下活动 | 内容、联盟 |
+| 创始人直接触达 | 可规模化、可衡量渠道 |
 
-| Dimension | Traction | $100M Offers |
-|---|---|---|
-| **Focus** | Where to reach customers | What to offer them when you do |
-
-**Where they complement:**
-- Traction gets people to your door. $100M Offers makes the door impossible to walk past.
-- A great offer (Hormozi) amplifies every traction channel's performance
-- A great channel (Traction) amplifies every offer's reach
-- Neither works well without the other
-
-**Integration rule:** Design the offer ($100M Offers) and the channel (Traction) together. Test the offer through Bullseye channel tests - if the same offer works across multiple channels, the offer is strong. If no channel works, the problem may be the offer, not the channel.
+**结合规则：** 先判断身处鸿沟哪边，再带着这个背景运行靶心。正确渠道会因所处位置显著不同。
 
 ---
 
-### Traction --> Monetizing Innovation
+<a id="traction----obviously-awesome"></a>
+### Traction → Obviously Awesome
 
-| Dimension | Traction | Monetizing Innovation |
-|---|---|---|
-| **Pricing** | Briefly covered (CPA/LTV math) | Core focus (WTP-based pricing) |
+| 维度 | Traction | Obviously Awesome |
+|------|----------|-------------------|
+| **焦点** | 通过哪些渠道获客 | 如何为这些渠道定位产品 |
+| **信息表达** | 简要涉及广告、落地页 | 核心重点：定位、价值主张 |
 
-**Where they complement:**
-- Monetizing Innovation's pricing determines LTV, which determines which traction channels are affordable (LTV must exceed CPA)
-- Higher LTV (from better pricing) unlocks expensive traction channels (trade shows, direct sales, offline ads)
-- Lower LTV constrains you to cheap channels (viral, SEO, content)
+**互补之处：**
+- 定位指导广告、落地页、公关角度、博客主题。
+- 渠道测试验证定位：这个定位在广告、博客触达、销售对话中转化更好吗？
+- 定位不佳会拖累每个渠道。先修定位，再测渠道。
 
-**Integration rule:** Set pricing (Monetizing Innovation) before testing channels (Traction). Your LTV determines which channels are economically viable.
-
----
-
-### Traction --> Money Models
-
-| Dimension | Traction | Money Models |
-|---|---|---|
-| **Focus** | Which channel to acquire through | How fast a new customer pays back their acquisition cost |
-
-**Where they complement:**
-- Monetizing Innovation sets LTV; Money Models sets how much of that value returns in the first ~30 days — "is this customer worth acquiring" vs "can I afford to keep acquiring them without raising capital"
-- A channel can pass the LTV/CPA test and still starve a startup of cash if payback takes months and the channel needs continuous spend (paid ads) rather than one-time effort (content)
-- Expensive Phase III channels are the ones most gated by fast payback — self-funded acquisition is what makes doubling down on a winning channel sustainable without new investment
-
-**Integration rule:** Use Monetizing Innovation to confirm a channel's economics work on LTV. Use Money Models to confirm the cash arrives fast enough to fund the next acquisition before doubling down on a paid channel.
+**结合规则：** 运行靶心测试前先理清定位。如果所有渠道失败，问题可能是定位。用 Obviously Awesome 设计信息，用 Traction 寻找传递方式。
 
 ---
 
-## The Master Sequence
+<a id="traction----mom-test"></a>
+### Traction → Mom Test
+
+| 维度 | Traction | Mom Test |
+|------|----------|----------|
+| **焦点** | 规模化获客 | 从个人对话学习 |
+| **时机** | 全程，尤其第二、三阶段 | 产品市场匹配前的第一阶段 |
+
+**互补之处：**
+- 第一阶段对话揭示客户目前去哪找方案，直接帮助靶心头脑风暴。
+- “最初在哪听说竞品？”“读哪些博客／刊物？”提供渠道情报。
+- “承诺与推进”信号，帮助判断渠道带来的是真兴趣还是仅点击。
+
+**结合规则：** 客户探索时用 Mom Test 收集渠道情报，输入靶心头脑风暴。最佳渠道往往是客户访谈中告诉你的。
+
+---
+
+<a id="traction----spin-selling"></a>
+### Traction → SPIN Selling
+
+| 维度 | Traction | SPIN Selling |
+|------|----------|--------------|
+| **焦点** | 全部 19 渠道 | 专注销售渠道 |
+| **销售方法** | PNAME 资格筛选、漏斗结构简述 | 复杂 B2B 销售的深入方法 |
+
+**互补之处：**
+- Traction 第十三渠道销售直接引用 SPIN。
+- SPIN 提供执行销售渠道的战术方法。
+- 生成 → 筛选 → 成交的漏斗，对应 SPIN 推进过程。
+
+**结合规则：** 靶心确认销售是胜出渠道后，用 SPIN 作为内部执行方法。
+
+---
+
+<a id="traction----100m-offers"></a>
+### Traction → $100M Offers
+
+| 维度 | Traction | $100M Offers |
+|------|----------|--------------|
+| **焦点** | 在哪里触达客户 | 触达后提供什么 |
+
+**互补之处：**
+- Traction 把人带到门口，$100M Offers 让他们无法径直走过。
+- 好报价方案放大每个渠道表现。
+- 好渠道扩大每个方案覆盖。
+- 两者缺一，效果都不好。
+
+**结合规则：** 一起设计方案与渠道。用靶心测试方案：同一方案在多渠道有效，说明方案强；所有渠道无效，问题可能是方案。
+
+---
+
+<a id="traction----monetizing-innovation"></a>
+### Traction → Monetizing Innovation
+
+| 维度 | Traction | Monetizing Innovation |
+|------|----------|-----------------------|
+| **定价** | 简要涉及 CPA／LTV 计算 | 核心重点，按支付意愿定价 |
+
+**互补之处：**
+- 定价决定 LTV，进而决定负担得起哪些渠道，LTV 必须超过 CPA。
+- 更好定价带来的高 LTV，打开昂贵渠道：展会、直销、线下广告。
+- 低 LTV 迫使你选择便宜渠道：病毒、SEO、内容。
+
+**结合规则：** 先定价再测渠道，LTV 决定经济可行性。
+
+---
+
+<a id="traction----money-models"></a>
+### Traction → Money Models
+
+| 维度 | Traction | Money Models |
+|------|----------|--------------|
+| **焦点** | 从哪个渠道获客 | 新客户多快偿还获客成本 |
+
+**互补之处：**
+- Monetizing Innovation 确定 LTV；Money Models 决定前约 30 天回收多少价值。前者问“值得获客吗”，后者问“不融资能持续获客吗”。
+- 渠道即使通过 LTV／CPA 测试，若回本数月、需要持续广告投入而非内容的一次性努力，仍会耗尽现金。
+- 昂贵的第三阶段渠道最受快速回本限制。获客自我供血，才能不依赖新投资持续加码有效渠道。
+
+**结合规则：** 用 Monetizing Innovation 确认 LTV 经济账成立；加码付费渠道前，用 Money Models 确认现金回来得够快，能支付下一次获客。
+
+---
+
+<a id="the-master-sequence"></a>
+## 总体顺序
 
 ```
-PHASE 1: SEARCH (Pre-product/market fit)
-|-- Four Steps: Customer Discovery + Customer Validation
-|-- Lean Startup: Build-Measure-Learn loop, MVP
-|-- Mom Test: conversation technique (also gather channel intelligence)
-|-- Traction: 50% rule - test channels in parallel with product (Phase I channels)
-|-- Obviously Awesome: positioning (informs traction creative)
-+-- $100M Offers: offer design (informs traction tests)
+阶段一：搜索，产品市场匹配之前
+├─ Four Steps：客户探索 + 验证
+├─ Lean Startup：构建—衡量—学习、MVP
+├─ Mom Test：对话技巧，同时收集渠道情报
+├─ Traction：50% 规则，产品与渠道并行测试，采用第一阶段渠道
+├─ Obviously Awesome：定位，指导增长素材
+└─ $100M Offers：报价方案，指导增长测试
 
-PHASE 2: LAUNCH (Post-validation, pre-mainstream)
-|-- Four Steps: Customer Creation
-|-- Traction: Full Bullseye Framework, Phase II channels
-|-- $100M Leads: tactical execution within chosen channel
-|-- Monetizing Innovation: pricing (determines LTV, constrains channel choice)
-|-- Money Models: sequences offers (sets affordable CAC via 30-day payback)
-+-- Crossing the Chasm: beachhead selection (informs channel targeting)
+阶段二：发布，验证之后、主流之前
+├─ Four Steps：客户创造
+├─ Traction：完整靶心框架、第二阶段渠道
+├─ $100M Leads：选定渠道内的战术执行
+├─ Monetizing Innovation：定价决定 LTV，约束渠道选择
+├─ Money Models：排列报价方案，通过 30 天回本决定可承担 CAC
+└─ Crossing the Chasm：滩头选择，指导渠道定向
 
-PHASE 3: SCALE (Mainstream growth)
-|-- Four Steps: Company Building
-|-- Traction: Re-run Bullseye for scaling channels, Phase III
-|-- Crossing the Chasm: bowling alley expansion
-+-- Blue Ocean Strategy: market space analysis (if commoditizing)
+阶段三：规模化，主流增长
+├─ Four Steps：公司建设
+├─ Traction：重跑靶心寻找规模渠道，第三阶段
+├─ Crossing the Chasm：保龄球道式扩展
+└─ Blue Ocean Strategy：同质化时分析市场空间
 ```
 
 ---
 
-## Channel Selection by Business Type
+<a id="channel-selection-by-business-type"></a>
+## 按业务类型选渠道
 
-| Business Type | Primary Channels | Secondary Channels |
-|---|---|---|
-| **B2B Enterprise** ($50K+ deals) | Sales, Trade Shows, Speaking, BD | Content Marketing, SEO |
-| **B2B SaaS** ($500-$5K/yr) | SEM, Content Marketing, Sales, SEO | Email, Engineering as Marketing |
-| **B2B SMB** (<$500/yr) | SEM, Content Marketing, Affiliate | Social Ads, Email, SEO |
-| **Consumer App** (free/freemium) | Viral, Existing Platforms, Social Ads | PR, Content, Community |
-| **Consumer Subscription** | Content, Email, SEM, Social Ads | Viral, Affiliate, SEO |
-| **E-commerce** | SEM, SEO, Social Ads, Affiliate | Email, Offline Ads, PR |
-| **Marketplace** | Community, Existing Platforms, SEO | Content, Social Ads, PR |
-| **Developer Tool** | Community, Content, Engineering as Marketing | Targeting Blogs, SEO, Speaking |
-| **Physical Product** | Trade Shows, PR, Offline Ads, Retail BD | Social Ads, SEM, Affiliate |
+| 业务类型 | 主要渠道 | 次要渠道 |
+|----------|----------|----------|
+| **B2B 企业级，5 万美元以上交易** | 销售、展会、演讲、BD | 内容、SEO |
+| **B2B SaaS，每年 500—5,000 美元** | SEM、内容、销售、SEO | 邮件、工程营销 |
+| **B2B 中小企业，每年低于 500 美元** | SEM、内容、联盟 | 社交广告、邮件、SEO |
+| **消费应用，免费／免费增值** | 病毒、现有平台、社交广告 | 公关、内容、社群 |
+| **消费订阅** | 内容、邮件、SEM、社交广告 | 病毒、联盟、SEO |
+| **电商** | SEM、SEO、社交广告、联盟 | 邮件、线下广告、公关 |
+| **平台市场** | 社群、现有平台、SEO | 内容、社交广告、公关 |
+| **开发者工具** | 社群、内容、工程营销 | 博客触达、SEO、演讲 |
+| **实体产品** | 展会、公关、线下广告、零售 BD | 社交广告、SEM、联盟 |
 
-**Caveat:** These are starting points for brainstorming, not prescriptions. The whole point of Bullseye is that the winning channel is often the one you didn't expect. Use this table to inform your brainstorm, then test empirically.
+**提醒：** 这些是头脑风暴起点，不是处方。靶心的要义就是，胜出渠道往往出乎意料。用表格启发思考，再做实证测试。

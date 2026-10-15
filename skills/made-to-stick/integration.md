@@ -1,243 +1,245 @@
-# Integration - Made to Stick
+> 中文译文｜[英文对照](integration.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/made-to-stick/integration.md)。原项目整理：AgentSeal；书籍来源：《Made to Stick》— Chip Heath 与 Dan Heath；AI 辅助翻译。
 
-## Relationship to Other Skills
+# 整合——Made to Stick
 
-### Made to Stick --> StoryBrand
+## 与其他技能的关系
 
-**Made to Stick is the quality layer. StoryBrand is the structure layer.**
+### Made to Stick → StoryBrand
 
-| Dimension | Made to Stick | StoryBrand |
+**Made to Stick 是质量层，StoryBrand 是结构层。**
+
+| 维度 | Made to Stick | StoryBrand |
 |---|---|---|
-| **Focus** | Making any message memorable | Structuring brand messaging as narrative |
-| **Core tool** | SUCCESs Checklist | SB7 Framework |
-| **Scope** | Any communication (pitch, memo, training, copy) | Brand-level marketing and sales messaging |
+| **重点** | 让任何信息令人难忘 | 把品牌信息组织成叙事 |
+| **核心工具** | SUCCESs 检查表 | SB7 框架 |
+| **范围** | 推介、备忘、培训、文案等任何沟通 | 品牌层面的营销销售表达 |
 
-**Where they align:**
-- Both fight the Curse of Knowledge / noise problem
-- Both demand the communicator empathize with the audience
-- Both prioritize simplicity and clarity
-- Made to Stick's "Simple" principle = StoryBrand's "if you confuse, you'll lose"
+**一致之处：**
+- 都对抗知识诅咒与噪声。
+- 都要求表达者共情受众。
+- 都优先简单、清晰。
+- Made to Stick 的“简单”，对应 StoryBrand 的“让人困惑，就会失去客户”。
 
-**Where they complement:**
-- StoryBrand provides the structural skeleton (7 elements in order)
-- Made to Stick ensures each element is individually sticky
-- SUCCESs is the quality control layer over each SB7 element:
+**互补之处：**
+- StoryBrand 提供按序排列的七元素骨架。
+- Made to Stick 让每个元素都具有黏性。
+- SUCCESs 是各 SB7 元素的质量控制层：
 
-| SB7 Element | SUCCESs Quality Check |
+| SB7 元素 | SUCCESs 质量检查 |
 |---|---|
-| Character (desire) | Is it Simple? One desire, not ten. |
-| Problem (villain) | Is it Concrete? Can you picture the villain? |
-| Guide (authority) | Is it Credible? Sinatra Test? Anti-authority? Testable? |
-| Plan | Is it Concrete? Specific, numbered steps? |
-| CTA | Is it Simple? One clear action? |
-| Failure | Is it Emotional? Individual stakes, not statistics? |
-| Success | Is it a Story? Can they picture the transformation? |
+| 角色与愿望 | 简单吗？一个愿望，不是十个 |
+| 问题与反派 | 具体吗？能想象反派吗 |
+| 向导与权威 | 可信吗？能过辛纳屈测试吗？有非传统权威、可验证证据吗 |
+| 计划 | 具体吗？有明确编号步骤吗 |
+| 行动号召 | 简单吗？只有一个清晰行动吗 |
+| 失败 | 有情感吗？讲个体利害，而非统计吗 |
+| 成功 | 是故事吗？能想象转变吗 |
 
-**Where they create tension:**
-- Made to Stick says "stories are the most powerful element" and encourages long-form narrative. StoryBrand says "very few words" on websites. Resolution: use StoryBrand's concise structure for websites and ads. Use Made to Stick's full story principles for emails, presentations, case studies, and sales conversations.
-- Made to Stick's "Unexpected" principle (violate schemas) can conflict with StoryBrand's predictable story structure. Resolution: use the SB7 structure as the container, but make individual elements surprising (unexpected villain, counterintuitive success picture).
+**张力所在：**
+- Made to Stick 说故事最有力，鼓励长篇叙事；StoryBrand 要求网站少字。处理方式：网站、广告用简洁 SB7 结构，邮件、演示、案例、销售对话用完整故事原则。
+- Made to Stick 的“意外”要打破图式，可能与 StoryBrand 可预测的故事结构冲突。处理方式：SB7 作容器，单个元素制造惊讶，如意外的反派、反直觉的成功图景。
 
-**Integration rule:** Structure with SB7. Polish with SUCCESs. Every BrandScript element should pass the SUCCESs quality check.
-
----
-
-### Made to Stick --> Obviously Awesome
-
-**Made to Stick makes your positioning memorable. Obviously Awesome makes it accurate.**
-
-| Dimension | Made to Stick | Obviously Awesome |
-|---|---|---|
-| **Focus** | Message stickiness | Competitive positioning |
-| **Core question** | "Will they remember it?" | "Is it positioned correctly?" |
-
-**Where they complement:**
-- Obviously Awesome identifies the competitive context. Made to Stick ensures it sticks.
-- The positioning statement from Obviously Awesome can be run through SUCCESs:
-  - Is it Simple enough? (One core message?)
-  - Is it Unexpected? (Does the category choice surprise?)
-  - Is it Concrete? (Specific value, not abstract claims?)
-  - Is it Credible? (Proof points, not assertions?)
-
-- Made to Stick's "generative analogy" concept directly serves Obviously Awesome's category choice:
-  - "CRM for consultants" is a generative analogy - it imports the CRM schema and modifies it
-  - "A totally new category of relationship intelligence" is abstract and non-sticky
-
-**Where they create tension:**
-- Obviously Awesome sometimes requires complex positioning nuances (competitive alternatives, market context). Made to Stick demands simplicity. Resolution: do the complex positioning analysis (Obviously Awesome), then distill it into a simple, sticky message (Made to Stick). The analysis informs the message; the analysis IS NOT the message.
-
-**Integration rule:** Position first (Obviously Awesome), then make it stick (Made to Stick). Use generative analogies and high-concept pitches to compress complex positioning into sticky formats.
+**整合规则：**SB7 搭结构，SUCCESs 打磨。每个 BrandScript 元素都要通过质量检查。
 
 ---
 
-### Made to Stick --> Traction
+### Made to Stick → Obviously Awesome
 
-**Made to Stick makes every traction channel more effective.**
+**Made to Stick 让定位好记，Obviously Awesome 让定位准确。**
 
-| Dimension | Made to Stick | Traction |
+| 维度 | Made to Stick | Obviously Awesome |
 |---|---|---|
-| **Focus** | Message quality | Channel selection and testing |
-| **Core question** | "Does the message stick?" | "Which channel works?" |
+| **重点** | 信息黏性 | 竞争定位 |
+| **核心问题** | “会记住吗？” | “定位正确吗？” |
 
-**Where they complement:**
-- Every Traction channel benefits from sticky messaging:
+**互补之处：**
+- Obviously Awesome 识别竞争背景，Made to Stick 让人记住。
+- 定位陈述可通过 SUCCESs 检查：
+  - 足够简单吗，只有一个核心吗？
+  - 意外吗，品类选择令人惊讶吗？
+  - 具体吗，讲明确价值而非抽象主张吗？
+  - 可信吗，有证据而非断言吗？
 
-| Traction Channel | Key SUCCESs Principle |
+- 生成性类比直接支持品类选择：
+  - “面向顾问的 CRM”引入 CRM 图式并调整，是生成性类比。
+  - “全新品类的关系智能”抽象又难记。
+
+**张力所在：**
+- Obviously Awesome 有时需要复杂细微的定位分析，如替代方案、市场背景；Made to Stick 要求简单。处理方式：先做复杂分析，再提炼成简单、易记的信息。分析为信息提供依据，但分析本身不是要传递的信息。
+
+**整合规则：**先定位，再提高黏性。用生成性类比、高概念推介，把复杂定位压缩为易记形式。
+
+---
+
+### Made to Stick → Traction
+
+**Made to Stick 让每种增长渠道更有效。**
+
+| 维度 | Made to Stick | Traction |
+|---|---|---|
+| **重点** | 信息质量 | 渠道选择与测试 |
+| **核心问题** | “信息记得住吗？” | “哪个渠道有效？” |
+
+**互补之处：**
+- 每种 Traction 渠道都受益于有黏性的表达：
+
+| 增长渠道 | 关键 SUCCESs 原则 |
 |---|---|
-| PR / Unconventional PR | Unexpected (the hook for press coverage) |
-| Content Marketing | Stories + Concrete (why people share and remember) |
-| SEM / Social Ads | Simple (clarity in limited characters) |
-| Email Marketing | Emotional (individual stories, not stats) + Unexpected (subject lines) |
-| SEO | Concrete (specific, searchable language vs. abstract jargon) |
-| Speaking / Conferences | Stories (speakers vs. stickers: 63% remember stories, 5% stats) |
-| Sales | Credible (Sinatra Test, testable credentials) + Stories (springboard stories) |
-| Community Building | Connection Plot stories (bridge gaps, build belonging) |
+| 公关／非常规公关 | 意外，获得报道的钩子 |
+| 内容营销 | 故事 + 具体，让人分享、记住 |
+| 搜索营销／社交广告 | 简单，在有限字数内清晰表达 |
+| 邮件营销 | 情感，用个人故事而非统计；意外，用于主题行 |
+| SEO | 具体，明确可搜索的语言，而非抽象行话 |
+| 演讲／会议 | 故事，63% 记得故事，仅 5% 记得统计 |
+| 销售 | 可信，辛纳屈测试与可验证证据；故事，跳板故事 |
+| 社群建设 | 连接情节，跨越差异、建立归属 |
 
-- Traction testing can validate message stickiness: if the same message works across multiple channels, it's sticky. If it fails everywhere, the message (not the channel) may be the problem.
+- 渠道测试可验证信息黏性：同一信息跨渠道有效，说明黏性强；处处失败，可能是信息而非渠道的问题。
 
-**Integration rule:** Select channels (Traction). Then craft sticky messages for each channel (Made to Stick). If channel tests fail, diagnose whether the problem is channel fit or message stickiness.
-
----
-
-### Made to Stick --> $100M Offers
-
-| Dimension | Made to Stick | $100M Offers |
-|---|---|---|
-| **Focus** | Message memorability | Offer design |
-
-**Where they complement:**
-- An irresistible offer (Hormozi) that nobody remembers is wasted
-- Made to Stick ensures the offer's value proposition sticks in the prospect's mind
-- $100M Offers' "Grand Slam" offer features map to SUCCESs:
-  - Dream Outcome → Tell as a Story (Challenge Plot: customer overcomes problem)
-  - Perceived Likelihood → Make Credible (testimonials, Sinatra Test)
-  - Time Delay → Make Concrete ("results in 30 days" not "fast results")
-  - Effort & Sacrifice → Make Unexpected ("zero effort required" violates schema)
-
-**Integration rule:** Design the offer ($100M Offers), then make it sticky (Made to Stick). The offer determines value. The messaging determines whether anyone remembers and shares that value.
+**整合规则：**先选渠道，再为各渠道设计有黏性的信息。测试失败时，诊断是渠道匹配还是信息黏性问题。
 
 ---
 
-### Made to Stick --> Lean Startup
+### Made to Stick → $100M Offers
 
-| Dimension | Made to Stick | Lean Startup |
+| 维度 | Made to Stick | $100M Offers |
 |---|---|---|
-| **Focus** | Communication | Product development and validation |
+| **重点** | 信息可记忆性 | 报价设计 |
 
-**Where they complement:**
-- Lean Startup's hypothesis testing benefits from sticky messaging:
-  - A landing page MVP with sticky copy tests the value hypothesis more accurately than one with generic copy
-  - If the landing page doesn't convert, is it the value hypothesis or the messaging? Made to Stick helps isolate the variable.
-- Lean Startup's "pivot" communication to the team benefits from Commander's Intent and springboard stories
-- Innovation accounting presentations to stakeholders need Made to Stick principles to be persuasive
+**互补之处：**
+- Hormozi 的报价再难以拒绝，如果没人记得，也是浪费。
+- Made to Stick 确保价值主张留在潜在客户脑中。
+- “全垒打报价”的要素对应 SUCCESs：
+  - 梦想结果 → 用故事讲，挑战情节是客户克服问题。
+  - 感知实现可能性 → 增加可信度，如证言、辛纳屈测试。
+  - 时间延迟 → 具体，“三十天见效”而非“快速见效”。
+  - 努力与牺牲 → 意外，“无需任何努力”打破图式。
 
-**Where they create tension:**
-- Lean Startup says "move fast, test quickly." Made to Stick requires craft and iteration on messaging. Resolution: for MVP-stage tests, a rough application of SUCCESs is enough (concrete, simple, one story). Save polished application for post-validation messaging.
-
-**Integration rule:** In early stages, use Simple + Concrete from Made to Stick to ensure landing pages and MVPs clearly communicate value. Save the full SUCCESs treatment for post-validation messaging and fundraising.
+**整合规则：**先设计报价，再提高黏性。报价决定价值，表达决定有没有人记住并分享价值。
 
 ---
 
-### Made to Stick --> SPIN Selling
+### Made to Stick → Lean Startup
 
-| Dimension | Made to Stick | SPIN Selling |
+| 维度 | Made to Stick | Lean Startup |
 |---|---|---|
-| **Focus** | Message stickiness | Sales conversation methodology |
+| **重点** | 沟通 | 产品开发与验证 |
 
-**Where they complement:**
-- SPIN's Need-Payoff questions naturally generate Stories (the customer imagines their own success scenario - mental simulation)
-- Made to Stick's Emotional principle warns against analytical framing in sales:
-  - Leading with ROI calculations (statistics) can suppress the emotional buying impulse
-  - Better to let the customer tell THEIR story of success (Emotional + Stories), then support with numbers (Credible)
-- SPIN's Implication questions map to Made to Stick's "gap theory" - they open a knowledge/emotional gap the customer wants to close
+**互补之处：**
+- 精益创业的假设测试受益于有黏性的表达：
+  - 有黏性文案的落地页 MVP，比泛泛文案更准确地测试价值假设。
+  - 不转化究竟因价值假设还是表达？Made to Stick 帮助分离变量。
+- 向团队解释转型，可用指挥官意图和跳板故事。
+- 向利益相关者展示创新核算，需要这些原则增强说服力。
 
-**Integration rule:** Use SPIN to structure the conversation. Use Made to Stick principles to make each stage more impactful: Unexpected questions in Situation/Problem stages, Emotional deepening in Implication, Stories in Need-Payoff.
+**张力所在：**
+- Lean Startup 主张快速行动测试，Made to Stick 要求打磨迭代。处理方式：MVP 阶段粗略应用即可，保证具体、简单、有一个故事；验证后再精细打磨。
+
+**整合规则：**早期用简单与具体，让落地页、MVP 清楚传达价值；完整 SUCCESs 留到验证后表达与融资时使用。
 
 ---
 
-### Made to Stick --> Mom Test
+### Made to Stick → SPIN Selling
 
-| Dimension | Made to Stick | Mom Test |
+| 维度 | Made to Stick | SPIN Selling |
 |---|---|---|
-| **Focus** | Making messages stick | Extracting honest feedback |
+| **重点** | 信息黏性 | 销售对话方法 |
 
-**Where they complement:**
-- Mom Test conversations are a goldmine for Concrete details and Stories
-- Customers describe their problems in concrete, sensory language ("I literally stayed up until 2 AM trying to figure out...")
-- These exact phrases become the sticky elements in your messaging
-- Mom Test's focus on specific past behavior (not hypothetical opinions) naturally produces Concrete material
+**互补之处：**
+- 需求收益问题自然产生故事：客户想象自己的成功场景，进行心理模拟。
+- 情感原则提醒销售不要过早采用分析框架：
+  - 一开始算投资回报，可能压抑情绪性购买动机。
+  - 先让客户讲自己的成功故事，再用数字支持，结合情感、故事与可信。
+- 影响问题对应缺口理论：打开客户想填补的知识或情绪缺口。
 
-**Integration rule:** Use Mom Test to gather the raw material. Use Made to Stick to craft it into sticky messages. The best sticky messages use the customer's own concrete, emotional language.
+**整合规则：**SPIN 搭对话结构，Made to Stick 提升各阶段影响：现状／问题阶段问意外问题，影响阶段深化情感，需求收益阶段引出故事。
 
 ---
 
-### Made to Stick --> Influence
+### Made to Stick → Mom Test
 
-| Dimension | Made to Stick | Influence |
+| 维度 | Made to Stick | Mom Test |
 |---|---|---|
-| **Focus** | Memory and understanding | Persuasion and compliance |
+| **重点** | 让信息被记住 | 提取诚实反馈 |
 
-**Where they complement:**
-- Influence's principles require sticky delivery to be effective:
-  - Social Proof is more persuasive when presented with vivid details (Concrete)
-  - Scarcity is more motivating when presented as a Story (a specific person who missed out)
-  - Authority is more credible when it passes the Sinatra Test
-  - Reciprocity works better when the free gift is Unexpected
+**互补之处：**
+- Mom Test 对话是具体细节与故事的金矿。
+- 客户用感官、具体语言描述问题：“我真的熬到凌晨两点，还在试图搞懂……”
+- 这些原话会成为表达中的黏性元素。
+- Mom Test 关注具体过去行为，而非假设观点，自然产生具体素材。
 
-- Made to Stick's anti-authority concept (Pam Laffin) extends Influence's authority principle: sometimes the most persuasive authority is not the expert but the person with real experience
-
-**Integration rule:** Use Influence to determine which persuasion lever to pull. Use Made to Stick to ensure the lever pull is memorable. A persuasion technique nobody remembers doesn't produce lasting behavior change.
+**整合规则：**用 Mom Test 收集原料，再用 Made to Stick 制成易记信息。最好的信息使用客户自己的具体、情感语言。
 
 ---
 
-### Made to Stick --> Four Steps to the Epiphany
+### Made to Stick → Influence
 
-| Dimension | Made to Stick | Four Steps |
+| 维度 | Made to Stick | Influence |
 |---|---|---|
-| **Focus** | Communication | Customer development process |
+| **重点** | 记忆与理解 | 说服与顺从 |
 
-**Where they complement:**
-- Customer Development requires internal communication of learnings:
-  - Founders must convince teams to pivot (springboard stories)
-  - Customer Validation results must be communicated to investors (Credible: Sinatra Test credentials)
-  - Customer Creation messaging must be sticky to cut through market noise
+**互补之处：**
+- Influence 原则需要有黏性的呈现才有效：
+  - 社会认同加生动细节，更有说服力，对应具体。
+  - 稀缺用某个错失机会者的故事呈现，更能激励。
+  - 权威通过辛纳屈测试，更可信。
+  - 免费礼物带来意外时，互惠更有效。
 
-- Four Steps' Market Type framework affects which SUCCESs principles matter most:
+- Pam Laffin 所代表的非传统权威概念，扩展了 Influence 权威原则：最有说服力的有时不是专家，而是真正经历过的人。
 
-| Market Type | Primary SUCCESs Needs |
+**整合规则：**Influence 决定使用哪种说服杠杆，Made to Stick 确保这次运用令人记住。无人记得的说服技巧，不能带来持久行为改变。
+
+---
+
+### Made to Stick → Four Steps to the Epiphany
+
+| 维度 | Made to Stick | Four Steps |
+|---|---|---|
+| **重点** | 沟通 | 客户发展流程 |
+
+**互补之处：**
+- 客户发展需要内部传达学习成果：
+  - 创始人须说服团队转型，用跳板故事。
+  - 客户验证结果须传达给投资者，用辛纳屈测试等可信证据。
+  - 客户创造阶段的信息，须有黏性才能穿透市场噪声。
+
+- Four Steps 的市场类型影响最重要的 SUCCESs 原则：
+
+| 市场类型 | 首要黏性需要 |
 |---|---|
-| **Existing Market** | Credible (beat incumbents on proof) + Unexpected (differentiate) |
-| **New Market** | Simple (explain the category) + Concrete (make the abstract tangible) |
-| **Resegmented** | Unexpected (reframe the category) + Stories (show the new perspective) |
+| **现有市场** | 可信，用证据胜过在位者；意外，形成区分 |
+| **新市场** | 简单，解释品类；具体，让抽象可触及 |
+| **重新细分市场** | 意外，重构品类；故事，展示新视角 |
 
-**Integration rule:** Determine Market Type (Four Steps). Then emphasize the SUCCESs principles most needed for that market type. New markets need simplicity and concreteness. Existing markets need credibility and surprise.
+**整合规则：**先确定市场类型，再强调最需要的原则。新市场需要简单与具体，现有市场需要可信与惊讶。
 
 ---
 
-## The Communication Stack
+## 沟通分层
 
+```text
+第一层：战略，传达什么。
+|-- Obviously Awesome：竞争定位。
+|-- Four Steps：市场类型与客户发展阶段。
++-- Lean Startup：假设与验证结果。
+
+第二层：结构，怎样组织。
+|-- StoryBrand：营销的 SB7 叙事结构。
+|-- SPIN Selling：销售的对话结构。
++-- $100M Offers：报价包装结构。
+
+第三层：黏性，怎样令人难忘。← Made to Stick 位于这里。
+|-- 简单：找到核心。
+|-- 意外：获取并保持注意。
+|-- 具体：让它可触及。
+|-- 可信：让它值得相信。
+|-- 情感：让人在意。
++-- 故事：让人行动。
+
+第四层：传递，在哪里表达。
+|-- Traction：渠道选择。
+|-- $100M Leads：渠道执行。
++-- Influence：传递中的说服原则。
 ```
-LAYER 1: STRATEGY (what to communicate)
-|-- Obviously Awesome: competitive positioning
-|-- Four Steps: market type and customer development stage
-+-- Lean Startup: hypotheses and validation results
 
-LAYER 2: STRUCTURE (how to organize it)
-|-- StoryBrand: SB7 narrative structure for marketing
-|-- SPIN Selling: conversation structure for sales
-+-- $100M Offers: offer structure for packaging
-
-LAYER 3: STICKINESS (how to make it memorable)   ← MADE TO STICK LIVES HERE
-|-- Simple: find the core
-|-- Unexpected: get and hold attention
-|-- Concrete: make it tangible
-|-- Credible: make it believable
-|-- Emotional: make them care
-+-- Stories: make them act
-
-LAYER 4: DELIVERY (where to communicate)
-|-- Traction: channel selection
-|-- $100M Leads: channel execution
-+-- Influence: persuasion principles in delivery
-```
-
-Made to Stick is Layer 3 - the quality assurance layer that sits between strategy/structure (what you say and how it's organized) and delivery (where you say it). It ensures that whatever comes out of Layers 1 and 2 is actually memorable by the time it reaches Layer 4.
+Made to Stick 是第三层，位于战略／结构——说什么、怎样组织——与传递——在哪里说——之间的质量保证层。它确保第一、二层的输出，抵达第四层时确实令人难忘。

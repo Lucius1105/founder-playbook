@@ -1,231 +1,236 @@
-# SPIN Selling - Case Studies & Canonical Examples
+> 中文译文｜[英文对照](cases.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/spin-selling/cases.md)。原项目整理：AgentSeal；书籍来源：《SPIN Selling》— Neil Rackham；AI 辅助翻译。
 
-The teaching cases referenced from [SKILL.md](SKILL.md). The Easiflo example is the most valuable teaching artifact in the book.
+# SPIN 销售——案例研究与经典示例
 
----
-
-## The Easiflo $120,000 Example (Canonical Implication Chain)
-
-The book's central teaching example. Same product, same buyer, two different sellers.
-
-### Without Implication Questions (FAILS)
-
-The first seller identified the problem (hard-to-use machines), then immediately offered the $120K Easiflo solution. The buyer rejected it as absurdly expensive for such a minor inconvenience.
-
-### With Implication Questions (WORKS)
-
-The second seller asked a chain of Implication Questions that made the buyer quantify the cascading consequences of the same problem: ~$25K in operator turnover/training costs, overtime at 2.5x rates, outsourced work with quality issues, and hours of personal time lost chasing deliveries. By the end, the buyer himself concluded the problem was serious -- and $120K felt like a bargain against the total cost he had just calculated.
-
-### The Lesson
-
-Same product, same problem, same buyer. Different question chain → different value equation.
-
-The Implication chain made the buyer:
-1. Quantify the problem ($25K turnover-training cost; overtime; outsourcing; lost time)
-2. Feel the spread (production, quality, schedule, personal time)
-3. Conclude it himself ("very serious problem")
-
-When the buyer concludes, the sale is half-made. When the seller concludes, it's an Advantage and creates an objection.
+这些教学案例由 [SKILL.md](SKILL.md) 引用。Easiflo 是原书中最有价值的教学案例。
 
 ---
 
-## The British Petroleum Yacht Photo
+## Easiflo 120,000 美元案例（经典影响提问链）
 
-Personal-interest openings work in small sales but don't predict success in major sales. Senior buyers are often hostile to small-talk.
+原书的核心教学案例：同一产品、同一买家、两名不同销售。
 
-### The Anecdote
+### 不使用影响提问：失败
 
-A vendor at BP tried to build rapport by commenting on a photo in a senior buyer's office. The attempt backfired -- the buyer had no interest in small talk and wanted to get straight to business.
+第一名销售发现问题——机器难用——后，立即提出 120,000 美元的 Easiflo 方案。买家认为，为这么点不便花这么多钱，简直荒谬，因而拒绝。
 
-### The Lesson
+### 使用影响提问：有效
 
-Senior buyers' time is expensive. They don't want a 5-minute warm-up. The "build rapport first" rule is a small-sale rule. In major sales, get to questions quickly. Let the customer judge you on the quality of your questions, not your golf scores.
+第二名销售连续提出影响问题，让买家量化同一问题的连锁后果：操作员流失与培训约花费 25,000 美元，加班费是正常费率的 2.5 倍，外包工作有质量问题，个人还浪费了许多小时催交货。最后买家自己认定问题很严重，与刚算出的总成本相比，120,000 美元反而便宜。
 
----
+### 启示
 
-## The Index-Cards Anecdote (Closing in Major Sales)
+同样的产品、问题、买家，不同的提问链，形成不同的价值方程。
 
-A senior buyer kept labeled cards on his desk for each common closing technique. When a vendor tried a close, the buyer identified the technique by name and warned that one more would end the meeting.
+影响提问链让买家：
+1. 量化问题：25,000 美元流失与培训成本、加班、外包、时间损失。
+2. 感受扩散范围：生产、质量、进度、个人时间。
+3. 自己作出结论：“这是非常严重的问题。”
 
-### The Lesson
-
-Sophisticated buyers RECOGNIZE closing techniques. Using them flags you as a small-sale seller in a large-sale arena. Your "alternative close" feels like manipulation to a buyer who has bought from 200 vendors.
-
----
-
-## Tom Landry on Skill Learning
-
-When asked for the single principle of skill learning, the legendary Cowboys coach Tom Landry said:
-
-> "Work on one thing at a time, and get it right."
-
-### The Lesson
-
-Sales reps trying to apply SPIN typically try to change ALL their behaviors at once. They cut closing AND ask more Problems AND hold back on solutions AND avoid Features AND propose commitment differently. Result: they sound robotic, get worse, give up.
-
-**Pick ONE behavior. Practice it for weeks. Then add the next.** Most reps never get past Problem Questions for 6+ months. That's correct pacing.
+买家自己得出结论，销售就成功了一半；销售替他下结论，就只是优势陈述，并会引发异议。
 
 ---
 
-## The 200 Golfers Study
+## 英国石油的游艇照片
 
-200 golfers were studied after their first lesson. **157 of 200 reported scoring WORSE.**
+私人兴趣式开场对小额销售有效，却无法预测大额销售成功。高层买家常反感寒暄。
 
-### The Lesson
+### 轶事
 
-New skills feel awkward and produce worse short-term results. This is true of golf, sales, public speaking, any skill.
+一位供应商到 BP 拜访，想通过评论高层采购者办公室里的一张照片建立关系。结果适得其反：采购者无意闲聊，只想直接谈业务。
 
-If you try a new SPIN behavior and your first call goes badly, that's expected. Try it 3 more times before judging.
+### 启示
+
+高层买家的时间很贵，不想花五分钟热身。“先建立关系”是小额销售规则。大额销售要尽快进入提问，让客户根据你的问题质量，而非高尔夫成绩评价你。
 
 ---
 
-## Quincy's Rule - Origin
+## 索引卡片轶事：大额销售中的成交技巧
 
-Distinguishing Implication from Need-payoff Questions was the hardest classification problem in SPIN training. The simplest test came from an unexpected source: Implication Questions are "sad" (they make the problem feel bigger) and Need-payoff Questions are "happy" (they make the solution feel closer).
+一位资深采购者在桌上摆了一组卡片，标注各种常见成交技巧。供应商一使用，他就叫出技巧名称，并警告：再用一次，会谈就结束。
 
-### The Lesson
+### 启示
 
-When framework distinctions feel arbitrary and complex, look for the emotional arc.
+成熟买家认得成交技巧。在大额销售场景中使用这些，会暴露你仍按小额销售方式行事。对一位向 200 家供应商采购过的买家而言，你的“二选一成交法”只是操纵。
 
-| Question Type | Emotional Direction |
+---
+
+## Tom Landry 谈技能学习
+
+有人问传奇牛仔队教练 Tom Landry，技能学习最重要的一个原则是什么，他回答：
+
+> “一次专注一件事，并把它做好。”
+
+### 启示
+
+销售学习 SPIN 时，常试图同时改变全部行为：少用成交技巧、多问问题、克制方案介绍、避免谈特征、换一种方式提出承诺。结果像机器人，表现更差，最后放弃。
+
+**选一种行为，练几周，再加下一种。**多数销售六个月以上仍在练问题提问，这个节奏是对的。
+
+---
+
+## 200 名高尔夫球手研究
+
+研究了 200 名上完第一课的球手，**其中 157 人说成绩更差了。**
+
+### 启示
+
+新技能会让人不熟练，短期表现下降。高尔夫、销售、公开演讲等技能都是如此。
+
+如果第一次尝试新的 SPIN 行为，会谈表现不好，这是预期之内。再试三次才作判断。
+
+---
+
+## Quincy 法则的起源
+
+区分影响提问与需求收益提问，是 SPIN 培训中最难的分类问题。最简单的判断来自意外来源：影响问题“让人难过”，因为问题显得更大；需求收益问题“让人开心”，因为解决方案显得更近。
+
+### 启示
+
+框架的区别显得武断又复杂时，去看情绪走向。
+
+| 问题类型 | 情绪方向 |
 |---------------|---------------------|
-| Implication | Problem grows. Sad. Heavier. |
-| Need-payoff | Solution grows. Happy. Lighter. |
+| 影响 | 问题变大，难过，更沉重 |
+| 需求收益 | 解决方案变大，开心，更轻松 |
 
-The buyer's emotional state is the test, not the question wording.
+判断依据是买家的情绪状态，不是问题措辞。
 
 ---
 
-## Rackham's 6 Failed Validation Attempts (Intellectual Honesty)
+## Rackham 六次失败的验证尝试（研究上的坦诚）
 
-Before Motorola, Rackham tried 6 times to validate SPIN with productivity data. **Five attempts were confounded.** Rackham refused to claim credit:
+在 Motorola 研究之前，Rackham 曾六次试图用生产率数据验证 SPIN，**五次受到混杂因素影响**。他拒绝将功劳归给自己：
 
-| Attempt | What Confounded It |
+| 尝试 | 混杂因素 |
 |---------|---------------------|
-| Capital Goods Co | Two new products + territory redraw + 35% company-wide rise |
-| Honeywell Europe | Major product launch (TDC 2000) same year |
-| Multinational branch | Branch only 4 months old; ramping anyway |
-| Business-Machines Co | Branch manager changed mid-test |
-| 6-month controlled test | Competitor cut prices 15% during test |
-| High-tech company | Control branch manager raided files in middle of night, ran his own SPIN classes |
-| GE division | 18% sales rise, but reps weren't actually using SPIN behaviors more |
+| 资本品公司 | 两款新产品、重划区域、全公司业绩增长 35% |
+| Honeywell 欧洲 | 同年推出重大新产品 TDC 2000 |
+| 跨国公司分部 | 分部才成立四个月，本就在爬坡 |
+| 办公设备公司 | 测试中途更换分部经理 |
+| 六个月对照测试 | 测试期间竞品降价 15% |
+| 高科技公司 | 对照分部经理半夜偷看文件，自行开 SPIN 课 |
+| GE 部门 | 销售增长 18%，但销售实际上没有更多使用 SPIN 行为 |
 
-### The Lesson
+> 译注：原文说“六次尝试、五次受混杂影响”，但表格列出七项。本译文保留原文数量及完整表格，未推断应删除或合并哪项。
 
-This is the kind of methodological honesty rare in sales training. Most training claims "doubled sales" with no controls. Rackham documented his failures alongside his wins.
+### 启示
 
-For users of SPIN: this self-skepticism is a feature. The two clean validations (Motorola, Multinational Business-Machines) survived rigorous controls. They're worth more than 35,000 calls of uncontrolled "research."
+这类方法论坦诚在销售培训中少见。多数培训没有对照就宣称“销售翻倍”，Rackham 则同时记录失败与成功。
+
+对 SPIN 使用者而言，这种自我怀疑是优点。两个较干净的验证，即 Motorola 与跨国办公设备公司，经受了严格控制，比 35,000 次无控制的“研究”更有价值。
 
 ---
 
-## Motorola Canada Study (1981) - The Cleanest Validation
+<a id="motorola-canada-study-1981---the-cleanest-validation"></a>
+## Motorola 加拿大研究（1981）——最干净的验证
 
-- **Setup:** 42 trained reps + 42 untrained controls
-- **Evaluator:** Marti Bishop (formerly Xerox Evaluation Manager - note: Xerox was a Huthwaite client, so "independent" deserves an asterisk)
-- **Duration:** 9 months
-- **Context:** During a Canadian recession
+- **设置：**42 名受训销售与 42 名未受训对照。
+- **评估者：**Marti Bishop，前 Xerox 评估经理。注意，Xerox 是 Huthwaite 客户，因此“独立”要打个问号。
+- **时长：**九个月。
+- **背景：**加拿大经济衰退期间。
 
-| Metric | Control | SPIN | Difference |
+| 指标 | 对照组 | SPIN 组 | 差距 |
 |--------|---------|------|------------|
-| Total orders | -13% | +17% | **30% gap** |
-| New-business orders | Fell | **+63%** | Major |
-| Dollar value | **-22.1%** | **+5.3%** | **27.4% gap** |
+| 总订单 | -13% | +17% | **30% 差距** |
+| 新业务订单 | 下降 | **+63%** | 显著 |
+| 销售金额 | **-22.1%** | **+5.3%** | **27.4% 差距** |
 
-### Honest Reading
+### 诚实解读
 
-The "27% lift" headline is the GAP between control and SPIN. The control group fell 22.1% in a recession. SPIN rose 5.3%. So SPIN didn't dramatically grow sales - it MAINTAINED sales while controls collapsed. In a non-recessionary economy, absolute lifts may be smaller. The "27% gap" works against a collapsing baseline.
+“提升 27%”的标题，指对照组与 SPIN 组之间的差距。衰退中对照组下降 22.1%，SPIN 组增长 5.3%。所以 SPIN 并非让销售剧增，而是在对照组崩落时维持了销售。非衰退时期，绝对提升可能较小。“27% 差距”是相对于不断下降的基线。
 
-All differences statistically significant.
+所有差异均达到统计显著。
 
 ---
 
-## Multinational Business-Machines Study
+## 跨国办公设备公司研究
 
-Designed to fix Motorola's two flaws (matched starting points + Hawthorne effect):
+设计目的是解决 Motorola 研究的两个缺陷：匹配起点与霍桑效应。
 
-| Group | Order Change |
+| 组别 | 订单变化 |
 |-------|--------------|
-| Control (n=55) | -21% |
-| SPIN (n=55) | +16% |
+| 对照组，55 人 | -21% |
+| SPIN 组，55 人 | +16% |
 
-### Hawthorne Effect Isolated for First Time in Sales
+### 首次在销售研究中分离霍桑效应
 
-- High-SPIN subgroup: improvement CONTINUED post-training (real)
-- Low-SPIN subgroup: gained during training, slipped back after (Hawthorne)
-- Control group: gradual decline
+- 高频使用 SPIN 的子组：培训后继续改善，属于真实效果。
+- 低频使用 SPIN 的子组：培训期间提高，之后回落，属于霍桑效应。
+- 对照组：逐渐下降。
 
-### The Lesson
+### 启示
 
-Real skill change persists. Hawthorne-effect change does not. This is why the "during training" lifts in most sales-training studies disappear within 3 months.
-
----
-
-## The "Snake Oil" Critique
-
-> "More than 90% of sales-increase claims from training can be accounted for by other management or market factors."
-
-Companies routinely claim training "doubled sales" - but new products, dead competitors, ad campaigns, manager changes, and territory shifts all confound the data. SPIN survived rigorous testing where other methods failed.
-
-### The Lesson
-
-When evaluating any sales training (including newer alternatives like Challenger or MEDDPICC), demand controlled comparison. "Sales went up after training" is not evidence training worked.
+真实技能变化会持续，霍桑效应带来的变化不会。这解释了为什么多数销售培训研究中“培训期间”的提升，三个月内就会消失。
 
 ---
 
-## The American Airlines 575-Call Study
+## 对“江湖神药”的批评
 
-In a small-sale environment (consumer/short-cycle), success rates by closes per call:
+> “超过 90% 的培训增收说法，都可以用其他管理或市场因素解释。”
 
-| Closes per call | Success rate |
+公司经常宣称培训“让销售翻倍”，但新产品、竞品退出、广告活动、经理更换、区域调整，都会混淆数据。SPIN 在其他方法失败的严格测试中存活下来。
+
+### 启示
+
+评估任何销售培训，包括 Challenger、MEDDPICC 等新替代方案，都应要求对照比较。“培训后销售增加”不能证明培训有效。
+
+---
+
+## 美国航空 575 次会谈研究
+
+在消费者／短周期的小额销售场景中，每次会谈的成交尝试次数与成功率：
+
+| 每次会谈成交尝试次数 | 成功率 |
 |-----------------|--------------|
 | 0 | 22% |
-| 1 | **61% (peak)** |
-| 2 | ~40% |
-| 3+ | <20% |
+| 1 | **61%，峰值** |
+| 2 | 约 40% |
+| 3 次以上 | 低于 20% |
 
-### The Lesson
+### 启示
 
-Even in small sales, ZERO closing fails. The optimum is one clear commitment proposal. The "closing backfires" headline overstates - it specifically hurts when you do MULTIPLE/aggressive closes.
+即便小额销售，完全不提出成交请求也会失败。最佳做法是一个清晰的承诺建议。“成交技巧会反噬”的概括过头了，真正有害的是多次、强势逼单。
 
-In major sales, the same principle scales: propose ONE clear, realistic next step. Don't pile on multiple closes. Don't propose nothing.
-
----
-
-## The Bold Experiment (55% Objection Reduction)
-
-Selected 8 salespeople with **10x average objection rates**. Trained them in objection PREVENTION (the word "objection" was never mentioned in training). Taught them SPIN questioning to develop Explicit Needs and offer Benefits.
-
-**Result: 55% reduction in objections.**
-
-### The Lesson
-
-Objections are a symptom of premature solution-pitching. Cure the cause (build need first), not the symptom (handle objections better).
-
-Most sales training does the opposite - it builds objection-handling muscle. SPIN says: don't create the objection in the first place.
+大额销售同理：提出一个清晰、现实的下一步。不要连续逼单，也不要什么都不提。
 
 ---
 
-## $650K Quality Program (Quantity Wins)
+## 大胆的实验：异议减少 55%
 
-A multinational spent $650,000 on a 9-month "quality" sales program with 74-step models. It was demotivating; learners walked out.
+选出八名异议发生率为平均值十倍的销售员，培训他们预防异议，培训中甚至从未提及“异议”一词。教他们用 SPIN 提问发展明确需求，再陈述利益。
 
-The replacement program (1/10th the cost):
-> "We don't care if questions are good or bad. Ask lots of them."
+**结果：异议减少 55%。**
 
-After training: students asked dozens of questions and quality also improved.
+### 启示
 
-### The Lesson
+异议是过早推介方案的症状。应治原因，即先建立需求，而不是只治症状，即更熟练地应付异议。
 
-Quantity precedes quality in skill development. Letting yourself ask "bad" questions is the path to asking good ones. Optimizing for quality on attempt #1 paralyzes learners.
+多数销售培训反着做，增强异议处理能力；SPIN 主张一开始就别制造异议。
 
 ---
 
-## The Company-President Anecdote (Practice in Safe Situations)
+## 650,000 美元质量培训：数量胜出
 
-A company president who had just learned SPIN wanted to immediately apply it in the highest-stakes negotiation of his career. Rackham advised him not to -- new techniques should never be debuted in critical situations where the cost of awkward execution is catastrophic.
+一家跨国企业花 650,000 美元，做了九个月、含 74 步模型的“高质量”销售培训。课程令人泄气，学员离场。
 
-### The Lesson
+替代课程仅花原来的十分之一，要求：
+> “我们不在乎问题好坏，尽量多问。”
 
-New skills go in SMALL accounts and well-known customers. Never in important sales. Even the framework's author would tell you not to use SPIN in your most important deal.
+培训后，学员一次提出几十个问题，质量也提高了。
 
-The skill is learned. Then deployed. Don't reverse the order.
+### 启示
+
+技能发展中，数量先于质量。允许自己问“差问题”，才是通向好问题的路。一开始就追求完美，会让学习者动弹不得。
+
+---
+
+## 公司总裁轶事：在安全情境中练习
+
+一位刚学会 SPIN 的公司总裁，想立即用于职业生涯最重要的谈判。Rackham 劝他别这样做：新技巧不应在执行稍有生涩就可能造成灾难性后果的关键情境中首次亮相。
+
+### 启示
+
+新技能要在小客户和熟悉客户身上练，绝不在重要交易中初试。即便框架作者，也会劝你不要拿最重要的单子试新方法。
+
+先学会，再运用，不要颠倒顺序。

@@ -1,215 +1,219 @@
-# Cases - Made to Stick
+> 中文译文｜[英文对照](cases.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/made-to-stick/cases.md)。原项目整理：AgentSeal；书籍来源：《Made to Stick》— Chip Heath 与 Dan Heath；AI 辅助翻译。
 
-## Organized by SUCCESs Principle
+# 案例——Made to Stick
 
----
-
-## SIMPLE
-
-### Southwest Airlines - Single Strategic Filter
-
-Southwest Airlines operated under a single decision filter: being the low-fare airline. When any proposal arose -- such as adding a premium menu item to flights -- it was tested against that filter and rejected if it conflicted with cost leadership. This allowed thousands of employees to make aligned decisions without centralized policy manuals.
-
-**Takeaway:** Reducing strategy to a single, testable priority (a "Commander's Intent") scales decision-making across an organization. Forced prioritization beats comprehensive strategy documents.
+## 按 SUCCESs 原则整理
 
 ---
 
-### Clinton 1992 Campaign - "It's the Economy, Stupid"
+## 简单
 
-James Carville's campaign strategy centered on a single economic message that aligned thousands of independent campaign workers. Every speech, ad, and talking point was filtered through that core focus.
+### Southwest Airlines——单一战略筛选器
 
-**Takeaway:** A clear, simple core message can coordinate large distributed teams who never directly communicate. One priority beats three.
+Southwest Airlines 按一个决策标准运营：成为低票价航空公司。任何建议，包括增加高端机上餐食，都要通过该标准检验；与成本领先冲突就否决。这让数千名员工无需依靠集中制定的政策手册，也能作出一致决定。
 
----
-
-### Palm Pilot - Physical Constraint Prototype
-
-Jeff Hawkins carried a pocket-sized wooden block as a physical prototype of the Palm Pilot during development. Every proposed feature was tested against the constraint that the device had to remain pocket-sized, which drove the product toward simplicity.
-
-**Takeaway:** Concrete physical constraints are more effective than abstract mission statements at enforcing simplicity during product development.
+**启示：**把战略压缩为一项可检验的优先事项，即“指挥官意图”，能在全组织扩展决策能力。强制排序胜过面面俱到的战略文档。
 
 ---
 
-## UNEXPECTED
+### Clinton 1992 年竞选——“笨蛋，问题是经济”
 
-### Nordstrom - The Tire Refund
+James Carville 的竞选策略围绕单一经济信息，让数千名独立工作的竞选人员方向一致。每次演讲、广告、谈话要点都以此为筛选标准。
 
-Nordstrom reportedly accepted a tire return despite not selling tires, consistent with their well-known policy of extreme customer service. The story spread organically among employees and customers for decades, communicating more about service culture than any training manual.
-
-**Takeaway:** Effective organizational stories violate expectations ("stores only refund what they sell") but become logical once you understand the underlying value. Surprise that reinforces the core message is what makes ideas spread internally.
+**启示：**清晰简单的核心信息，能协调从不直接沟通的大型分散团队。一个优先事项胜过三个。
 
 ---
 
-### Nora Ephron - Journalism Class Exercise
+### Palm Pilot——以实物原型形成约束
 
-Ephron described a journalism class exercise where students were given a set of facts about school schedule changes. Students wrote procedural leads about the announcement. The actual lead was what mattered to readers: school would be closed on a particular day.
+Jeff Hawkins 在 Palm Pilot 开发期间，随身携带一块能放进口袋的木块作为实物原型。每项拟议功能都要经受“设备必须放进口袋”的约束检验，推动产品走向简单。
 
-**Takeaway:** Finding the unexpected requires thinking from the audience's perspective. What surprises them -- not what seems important procedurally -- is the real hook.
-
----
-
-### Roone Arledge - Reinventing Sports Broadcasting
-
-Before Arledge, sports broadcasts used static cameras focused on the field. He reframed the problem: what would make a non-fan watch? This led to sideline cameras, player profiles, and personality-driven commentary, transforming sports TV.
-
-**Takeaway:** Asking "why would someone who does NOT care about this topic pay attention?" forces you to find the unexpected angle in any subject.
+**启示：**产品开发中，具体实物约束比抽象使命宣言更能迫使设计保持简单。
 
 ---
 
-## CONCRETE
+## 意外
 
-### Jane Elliott - Eye Color Experiment (1968)
+### Nordstrom——轮胎退款
 
-After Martin Luther King Jr.'s assassination, Iowa teacher Jane Elliott divided her third-grade class by eye color and assigned privileges and restrictions based on that arbitrary grouping. Academic performance measurably shifted with assigned status -- students completed tasks significantly faster when told they were in the "superior" group. Follow-up studies 10 and 20 years later found these students were measurably less prejudiced than peers.
+据说 Nordstrom 虽然不卖轮胎，却接受了轮胎退货，这符合其著名的极致服务原则。故事在员工与客户间自发流传数十年，比培训手册更有效地传达服务文化。
 
-**Takeaway:** Concrete, lived experience of an abstract concept (in this case, discrimination) creates understanding that lasts decades. Abstract lectures do not produce the same retention.
-
----
-
-### Boeing 727 - Concrete Engineering Target
-
-Instead of an abstract goal like "build the best passenger plane," Boeing's 727 team worked toward specific, testable parameters: a defined seat count, a specific route distance, and a landing requirement on a runway shorter than existing jets could use. This removed ambiguity from thousands of design decisions.
-
-**Takeaway:** Concrete, measurable goals enable coordination at scale. Abstract goals produce parallel but misaligned efforts across large teams.
+**启示：**有效的组织故事会违背预期，例如“商店只退自己卖出的东西”，但理解底层价值后又合情合理。强化核心信息的惊讶，才让理念在组织内传播。
 
 ---
 
-### Hamburger Helper - Direct Customer Observation
+### Nora Ephron——新闻课堂练习
 
-After a decade of declining sales, the Hamburger Helper brand team moved from analyzing market research reports to observing customers directly in their homes. The key finding: customers valued predictability over variety. With 30+ flavors, shoppers could not find their favorites. Simplifying the product line led to 11% sales growth in one fiscal year.
+Ephron 回忆一堂新闻课：学生拿到一组学校日程变动的事实，写出的导语都在描述公告流程。真正的导语却是读者在意的内容：某一天不用上学。
 
-**Takeaway:** Abstract data produces abstract strategy. Direct, concrete customer observation reveals actionable insights that data summaries miss.
-
----
-
-### Kaplan's VC Pitch - Physical Prop
-
-Entrepreneur Jerry Kaplan pitched Kleiner Perkins on a portable computing concept using only a leather portfolio as a physical stand-in for the product. The concrete prop shifted the meeting from skeptical questioning to collaborative brainstorming. Kleiner Perkins funded the company at a $4.5M valuation with no prototype.
-
-**Takeaway:** A physical prop transforms abstract pitches into tangible concepts. It invites the audience to contribute their own expertise rather than passively evaluate claims.
+**启示：**寻找意外，需要站在受众角度。真正的钩子是令他们惊讶的事情，而不是流程上看似重要的事情。
 
 ---
 
-### James Grant - Oral Rehydration Advocacy (UNICEF)
+### Roone Arledge——重塑体育转播
 
-UNICEF's James Grant carried a small packet of oral rehydration salts to meetings with heads of state, noting it cost less than a cup of tea yet could prevent thousands of child deaths from dehydration. The concrete object and comparison made an abstract public health problem feel actionable.
+Arledge 之前，体育转播用固定摄像机对准赛场。他重构问题：什么能让非球迷也愿意看？于是引入场边摄像机、运动员人物特写、强调个性的解说，改变了体育电视。
 
-**Takeaway:** Pairing a concrete prop with an unexpected comparison (minimal cost vs. massive impact) can motivate decision-makers more effectively than data presentations.
-
----
-
-## CREDIBLE
-
-### Pam Laffin - Anti-Smoking Campaign
-
-Anti-smoking campaigns chose Pam Laffin -- a young mother who developed emphysema at 24 after starting smoking at 10 -- as a spokesperson instead of a doctor or celebrity. She documented her declining health publicly before dying at 31. The campaign became widely cited in anti-smoking education.
-
-**Takeaway:** People with direct personal experience (anti-authorities) are often more credible than experts or celebrities. Lived authenticity outperforms credentials for persuasion.
+**启示：**问“一个根本不关心该话题的人，为什么要注意”，会迫使你在任何题材中找到意外角度。
 
 ---
 
-### Beyond War - Nuclear Arsenal Demonstration
+## 具体
 
-The 1980s citizen group Beyond War used a physical demonstration at house parties: dropping a single metal BB into a bucket to represent the Hiroshima bomb, then ten for a nuclear submarine, then pouring 5,000 to represent the global arsenal. The sustained noise of 5,000 BBs made the scale viscerally memorable.
+### Jane Elliott——眼睛颜色实验（1968）
 
-**Takeaway:** Statistics are most effective when presented as relationships rather than standalone numbers. The ratio (1 to 10 to 5,000) was what stuck -- not any specific figure.
+Martin Luther King Jr. 遇刺后，爱荷华教师 Jane Elliott 按眼睛颜色分开三年级学生，以这种任意分类分配特权和限制。学习表现随身份分配出现可测量变化：被告知属于“优等”群体时，学生完成任务明显更快。十年、二十年后的跟踪发现，这些学生的偏见程度可测量地低于同龄人。
 
----
-
-### Safexpress - The Sinatra Test
-
-Indian logistics company Safexpress won a Bollywood film distribution deal by citing a single credential: they had delivered Harry Potter books to every bookstore in India, arriving at exactly the required time -- not early enough to risk leaks, not late enough to lose sales. The same precision and security the studio needed.
-
-**Takeaway:** One reference that passes the "Sinatra Test" (if you can succeed there, you can succeed anywhere) establishes more credibility than many ordinary references combined.
+**启示：**亲身、具体地体验抽象概念，本例是歧视，会带来持续数十年的理解。抽象讲授无法产生相同的保持效果。
 
 ---
 
-### Wendy's "Where's the Beef?" - Testable Credential
+### Boeing 727——具体的工程目标
 
-Wendy's 1984 campaign highlighted that their patties were larger than competitors' by visually exaggerating the contrast. The implicit challenge: compare for yourself. Customers who believed Wendy's had larger burgers increased 47% in two months; revenue rose 31% in the first full year.
+Boeing 727 团队没有“制造最好的客机”这种抽象目标，而是使用具体可检验参数：明确座位数、特定航程、在比现有喷气机可用跑道更短的跑道上降落。这消除了数千项设计决策中的歧义。
 
-**Takeaway:** Testable credentials let the audience become the authority. An invitation to verify ("see for yourself") is more persuasive than expert testimony or statistics.
-
----
-
-### Rohner Textil - Edible Fabric Manufacturing
-
-Textile manufacturer Rohner Textil reformulated its process to use only 38 chemicals (out of 8,000 tested) that met strict safety standards. Government inspectors found the factory's wastewater was cleaner than the Swiss drinking water entering the facility. Manufacturing costs dropped 20% and waste scraps became sellable as agricultural material instead of requiring hazardous disposal.
-
-**Takeaway:** Multiple credibility layers -- vivid specifics (38 of 8,000), measurable results (20% cost reduction), and a dramatic proof point (output water cleaner than input) -- compound to make claims believable.
+**启示：**具体可测量的目标支持大规模协作；抽象目标让大团队各自并行，却方向不一致。
 
 ---
 
-## EMOTIONAL
+### Hamburger Helper——直接观察客户
 
-### Rokia Study - Carnegie Mellon
+销量连续十年下降后，品牌团队从分析市场报告，转为到客户家直接观察。核心发现是：客户重视可预期性，胜过多样性。三十多种口味让顾客找不到最爱。简化产品线后，一个财年销售增长 11%。
 
-Researchers at Carnegie Mellon tested charitable giving with different versions of an appeal letter. Donations averaged $1.14 when the letter used statistics about millions affected, $2.38 when it featured a single named individual, and $1.43 when it combined both. Priming subjects to think analytically beforehand reduced donations to the individual story by 46%.
-
-**Takeaway:** Analytical framing suppresses emotional response. If you want action, lead with an individual, not statistics. Mixing the two can reduce effectiveness below either approach alone.
+**启示：**抽象数据产生抽象战略。具体、直接的观察，会揭示数据摘要遗漏的可行动洞见。
 
 ---
 
-### "Don't Mess with Texas" - Identity-Based Behavior Change
+### Kaplan 的风投推介——实物道具
 
-Texas faced a major highway littering problem concentrated among 18-35-year-old men who were unresponsive to guilt, environmental appeals, or fines. The campaign reframed littering as an affront to Texas identity rather than an environmental issue, using local cultural figures as spokespeople. Highway litter decreased 72% over six years.
+创业者 Jerry Kaplan 向 Kleiner Perkins 推介便携计算概念，只带一个皮革文件夹作为产品替身。具体道具让会谈从怀疑式追问转为共同头脑风暴。没有原型，公司仍以 450 万美元估值获得投资。
 
-**Takeaway:** Identity appeals ("what would someone like me do?") beat consequence appeals ("what benefits me?"). People act based on who they are, not cost-benefit analysis.
-
----
-
-### "Truth" vs. "Think. Don't Smoke." - Competing Anti-Smoking Campaigns
-
-Philip Morris's "Think. Don't Smoke." campaign treated teens as rational decision-makers and was ineffective. The American Legacy Foundation's "Truth" campaign framed not smoking as rebellion against corporate manipulation. It aligned with teens' existing identity as anti-authority, making abstinence the rebellious choice.
-
-**Takeaway:** Understanding your audience's identity matters more than presenting facts they already know. The problem is rarely information deficit -- it is identity alignment.
+**启示：**实物道具把抽象推介变为可触及的概念，邀请受众贡献专业知识，而非被动评估主张。
 
 ---
 
-### Floyd Lee - Military Mess Hall Transformation
+### James Grant——UNICEF 口服补液倡议
 
-Army mess hall manager Floyd Lee transformed a standard military cafeteria in Iraq into a named establishment with improved presentation and food quality. The goal was not better nutrition but making soldiers feel valued. It demonstrated that even in high-stress, resource-constrained environments, people respond to meaning and dignity, not just basic needs.
+UNICEF 的 James Grant 会见国家元首时，会带一小包口服补液盐，指出它比一杯茶便宜，却能避免数千名儿童因脱水死亡。具体物件与对比，让抽象公共卫生问题变得可行动。
 
-**Takeaway:** Assuming people are only motivated by base-level needs ("Maslow's Basement") is usually wrong. Founders underestimate how much meaning, identity, and respect drive behavior at every level.
-
----
-
-## STORIES
-
-### Jared Fogle - Subway
-
-A college student lost 245 pounds in a year eating primarily Subway sandwiches combined with daily walking. Subway's ad agency initially rejected the story because it did not fit their existing campaign and lacked controlled evidence. A single employee championed it anyway. After the first commercial aired, Subway sales increased 18% in the first year.
-
-**Takeaway:** The most effective brand stories are discovered in the real world, not manufactured in conference rooms. Organizations with analytical cultures frequently reject their best stories because the stories do not fit existing frameworks. The story succeeded because it hit all six stickiness factors simultaneously.
+**启示：**具体道具配上意外对比，即极低成本与巨大影响，比数据演示更能激励决策者。
 
 ---
 
-### Stephen Denning - World Bank Knowledge Management
+## 可信
 
-A World Bank manager spent months trying to persuade the organization to adopt knowledge management using data and analysis, with no success. He then described a single concrete example: a health worker in a remote African town accessing the CDC website to find a malaria treatment answer. That one example launched the World Bank's knowledge management initiative because it demonstrated possibility rather than explaining mechanics.
+### Pam Laffin——反吸烟活动
 
-**Takeaway:** "Springboard stories" inspire action by showing what is possible, not by explaining how something works. They succeed because the audience projects the example onto their own situation.
+反吸烟活动没有选医生或名人，而选了年轻母亲 Pam Laffin。她十岁开始吸烟，二十四岁患肺气肿，公开记录健康恶化，最终三十一岁去世。活动在反吸烟教育中被广泛引用。
 
----
-
-### Xerox Repair Technicians - Peer Learning
-
-Anthropologist Julian Orr's research on Xerox repair technicians found that technicians learned more from informal peer storytelling than from official manuals. Stories followed a consistent structure: problem encountered, diagnosis attempts, solution found, lesson extracted. Xerox eventually formalized this by creating a story database (Eureka) to capture and distribute repair knowledge.
-
-**Takeaway:** Stories function as mental simulations. They prepare people to solve problems they have not encountered by walking through the diagnostic process. This is why peer case studies outperform instruction manuals.
+**启示：**亲身经历者，即非传统权威，常比专家、名人更可信。真实生活经验比资历更有说服力。
 
 ---
 
-### Stanford Speech Experiment - Stories vs. Statistics
+### Beyond War——核武库演示
 
-In a Stanford study, MBA students gave one-minute persuasive speeches. The average speaker used 2.5 statistics; only 1 in 10 included a story. Afterward, 63% of listeners remembered stories while only 5% remembered any individual statistic -- a roughly 12x memorability advantage. Students rated polished delivery as most important, but delivery showed near-zero correlation with actual recall.
+20 世纪 80 年代，公民团体 Beyond War 在家庭聚会上演示：往桶里放一颗金属 BB 弹，代表广岛原子弹；再放十颗，代表一艘核潜艇；最后倒入 5,000 颗，代表全球核武库。持续声响让规模产生难忘的身体感受。
 
-**Takeaway:** What you say matters far more than how you say it. Stories are retained at dramatically higher rates than statistics, yet communicators systematically underweight them.
+**启示：**统计作为关系呈现，比孤立数字更有效。留下记忆的是 1∶10∶5,000 的比例，而非任何具体数字。
 
 ---
 
-### NICU Nurse - Clinical Pattern Recognition
+### Safexpress——辛纳屈测试
 
-A widely circulated case in neonatal care describes a nurse who identified a critical condition in an infant based on visual observation despite all monitors showing normal readings. The case is used as a teaching story among NICU nurses to reinforce trusting trained observation alongside instrument data.
+印度物流公司 Safexpress 用一项资历赢得宝莱坞电影发行交易：他们曾把《哈利·波特》送到印度每家书店，准确按指定时间到达，不会过早泄密，也不会过迟影响销售。电影公司恰好需要同样的精确与安全。
 
-**Takeaway:** Stories transfer expert intuition that cannot be captured in procedural manuals. A single well-told case can teach pattern recognition that took the original practitioner years to develop.
+**启示：**一项通过辛纳屈测试的推荐——这里能成功，哪里都能成功——比很多普通推荐加起来更可信。
+
+---
+
+### Wendy's“牛肉在哪里？”——可验证证据
+
+Wendy's 1984 年活动用夸张视觉对比，突出自家肉饼比竞品大，暗含挑战：自己比较。两个月内，认为 Wendy's 汉堡更大的人数增加 47%；第一个完整年度，收入增长 31%。
+
+**启示：**可验证证据让受众成为权威。“亲自看看”的验证邀请，比专家证言或统计更有说服力。
+
+---
+
+### Rohner Textil——可食用织物制造
+
+纺织企业 Rohner Textil 重做工艺，从测试过的 8,000 种化学品中，仅使用符合严格安全标准的 38 种。政府检查员发现，出厂废水比进入工厂的瑞士饮用水更干净。制造成本下降 20%，边角料可作为农业材料出售，不再需要危险废物处置。
+
+**启示：**多层可信度会叠加：具体细节，即 8,000 中选 38；可测量结果，即成本下降 20%；惊人的证明，即排出的水比流入的水更干净，共同让主张可信。
+
+---
+
+## 情感
+
+### Rokia 研究——卡内基梅隆大学
+
+研究者用不同版本的募捐信测试捐赠：讲数百万人受影响的统计，平均捐 1.14 美元；讲一个有名字的人，捐 2.38 美元；两者结合，捐 1.43 美元。预先引导被试进入分析思维，会使个体故事所获捐款减少 46%。
+
+**启示：**分析框架压抑情绪反应。希望人行动，应先讲个人而非统计。混合两者可能比单独使用任一种都更差。
+
+> 译注：此处保留原文结论，但其列举的混合组1.43美元高于纯统计组1.14美元，因此不能仅据这些数字断言“比任一种都更差”。
+
+---
+
+### “别惹德州”——基于身份的行为改变
+
+德州公路垃圾问题严重，主要集中在 18—35 岁男性，他们对内疚、环保呼吁和罚款都不敏感。活动将乱扔垃圾重述为对德州身份的冒犯，而非环保问题，请本地文化人物代言。六年间公路垃圾减少 72%。
+
+**启示：**身份诉求“像我这样的人会怎么做”，胜过后果诉求“什么对我有利”。人们根据自己是谁行动，不只做成本收益分析。
+
+---
+
+### “Truth”与“Think. Don't Smoke.”——两种反吸烟活动
+
+Philip Morris 的“思考，别吸烟”活动把青少年视为理性决策者，效果不佳。American Legacy Foundation 的“真相”活动，把不吸烟塑造成反抗企业操纵。它呼应青少年反权威的既有身份，让不吸烟成为叛逆选择。
+
+**启示：**理解受众身份，比再给他们早就知道的事实更重要。问题通常不是信息不足，而是是否与身份对齐。
+
+---
+
+### Floyd Lee——改造军队食堂
+
+军队食堂经理 Floyd Lee 把伊拉克一处普通军营餐厅，改成有名字的餐饮场所，改善摆盘和食物质量。目标不是营养更好，而是让士兵感到被重视。这表明，即使高压力、资源紧张，人也会回应意义和尊严，而非只有基本需要。
+
+**启示：**以为人只受低层需要驱动，即“马斯洛地下室”，通常是错的。创始人低估了意义、身份、尊重在各层面驱动行为的力量。
+
+---
+
+## 故事
+
+### Jared Fogle——Subway
+
+一名大学生主要吃 Subway 三明治，并每天步行，一年减重 245 磅。广告代理最初拒绝这个故事，理由是不符合现有活动，也没有受控证据。一名员工仍坚持推动。首支广告播出后，Subway 首年销售增长 18%。
+
+**启示：**最有效的品牌故事来自真实世界，不是会议室制造。偏分析的组织常因故事不符合现有框架，拒绝自己最好的故事。此例成功，因为同时符合六项黏性因素。
+
+---
+
+### Stephen Denning——世界银行知识管理
+
+一位世界银行经理花数月用数据分析劝组织采用知识管理，毫无进展。后来他讲了一个具体例子：非洲偏远城镇的卫生工作者，访问 CDC 网站找到疟疾治疗答案。这个例子启动了世界银行的知识管理项目，因为它展示可能性，而非解释机制。
+
+**启示：**跳板故事通过展示可能性激励行动，不靠解释运行原理。受众会把例子投射到自身情境，所以有效。
+
+---
+
+### Xerox 维修技师——同伴学习
+
+人类学家 Julian Orr 研究发现，Xerox 维修技师从同伴间非正式讲故事中学到的，比官方手册更多。故事结构一致：遇到问题、尝试诊断、找到方案、提炼教训。Xerox 后来建立 Eureka 故事数据库，正式收集传播维修知识。
+
+**启示：**故事是心理模拟。让人走过诊断过程，就能准备应对尚未遇过的问题，因此同伴案例胜过操作手册。
+
+---
+
+### 斯坦福演讲实验——故事与统计
+
+斯坦福一项研究中，MBA 学生做一分钟说服性演讲。平均每人用 2.5 个统计数字，只有十分之一讲故事。事后 63% 的听者记得故事，只有 5% 记得任何一个具体数字，记忆优势约十二倍。学生认为流畅呈现最重要，但呈现技巧与实际回忆几乎无相关。
+
+**启示：**说什么远比怎么说重要。故事的记忆率远高于统计，表达者却系统性地低估故事。
+
+---
+
+### NICU 护士——临床模式识别
+
+新生儿护理领域广为流传一个案例：所有监测仪读数正常，一位护士却凭视觉观察识别出婴儿危急状况。NICU 护士用它教学，强调应把受过训练的观察与仪器数据并用。
+
+**启示：**故事能传递程序手册无法记录的专家直觉。一个讲得好的案例，就能教授原实践者花数年才形成的模式识别。

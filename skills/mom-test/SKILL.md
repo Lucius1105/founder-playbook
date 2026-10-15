@@ -1,207 +1,244 @@
 ---
 name: mom-test
-description: Validates business ideas through customer conversations using Rob Fitzpatrick's Mom Test framework. Use when planning user interviews, getting product feedback, validating ideas, designing discovery questions, or extracting honest signal from biased customer responses. Covers good vs bad questions, deflecting compliments, anchoring fluff, pressing for commitment, and customer slicing.
+description: 运用 Rob Fitzpatrick 的 Mom Test 框架，通过客户对话验证商业想法。适用于规划用户访谈、获取产品反馈、验证想法、设计探索问题，或从有偏差的客户回答中提取真实信号。涵盖好问题与坏问题、把赞美引回事实、让空泛回答落到具体经历、争取承诺以及细分客户。
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/mom-test/SKILL.md)。原项目整理：AgentSeal；书籍来源：《The Mom Test》— Rob Fitzpatrick；AI辅助翻译。
 
+> **说明：**本技能是独立分析与评论，并非原书的复制品。它结合现代创业实践梳理书中核心思想，指出框架中过时或不完整的部分，并融入相邻领域的观点。如需完整论证与背景，请阅读原书。
 
-# The Mom Test
+<a id="the-mom-test"></a>
+# The Mom Test（妈妈测试）
 
-> "How to talk to customers and learn if your business is a good idea when everyone is lying to you" - Rob Fitzpatrick
+> “当所有人都在对你说谎时，如何与客户交谈，并判断你的生意是不是一个好主意。”——Rob Fitzpatrick
 
-## The 3 Core Rules
+<a id="the-3-core-rules"></a>
+## 三条核心规则
 
-1. **Talk about their life, not your idea**
-2. **Ask about specifics in the past, not generics or opinions about the future**
-3. **Talk less, listen more**
+1. **谈他们的生活，不谈你的想法。**
+2. **问过去发生的具体事情，不问泛泛的情况或对未来的意见。**
+3. **少说，多听。**
 
-## Decision Tree
+<a id="decision-tree"></a>
+## 决策树
 
-```
-Need customer feedback?
-├─ Pre-product, no idea what to build → Mom Test (this skill)
-├─ Have validated market, packaging product → 100m-offers
-├─ Have offer, need traffic → 100m-leads
-└─ Selling enterprise → spin-selling
-```
-
-```
-In a customer conversation?
-├─ They're complimenting you → DEFLECT to current behavior
-├─ They're speaking in generics ("usually", "always") → ANCHOR to last specific instance
-├─ They're requesting features → DIG to underlying motivation
-└─ They're committing nothing → PRESS for time/reputation/money
+```text
+需要客户反馈？
+├─ 尚无产品，不知道该做什么 → Mom Test（本技能）
+├─ 已验证市场，正在包装产品 → 100m-offers
+├─ 已有销售方案，需要流量 → 100m-leads
+└─ 面向企业销售 → spin-selling
 ```
 
-## Bad Questions (Never Ask)
+```text
+正在与客户交谈？
+├─ 对方在赞美你 → 把话题引回当前行为
+├─ 对方泛泛而谈（“通常”“总是”）→ 锚定最近一次具体经历
+├─ 对方提出功能要求 → 深挖背后的动机
+└─ 对方没有作出任何承诺 → 争取时间、声誉或金钱方面的投入
+```
 
-| Question | Why It Fails |
+<a id="bad-questions-never-ask"></a>
+## 坏问题（不要问）
+
+| 问题 | 为什么无效 |
 |----------|--------------|
-| "Do you think it's a good idea?" | Only the market can tell. Opinions are worthless. |
-| "Would you buy a product which did X?" | Everyone says yes. Hypotheticals are lies. |
-| "How much would you pay for X?" | Numbers feel rigorous but are still lies. |
-| "Do you ever..." / "Would you ever..." | Invites fluff and future-tense promises. |
+| “你觉得这是个好主意吗？” | 只有市场能回答。意见没有价值。 |
+| “如果有个能做 X 的产品，你会买吗？” | 人人都会说会。假设性的回答都是谎言。 |
+| “你愿意为 X 付多少钱？” | 数字看起来严谨，但仍然可能是谎言。 |
+| “你有没有过……”／“你会不会……” | 容易得到空话与面向未来的承诺。 |
 
-## Good Questions (Use These)
+<a id="good-questions-use-these"></a>
+## 好问题（可以这样问）
 
-| Question | What It Reveals |
+| 问题 | 能揭示什么 |
 |----------|-----------------|
-| "Why do you bother?" | Real motivation behind perceived problem |
-| "What are the implications?" | Must-solve vs nice-to-have |
-| "Talk me through the last time that happened." | Concrete past behavior |
-| "What else have you tried?" | Whether they care enough to search |
-| "How are you dealing with it now?" | Current solution + price anchor |
-| "Where does the money come from?" | Budget and purchasing process |
-| "Who else should I talk to?" | Tests if they care enough to make intros |
-| "Is there anything else I should have asked?" | Catches missed points |
+| “你为什么要费心做这件事？” | 表面问题背后的真实动机 |
+| “这会带来什么影响？” | 是必须解决的问题，还是有了更好 |
+| “跟我讲讲上一次发生这件事的过程。” | 具体的过去行为 |
+| “你还尝试过什么办法？” | 是否在意到愿意主动寻找方案 |
+| “你现在是怎么处理的？” | 当前方案，以及价格参照 |
+| “这笔钱从哪里出？” | 预算和采购流程 |
+| “还有谁值得我聊一聊？” | 检验对方是否在意到愿意引荐 |
+| “有没有什么我本来应该问、却没问到的？” | 补上遗漏的信息 |
 
-## Three Types of Bad Data + Responses
+<a id="three-types-of-bad-data--responses"></a>
+## 三种坏数据及应对方式
 
-| Bad Data | Example | Response |
-|----------|---------|----------|
-| **Compliments** | "That's really cool, I love it." | "Thanks - but how are you dealing with this stuff at the moment?" |
-| **Fluff** | "I usually..." / "I would definitely buy that." | "When's the last time that happened? Walk me through it." |
-| **Ideas/Features** | "Can you add X feature?" | "Why do you want that? What would it let you do? How are you coping without it?" |
+| 坏数据 | 示例 | 应对方式 |
+|----------|----------|----------|
+| **赞美** | “太酷了，我很喜欢。” | “谢谢，不过你现在是怎么处理这些事情的？” |
+| **空话** | “我通常……”／“我肯定会买。” | “上一次是什么时候？带我过一遍当时的过程。” |
+| **想法／功能** | “能不能加上 X 功能？” | “你为什么想要它？有了它你能做什么？现在没有它，你怎么应对？” |
 
-## Commitment Currencies
+<a id="commitment-currencies"></a>
+## 承诺的三种筹码
 
-Real interest = giving up something valuable. Compliments cost nothing.
+真实兴趣意味着愿意付出有价值的东西。赞美毫无成本。
 
-| Currency | Examples |
+| 筹码 | 示例 |
 |----------|----------|
-| **Time** | Clear next meeting, using trial for real, sitting down for feedback |
-| **Reputation** | Intro to peers, intro to boss, public testimonial |
-| **Money** | Letter of intent, pre-order, deposit |
+| **时间** | 明确下一次会面；真正使用试用版；坐下来提供反馈 |
+| **声誉** | 向同行引荐；向上司引荐；公开作证言 |
+| **金钱** | 意向书；预购；定金 |
 
-### Good Meeting Endings
-- "What are the next steps?"
-- "When can we start the trial?"
-- "Can I buy the prototype?"
-- "When can you come back to talk to the rest of the team?"
+<a id="good-meeting-endings"></a>
+### 好的会议结尾
 
-### Polite Rejections (Bad Endings)
-- "That's so cool, I love it!"
-- "Let me know when it launches."
-- "I would definitely buy that."
+- “下一步怎么做？”
+- “什么时候可以开始试用？”
+- “我能买这个原型吗？”
+- “你什么时候能再来，和团队其他人聊一聊？”
 
-## Critical Principle
+<a id="polite-rejections-bad-endings"></a>
+### 礼貌的拒绝（不好的结尾）
 
-**They own the problem. You own the solution.**
+- “太酷了，我很喜欢！”
+- “上线了告诉我。”
+- “我肯定会买。”
 
-You aren't allowed to tell them what their problem is. They aren't allowed to tell you what to build.
+<a id="critical-principle"></a>
+## 关键原则
 
-## The Filter Test
+**问题归他们，方案归你。**
 
-If they haven't even Googled for a solution, they don't actually care enough to pay for yours.
+你不能替他们规定问题是什么；他们不能替你决定应该造什么。
 
-## Customer Slicing
+<a id="the-filter-test"></a>
+## 筛选测试
 
-### Signs Your Segment Is Too Broad
-- 10+ conversations, results all over the map
-- Everything "sort of works" but nothing breaks through
-- Cannot prove yourself right or wrong
-- Every feature is someone's favorite
-- Massive price variance ($10 vs $10,000)
+如果对方连用 Google 找方案都没做过，就说明他们还没有在意到愿意为你的方案付钱。
 
-### The Slicing Process
-1. Within this group, who would want it MOST?
-2. Why do they want it? What's their specific problem?
-3. What are they already doing to solve it?
-4. Where can we find them?
+<a id="customer-slicing"></a>
+## 客户细分
 
-**Good segment test:** A segment is useful only if you know WHERE to find them.
+<a id="signs-your-segment-is-too-broad"></a>
+### 客群划得太宽的迹象
 
-## Conversation Length Guide
+- 聊了 10 多次，结果各不相同。
+- 所有东西“似乎都有点用”，却没有任何突破。
+- 无法证明自己的判断是对是错。
+- 每个功能都有人最喜欢。
+- 可接受价格差距极大（10 美元与 10,000 美元）。
 
-| Duration | Goal |
+<a id="the-slicing-process"></a>
+### 细分步骤
+
+1. 在这群人里，谁最想要它？
+2. 为什么想要？具体问题是什么？
+3. 已经在采取什么行动解决问题？
+4. 去哪里能找到他们？
+
+**有效客群测试：**只有知道在哪里能找到这群人，细分才有用。
+
+<a id="conversation-length-guide"></a>
+## 对话时长指南
+
+| 时长 | 目标 |
 |----------|------|
-| 5 min | Does problem exist? Is it important? |
-| 10-15 min | Workflow details, what they've tried |
-| 1+ hour | Industry deep-dives with experts |
+| 5 分钟 | 问题是否存在？是否重要？ |
+| 10—15 分钟 | 工作流程细节；已尝试过的办法 |
+| 1 小时以上 | 与专家深入了解行业 |
 
-## Keep It Casual
+<a id="keep-it-casual"></a>
+## 保持轻松
 
-- Strip the formality - reduce "meeting" to "chat"
-- Pop your most important question immediately
-- Goal: they don't even realize they've "had a meeting"
-- 5-10 minute casual conversations yield as much as formal meetings
+- 去掉正式感，把“开会”变成“聊聊”。
+- 直接抛出最重要的问题。
+- 目标是让对方甚至没有意识到自己“开了个会”。
+- 5—10 分钟的随意交流，可以获得与正式会议同样多的信息。
 
-## Process Checklist
+<a id="process-checklist"></a>
+## 流程清单
 
-### Before
-- [ ] Choose focused, findable segment
-- [ ] Decide 3 big learning goals with team
-- [ ] Decide ideal next steps and commitments
-- [ ] Do basic desk research first
+<a id="before"></a>
+### 之前
 
-### During
-- [ ] Frame the conversation
-- [ ] Keep it casual
-- [ ] Ask questions that pass The Mom Test
-- [ ] Deflect compliments, anchor fluff, dig beneath signals
-- [ ] Take good notes
-- [ ] Press for commitment and next steps
+- [ ] 选择聚焦且能找到的客群。
+- [ ] 与团队确定三个最重要的学习目标。
+- [ ] 确定理想的下一步及希望获得的承诺。
+- [ ] 先做基本的案头研究。
 
-### After
-- [ ] Review notes and key quotes with team
-- [ ] Update beliefs and plans
-- [ ] Decide next 3 big questions
+<a id="during"></a>
+### 期间
 
-## Signs You're Doing It Wrong
+- [ ] 说明对话的背景与目的。
+- [ ] 保持轻松。
+- [ ] 提出能通过 Mom Test 的问题。
+- [ ] 把赞美引回事实，让空话落到具体经历，深挖信号背后的原因。
+- [ ] 做好笔记。
+- [ ] 争取承诺，明确下一步。
 
-- You're talking more than they are
-- They're complimenting you or your idea
-- You don't have notes
-- You got an unexpected answer and didn't change anything
-- You weren't scared of any question you asked
-- You don't know what happens next
-- Meeting "went well" but no concrete commitments
+<a id="after"></a>
+### 之后
 
-## Quick Rules
+- [ ] 与团队复盘笔记及关键原话。
+- [ ] 更新判断与计划。
+- [ ] 决定接下来的三个重要问题。
 
-Rules not already captured in the tables and checklists above:
+<a id="signs-youre-doing-it-wrong"></a>
+## 做错了的迹象
 
-1. Customer conversations are bad by default. Your job to fix them.
-2. People know problems but not solutions. Don't ask what to build.
-3. You should be terrified of at least one question you're asking (terrified of the answer, not the asking).
-4. There's more reliable information in a "meh" than a "Wow!"
-5. It's not a real lead until you've given them a concrete chance to reject you.
+- 你说得比对方多。
+- 对方一直赞美你或你的想法。
+- 你没有笔记。
+- 得到意外答案，却没有改变任何行动。
+- 你问的所有问题，都没有一个让你害怕答案。
+- 你不知道下一步会发生什么。
+- 会谈“很顺利”，却没有任何具体承诺。
 
-## Timeline
+<a id="quick-rules"></a>
+## 速记规则
 
-Spend a week, maybe two. Get your bearings, then give them something to commit to. Don't spend months theorizing.
+以下规则尚未包含在上述表格与清单中：
 
-## Context: Founders vs. Product Teams
+1. 客户对话默认质量很差，你的任务是改善它。
+2. 人们了解问题，却未必了解解决方案。不要问他们该做什么产品。
+3. 至少有一个问题的答案应该令你害怕——怕的是答案，不是开口提问。
+4. 一句“也就那样”，往往比一句“太棒了！”包含更可靠的信息。
+5. 在你给对方一个明确拒绝你的机会之前，对方还不能算真正的销售线索。
 
-This framework is written for founders validating whether a new idea is worth pursuing at all. If you're a product manager at an established company, your situation is different: you already know customers want the product. Your interviews are doing problem discovery (what's broken?) or feature discovery (which direction next?) with existing users - not testing whether a market exists. The "press for commitment" and customer-slicing sections are largely irrelevant. The core questioning mechanics (past behavior, avoid hypotheticals, anchor fluff) still apply directly.
+<a id="timeline"></a>
+## 时间安排
 
-## When This Doesn't Apply
+用一周，最多两周。摸清方向之后，就提供一个可以让对方作出承诺的东西。不要花几个月空想。
 
-- **Formal B2B/Enterprise:** Some contexts require formal protocols
-- **Regulated industries:** Healthcare, finance may need different approaches
-- **Truly novel innovations:** Customers can't imagine what they want until they see it
-- **Cultural contexts:** Japan, Germany, formal corporate cultures expect different protocols
-- **Domain experts:** Expert opinions about THEIR domain carry weight (the rule is about opinions on YOUR IDEA)
+<a id="context-founders-vs-product-teams"></a>
+## 情境差异：创始人与产品团队
 
-## Red Flags (Customers to Avoid)
+本框架面向需要判断新想法究竟值不值得做的创始人。如果你是成熟企业的产品经理，情况不同：你已经知道客户想要这类产品。你是在现有用户中发现问题（哪里不好用？）或探索功能方向（下一步往哪里走？），而不是检验市场是否存在。“争取承诺”和客户细分部分大多并不相关。核心提问方法——问过去行为、避免假设、让空话落地——仍可直接使用。
 
-Even enthusiastic, paying customers can derail you:
-- Needs so specific they'll pull you off-course
-- Demand custom work that doesn't generalize
-- "Visionaries" who want something completely different from your vision
-- Will only commit if you build their pet feature first
+<a id="when-this-doesnt-apply"></a>
+## 不适用的情况
 
-## Supporting Files
+- **正式的 B2B／企业场景：**有些环境需要正式流程。
+- **受监管行业：**医疗、金融可能需要不同方法。
+- **真正全新的创新：**客户看到产品前，可能想象不出自己想要什么。
+- **文化情境：**日本、德国，以及正式的企业文化，对交流流程的预期不同。
+- **领域专家：**专家对自己领域的意见有分量；本规则针对的是他们对你的想法的意见。
 
-- **[frameworks.md](frameworks.md)** - VFWPA email template, ACA framework, deeper question hierarchy, finding-conversations playbook
-- **[cases.md](cases.md)** - Earlyvangelist concept (Steve Blank's term, used by Fitzpatrick), case-style examples
-- **[examples.md](examples.md)** - Note-taking symbols, full email scripts, conversation walk-throughs
-- **[integration.md](integration.md)** - How Mom Test feeds 100m-offers, 100m-leads, spin-selling, obviously-awesome; conflicts with hypothesis-testing approaches
+<a id="red-flags-customers-to-avoid"></a>
+## 危险信号（应避开的客户）
 
-## The Nuance
+即使热情且愿意付钱的客户，也可能把你带偏：
 
-- "Talk less" means don't pitch your solution, not don't talk at all. Strategic questions and redirections are talking.
-- "Be terrified of a question" means terrified of the ANSWER (it might invalidate your idea), not asking aggressive questions.
-- "Press for commitment" doesn't mean be pushy. Know when to back off. Burning a contact is worse than no commitment.
-- "They can't tell you what to build" doesn't mean ignore domain experts. Sophisticated users may know implementation better than you - understand the WHY.
+- 需求过于特殊，会让你偏离方向。
+- 要求无法复用的定制工作。
+- “有远见的人”想要的东西与你的愿景完全不同。
+- 只有先做出他们偏爱的功能，才愿意承诺。
+
+<a id="supporting-files"></a>
+## 配套文件
+
+- **[frameworks.md](frameworks.md)**：VFWPA 邮件模板、ACA 框架、更深入的问题层次、寻找对话机会的操作指南。
+- **[cases.md](cases.md)**：早期核心客户（earlyvangelist）概念——该术语由 Steve Blank 提出，Fitzpatrick 沿用——以及案例式示例。
+- **[examples.md](examples.md)**：笔记符号、完整邮件脚本、对话过程演示。
+- **[integration.md](integration.md)**：Mom Test 如何为 100m-offers、100m-leads、spin-selling、obviously-awesome 提供输入，以及它与假设检验方法的冲突。
+
+<a id="the-nuance"></a>
+## 需要把握的分寸
+
+- “少说”意味着不要推销自己的方案，不是完全不说话。有策略的提问与话题引导同样需要说话。
+- “害怕某个问题”是害怕答案可能推翻你的想法，不是要问咄咄逼人的问题。
+- “争取承诺”不意味着强迫。知道何时后退。损失一个联系人，比没有得到承诺更糟。
+- “他们不能告诉你该造什么”不意味着忽略领域专家。成熟用户可能比你更懂实现方式，重点是理解背后的原因。

@@ -1,204 +1,226 @@
 ---
 name: diagnose
-description: "Startup diagnostic router. Use FIRST when a founder doesn't know where to start, has multiple overlapping problems, or asks a vague question like 'what's wrong with my startup', 'why aren't people buying', 'what should I focus on', 'where do I even begin', 'nothing is working'. Routes to the right framework from the 15 available skills — or tells you when no framework fits and you just need to go talk to people. This is the entry point. Use it before reaching for any specific skill."
+description: "创业问题诊断与方法分流入口。当创业者不知道从哪里开始、多个问题相互交织，或提出‘我的创业项目哪里出了问题’‘为什么没人购买’‘我应该关注什么’‘到底从哪里开始’‘做什么都没用’等模糊问题时，优先使用。它会从现有15个书籍技能中选择适合的方法；如果没有合适框架，也会明确指出你需要先去与真实的人交流。这是总入口，应在选择任何具体技能前使用。"
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of any original text. It synthesizes frameworks from multiple books with modern startup practice and routes founders to the right tool for their situation.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/diagnose/SKILL.md)。原项目整理：AgentSeal；本篇综合多本书的框架，来源沿原文；AI 辅助翻译。
 
-# Diagnose
+> **说明：**本技能是独立分析和评论，并非对任何原著的复制。它将多本书中的框架与当代创业实践结合，帮助创业者找到适合当前情况的工具。
 
-> "The dangerous moment is when you apply the right framework to the wrong problem."
+<a id="diagnose"></a>
+# 问题诊断
 
-## When to Use This Skill
+> “真正危险的时刻，是把正确的框架用在错误的问题上。”
+
+<a id="when-to-use-this-skill"></a>
+## 何时使用本技能
 
 ```
-Do you know exactly what's broken?
-|-- YES --> Do you know which framework to use?
-|   |-- YES --> Go use that skill directly. You don't need this.
-|   +-- NO  --> THIS SKILL. You know the problem, need the tool.
-+-- NO  --> THIS SKILL. Start here.
+你清楚究竟哪里出了问题吗？
+|-- 是 --> 你知道该使用哪个框架吗？
+|   |-- 是 --> 直接使用对应技能，不需要本技能。
+|   +-- 否 --> 使用本技能：你知道问题，但需要选工具。
++-- 否 --> 使用本技能，从这里开始。
 ```
 
-This skill exists because frameworks are tools, not answers. A hammer doesn't help when the problem is a screw. The first job is diagnosis — figuring out what's actually broken before reaching for any specific framework.
+本技能存在的原因是：框架是工具，不是答案。问题是一颗螺丝时，锤子帮不上忙。第一步应当是诊断——先弄清到底哪里出了问题，再拿起具体框架。
 
 ---
 
-## The Five Failure Modes
+<a id="the-five-failure-modes"></a>
+## 五类失败原因
 
-Every startup problem maps to one of five root causes. Most founders misdiagnose which one they have.
+每个创业问题都可以映射到五种根本原因之一。大多数创业者会误判自己属于哪一种。
 
-| Failure Mode | What It Looks Like | Common Misdiagnosis |
+| 失败类型 | 表现 | 常见误判 |
 |---|---|---|
-| **Product** | People try it and stop using it | "We need better marketing" |
-| **Market** | Can't find anyone who cares enough to pay | "We need to build more features" |
-| **Messaging** | Good product, people don't understand what it does | "The product must be wrong" |
-| **Distribution** | People would buy it but never hear about it | "We need a better website" |
-| **Pricing** | People want it but won't pay what you charge | "We need more features to justify the price" |
+| **产品** | 用户试用后就不再使用 | “我们需要更好的营销” |
+| **市场** | 找不到足够在意这个问题、愿意付钱的人 | “我们需要开发更多功能” |
+| **信息表达** | 产品不错，但别人不明白它是做什么的 | “一定是产品不对” |
+| **分发与触达** | 有人愿意购买，却根本没听说过你 | “我们需要更好的网站” |
+| **定价** | 客户想要产品，却不愿支付你提出的价格 | “我们需要更多功能来证明这个价格合理” |
 
-### The Misdiagnosis Problem
+<a id="the-misdiagnosis-problem"></a>
+### 误诊问题
 
-Founders almost always misdiagnose their problem by one layer. The pattern:
-
-```
-ACTUAL PROBLEM:        WHAT FOUNDERS THINK:        WHAT THEY DO:
-Product problem    →   "Marketing isn't working"   →   Spend on ads (waste)
-Market problem     →   "Need more features"        →   Build for months (waste)
-Messaging problem  →   "Product must be wrong"     →   Pivot prematurely (waste)
-Distribution       →   "Need better website"       →   Redesign 5 times (waste)
-Pricing problem    →   "Need more value"            →   Add features nobody asked for (waste)
-```
-
----
-
-## The Diagnostic
-
-Answer these honestly. Not what you hope is true — what the evidence says.
-
-### Step 1: Do people want this?
+创业者对问题的判断几乎总会错开一个层次。常见模式如下：
 
 ```
-Have at least 5 people given you real money (or signed a binding LOI)?
-|-- YES --> Go to Step 2.
-|-- NO  --> Have you talked to 10+ potential customers about their problem
-|           (not your solution)?
-|   |-- YES --> Did they describe the problem with emotion and specifics?
-|   |   |-- YES --> You probably have a messaging, pricing, or distribution
-|   |   |           problem. Go to Step 2.
-|   |   +-- NO  --> You might have a MARKET problem. The problem you're
-|   |               solving may not be painful enough to pay for.
-|   |               → Use mom-test to validate the problem exists.
-|   |               → Use four-steps Customer Discovery process.
-|   +-- NO  --> STOP. You are guessing. Nothing else matters until you
-|               talk to real people. → Use mom-test.
-```
-
-### Step 2: Can people understand what you do?
-
-```
-Show your website/pitch to a stranger for 5 seconds. Can they tell you:
-  1. What you offer?
-  2. How it makes their life better?
-  3. What they should do next?
-
-All 3 clear?
-|-- YES --> Go to Step 3.
-|-- NO  --> You have a MESSAGING problem.
-|           → Use storybrand to restructure your message.
-|           → Use made-to-stick to make individual messages land.
-|           → Use obviously-awesome if the confusion is about
-|             what category you belong in.
-```
-
-### Step 3: Are the right people finding you?
-
-```
-Are potential customers discovering your product?
-|-- YES, enough volume → Go to Step 4.
-|-- YES, but wrong people → You have a POSITIONING problem.
-|   → Use obviously-awesome to redefine your target segment.
-|   → Use crossing-the-chasm if you're reaching innovators
-|     but need pragmatists.
-|-- NO → You have a DISTRIBUTION problem.
-|   → Use traction to systematically test channels.
-|   → Use 100m-leads for tactical execution in chosen channels.
-|   → Use money-models if you can't AFFORD the channels that work (make acquisition self-funding first).
-```
-
-### Step 4: Are they buying?
-
-```
-People find you, understand you, but don't buy. Why?
-|-- "Too expensive" → PRICING problem.
-|   → Use monetizing-innovation to redesign price+product together.
-|   → Use 100m-offers to repackage the offer.
-|-- "Not sure it'll work for me" → TRUST problem.
-|   → Use influence (social proof, authority).
-|   → Use storybrand (guide authority + testimonials).
-|-- "I'll think about it" (then ghost) → URGENCY problem.
-|   → Use 100m-offers (scarcity, urgency, bonuses, guarantees).
-|   → Use influence (scarcity, commitment/consistency).
-|-- "Went with competitor" → POSITIONING problem.
-|   → Use obviously-awesome to find your unique value.
-|   → Use blue-ocean-strategy if the market is commoditized.
-|-- Signing up but churning → PRODUCT problem.
-|   → Use lean-startup to measure and iterate.
-|   → Use mom-test to understand why they leave.
-|-- Buying once but never again / LTV too low to fund growth → MONEY MODEL problem.
-|   → Use money-models (upsells, downsells, continuity).
-```
-
-### Step 5: Is the sales process working?
-
-```
-For B2B / high-touch sales:
-|-- Meetings happen but deals stall → SALES PROCESS problem.
-|   → Use spin-selling for the conversation structure.
-|   → Use influence for persuasion mechanics.
-|-- Can't get meetings → Back to Step 3 (distribution).
-|-- Deals close but take too long → Use spin-selling
-|   (you're probably skipping Implication questions).
+实际问题：        创业者的判断：           采取的行动：
+产品问题       → “营销不管用”          → 花钱投广告（浪费）
+市场问题       → “需要更多功能”        → 开发几个月（浪费）
+信息表达问题   → “肯定是产品不对”      → 过早转型（浪费）
+分发与触达问题 → “需要更好的网站”      → 改版5次（浪费）
+定价问题       → “需要更多价值”        → 增加没人要求的功能（浪费）
 ```
 
 ---
 
-## The One-Skill Rule
+<a id="the-diagnostic"></a>
+## 诊断流程
 
-**Every diagnosis should output: one primary skill, one secondary skill (optional), and one concrete next action the founder can do this week.**
+请诚实回答：依据证据说明实际情况，而不是你希望事情是什么样。
 
-Do not stack 3-4 frameworks. Framework stacking creates the illusion of thoroughness while reducing usability. A founder drowning in problems doesn't need four life preservers thrown at once — they need one rope and clear instructions.
+<a id="step-1-do-people-want-this"></a>
+### 第1步：人们真的想要它吗？
 
-If two skills genuinely both apply, sequence them: "Do X first (skill A). Only after you have results, then apply skill B." Never in parallel.
+```
+是否至少有5个人真正付过钱，或签署了有约束力的意向书（LOI）？
+|-- 是 --> 进入第2步。
+|-- 否 --> 你是否与10位以上潜在客户聊过他们的问题，
+|           而不是你的解决方案？
+|   |-- 是 --> 他们描述问题时，是否带有情绪和具体细节？
+|   |   |-- 是 --> 你可能面对的是信息表达、定价或触达问题。
+|   |   |           进入第2步。
+|   |   +-- 否 --> 你可能面对市场问题。你解决的问题，
+|   |               也许还没有痛到让客户愿意付费。
+|   |               → 用 mom-test 验证问题是否真实存在。
+|   |               → 用 four-steps 的客户探索流程。
+|   +-- 否 --> 停下。你还在猜测。在与真实的人交流之前，
+|               其他事情都不重要。→ 使用 mom-test。
+```
 
-The concrete next action must be something a solo founder can actually do — not "100 outreach attempts per day" but "send 10 DMs to people who posted about this problem on Reddit this week." Precision that sounds good but can't be executed is fake precision.
+<a id="step-2-can-people-understand-what-you-do"></a>
+### 第2步：人们能理解你在做什么吗？
+
+```
+把你的网站或推介展示给陌生人看5秒。他们能说清楚以下三点吗？
+  1. 你提供什么？
+  2. 它如何改善他们的生活？
+  3. 他们下一步应该做什么？
+
+三点都清楚吗？
+|-- 是 --> 进入第3步。
+|-- 否 --> 你有信息表达问题。
+|           → 用 storybrand 重构表达。
+|           → 用 made-to-stick 让每条信息真正被理解和记住。
+|           → 如果困惑来自你属于什么品类，使用 obviously-awesome。
+```
+
+<a id="step-3-are-the-right-people-finding-you"></a>
+### 第3步：合适的人正在找到你吗？
+
+```
+潜在客户能够发现你的产品吗？
+|-- 能，而且数量足够 → 进入第4步。
+|-- 能，但来的不是目标客户 → 你有定位问题。
+|   → 用 obviously-awesome 重新定义目标细分人群。
+|   → 如果触达的是创新者，而需要的是务实型客户，使用 crossing-the-chasm。
+|-- 不能 → 你有分发与触达问题。
+|   → 用 traction 系统测试渠道。
+|   → 用 100m-leads 在选定渠道中落实具体行动。
+|   → 如果有效渠道的成本你承担不起，使用 money-models，
+|     先让获客能够由客户收入提供资金。
+```
+
+<a id="step-4-are-they-buying"></a>
+### 第4步：他们购买了吗？
+
+```
+客户发现了你、理解了你，却没有购买。为什么？
+|-- “太贵了” → 定价问题。
+|   → 用 monetizing-innovation 同步重新设计价格与产品。
+|   → 用 100m-offers 重新包装销售方案。
+|-- “不确定对我是否有效” → 信任问题。
+|   → 用 influence：社会认同、权威。
+|   → 用 storybrand：引导者的权威与客户证言。
+|-- “我再考虑考虑”，随后失联 → 紧迫感问题。
+|   → 用 100m-offers：稀缺性、紧迫性、赠品和保障。
+|   → 用 influence：稀缺性、承诺与一致性。
+|-- “选了竞争对手” → 定位问题。
+|   → 用 obviously-awesome 找到独特价值。
+|   → 如果市场已经同质化，使用 blue-ocean-strategy。
+|-- 注册后流失 → 产品问题。
+|   → 用 lean-startup 衡量并迭代。
+|   → 用 mom-test 理解用户离开的原因。
+|-- 只买一次，再不复购／客户终身价值（LTV）太低，无法支持增长
+|   → 收入模式问题。
+|   → 用 money-models：升级销售、降档销售、持续订阅。
+```
+
+<a id="step-5-is-the-sales-process-working"></a>
+### 第5步：销售流程有效吗？
+
+```
+针对 B2B 或需要较多人际互动的销售：
+|-- 能约到会，但交易停滞 → 销售流程问题。
+|   → 用 spin-selling 搭建对话结构。
+|   → 用 influence 理解说服机制。
+|-- 约不到会 → 回到第3步，检查触达。
+|-- 能成交，但周期太长 → 使用 spin-selling。
+|   你很可能跳过了影响型问题（Implication questions）。
+```
 
 ---
 
-## When No Framework Fits
+<a id="the-one-skill-rule"></a>
+## 一次只选一个主技能
 
-Sometimes the answer is: **none of these frameworks apply to your situation right now.**
+**每次诊断都应给出：一个主技能、一个可选的辅助技能，以及创业者本周能完成的一项具体行动。**
 
-Signs you should stop using frameworks and just go observe reality:
+不要叠加三四个框架。堆叠框架会制造“分析很全面”的错觉，却降低可用性。被问题淹没的创业者，不需要你同时扔去四个救生圈；他需要一根绳子和清楚的指令。
 
-- You've been through 3+ frameworks and nothing improved. The problem might not be strategic — it might be execution, team, timing, or market conditions no book anticipated.
-- Your situation is genuinely novel. Frameworks are built from patterns of past companies. If you're doing something with no precedent, the frameworks become educated guesses at best.
-- You're using frameworks to avoid the uncomfortable thing. Usually that's talking to customers, firing someone, admitting the idea doesn't work, or making a decision with incomplete information.
-- The frameworks are contradicting each other and neither side is clearly right. Some tensions are real worldview differences (customer-centric vs product-centric, niche vs broad). You pick one and commit. No rubric resolves that for you.
+如果两个技能确实都适用，就安排先后：“先完成 X（技能 A）。只有拿到结果后，再使用技能 B。”不要并行套用。
 
-**The meta-rule:** Frameworks help you think more clearly. They don't think for you. If you scored a 9/10 on a rubric but your gut says something is off, trust the gut and investigate. The rubric caught the easy problems. The hard ones are yours.
+具体下一步必须是独立创业者真正能做到的事。不要说“每天触达100人”，而应说“本周给10位在 Reddit 谈过这个问题的人发私信”。听起来精确、却无法执行的要求，是虚假的精确。
 
 ---
 
-## Quick Reference: Which Skill for What
+<a id="when-no-framework-fits"></a>
+## 没有合适框架时
 
-| Your Situation | Start With | Then |
+有时答案就是：**这些框架目前都不适合你的情况。**
+
+出现以下信号时，应停止套框架，直接观察现实：
+
+- 已经用过3个以上框架，却毫无改善。问题可能不在战略，而在执行、团队、时机，或书中未预见的市场条件。
+- 你面对的情况确实新颖。框架来自过去公司的共性模式。如果正在做没有先例的事情，框架最多只是有依据的猜测。
+- 你在用框架回避不舒服的事情。通常是与客户交谈、解雇某个人、承认想法行不通，或在信息不完整时作出决定。
+- 框架互相矛盾，而且没有哪一方明显正确。有些张力是真实的世界观差异，例如以客户为中心还是以产品为中心、聚焦细分还是覆盖广泛。你需要选择一个方向并投入，没有评分表能替你解决。
+
+**总原则：**框架帮助你思考得更清楚，但不能替你思考。如果评分表给了9/10分，而直觉仍觉得不对，就相信这个信号并继续调查。评分表能识别容易发现的问题，难题仍由你负责。
+
+---
+
+<a id="quick-reference-which-skill-for-what"></a>
+## 速查：什么情况用什么技能
+
+| 你的情况 | 先用 | 然后用 |
 |---|---|---|
-| "Nobody's buying" | This diagnostic (figure out WHY) | Route to the right skill |
-| "I have an idea but haven't talked to anyone" | mom-test | four-steps |
-| "People like it but won't pay" | monetizing-innovation | 100m-offers |
-| "Our website doesn't convert" | storybrand | made-to-stick |
-| "We can't find customers" | traction | 100m-leads |
-| "Competitors are eating our lunch" | obviously-awesome | blue-ocean-strategy |
-| "Sales calls go nowhere" | spin-selling | influence |
-| "We have early users but can't grow past them" | crossing-the-chasm (only if 10+ paying customers) | traction |
-| "Should we pivot?" | lean-startup | four-steps |
-| "Everything feels broken" | This diagnostic | Then one skill at a time |
-| "Customers buy once and disappear" | money-models | 100m-offers |
-| "Ads work but we can't afford to scale them" | money-models | 100m-leads |
+| “没人购买” | 本诊断，先弄清原因 | 分流到适合的技能 |
+| “我有一个想法，还没与任何人聊过” | mom-test | four-steps |
+| “大家喜欢，但不肯付钱” | monetizing-innovation | 100m-offers |
+| “网站没有转化” | storybrand | made-to-stick |
+| “找不到客户” | traction | 100m-leads |
+| “竞争对手正在抢走我们的生意” | obviously-awesome | blue-ocean-strategy |
+| “销售通话毫无进展” | spin-selling | influence |
+| “有早期用户，但无法突破这批人继续增长” | crossing-the-chasm，仅适用于已有10位以上付费客户时 | traction |
+| “我们该转型吗？” | lean-startup | four-steps |
+| “感觉哪里都坏了” | 本诊断 | 然后一次使用一个技能 |
+| “客户只买一次就消失了” | money-models | 100m-offers |
+| “广告有效，但我们负担不起扩大投放” | money-models | 100m-leads |
 
 ---
 
-## Scope and Limitations
+<a id="scope-and-limitations"></a>
+## 范围与局限
 
-### What This Diagnostic Does
-- Routes you to the right framework faster than guessing
-- Catches the most common misdiagnosis patterns
-- Tells you when to stop using frameworks entirely
+<a id="what-this-diagnostic-does"></a>
+### 本诊断能做什么
 
-### What It Doesn't Do
-- It doesn't replace judgment. The diagnostic narrows the options. You still decide.
-- It assumes the 15 available skills cover your problem. Some problems (hiring, fundraising, legal, operations) aren't covered here.
-- It can't diagnose problems you're not honest about. If you skip the hard questions or answer with what you wish were true, the routing breaks.
-- It oversimplifies by design. Real startups have 3 problems at once. This makes you pick one to fix first, which is usually correct but sometimes the problems are entangled and need to be solved together.
+- 比猜测更快地把你引向合适的框架。
+- 识别最常见的误诊模式。
+- 告诉你什么时候应当彻底停止套框架。
 
-### The Honest Warning
-A diagnostic that always gives an answer is more dangerous than one that sometimes says "I don't know." If your situation doesn't fit any of the decision paths above, that's a signal — not a bug. Go talk to customers, advisors, or anyone who'll give you an honest read on what's happening. Then come back.
+<a id="what-it-doesnt-do"></a>
+### 本诊断不能做什么
+
+- 不能替代判断。诊断只是缩小选择范围，决定仍由你来做。
+- 它假设现有15个技能能覆盖你的问题。招聘、融资、法律、运营等问题并不在这里的覆盖范围内。
+- 无法诊断你不愿诚实面对的问题。如果跳过难题，或按自己希望的情况回答，分流就会失效。
+- 它有意做了简化。真实创业项目可能同时有3个问题。要求你先选一个来解决通常合理，但有时问题相互缠绕，需要一起处理。
+
+<a id="the-honest-warning"></a>
+### 坦诚的提醒
+
+一个总能给出答案的诊断工具，比一个有时承认“不知道”的工具更危险。如果你的情况不符合上面的任何路径，这是一个信号，不是程序出错。去找客户、顾问，或任何愿意坦诚告诉你现实情况的人交流，然后再回来。

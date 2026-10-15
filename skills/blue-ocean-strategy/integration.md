@@ -1,103 +1,118 @@
-# Blue Ocean Strategy - Integration with Other Skills
+> 中文译文｜[英文对照](integration.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/blue-ocean-strategy/integration.md)。原项目整理：AgentSeal；书籍来源：《Blue Ocean Strategy》— W. Chan Kim 与 Renée Mauborgne；AI辅助翻译。
 
-## Compared to Porter's Strategy
+<a id="blue-ocean-strategy---integration-with-other-skills"></a>
+# Blue Ocean Strategy——与其他技能结合
 
-Porter's framework (Five Forces, generic strategies) is more rigorous and predictive but assumes industry boundaries are fixed. BOS challenges that assumption but is less rigorous.
+<a id="compared-to-porters-strategy"></a>
+## 与波特战略比较
 
-**The core disagreement:** Porter's Five Forces holds that industry structure - supplier power, buyer power, rivalry, substitutes, new entrants - determines long-run profitability. If you're in a bad industry, you earn bad returns. BOS says industry boundaries are not given; a company can reconstruct them by redefining the value it offers and who it offers it to. This is not a minor difference. Porter's entire prescriptive apparatus (choose a position, build a moat, defend it) rests on the assumption that the industry exists as a stable unit of analysis. BOS explicitly rejects that.
+波特框架，包括五力与通用战略，更严谨、更具预测性，但假定行业边界固定。BOS 挑战这一假设，却没那么严谨。
 
-**"Stuck in the middle" vs. value innovation.** One of Porter's most durable warnings is that companies trying to be both cost leaders and differentiators end up mediocre at both - "stuck in the middle." BOS calls simultaneous differentiation and low cost "value innovation" and treats it as the goal, not a mistake. The resolution is that they're describing different mechanisms: Porter is right that trying to out-differentiate rivals while also out-cutting them on cost within a fixed competitive space is a losing game. BOS is right that creating new demand through new value factors can shift the cost structure (you eliminate and reduce competing factors) at the same time you improve the buyer experience. The simultaneity is real - but only when it flows from reconstructing the value curve, not from competing harder on existing terms.
+**核心分歧：** 波特五力认为，供应商议价能力、买方议价能力、现有竞争、替代品、新进入者共同构成的行业结构，决定长期盈利能力。身处糟糕行业，回报就差。BOS 则认为行业边界并非天定，公司可以通过重新定义提供的价值及其对象，重构边界。这不是细微差异。波特的整套行动建议——选择位置、建立护城河、防守——都建立在“行业作为稳定分析单位而存在”的假设上，BOS 明确拒绝这个假设。
 
-**What Porter gets right that BOS glosses over.** Five Forces gives you precise language for why an industry is structurally attractive or unattractive: high supplier concentration, commodity buyers, low switching costs. BOS doesn't replace that analysis. If you reconstruct a market and land in a space with high supplier power and zero switching costs, your blue ocean turns red fast. BOS tells you where to move; Porter tells you whether the landing zone is worth moving to.
+**“夹在中间”与价值创新。** 波特最持久的警告之一是，同时追求成本领先与差异化的公司，最终两边都平庸，陷入“夹在中间”。BOS 把同时实现差异化与低成本称为“价值创新”，将其视为目标而非错误。两者描述的是不同机制：在固定竞争空间里，既试图比对手更差异化、又比对手削减更多成本，确实如波特所说是难赢的游戏。通过新的价值要素创造新需求，则确实可以像 BOS 所说，在改善买方体验的同时，通过剔除和减少竞争要素改变成本结构。两者能够同时实现，但必须源于重构价值曲线，而非在原有条件下更用力地竞争。
 
-**How to use them together:** Run Five Forces on your current competitive space to understand the structural forces working against you. If the diagnosis is grim - margins eroding, rivals converging, industry declining - that's the signal to apply BOS tools (Six Paths, Strategy Canvas, ERRC) to find a different space to compete in. Then run Five Forces again on the reconstructed space before committing. Porter audits the terrain; BOS redesigns the map.
+**波特讲清楚、BOS 却轻轻带过的部分。** 五力为行业在结构上是否有吸引力提供精确语言，例如供应商高度集中、买方将产品视为同质化商品、转换成本低。BOS 无法替代这项分析。如果重构市场后，进入的是供应商议价能力高、转换成本为零的空间，蓝海会迅速变红。BOS 告诉你往哪走，波特告诉你落脚点是否值得去。
 
-| When to use | Framework |
-|-------------|-----------|
-| Industry structure stable, competitive positioning matters, defendable moat | Porter |
-| Industry commoditizing, stuck in red-ocean dynamics, need to reframe game | BOS |
-| Evaluating whether a new strategic space is worth entering | Porter again |
+**结合方法：** 先对当前竞争空间进行五力分析，理解不利于你的结构力量。如果诊断严峻，例如利润率侵蚀、竞争者趋同、行业衰退，就用 BOS 的六条路径、战略布局图、ERRC 寻找其他竞争空间。投入之前，再对重构后的空间做一次五力分析。波特审查地形，BOS 重画地图。
 
-Complementary: Porter explains why your current position is hard. BOS suggests what to do about it.
+| 使用时机 | 框架 |
+|----------|------|
+| 行业结构稳定，竞争定位与可防守护城河重要 | 波特 |
+| 行业同质化，困于红海机制，需要重构游戏 | BOS |
+| 评估新的战略空间是否值得进入 | 再用波特 |
 
-## Compared to Jobs-to-be-Done (JTBD)
+两者互补：波特解释当前位置为何艰难，BOS 提议如何应对。
 
-JTBD asks: what is the customer actually trying to accomplish - the "job" they're hiring a product to do? BOS asks: how do we reconstruct market boundaries to make competition irrelevant?
+<a id="compared-to-jobs-to-be-done-jtbd"></a>
+## 与待办任务理论（Jobs-to-be-Done，JTBD）比较
 
-They overlap more than most people notice:
+JTBD 问：客户实际上想完成什么，即他们“雇用”产品完成什么任务？BOS 问：如何重构市场边界，让竞争失去意义？
 
-- **Six Paths meets alternative solutions.** BOS's Path 1 ("look across alternative industries") is essentially the JTBD question: what else does a customer hire to get this job done? The frameworks arrive at the same lens from different directions.
-- **JTBD populates the Strategy Canvas.** The factors you plot on a Strategy Canvas should reflect what customers are actually trying to accomplish, not just what the industry sells. JTBD interviews surface those real factors - without them you risk charting the wrong axes.
-- **"Hiring" clarifies noncustomer tiers.** JTBD's language of "hiring and firing" products maps naturally to BOS's three noncustomer tiers: soon-to-be noncustomers are customers who hired a solution but keep looking for a better one; refusing noncustomers never found a solution that adequately did the job.
+两者的重叠比多数人意识到的更多：
 
-**Tension to watch:** JTBD typically focuses on one discrete job for one customer segment. BOS often requires reframing across multiple noncustomer tiers simultaneously - people with different jobs, different circumstances, different alternatives. Forcing a single JTBD job statement onto a BOS exercise can narrow the canvas prematurely. Use JTBD to generate hypotheses about demand; use BOS to design the strategic response across the full opportunity space.
+- **六条路径与替代解决方案相遇。** BOS 第一条路径“跨越替代性行业”，本质上就是 JTBD 的问题：客户还会雇用什么来完成这项任务？两种框架从不同方向抵达同一视角。
+- **JTBD 为战略布局图填充要素。** 图上的要素应反映客户真正想完成的事，而不只是行业在卖什么。JTBD 访谈会揭示真实要素；没有这些，你可能选错坐标轴。
+- **“雇用”让非顾客层次更清楚。** JTBD 的“雇用与解雇”产品语言，自然对应 BOS 的非顾客三个层次：即将离开的非顾客，已经雇用一个方案，却仍在找更好的；拒绝型非顾客，从未找到能充分完成任务的方案。
 
-Sequence: run JTBD-style customer interviews first to understand what jobs exist and what customers are settling for. Then apply the Strategy Canvas and ERRC to design a value curve that serves those jobs better than any current alternative - at a price point the mass of those customers can accept.
+**需要留意的张力：** JTBD 通常聚焦一个客户细分中的一项具体任务；BOS 却往往要求同时重构多个非顾客层次，他们可能有不同任务、处境与替代方案。强行把一条 JTBD 任务声明套进 BOS 练习，会过早缩窄布局图。用 JTBD 生成需求假设，再用 BOS 在整个机会空间设计战略回应。
 
-## Skill Integration Table
+顺序：先开展 JTBD 式客户访谈，理解有哪些任务，以及客户当前在勉强接受什么。然后应用战略布局图与 ERRC，设计比任何现有替代方案更好地满足这些任务、且多数目标客户可以接受价格的价值曲线。
 
-| Skill | Relationship to Blue Ocean |
-|-------|----------------------------|
-| **Mom Test** | Use BEFORE BOS - validate problems exist before designing strategy |
-| **Crossing the Chasm** | Both about category creation, different parts. BOS designs the category; Chasm sells it to mainstream |
-| **Monetizing Innovation** | Strategic Sequence (BOS) and pricing strategy (MI) align - both warn against cost-plus pricing |
-| **$100M Offers** | Different games. Hormozi operates inside red oceans using persuasion mechanics. BOS makes competition irrelevant via repositioning. They don't compose - pick the right tool |
-| **Money Models** | Use AFTER BOS + $100M Offers - once the new category's flagship offer converts, sequence upsells/downsells/continuity so customers fund acquiring the next one, before scaling spend via $100M Leads |
-| **$100M Leads** | Use AFTER BOS - drive traffic to a positioned category |
-| **SPIN Selling** | Use BOS to create the category, SPIN to sell into it |
-| **Obviously Awesome** | BOS reframes the GAME. OA positions WITHIN the chosen game |
-| **Influence** | Cialdini operates within context. BOS reframes context. Less directly related |
+<a id="skill-integration-table"></a>
+## 技能协同表
 
-## Honest Conflicts
+| 技能 | 与蓝海战略的关系 |
+|------|------------------|
+| **Mom Test** | 在 BOS 之前使用，先验证问题存在，再设计战略。 |
+| **Crossing the Chasm** | 都涉及品类创造，但负责不同部分：BOS 设计品类，Chasm 把它卖给主流市场。 |
+| **Monetizing Innovation** | BOS 战略序列与 MI 定价策略一致，都警告不要采用成本加成定价。 |
+| **$100M Offers** | 不同游戏。Hormozi 在红海内运用说服机制，BOS 通过重新定位使竞争失去意义。两者不能直接拼接，应选对工具。 |
+| **Money Models** | 在 BOS + $100M Offers 之后使用：新品类的旗舰报价方案能够转化后，再排列升级销售、降级销售、持续订阅，让客户资金支持下一位客户的获取，然后才通过 $100M Leads 扩大投入。 |
+| **$100M Leads** | 在 BOS 之后使用，为已定位的品类获取流量。 |
+| **SPIN Selling** | 用 BOS 创造品类，用 SPIN 在其中销售。 |
+| **Obviously Awesome** | BOS 重构游戏，OA 在选定游戏内定位。 |
+| **Influence** | Cialdini 在情境内发挥作用，BOS 重构情境，直接关联较弱。 |
 
-### BOS says: ignore competition. SPIN Selling says: position against named competitors.
+<a id="honest-conflicts"></a>
+## 需要正视的冲突
 
-**Resolution:** BOS is strategic level (where do we play?). SPIN is tactical level (how do we win this deal?). Use BOS to define category, SPIN to sell within it.
+<a id="bos-says-ignore-competition-spin-selling-says-position-against-named-competitors"></a>
+### BOS 主张忽略竞争；SPIN Selling 主张针对具名竞争者定位
 
-### BOS says: focus on noncustomers. Mom Test says: talk to specific people about their problems.
+**处理方式：** BOS 属于战略层，回答在哪里竞争；SPIN 属于战术层，回答如何赢下这笔交易。用 BOS 定义品类，用 SPIN 在其中销售。
 
-**Resolution:** Mom Test is methodology (how to talk to anyone). The "Mom Test = customers, BOS = noncustomers" distinction is false. Use Mom Test methodology when talking to ANY group (existing customers OR three tiers of noncustomers). Mom Test rules apply regardless.
+<a id="bos-says-focus-on-noncustomers-mom-test-says-talk-to-specific-people-about-their-problems"></a>
+### BOS 主张关注非顾客；Mom Test 主张与具体的人讨论他们的问题
 
-### BOS says: differentiation AND low cost. Crossing the Chasm says: market leader pricing (premium).
+**处理方式：** Mom Test 是与任何人交谈的方法。“Mom Test＝顾客、BOS＝非顾客”的划分是错误的。与现有顾客或三个层次的非顾客交谈，都适用 Mom Test 方法和规则。
 
-**Resolution:** BOS pricing is set against ALTERNATIVES (different industries). Chasm pricing is set against COMPETITORS (same industry leader). Different reference points.
+<a id="bos-says-differentiation-and-low-cost-crossing-the-chasm-says-market-leader-pricing-premium"></a>
+### BOS 主张差异化与低成本兼得；Crossing the Chasm 主张市场领导者定价，即溢价
 
-### BOS says: blue oceans turn red over time. Crossing the Chasm has Inside the Tornado for post-chasm dynamics.
+**处理方式：** BOS 依据不同行业的替代方案定价；Chasm 依据同一行业的领导者等竞争者定价，参照点不同。
 
-**Resolution:** Compatible. BOS's "renewal" maps to Chasm's "tornado/main street" cycles.
+<a id="bos-says-blue-oceans-turn-red-over-time-crossing-the-chasm-has-inside-the-tornado-for-post-chasm-dynamics"></a>
+### BOS 认为蓝海会随时间变红；Crossing the Chasm 用 Inside the Tornado 讨论跨越鸿沟后的动态
 
-### BOS says: niche thinking is Trap #8. Obviously Awesome says: subsegment is often the winning move.
+**处理方式：** 两者兼容。BOS 的“更新”对应 Chasm 的“龙卷风／主街”周期。
 
-**Resolution:** They use "niche" differently:
-- OA's "subsegment" = tightly-defined market where you can lead (Big Fish/Small Pond)
-- BOS's "niche trap" = small red-ocean segment everyone else ignores (still red, just smaller)
+<a id="bos-says-niche-thinking-is-trap-8-obviously-awesome-says-subsegment-is-often-the-winning-move"></a>
+### BOS 认为利基思维是第八个陷阱；Obviously Awesome 认为细分往往是获胜行动
 
-**Test:** Is the segment growing? Does it have shared unmet needs? Could you dominate it? If yes → OA's Big Fish move. If "we'll find a quiet corner of an ugly market" → BOS's trap.
+**处理方式：** 两者对“利基”的定义不同：
+- OA 的“细分市场”＝定义清楚、你能领导的市场，即“小池塘里的大鱼”。
+- BOS 的“利基陷阱”＝别人忽略的小块红海，仍然是红海，只是更小。
 
-## Where Blue Ocean Is Showing Age (2026)
+**检验：** 市场是否增长？是否存在共同的未满足需求？你能主导吗？如果是，就采取 OA 的“大鱼”行动。如果只是“在糟糕市场找个安静角落”，就是 BOS 的陷阱。
 
-- **Most cited blue oceans turned red or worse.** ~3 of ~12 iconic cases remain solid.
-- **Tech industry rapid cycles** - blue oceans now turn red in months, not decades.
-- **Network effects products** don't fit BOS framework cleanly ("winner take all" dynamics).
-- **Platform strategies** - BOS doesn't address two-sided markets well.
-- **AI-native categories** - cycle too fast for BOS planning timelines.
-- **Unfalsifiability problem** - any failure gets reclassified as "not real blue ocean" or "didn't apply correctly."
+<a id="where-blue-ocean-is-showing-age-2026"></a>
+## 蓝海战略在 2026 年显得过时的部分
 
-## What's Actually Useful in 2026
+- **多数引用的蓝海已变红，甚至更糟。** 约 12 个标志性案例中，仅约 3 个仍稳健。
+- **科技业周期快速。** 如今蓝海可能几个月内变红，而非几十年。
+- **网络效应产品**难以完全适配 BOS 框架，因为存在“赢家通吃”机制。
+- **平台战略。** BOS 对双边市场处理不佳。
+- **AI 原生品类。** 迭代周期快于 BOS 规划时间线。
+- **不可证伪问题。** 任何失败都能被重新归为“不是真蓝海”或“应用不正确”。
 
-| Tool | Status |
-|------|--------|
-| Strategy Canvas | Excellent thinking tool, regardless of "blue/red" framing |
-| ERRC | Powerful creativity prompt |
-| Six Paths | Good brainstorming framework |
-| Three Tiers of Noncustomers | Useful market-expansion lens |
-| Buyer Utility Map | Useful for product design |
-| Strategic Sequence | Good gating discipline |
-| Fair Process / 3 E's | Timeless people management |
+<a id="whats-actually-useful-in-2026"></a>
+## 2026 年真正有用的部分
 
-## What to Treat Skeptically
+| 工具 | 评价 |
+|------|------|
+| 战略布局图 | 无论是否采用蓝海／红海说法，都是优秀思考工具 |
+| ERRC | 强有力的创意提示 |
+| 六条路径 | 良好的头脑风暴框架 |
+| 非顾客三个层次 | 有用的市场扩展视角 |
+| 买方效用图 | 有助于产品设计 |
+| 战略序列 | 良好的阶段把关纪律 |
+| 公平过程／三个 E | 经久有效的人员管理 |
 
-- The "86%/14%" headline statistics
-- Promises that BOS "makes competition irrelevant" (it makes it irrelevant temporarily)
-- Specific iconic case studies (many aged poorly)
-- Implication that BOS is always achievable (sometimes red-ocean optimization is the right move)
+<a id="what-to-treat-skeptically"></a>
+## 应保持怀疑的部分
+
+- “86%／14%”的醒目统计。
+- BOS“使竞争失去意义”的承诺，实际通常只是暂时如此。
+- 某些标志性案例，许多后续表现不佳。
+- 暗示蓝海总能实现，有时优化红海业务才是正确行动。

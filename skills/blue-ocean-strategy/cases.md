@@ -1,175 +1,194 @@
-# Blue Ocean Strategy - Case Studies
+> 中文译文｜[英文对照](cases.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/blue-ocean-strategy/cases.md)。原项目整理：AgentSeal；书籍来源：《Blue Ocean Strategy》— W. Chan Kim 与 Renée Mauborgne；AI辅助翻译。
 
-**Decline notes are inline with each case.** Many iconic BOS examples later collapsed; cite carefully.
+<a id="blue-ocean-strategy---case-studies"></a>
+# Blue Ocean Strategy——案例研究
 
----
-
-## The Iconic Case: Cirque du Soleil
-
-**(Note: Cirque du Soleil filed for bankruptcy in 2020.)**
-
-Industry: Circus (declining, expensive, animal-rights problems, kids losing interest)
-
-| Action | Cirque's Move |
-|--------|---------------|
-| **Eliminated** | Star performers, animal shows, three-ring format, aisle concession sales |
-| **Reduced** | Fun and humor, thrill and danger |
-| **Raised** | Unique venue (theater quality) |
-| **Created** | Theme, refined environment, multiple productions, artistic music and dance |
-
-Result at peak: New circus + theater hybrid. 3-4x circus prices. Adult sophisticated-entertainment customer base.
+**每个案例旁附有衰退说明。** 许多经典 BOS 案例后来陷入崩溃，引用需谨慎。
 
 ---
 
-## [yellow tail] Wines
+<a id="the-iconic-case-cirque-du-soleil"></a>
+## 标志性案例：Cirque du Soleil（太阳马戏团）
 
-**(Note: heavily eroded by imitators in subsequent years.)**
+**（备注：Cirque du Soleil 于 2020 年申请破产。）**
 
-Wine industry conventional factors: terminology, oak aging, vineyard prestige, vintage, marketing budget.
+行业：马戏，面临衰退、成本高昂、动物权益问题，以及儿童兴趣下降。
 
-| Action | Yellow Tail's Move |
-|--------|--------------------|
-| **Eliminated** | Wine terminology, vineyard prestige, aging, complex marketing |
-| **Reduced** | Wine complexity, range of wines |
-| **Raised** | Price vs budget wines, retail store involvement |
-| **Created** | Easy drinking, ease of selection, fun and adventure |
+| 行动 | Cirque 的做法 |
+|------|---------------|
+| **剔除** | 明星演员、动物表演、三环马戏形式、过道售卖商品 |
+| **减少** | 趣味与幽默、惊险与危险 |
+| **增加** | 独特场馆，达到剧院品质 |
+| **创造** | 主题、精致环境、多套剧目、艺术化音乐与舞蹈 |
 
-Result at peak: Fastest-growing brand in Australian and US wine industry histories; #1 imported wine into the US within ~2 years. (The "beat 1,600 established wines" figure is sometimes cited but isn't directly verifiable in the source - the source describes the speed of growth, not a head count.)
-
----
-
-## Six Paths Cases
-
-### Path 1: Across Alternative Industries
-
-- **NetJets** - Looked across corporate jets and first-class commercial. Created fractional jet ownership.
-- **Home Depot** - Looked across hiring contractors, professional supply stores, hardware stores. Created big-box DIY.
-- **NTT DoCoMo i-mode** - Mobile + internet. Created mobile internet. **(Note: crushed by iPhone post-2007.)**
-
-### Path 2: Across Strategic Groups
-
-- **Curves** - Across traditional gyms (full-service, expensive) vs home exercise. Created 30-min women's circuit at affordable price. **(Note: filed for bankruptcy 2014.)**
-- **Lexus** - Across luxury vs mid-range cars. Created luxury at mid-range price.
-- **Ralph Lauren** - Across high-fashion designers vs classic brands.
-
-### Path 3: Across Chain of Buyers
-
-Three roles: purchasers (pay), users (use), influencers (recommend). Switch focus → blue ocean.
-
-- **Novo Nordisk NovoPen** - Pharma traditionally sold to doctors (influencers). Novo targeted patients (users). 70% of company turnover.
-- **Bloomberg** - Financial info industry sold to IT (purchasers). Bloomberg targeted traders (users) directly.
-- **SAP** - Sold to executives (purchasers) instead of IT.
-
-### Path 4: Across Complementary Products/Services
-
-What happens BEFORE, DURING, and AFTER product use? Pain points = opportunities.
-
-- **NABI Buses** - Made fiberglass buses (no rust, lower fuel, longer life). **(Note: distressed sale to New Flyer 2013.)**
-- **Philips Alto Teakettle** - Tap water → kettle → tea. Limescale was the pain. Added a filter. Doubled market share.
-- **Dyson** - Eliminated vacuum bags.
-
-### Path 5: Across Functional/Emotional Appeal
-
-Functional → emotional:
-- **Starbucks** - Coffee was commodity. Created "third place" experience.
-- **Swatch** - Watches were functional. Made them fashion accessories.
-- **The Body Shop** - Cosmetics were emotional. Made them functional/ethical. **(Note: entered administration 2024.)**
-
-Emotional → functional:
-- **QB House** - Japanese hairdressing was 1-hour social. QB cut to 10-minute functional buzz cut at low price.
-- **Cemex Patrimonio Hoy** - Sold cement to poor Mexicans as community-building project, not commodity.
-
-### Path 6: Across Time
-
-Tests for a usable trend: **decisive, irreversible, clear trajectory**.
-
-- **Apple iTunes** - Trend: digital music piracy. Made legal digital music easy.
-- **Cisco** - Trend: networked computing. Built the infrastructure.
-- **CNN** - Trend: 24/7 information demand.
+巅峰期结果：创造马戏与戏剧的混合形式，价格为普通马戏的 3—4 倍，客群为寻求高品质娱乐的成年人。
 
 ---
 
-## Three Tiers of Noncustomers Cases
+<a id="yellow-tail-wines"></a>
+## [yellow tail] 葡萄酒
 
-**1st Tier (Pret A Manger):** Office workers buying restaurant lunch but unhappy with slow/expensive/unhealthy. Pret created fast/fresh/reasonable. Captured 1st-tier from restaurants.
+**（备注：此后数年受到模仿者的严重侵蚀。）**
 
-**2nd Tier (JCDecaux):** Cities refused billboards. JCDecaux offered free street furniture (bus shelters) in exchange for advertising rights. 40% margins vs 14% for billboards.
+葡萄酒行业传统竞争要素：专业术语、橡木桶陈酿、葡萄园声望、年份、营销预算。
 
-**3rd Tier (Callaway Big Bertha):** People who never played golf because clubs were too hard. Callaway made oversized clubhead - easier to hit. Pulled tennis players, hikers into golf.
+| 行动 | Yellow Tail 的做法 |
+|------|-------------------|
+| **剔除** | 葡萄酒术语、葡萄园声望、陈酿、复杂营销 |
+| **减少** | 葡萄酒复杂度、酒款数量 |
+| **增加** | 相比廉价葡萄酒的价格、零售门店参与 |
+| **创造** | 易饮、易选、乐趣与冒险感 |
 
----
-
-## Tipping Point Leadership: Bratton/NYPD
-
-**Historical contestation note:** Subsequent research disputes parts of the broken-windows policing theory and Compstat-era statistics (manipulation of crime numbers documented in later studies). Use as illustrative of the framework, not as a clean historical account.
-
-Bill Bratton took over NYPD in 1994. Crime at all-time highs. No budget increase.
-
-| Hurdle | Bratton's Tactic |
-|--------|------------------|
-| Cognitive | Made commanders ride the subway (felt the problem) |
-| Resource | Bus prisoners' processing 16 hrs → 1 hr; police cars instead of new offices |
-| Motivational | Compstat meetings (fishbowl management) - precinct commanders publicly accountable |
-| Political | Built coalition with courts vs mayor's office |
-
-Result (per book): Crime fell dramatically. (Real-world causes contested by criminologists.)
+巅峰期结果：成为澳大利亚和美国葡萄酒业历史上增长最快的品牌；约两年内成为美国进口量第一的葡萄酒。有时会引用“击败 1,600 款成熟葡萄酒”的数字，但原始来源无法直接验证；来源描述的是增长速度，而非具体击败数量。
 
 ---
 
-## Fair Process: Elco Plant Tale of Two Locations
+<a id="six-paths-cases"></a>
+## 六条路径的案例
 
-Same company, same strategy, two plants:
+<a id="path-1-across-alternative-industries"></a>
+### 路径一：跨越替代性行业
 
-### Chester Plant
-- "Easy" non-union plant - "ideal workforce"
-- Management ASSUMED cooperation, skipped fair process
-- Brought in consulting firm; managers spent more time at HQ than on the floor
-- Workers rebelled; commitment "deteriorated quickly"; "first time in plant history" workers turned hostile
-- Strategy failed
+- **NetJets**——横跨企业公务机与商业航班头等舱，创造飞机部分产权共享模式。
+- **Home Depot**——横跨雇用承包商、专业材料商店和五金店，创造大型 DIY 卖场。
+- **NTT DoCoMo i-mode**——移动通信 + 互联网，创造移动互联网。**（备注：2007 年后被 iPhone 压倒。）**
 
-### High Park Plant
-- Strong union, expected to resist
-- Management applied fair process rigorously (engagement, explanation, expectation clarity)
-- Workers cooperated with the changeover
-- Strategy succeeded
+<a id="path-2-across-strategic-groups"></a>
+### 路径二：跨越战略群体
 
-**Counter-intuitive lesson:** The "easy" plant failed because management took compliance for granted; the "hard" plant succeeded because management invested in fair process. Difference was people management, not strategy.
+- **Curves**——横跨服务齐全但昂贵的传统健身房与居家锻炼，以可负担价格推出女性 30 分钟循环训练。**（备注：2014 年申请破产。）**
+- **Lexus**——横跨豪华车与中档车，以中档价格提供豪华体验。
+- **Ralph Lauren**——横跨高级时装设计师品牌与经典品牌。
+
+<a id="path-3-across-chain-of-buyers"></a>
+### 路径三：跨越买方链
+
+三个角色：采购者付钱、使用者使用、影响者推荐。转换关注对象，可能发现蓝海。
+
+- **Novo Nordisk NovoPen**——制药业传统上向医生，即影响者销售；Novo 面向患者，即使用者。占公司营业额 70%。
+- **Bloomberg**——金融信息行业向 IT 部门，即采购者销售；Bloomberg 直接面向交易员，即使用者。
+- **SAP**——向高管，即采购者销售，而非 IT 部门。
+
+<a id="path-4-across-complementary-productsservices"></a>
+### 路径四：跨越互补产品与服务
+
+使用产品之前、期间、之后发生什么？痛点就是机会。
+
+- **NABI Buses**——制造玻璃纤维巴士，不生锈、油耗低、寿命长。**（备注：2013 年陷入困境后出售给 New Flyer。）**
+- **Philips Alto 电水壶**——自来水 → 水壶 → 茶。痛点是水垢，于是增加过滤器，市场份额翻倍。
+- **Dyson**——取消吸尘器集尘袋。
+
+<a id="path-5-across-functionalemotional-appeal"></a>
+### 路径五：跨越功能诉求与情感诉求
+
+功能 → 情感：
+- **Starbucks**——咖啡原是同质化商品，创造“第三空间”体验。
+- **Swatch**——手表原本强调功能，将其变成时尚配饰。
+- **The Body Shop**——化妆品原本强调情感，将其转向功能／伦理。**（备注：2024 年进入破产管理程序。）**
+
+情感 → 功能：
+- **QB House**——日本理发原是长达一小时的社交活动，QB 将其简化为低价、10 分钟的功能性快剪。
+- **Cemex Patrimonio Hoy**——向墨西哥低收入者出售水泥时，将其作为社区建设项目，而非同质化商品。
+
+<a id="path-6-across-time"></a>
+### 路径六：跨越时间
+
+可用趋势的测试标准：**具有决定性、不可逆、轨迹清晰**。
+
+- **Apple iTunes**——趋势：数字音乐盗版。让合法数字音乐更容易获得。
+- **Cisco**——趋势：联网计算。为此建设基础设施。
+- **CNN**——趋势：全天候信息需求。
 
 ---
 
-## Strategic Propositions Cases
+<a id="three-tiers-of-noncustomers-cases"></a>
+## 非顾客三个层次的案例
 
-**Comic Relief (UK)** - All three aligned:
-- Value: Made giving entertaining (Red Nose Day)
-- Profit: 75% cost reduction by partnering, free press through celebrities
-- People: Volunteer culture, golden-pound promise
+**第一层，Pret A Manger：** 办公室员工在餐厅买午饭，却不满速度慢、价格贵、不健康。Pret 创造快速、新鲜、价格合理的供给，从餐厅吸引第一层非顾客。
 
-**Tata Nano** - Misaligned at the people proposition:
-- Value: Cheapest car in the world (~$2,500)
-- Profit: Designed for thin margins
-- People: Singur protests forced relocation to Sanand (Gujarat) in 2008. Separately, post-launch perception of "the cheap car" hurt sales. The framework compresses these into one "people proposition" failure - causation was multi-stranded.
+**第二层，JCDecaux：** 城市拒绝广告牌。JCDecaux 提供免费的街道设施，例如公交候车亭，换取广告经营权。利润率 40%，广告牌则为 14%。
 
-**Napster vs iTunes** - Both had value + profit, only iTunes had people:
-- Napster: Free, but record labels (essential people) opposed → killed by lawsuits
-- iTunes: Paid (70% to labels), label support → succeeded
+**第三层，Callaway Big Bertha：** 有些人从不打高尔夫，因为球杆太难用。Callaway 制造超大杆头，更容易击球，将网球爱好者和徒步者吸引到高尔夫运动。
 
 ---
 
-## Modern Outcomes for Iconic Cases
+<a id="tipping-point-leadership-brattonnypd"></a>
+## 引爆点领导法：Bratton／纽约警察局
 
-Of ~12 major BOS cases:
+**历史争议说明：** 后续研究质疑破窗警务理论的部分内容及 Compstat 时代的统计数据，后来的研究记录了犯罪数字操纵。应将其视为框架示例，而非无争议的历史叙述。
 
-| Case | Status |
-|------|--------|
-| Cirque du Soleil | Bankruptcy 2020 |
-| Curves | Bankruptcy 2014 |
-| The Body Shop | Administration 2024 |
-| NABI Buses | Distressed sale 2013 |
-| NTT DoCoMo i-mode | Crushed by iPhone post-2007 |
-| Yellow Tail | Heavily eroded |
-| Southwest Airlines | Operational/competitive struggles |
-| Novo Nordisk | Solid |
-| Bloomberg | Solid |
-| Salesforce | Solid |
+Bill Bratton 于 1994 年接管纽约警察局。当时犯罪率处于历史高位，预算没有增加。
 
-**Implication:** ~3 of ~12 remain solidly successful. The framework's predictive value (vs descriptive value of past wins) is questionable.
+| 障碍 | Bratton 的方法 |
+|------|----------------|
+| 认知 | 让指挥官乘地铁，亲身感受问题 |
+| 资源 | 利用巴士处理被拘押者，将处理时间从 16 小时降至 1 小时；使用警车代替新增办公室 |
+| 动机 | Compstat 会议采用鱼缸式透明管理，让分局指挥官公开承担责任 |
+| 政治 | 与法院结盟，对抗市长办公室 |
+
+书中所述结果：犯罪大幅下降。现实中的原因受到犯罪学家的争议。
+
+---
+
+<a id="fair-process-elco-plant-tale-of-two-locations"></a>
+## 公平过程：Elco 两家工厂的故事
+
+同一家公司、同一战略、两家工厂：
+
+<a id="chester-plant"></a>
+### Chester 工厂
+- 被视为“容易管理”的无工会工厂，有“理想员工”。
+- 管理层假定员工会合作，跳过公平过程。
+- 请来咨询公司，管理人员待在总部的时间超过生产现场。
+- 工人反抗，投入意愿“迅速恶化”，员工“在工厂历史上首次”转为敌对。
+- 战略失败。
+
+<a id="high-park-plant"></a>
+### High Park 工厂
+- 工会强大，原本预计会抵制。
+- 管理层严格执行公平过程：参与、解释、明确预期。
+- 工人配合转型。
+- 战略成功。
+
+**反直觉的启示：** “容易”的工厂失败，是因为管理层将服从视为理所当然；“困难”的工厂成功，是因为管理层投入公平过程。区别在人员管理，而非战略。
+
+---
+
+<a id="strategic-propositions-cases"></a>
+## 战略主张案例
+
+**Comic Relief（英国）**——三项全部一致：
+- 价值：通过“红鼻子日”让捐赠变得有趣。
+- 利润：合作使成本降低 75%，名人带来免费媒体报道。
+- 人员：志愿者文化，以及“每一英镑善款都用于公益”的承诺。
+
+**Tata Nano**——人员主张不一致：
+- 价值：世界最便宜的汽车，约 2,500 美元。
+- 利润：按薄利模式设计。
+- 人员：Singur 抗议迫使工厂于 2008 年迁往古吉拉特邦 Sanand。另一个问题是，上市后“廉价车”的认知伤害了销量。框架把这些压缩为一次“人员主张”失败，但因果关系包含多条线索。
+
+**Napster 与 iTunes**——都有价值与利润主张，只有 iTunes 具备人员主张：
+- Napster：免费，但唱片公司这一关键相关方反对，最终被诉讼击倒。
+- iTunes：收费，将 70% 分给唱片公司，得到唱片公司支持，因而成功。
+
+---
+
+<a id="modern-outcomes-for-iconic-cases"></a>
+## 标志性案例的后续结果
+
+约 12 个主要 BOS 案例中：
+
+| 案例 | 状态 |
+|------|------|
+| Cirque du Soleil | 2020 年破产 |
+| Curves | 2014 年破产 |
+| The Body Shop | 2024 年进入破产管理程序 |
+| NABI Buses | 2013 年陷入困境后出售 |
+| NTT DoCoMo i-mode | 2007 年后被 iPhone 压倒 |
+| Yellow Tail | 受到严重侵蚀 |
+| Southwest Airlines | 运营与竞争困境 |
+| Novo Nordisk | 稳健 |
+| Bloomberg | 稳健 |
+| Salesforce | 稳健 |
+
+**含义：** 约 12 个中仅约 3 个仍稳健成功。相比描述过去成功的价值，该框架的预测价值值得质疑。

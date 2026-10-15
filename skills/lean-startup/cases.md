@@ -1,379 +1,434 @@
-# Cases - The Lean Startup
+> 中文译文｜[英文对照](cases.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/lean-startup/cases.md)。原项目整理：AgentSeal；书籍来源：《The Lean Startup》— Eric Ries；AI辅助翻译。
 
-## IMVU - The Founding Case Study
+<a id="cases---the-lean-startup"></a>
+# 案例——The Lean Startup
 
-**Setup:** 2004. Eric Ries and Will Harvey co-founded IMVU, a 3D avatar social network. Harvey's original vision: an IM add-on that worked with existing networks (AIM, Yahoo Messenger, MSN). Users could add 3D avatars to their existing IM conversations.
+<a id="imvu---the-founding-case-study"></a>
+## IMVU——创业起点案例
 
-**What went wrong (first attempt):**
-- Built interoperability with every major IM network over 6 months
-- Assumed customers wouldn't switch IM networks (they had existing buddy lists)
-- Shipped product. Response: customers didn't want to add a plugin to their existing IM.
-- Worse: customers didn't want their existing friends to see them using it
-- The interoperability - the hardest engineering work - was worthless
+**背景：**2004 年，Eric Ries 与 Will Harvey 联合创办 3D 头像社交网络 IMVU。Harvey 最初想做一个能与 AIM、Yahoo Messenger、MSN 等现有即时通信网络配合的插件，让用户在已有聊天中加入 3D 头像。
 
-**What they learned:**
-- Customers PREFERRED a standalone network. They wanted new friends, not to bring existing ones.
-- The "buddy list is sacred" assumption was wrong
-- Six months of interoperability engineering was pure waste
+**首次尝试出了什么问题：**
 
-**The pivot:**
-- Stripped out all interoperability
-- Built a standalone 3D chat network
-- Customers found new people to talk to through the product itself
-- Growth took off
+- 用六个月建立与所有主要即时通信网络的互通。
+- 假设客户不愿换网络，因为已经有好友列表。
+- 产品推出后，客户不想给现有即时通信工具装插件。
+- 更糟的是，客户不想让现有朋友看到自己使用它。
+- 最难的工程工作——互通能力——毫无价值。
 
-**Key lesson:** "We had been building something nobody wanted. And the whole time, our so-called learning was leading us away from the insight we needed." Validated learning requires testing assumptions empirically, not planning from the armchair.
+**学到了什么：**
 
-### IMVU: Continuous Deployment
+- 客户反而偏爱独立网络。他们想交新朋友，不是把原有朋友带过来。
+- “好友列表神圣不可动”的假设错了。
+- 六个月互通开发纯属浪费。
 
-Once IMVU found product/market fit, they pioneered continuous deployment:
-- **50 code changes deployed per day** to production
-- Automated test suite ran before every deploy
-- Built a "cluster immune system" that could detect and rollback bad changes automatically
-- New engineers were expected to deploy on their **first day** - and often broke something
-- The response to breakage: "If our production process is so fragile that you can break it on your very first day of work, shame on us for making it so easy to do so"
-- Each breakage triggered a Five Whys session, which made the system more robust
+**转型：**
 
-**Result:** Faster iteration, higher quality (paradoxically), and a culture where everyone was responsible for production reliability.
+- 删除所有互通功能。
+- 建立独立 3D 聊天网络。
+- 客户通过产品本身认识新的聊天对象。
+- 增长开始起飞。
 
----
+**关键教训：**“我们一直在做没人想要的东西。整个过程中，所谓学习都在把我们带离真正需要的洞见。”经验证的学习要求用实证检验假设，而非坐在椅子上做计划。
 
-## Zappos - Wizard of Oz MVP
+<a id="imvu-continuous-deployment"></a>
+### IMVU：持续部署
 
-**Setup:** 1999. Nick Swinmurn hypothesized that people would buy shoes online. This was considered absurd - shoes need to be tried on.
+找到产品与市场匹配后，IMVU 率先实践持续部署：
 
-**The MVP:**
-- Went to local shoe stores
-- Took photographs of their inventory
-- Posted photos online
-- When someone ordered, he went back to the store, bought the shoes at full price, and shipped them
+- **每天向生产环境部署 50 次代码变更。**
+- 每次部署前运行自动化测试套件。
+- 建立“集群免疫系统”，自动发现并回滚有问题的变更。
+- 新工程师被要求在**入职第一天**部署代码，也经常弄坏一些东西。
+- 出问题后的回应是：“如果生产流程脆弱到你第一天上班就能弄坏，是我们让这种事情太容易发生，应该反省。”
+- 每次故障都触发五问法复盘，使系统更稳健。
 
-**What it tested:**
-- Value hypothesis: Will people buy shoes online without trying them on?
-- NOT: Can we build a great e-commerce platform? Can we negotiate wholesale deals? Can we handle returns?
-
-**What he learned:** People would indeed buy shoes online. The demand was real. Only then did it make sense to invest in warehouse infrastructure, wholesale relationships, and custom technology.
-
-**Key lesson:** "Swinmurn wanted to validate his hypothesis that customers would buy shoes online. He didn't build a fancy website or spend millions on warehouse infrastructure. He ran the simplest possible test." The MVP tests the riskiest assumption first.
+**结果：**迭代更快，质量反而更高，并形成人人对生产可靠性负责的文化。
 
 ---
 
-## Dropbox - Video MVP
+<a id="zappos---wizard-of-oz-mvp"></a>
+## Zappos——绿野仙踪式 MVP
 
-**Setup:** 2007. Drew Houston believed people would want seamless file sync across all devices. The technology was complex (file syncing is an extremely hard engineering problem). Building a prototype would take months.
+**背景：**1999 年，Nick Swinmurn 假设人们愿意在线买鞋。当时这个想法被视为荒唐，因为鞋需要试穿。
 
-**The problem:** How do you test demand for a product that's too complex to prototype quickly?
+**MVP：**
 
-**The MVP:**
-- Three-minute screencast demonstrating the product concept
-- Showed exactly how Dropbox would work from the user's perspective
-- Posted to Digg (then a major tech community)
+- 去本地鞋店。
+- 为店内库存拍照。
+- 把照片放到网上。
+- 有人下单，就回店里按原价买鞋，再寄给客户。
 
-**Results:**
-- Waiting list went from 5,000 to 75,000 signups overnight
-- No product existed yet - just a video
-- This validated the value hypothesis: people desperately wanted this
+**检验了什么：**
 
-**What it tested:** "Do people want seamless file sync?" Not "can we build it?" (engineering risk, separate from market risk).
+- 价值假设：人们不试穿也会在线买鞋吗？
+- 没有检验：能否开发优秀电商平台、谈成批发协议、处理退货？
 
-**Key lesson:** The video MVP works when the value proposition is clear but the build cost is high. Measure demand before committing to development.
+**学到了什么：**人们确实愿意在线买鞋，需求真实。只有这时，投入仓库、批发商关系和定制技术才有意义。
 
----
-
-## Groupon - Radical MVP
-
-**Setup:** Originally "The Point" - a platform for collective action (petitions, fundraising). Wasn't growing. Team hypothesized that group buying might work.
-
-**The MVP:**
-- WordPress blog
-- Posted one deal per day in Chicago
-- Generated PDF coupons using FileMaker
-- Emailed coupons manually to customers who bought
-
-**No custom technology. No payment platform. No merchant tools.**
-
-**What it tested:** Will people buy things together if the deal is good enough? Will merchants participate?
-
-**Growth:** The MVP worked. Groupon became the fastest company to reach $1 billion in revenue.
-
-**Key lesson:** "Andrew Mason described the first version of Groupon as 'really hacky.'" The point of the MVP is learning, not product quality. A WordPress blog and manual email can test a billion-dollar hypothesis.
+**关键教训：**“Swinmurn 想验证客户会在线买鞋的假设。他没有建华丽网站，也没花数百万美元建仓库，只做了最简单的测试。”MVP 首先检验风险最大的假设。
 
 ---
 
-## Grockit - Innovation Accounting in Practice
+<a id="dropbox---video-mvp"></a>
+## Dropbox——视频 MVP
 
-**Setup:** Social learning platform for standardized test prep. Farb Dwork, the founder, was iterating but couldn't tell if changes were making things better.
+**背景：**2007 年，Drew Houston 相信人们需要所有设备间的无缝文件同步。技术很复杂，文件同步是极难的工程问题，构建原型需要数月。
 
-**The problem:**
-- Total users were growing (vanity metric: up and to the right)
-- Lots of new features being shipped
-- But was Grockit actually getting better at teaching people?
+**问题：**产品复杂到无法快速做原型，如何测试需求？
 
-**The fix:**
-- Switched from cumulative metrics to **cohort-based analysis**
-- Tracked each weekly cohort of new students separately
-- Measured: retention, study time, test score improvement per cohort
-- Ran **split tests** for every major feature change
+**MVP：**
 
-**What they discovered:**
-- Many features that "felt good" had zero impact on learning outcomes
-- Some features actually decreased engagement
-- The features that moved real metrics were often small, unsexy improvements
-- Eliminated features that didn't move the needle, even popular-seeming ones
+- 三分钟录屏，演示产品概念。
+- 从用户视角清楚展示 Dropbox 如何工作。
+- 发布到当时重要的科技社区 Digg。
 
-**Key lesson:** "Until Grockit switched to cohort-based metrics and split testing, it was impossible to know which of their many changes were actually helping." Vanity metrics hide the truth. Actionable metrics reveal it.
+**结果：**
+
+- 候补名单一夜从 5,000 增至 75,000 人。
+- 当时还没有产品，只有视频。
+- 验证了价值假设：人们迫切想要它。
+
+**检验了什么：**“人们想要无缝文件同步吗？”而非“我们做得出来吗？”后者属于工程风险，与市场风险不同。
+
+**关键教训：**价值主张明确、构建成本高时，视频 MVP 有效。在承诺开发投入前，先衡量需求。
 
 ---
 
-## Votizen - Three Pivots with Acceleration
+<a id="groupon---radical-mvp"></a>
+## Groupon——极简 MVP
 
-**Setup:** David Binetti founded Votizen to increase civic engagement through technology. The company went through three major pivots, each faster and more productive than the last.
+**背景：**最初是名为 The Point 的集体行动平台，用于请愿、筹款，但没有增长。团队假设团购可能有效。
 
-### Pivot 1: Social Network for Voters
+**MVP：**
 
-**Hypothesis:** Registered voters want to connect with each other online.
-**MVP:** Built a social network for verified voters.
-**Timeline:** 8 months to build and test.
-**Result:** Users signed up but didn't engage. Retention was near zero.
-**Learning:** Voters wanted to be heard, not to network with each other.
+- WordPress 博客。
+- 每天在 Chicago 发布一个优惠。
+- 用 FileMaker 生成 PDF 优惠券。
+- 手动发邮件，把优惠券交给购买者。
 
-### Pivot 2: Contact Your Representative
+**没有定制技术，没有支付平台，没有商家工具。**
 
-**Hypothesis:** Voters want an easy way to contact elected officials.
-**MVP:** Built a streamlined tool for voter-to-representative communication.
-**Timeline:** 4 months.
-**Result:** Usage improved but still insufficient. People used it once, then left.
-**Learning:** One-time use isn't a business. Need recurring engagement.
+**检验了什么：**优惠足够好时，人们会一起购买吗？商家会参与吗？
 
-### Pivot 3: Voter-Driven Lobbying Platform
+**增长：**MVP 有效，Groupon 成为最快达到 10 亿美元收入的公司。
 
-**Hypothesis:** Voters will pay to amplify their voice on specific issues.
-**MVP:** Built a platform where voters could pool resources for targeted advocacy.
-**Timeline:** 3 months.
-**Result:** Paying customers. Repeatable use case. Growth.
+**关键教训：**“Andrew Mason 说，Groupon 第一版‘真的很粗糙’。”MVP 的重点是学习，而非产品质量。WordPress 博客加人工邮件，也能检验十亿美元级的假设。
 
-### Acceleration Pattern
+---
 
-| Metric | Pivot 1 | Pivot 2 | Pivot 3 |
+<a id="grockit---innovation-accounting-in-practice"></a>
+## Grockit——创新核算实践
+
+**背景：**面向标准化考试准备的社交学习平台。创始人 Farb Dwork 不断迭代，却无法判断改动是否让产品变好。
+
+**问题：**
+
+- 总用户数增长，是一路向上的虚荣指标。
+- 大量新功能持续上线。
+- 但 Grockit 是否真的更善于帮助人们学习？
+
+**修正方式：**
+
+- 从累计指标切换为**同期群分析**。
+- 分别追踪每周加入的新学员群体。
+- 按同期群衡量留存、学习时长、考试分数提升。
+- 每个重大功能变化都做**分组对照测试**。
+
+**发现：**
+
+- 很多“感觉不错”的功能，对学习效果毫无影响。
+- 一些功能反而降低参与度。
+- 真正推动指标的，经常是很小、不显眼的改善。
+- 删除无效功能，即使它们看起来很受欢迎。
+
+**关键教训：**“直到切换到同期群指标与分组测试，Grockit 才知道诸多变更中，哪些真正有帮助。”虚荣指标遮蔽真相，可行动指标揭示真相。
+
+---
+
+<a id="votizen---three-pivots-with-acceleration"></a>
+## Votizen——三次越来越快的转型
+
+**背景：**David Binetti 创立 Votizen，希望用技术提高公民参与。公司经历三次重大转型，每次都比上次更快、更有成效。
+
+<a id="pivot-1-social-network-for-voters"></a>
+### 第一次转型：选民社交网络
+
+**假设：**登记选民想在线彼此连接。
+**MVP：**为经过身份核实的选民建立社交网络。
+**时间：**开发和测试耗时八个月。
+**结果：**用户注册却不参与，留存接近零。
+**学习：**选民想让声音被听见，不是彼此社交。
+
+<a id="pivot-2-contact-your-representative"></a>
+### 第二次转型：联系民意代表
+
+**假设：**选民希望方便地联系民选官员。
+**MVP：**开发简化选民与代表沟通的工具。
+**时间：**四个月。
+**结果：**使用有所改善，但仍不足。人们用一次就离开。
+**学习：**一次性使用不能构成业务，需要持续参与。
+
+<a id="pivot-3-voter-driven-lobbying-platform"></a>
+### 第三次转型：选民驱动的游说平台
+
+**假设：**选民愿为放大特定议题上的声音付费。
+**MVP：**建立平台，让选民汇集资源进行定向倡议。
+**时间：**三个月。
+**结果：**出现付费客户、可重复使用场景与增长。
+
+<a id="acceleration-pattern"></a>
+### 加速模式
+
+| 指标 | 第一次转型 | 第二次转型 | 第三次转型 |
 |---|---|---|---|
-| Time to MVP | 8 months | 4 months | 3 months |
-| Registered users | ~4,000 | ~12,000 | ~42,000 |
-| Revenue | $0 | $0 | First paid customers |
-| Key learning | Social doesn't work | Single-use doesn't work | Recurring advocacy works |
+| 做出 MVP 的时间 | 八个月 | 四个月 | 三个月 |
+| 注册用户 | 约 4,000 | 约 12,000 | 约 42,000 |
+| 收入 | 0 美元 | 0 美元 | 首批付费客户 |
+| 关键学习 | 社交行不通 | 一次性使用行不通 | 持续倡议可行 |
 
-**Key lesson:** Each pivot was faster, cheaper, and more targeted than the last. The team got better at identifying assumptions and testing them. This is the meta-pattern: **pivoting gets easier with practice because you learn how to learn.**
+**关键教训：**每次转型都更快、更便宜、更有针对性。团队越来越善于识别假设并检验。这背后的规律是：**转型会因练习而容易，因为你学会了如何学习。**
 
-> "Binetti estimated that the third pivot cost approximately 10 percent of what the first one did."
-
----
-
-## Wealthfront - Platform Pivot (kaChing to Financial Management)
-
-**Setup:** Originally kaChing - a "fantasy stock market" game where amateur investors competed. Had good traction as a game.
-
-**The problem:** Game users loved playing but wouldn't pay. The value hypothesis for gaming failed. But the growth hypothesis worked - people liked competing on investment performance.
-
-**The pivot:** Transformed from a game into a real financial management platform. Renamed to Wealthfront. Same core mechanic (transparent investment performance tracking) but applied to real money.
-
-**Result:** Over $180 million in assets under management within a few years. Eventually became one of the largest robo-advisors.
-
-**Key lesson:** The original product validated a real behavior (people want transparent investment performance). The pivot changed the business architecture (game to financial services) while preserving what worked.
+> “Binetti 估计，第三次转型的成本大约是第一次的 10%。”
 
 ---
 
-## QuickBooks - Large Company Transformation (Intuit)
+<a id="wealthfront---platform-pivot-kaching-to-financial-management"></a>
+## Wealthfront——平台转型（从 kaChing 到财务管理）
 
-**Setup:** QuickBooks, Intuit's flagship small-business accounting software, had been released annually in one giant batch for over two decades. Standard waterfall: 3-4 months strategizing, 6-9 months building, beta in June/July, ship in September.
+**背景：**最初叫 kaChing，是业余投资者彼此竞赛的“模拟股市”游戏，作为游戏已获得不错进展。
 
-### Year One: Achieving Failure
+**问题：**用户爱玩，却不愿付费，游戏的价值假设失败。但增长假设有效：人们喜欢比较投资表现。
 
-- Shipped a new online banking system
-- First beta feedback in June was negative - customers struggled with reconciliation
-- But it was "technically flawless" so there was no cause to stop
-- **Shipped anyway. Results were terrible.** Customers took 4-5x longer to reconcile banking transactions
-- Took 9 months to fix through the next waterfall cycle
-- NPS score dropped 20 points - first time the needle had moved that much at Intuit
-- This was a textbook case of "achieving failure" - successfully executing a flawed plan
+**转型：**从游戏转为真正的财务管理平台，改名 Wealthfront。保留透明追踪投资表现的核心机制，但应用到真钱。
 
-### Year Two: Muscle Memory
+**结果：**数年内管理资产超过 1.8 亿美元，最终成为最大的智能投顾之一。
 
-Greg Wright, tasked with driving change, tried to shift to Lean methods:
-1. Smaller teams with cross-functional roles
-2. Shorter cycle times
-3. Faster customer feedback
-4. Empowered decision-making
-
-**Problem:** "Organizations have muscle memory, and it is hard for people to unlearn old habits." The team kept defaulting to waterfall patterns even while trying to work differently.
-
-### Year Three: Explosion
-
-Greg and product development lead Himanshu Baxi threw out ALL old processes:
-- Cross-functional teams formed around ideas, not features
-- Engineers in front of customers from inception
-- "idea/code/solution jams" replaced annual roadmaps
-- Pipeline of ideas instead of fixed release plan
-
-**Results:**
-- 5 "branches" of QuickBooks instead of one monolithic release (eventually 25 branches)
-- Each team iterated with real customers for ~6 weeks end-to-end
-- Built virtualization technology so new versions couldn't corrupt customer data
-- NPS recovered. Customer satisfaction ratings increased. Units sold increased.
-
-**Key lesson:** Transforming an established product to Lean methods takes at least 3 years. Year 1 is diagnosis. Year 2 is fighting muscle memory. Year 3 is when the new system actually takes hold - if leadership commits to tearing out old processes rather than incrementally tweaking them.
+**关键教训：**最初产品验证了一种真实行为：人们希望投资表现透明。转型改变了商业架构，从游戏转为金融服务，同时保留有效部分。
 
 ---
 
-## IGN Entertainment - Five Whys in Practice
+<a id="quickbooks---large-company-transformation-intuit"></a>
+## QuickBooks——大公司转型（Intuit）
 
-**Setup:** IGN, a large online video games media company (45M+ gamers, ~100 engineers). Wanted to accelerate product development using Lean methods.
+**背景：**Intuit 的旗舰小企业财务软件 QuickBooks，二十多年来每年以一个巨型批次发布。典型瀑布式流程：3—4 个月制定策略，6—9 个月开发，6／7 月测试，9 月发布。
 
-### First Attempt: Failure
+<a id="year-one-achieving-failure"></a>
+### 第一年：成功地实现失败
 
-- Brought engineering, product, and design together
-- Attempted Five Whys on a "laundry list" of existing problems
-- First session lasted an hour, went on many tangents
-- Result: "a disaster" - unfocused, no clear outcomes
+- 推出新的网上银行系统。
+- 六月首轮测试反馈负面，客户在对账时遇到困难。
+- 但产品“技术上无可挑剔”，因此没有理由停下。
+- **仍然发布，结果惨烈。**客户对银行交易进行对账的耗时变为原来的 4—5 倍。
+- 通过下一轮瀑布周期修复，耗时九个月。
+- 净推荐值 NPS 下降 20 点，是 Intuit 首次出现如此大的变化。
+- 这是“成功地实现失败”的教科书案例：成功执行了错误计划。
 
-### Three Mistakes
+<a id="year-two-muscle-memory"></a>
+### 第二年：肌肉记忆
 
-1. **Used Five Whys on OLD problems** instead of new ones. Baggage issues are overwhelming.
-2. **Missing people.** Key stakeholders weren't in the room.
-3. **No context-setting.** Attendees didn't understand the format or its purpose.
+负责推动变革的 Greg Wright 尝试转向精益方法：
 
-### Second Attempt: Success
+1. 组建更小的跨职能团队。
+2. 缩短周期。
+3. 更快获取客户反馈。
+4. 授权团队决策。
 
-Appointed a Five Whys master - Tony Ford, a director of engineering with entrepreneurial background. Tony:
-- Picked a **narrow, specific problem** (a project missing its deadlines)
-- Brought more experienced attendees
-- Kept the session focused
+**问题：**“组织有肌肉记忆，人们很难摆脱旧习惯。”即使试图换方法，团队仍不断回到瀑布模式。
 
-**The turnaround:** "The success had to do with a more experienced master and more experienced attendees. We all knew what the Five Whys was, and I did a really good job keeping us on track and away from tangents."
+<a id="year-three-explosion"></a>
+### 第三年：爆发
 
-### Example Five Whys Session (IGN blog post issue)
+Greg 与产品开发负责人 Himanshu Baxi 抛弃所有旧流程：
 
+- 围绕想法而非功能组建跨职能团队。
+- 工程师从一开始就面对客户。
+- 用“想法／代码／方案共创会”替代年度路线图。
+- 用想法管道替代固定发布计划。
+
+**结果：**
+
+- QuickBooks 从一个整体版本变成五个“分支”，最后达到 25 个。
+- 每个团队与真实客户进行约六周的端到端迭代。
+- 建立虚拟化技术，避免新版本破坏客户数据。
+- NPS 恢复，客户满意度提高，销量上升。
+
+**关键教训：**成熟产品转向精益方法至少需要三年。第一年诊断，第二年对抗肌肉记忆，第三年新系统才真正扎根，前提是管理层愿意拆掉旧流程，而非一点点修补。
+
+---
+
+<a id="ign-entertainment---five-whys-in-practice"></a>
+## IGN Entertainment——五问法实践
+
+**背景：**大型电子游戏网络媒体 IGN，拥有 4,500 多万玩家、约 100 名工程师，希望用精益方法加快产品开发。
+
+<a id="first-attempt-failure"></a>
+### 第一次尝试：失败
+
+- 把工程、产品、设计人员召集到一起。
+- 对一长串已有问题使用五问法。
+- 首次会议持续一小时，不断跑题。
+- 结果是“一场灾难”：不聚焦，没有清楚产出。
+
+<a id="three-mistakes"></a>
+### 三个错误
+
+1. **针对旧问题，而非新问题使用五问法。**历史包袱令人无法承受。
+2. **人不齐。**关键利益相关者不在场。
+3. **没有交代背景。**参与者不理解形式与目的。
+
+<a id="second-attempt-success"></a>
+### 第二次尝试：成功
+
+指定有创业背景的工程总监 Tony Ford 为五问法负责人。他：
+
+- 选择一个**狭窄、具体的问题**：项目未能按期完成。
+- 找来更有经验的参与者。
+- 保持会议聚焦。
+
+**转折：**“成功在于主持人与参与者都更有经验。大家知道五问法是什么，我也很好地让讨论留在正轨，不跑题。”
+
+<a id="example-five-whys-session-ign-blog-post-issue"></a>
+### 五问法会议示例（IGN 博客发布问题）
+
+```text
+问题：用户无法新增或编辑博客文章。
+
+1. 为什么不能？→ 内容API返回500错误。
+   投入：让CMS更能容错，对用户更友好。（Jim）
+
+2. 为什么API返回500？→ bson_ext gem不兼容。
+   投入：移除这个gem。（King，已完成）
+
+3. 为什么gem不兼容？→ 保留旧版本时又加入了新版本。
+   投入：改用bundler管理gem。（Bennett）
+
+4. 为什么没测试就加入新版本？→ 我们认为不需要测试。
+   投入：为API和CMS编写功能测试。（Bennett＋Jim）
+
+5. 为什么加入不打算立即使用的gem？→ 想为一次代码推送提前备齐所有东西。
+   投入：在CI/CD中自动管理gem。（Bennett）
+
+追加一问：为什么周五晚上修改生产环境？
+   投入：周五到周日不得修改生产环境，除非工程副总裁批准。（Tony）
 ```
-Problem: Users can't add or edit blog posts.
 
-1. Why can't they? --> Content API returning 500 errors.
-   Investment: Make CMS more forgiving for users. (Jim)
-
-2. Why is API returning 500s? --> bson_ext gem incompatible.
-   Investment: Remove the gem. (King - already done)
-
-3. Why was the gem incompatible? --> Added new version alongside old one.
-   Investment: Convert to bundler for gem management. (Bennett)
-
-4. Why did we add a new version without testing? --> We didn't think we needed tests.
-   Investment: Write functional tests for API and CMS. (Bennett + Jim)
-
-5. Why do we add gems we don't intend to use right away? --> Wanted everything ready for a code push.
-   Investment: Automate gem management in CI/CD. (Bennett)
-
-Bonus: Why are we doing production changes on Friday nights?
-   Investment: No production changes Friday-Sunday unless approved by VP Engineering. (Tony)
-```
-
-**Result:** "We would have never discovered all of the information we did here. My guess is that we would have told that one developer not to do stupid things on Friday nights and moved on." The proportional investments at each level compounded into systemic improvement.
+**结果：**“否则绝不会发现这么多信息。我猜我们只会告诉那个开发者，周五晚上别做蠢事，然后就算了。”每一层与问题程度相称的投入，累积成系统改善。
 
 ---
 
-## SGW Designworks - Small Batches for Physical Products
+<a id="sgw-designworks---small-batches-for-physical-products"></a>
+## SGW Designworks——实体产品的小批量
 
-**Setup:** SGW Designworks works with military and physical product clients. Traditional hardware development has long batch cycles (months to years).
+**背景：**SGW Designworks 服务军方与实体产品客户。传统硬件开发的批量周期很长，从数月到数年。
 
-**The approach:**
-- Applied small-batch thinking to physical product development
-- Reduced iteration cycle to **15 days** for hardware prototypes
-- Used rapid prototyping, 3D printing, and modular designs
-- Each 15-day cycle produced a testable prototype that went in front of real users
+**做法：**
 
-**Key lesson:** Small batches aren't just for software. Physical products can iterate rapidly if the team invests in reducing setup costs (the hardware equivalent of SMED). The 15-day cycle for a physical product mirrors what continuous deployment does for software.
+- 把小批量思维用于实体产品开发。
+- 将硬件原型迭代周期缩短到 **15 天**。
+- 运用快速原型、3D 打印、模块化设计。
+- 每个 15 天周期产出一个可测试原型，交给真实用户。
 
----
-
-## School of One - Education (Public School System)
-
-**Setup:** NYC public school system experiment. Traditional education: all students receive the same lesson at the same pace (large batch).
-
-**The approach:**
-- Each student gets a personalized learning plan generated daily
-- Teachers use multiple modalities (tutoring, software, group work, solo practice)
-- Daily assessment determines the next day's plan
-- Each day is effectively a small batch - immediate feedback, immediate adjustment
-
-**Key lesson:** Even in bureaucratic, heavily-regulated environments like public education, small-batch thinking can be applied. The constraint isn't technology but organizational willingness to shift from "teach the plan" to "teach the student."
+**关键教训：**小批量不只适用于软件。只要投入降低启动／切换成本，即硬件版的快速换模 SMED，实体产品也能快速迭代。实体产品的 15 天周期，对应软件的持续部署。
 
 ---
 
-## Alphabet Energy - Clean Tech Small Batches
+<a id="school-of-one---education-public-school-system"></a>
+## School of One——教育（公立学校体系）
 
-**Setup:** Clean technology startup. Clean tech typically has very long development cycles (5-10 years) and massive capital requirements.
+**背景：**纽约市公立学校实验。传统教育让所有学生以同一速度学习同一课，属于大批量。
 
-**The approach:**
-- Applied small-batch thinking to materials science development
-- Instead of building a full production facility before testing, created small-scale experiments
-- Reduced capital requirements by validating demand and technology in parallel
+**做法：**
 
-**Key lesson:** Even in capital-intensive industries with physical constraints, the principle of reducing batch size and testing assumptions early applies. The goal isn't to eliminate large investments but to defer them until they're validated.
+- 每天为每位学生生成个性化学习计划。
+- 教师使用辅导、软件、小组活动、独立练习等多种形式。
+- 每日评估决定次日计划。
+- 每天实际上就是一个小批次：即时反馈，即时调整。
 
----
-
-## Food on the Table - Concierge MVP
-
-**Setup:** Meal planning service. Founder Manuel Rosso hypothesized that busy families would pay for a service that planned meals around grocery store sales.
-
-**The MVP:**
-- Rosso personally went to one customer's house each week
-- Asked what her family liked to eat
-- Checked local grocery store sales
-- Created a meal plan and shopping list by hand
-- Charged real money for the service
-
-**No software. No app. No automation.** Pure concierge.
-
-**What he learned:**
-- Which parts of the service customers valued most
-- What questions to ask to create good meal plans
-- How to match recipes to sales
-- What customers would actually pay
-
-**Only after serving multiple customers manually** did he begin building technology to automate the process.
-
-**Key lesson:** The concierge MVP eliminates all technology risk and isolates the value hypothesis. If customers won't pay a human to do it, they won't pay software to do it.
+**关键教训：**即使公立教育这样官僚化、监管严格的环境，也能应用小批量思维。限制不在技术，而在组织是否愿意从“按计划教”转为“围绕学生教”。
 
 ---
 
-## Intuit SnapTax - Innovation Sandbox
+<a id="alphabet-energy---clean-tech-small-batches"></a>
+## Alphabet Energy——清洁技术小批量
 
-**Setup:** Intuit created a small team to explore mobile tax filing. This was a radical departure from TurboTax's desktop model.
+**背景：**清洁技术创业公司。清洁技术通常开发周期极长，达到 5—10 年，资金需求巨大。
 
-**What made it work:**
-- The team operated inside an "innovation sandbox" - contained scope, real customers, standard metrics
-- Cross-functional: engineering, marketing, customer service all represented
-- Could build, market, and deploy without prior approval (within sandbox constraints)
-- Reported progress using actionable metrics, not vanity metrics
-- Clear team leader (like Toyota's shusa) with end-to-end ownership
+**做法：**
 
-**Result:** SnapTax became a successful mobile product. Demonstrated that a large company can innovate like a startup if the structural conditions are right: scarce but secure resources, independent authority, personal stake in outcome.
+- 把小批量思维用于材料科学开发。
+- 不在测试前建好完整工厂，而是先做小规模实验。
+- 并行验证需求与技术，降低资金需求。
+
+**关键教训：**即使有物理约束、资本密集，缩小批量、尽早检验假设仍适用。目标不是消灭大额投入，而是把它推迟到已经验证之后。
 
 ---
 
-## Product Disasters Referenced
+<a id="food-on-the-table---concierge-mvp"></a>
+## Food on the Table——礼宾式 MVP
 
-| Company/Product | Lean Startup Lesson |
+**背景：**膳食规划服务。创始人 Manuel Rosso 假设，忙碌家庭愿意为围绕超市折扣安排餐食的服务付费。
+
+**MVP：**
+
+- Rosso 每周亲自到一位客户家中。
+- 询问家人喜欢吃什么。
+- 查看本地超市折扣。
+- 手工制作膳食计划与购物清单。
+- 收取真实费用。
+
+**没有软件，没有应用，没有自动化。**纯人工礼宾服务。
+
+**学到了什么：**
+
+- 客户最重视服务的哪些部分。
+- 提什么问题才能做好膳食计划。
+- 如何把菜谱与折扣匹配。
+- 客户实际愿意付多少钱。
+
+**只有手工服务了多位客户之后**，他才开始开发技术，把流程自动化。
+
+**关键教训：**礼宾式 MVP 消除全部技术风险，单独检验价值假设。如果客户不愿付钱让人做，也不会愿意付钱让软件做。
+
+---
+
+<a id="intuit-snaptax---innovation-sandbox"></a>
+## Intuit SnapTax——创新沙盒
+
+**背景：**Intuit 创建小团队探索手机报税，这与 TurboTax 桌面模式截然不同。
+
+**成功条件：**
+
+- 团队在“创新沙盒”内运作：范围受限、真实客户、标准指标。
+- 跨职能，涵盖工程、营销、客服。
+- 在沙盒约束内，无需事先批准就能构建、营销、部署。
+- 用可行动指标，而非虚荣指标汇报进展。
+- 有明确团队负责人，类似丰田主查，承担端到端责任。
+
+**结果：**SnapTax 成为成功的移动产品，说明只要结构条件合适，大公司也能像创业公司一样创新：资源有限但有保障、拥有独立权限、个人利益与结果相关。
+
+---
+
+<a id="product-disasters-referenced"></a>
+## 文中提到的产品失败
+
+| 公司／产品 | 精益创业教训 |
 |---|---|
-| **Webvan** | Built $40M warehouses before validating demand. Classic "achieving failure." |
-| **Apple Newton** | Right product idea, wrong execution timeline. No MVP; shipped full product too early. |
-| **Iridium** | $5B engineering triumph. Never asked if customers wanted satellite phones at $3K/minute. |
-| **Kodak Photo CD** | 10 years too early. Treated new market like existing market. |
-| **IMVU v1 (IM interop)** | 6 months of engineering on an assumption (buddy lists are sacred) that turned out to be wrong. |
+| **Webvan** | 需求未经验证就建 4,000 万美元仓库，是典型的“成功地实现失败” |
+| **Apple Newton** | 产品想法正确，执行时间表错误；没有 MVP，过早推出完整产品 |
+| **Iridium** | 50 亿美元的工程胜利，却从未问客户是否愿意使用每分钟 3,000 美元的卫星电话 |
+| **Kodak Photo CD** | 早了十年，把新市场当现有市场 |
+| **IMVU 第一版，即时通信互通** | 用六个月开发，建立在后来被证伪的“好友列表不可动”假设上 |
 
-## Product Successes Referenced
+> 译注：Iridium 的“每分钟 3,000 美元”按上游原文保留，金额／计费单位疑似有误，未经本轮事实核验，不应直接用于对外引用。
 
-| Company/Product | Lean Startup Lesson |
+<a id="product-successes-referenced"></a>
+## 文中提到的产品成功
+
+| 公司／产品 | 精益创业教训 |
 |---|---|
-| **Toyota** | Originator of small batches, pull systems, andon cord, Five Whys - the manufacturing roots of Lean Startup |
-| **Intuit** | Multiple examples of validated learning (SnapTax, QuickBooks transformation) |
-| **Dropbox** | Video MVP validated demand before building complex technology |
-| **Groupon** | WordPress + email MVP became fastest company to $1B revenue |
-| **Hotmail** | Viral engine of growth: "PS: Get your free email at Hotmail" in every email |
+| **Toyota** | 小批量、拉动系统、安灯拉绳、五问法的来源，是精益创业的制造业根基 |
+| **Intuit** | 多个经验证学习的案例，包括 SnapTax 与 QuickBooks 转型 |
+| **Dropbox** | 复杂技术开发前，用视频 MVP 验证需求 |
+| **Groupon** | WordPress＋邮件 MVP，成为最快达到 10 亿美元收入的公司 |
+| **Hotmail** | 病毒式增长引擎，在每封邮件中加入“附言：到 Hotmail 获取免费邮箱” |

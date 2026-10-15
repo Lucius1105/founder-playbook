@@ -1,186 +1,193 @@
-# Mom Test - Templates and Worked Examples
+> 中文译文｜[英文对照](examples.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/mom-test/examples.md)。原项目整理：AgentSeal；书籍来源：《The Mom Test》— Rob Fitzpatrick；AI辅助翻译。
 
-## Note-Taking Symbols
+<a id="mom-test---templates-and-worked-examples"></a>
+# Mom Test——模板与完整示例
 
-| Symbol | Meaning |
+<a id="note-taking-symbols"></a>
+## 笔记符号
+
+| 符号 | 含义 |
 |--------|---------|
-| :) | Excited |
-| :( | Angry |
-| :\| | Embarrassed |
-| ⚡ | Pain or problem |
-| 🥅 | Goal or job-to-be-done |
-| ☐ | Obstacle |
-| ⤴ | Workaround |
-| ^ | Background/context |
-| ☑ | Feature request / purchasing criteria |
-| $ | Money / budget / purchasing process |
-| @ | Mentioned specific person or company |
-| ★ | Follow-up task |
+| :) | 兴奋 |
+| :( | 生气 |
+| :\| | 尴尬 |
+| ⚡ | 痛点或问题 |
+| 🥅 | 目标或待完成任务 |
+| ☐ | 障碍 |
+| ⤴ | 变通办法 |
+| ^ | 背景／情境 |
+| ☑ | 功能请求／购买标准 |
+| $ | 金钱／预算／采购流程 |
+| @ | 提到具体的人或公司 |
+| ★ | 后续任务 |
 
-Use these in real-time during conversations. Faster than writing words; preserves emotional valence.
+在交流过程中实时使用这些符号。比写文字更快，也能保留情绪色彩。
 
-## Worked Conversation: Good vs Bad
+<a id="worked-conversation-good-vs-bad"></a>
+## 对话示范：好的与不好的版本
 
-### BAD Version (typical founder)
+<a id="bad-version-typical-founder"></a>
+### 不好的版本（典型创始人）
 
-```
-Founder: Hi, I'm building a tool that helps marketing teams automate their reporting. Would that be useful to you?
-Customer: Oh yeah, that sounds great!
-Founder: How much would you pay for that?
-Customer: I dunno, maybe $200/month?
-Founder: Would you use it if I built it?
-Customer: Definitely!
-Founder: Awesome, I'll send you a link when it's ready.
-[6 months later: customer ignores the launch email]
-```
-
-What went wrong: every question was a Mom Test violation. Hypothetical, opinion, future-tense, no commitment.
-
-### GOOD Version (Mom Test applied)
-
-```
-Founder: Hey, I noticed you're a marketing director. What's your week look like?
-Customer: Honestly insane. Tuesdays I lose 4 hours just pulling reports.
-Founder: 4 hours? Walk me through what that looks like.
-Customer: I export from Google Analytics, then HubSpot, then Salesforce, mash them together in a spreadsheet, format for the board...
-Founder: What happens if you don't get it done?
-Customer: My CMO yells at me. Last quarter I missed it and almost got fired.
-Founder: How are you handling it now?
-Customer: I have a contractor who does it but he's expensive and slow.
-Founder: How much do you pay him?
-Customer: $1500 a month for like 8 hours.
-Founder: Who else on your team has this problem?
-Customer: My counterpart at [other company] is dealing with the same thing. Want me to introduce you?
-Founder: That'd be amazing. Also - if I had something working in 2 weeks, would you be willing to try it for the next quarterly report?
-Customer: Yeah honestly send it over, I'll pay for early access.
+```text
+创始人：你好，我正在做一个帮助营销团队自动生成报告的工具。你会觉得有用吗？
+客户：当然，听起来很棒！
+创始人：你愿意付多少钱？
+客户：不知道，也许每月 200 美元？
+创始人：如果做出来，你会用吗？
+客户：肯定会！
+创始人：太好了，准备好之后我发链接给你。
+[六个月后：客户没有理会上线邮件。]
 ```
 
-What went right: past behavior, real costs, current solution, intro committed, time + money commitment offered. This is signal.
+问题在哪里：每个问题都违反了 Mom Test。全是假设、意见、对未来的想象，没有承诺。
 
-## Email Templates
+<a id="good-version-mom-test-applied"></a>
+### 好的版本（应用 Mom Test）
 
-### Cold Outreach for Interview (VFWPA)
-
-```
-Subject: 20-min chat about [their domain]?
-
-Hey [Name],
-
-I'm working on making [problem] easier for [target segment]. (VISION)
-
-We're not selling anything yet - just trying to understand 
-if we're solving a real problem. (FRAMING)
-
-I'm stuck on [specific thing you don't understand]. (WEAKNESS)
-
-You've been doing [their relevant experience] longer than 
-just about anyone I could talk to. (PEDESTAL)
-
-Got 20 minutes in the next two weeks for a casual chat? (ASK)
-
-[Your name]
+```text
+创始人：你好，我注意到你是营销总监。你平时一周都在忙什么？
+客户：说实话，忙疯了。每到星期二，光整理报告就要耗掉四个小时。
+创始人：四小时？带我过一遍具体怎么做吧。
+客户：先从 Google Analytics 导出，再从 HubSpot、Salesforce 导出，合并到电子表格里，调整格式给董事会看……
+创始人：如果没做完会怎样？
+客户：CMO 会骂我。上季度有一次没交，我差点被开除。
+创始人：你现在怎么处理？
+客户：找了个外包人员做，但他又贵又慢。
+创始人：你付他多少钱？
+客户：每月 1,500 美元，大概八个小时的工作。
+创始人：你们团队还有谁遇到这个问题？
+客户：[另一家公司]和我同岗位的人也一样。要不要我介绍你们认识？
+创始人：太好了。另外，如果两周后我有个能用的版本，你愿意在下一次季度报告时试试吗？
+客户：愿意，说真的，发给我吧。我愿意付费提前使用。
 ```
 
-### Follow-up After Conversation
+做对了什么：问过去行为、真实成本、现有方案；获得引荐承诺，对方也主动提出时间和金钱投入。这才是信号。
 
-```
-Subject: Thanks - and a small ask
+<a id="email-templates"></a>
+## 邮件模板
 
-Hey [Name],
+<a id="cold-outreach-for-interview-vfwpa"></a>
+### 邀请陌生人接受访谈（VFWPA）
 
-Thanks for the chat yesterday. The thing you said about 
-[specific painful detail] is going to change how we 
-think about this.
+```text
+主题：能就[你的领域]聊 20 分钟吗？
 
-Two quick things:
-1. Would it be okay if I came back to you in 4 weeks 
-   to show you what we built?
-2. You mentioned [colleague's name] also runs into this - 
-   would you be open to making an intro?
+你好，[姓名]：
 
-Either way, super grateful for the time.
+我在尝试帮助[目标客群]更容易地处理[问题]。（愿景）
 
-[Your name]
-```
+我们还没有销售任何产品，只是在了解自己解决的是否是真问题。（交代背景）
 
-### Commitment-Forcing Close
+我卡在了[具体不了解的事情]上。（知识缺口）
 
-```
-Subject: Real version of [thing]?
+在我能请教的人当中，你从事[相关工作]的经验几乎是最丰富的。（认可对方）
 
-Hey [Name],
+未来两周里，有 20 分钟随意聊聊吗？（请求）
 
-We have a working version of [the thing we discussed]. 
-Three options for what's next:
-
-1. I send you a link, you try it on a real report, 
-   and we talk about what works.
-2. I do the first report for you so you can see it, 
-   and your team uses it for the next one.
-3. You skip it - no hard feelings, would just love to 
-   know which option to pull off the table.
-
-Let me know which one.
-
-[Your name]
+[你的姓名]
 ```
 
-The third option matters: it makes "no" easy and reveals lack of commitment without the polite-yes trap.
+<a id="follow-up-after-conversation"></a>
+### 交流后的跟进
 
-## Common Re-Anchoring Phrases
+```text
+主题：谢谢，也有一个小请求
 
-When the conversation drifts into hypothetical territory, redirect:
+你好，[姓名]：
 
-| They Say | You Say |
+感谢昨天的交流。你提到的[具体痛苦细节]，会改变我们看待这件事的方式。
+
+还有两件小事：
+1. 四周后，我能再来向你展示我们做出的东西吗？
+2. 你提到[同事姓名]也有这个问题，方便帮忙引荐吗？
+
+无论如何，非常感谢你抽出时间。
+
+[你的姓名]
+```
+
+<a id="commitment-forcing-close"></a>
+### 促使对方明确承诺的收尾
+
+```text
+主题：要不要试试[某件事]的可用版本？
+
+你好，[姓名]：
+
+我们已经有了[此前讨论的东西]的可用版本。
+下一步有三个选项：
+
+1. 我发链接给你，你用它处理一份真实报告，然后我们聊聊哪些地方有效。
+2. 第一份报告我替你做，让你看到效果；下一份由你们团队使用工具完成。
+3. 暂时不试，完全没关系。我只是想弄清楚，哪些选项可以排除了。
+
+告诉我你选哪个就好。
+
+[你的姓名]
+```
+
+第三个选项很重要：让拒绝变得容易，也能显露真实的承诺不足，避开出于礼貌答应的陷阱。
+
+<a id="common-re-anchoring-phrases"></a>
+## 常用的拉回事实话术
+
+对话漂向假设时，可以这样引导：
+
+| 对方说 | 你说 |
 |----------|---------|
-| "I would always..." | "When was the last time? Walk me through it." |
-| "Most people probably..." | "Tell me about you specifically." |
-| "It would be cool if..." | "What's the worst part of how you do it now?" |
-| "Sounds like a great idea." | "Thanks - how are you handling this today?" |
-| "I'd definitely buy it." | "Could I send you an invoice today for early access?" |
-| "Add feature X." | "Why? What would that let you do?" |
+| “我总会……” | “上一次是什么时候？带我过一遍。” |
+| “大部分人可能……” | “具体讲讲你自己的情况。” |
+| “要是能……就很酷了。” | “你现在的做法，最糟糕的地方是什么？” |
+| “听起来是个好主意。” | “谢谢，你现在怎么处理这件事？” |
+| “我肯定会买。” | “我今天就给你开提前使用的账单，可以吗？” |
+| “加上 X 功能吧。” | “为什么？它能让你做到什么？” |
 
-## Conversation Quality Self-Audit
+<a id="conversation-quality-self-audit"></a>
+## 对话质量自查
 
-After each conversation, score yourself:
+每次交流后，给自己打分：
 
-- [ ] Did I learn something I didn't already know?
-- [ ] Did I get specific past behavior, not generalizations?
-- [ ] Did I get a real commitment (time/reputation/money)?
-- [ ] Did I keep my mouth mostly shut?
-- [ ] Was I terrified of any answer I might hear?
-- [ ] Did I avoid pitching?
+- [ ] 是否学到了原来不知道的东西？
+- [ ] 是否获得了具体的过去行为，而不是泛泛描述？
+- [ ] 是否获得真实承诺——时间、声誉或金钱？
+- [ ] 是否大部分时候都在听？
+- [ ] 是否有某个可能听到的答案令我害怕？
+- [ ] 是否避免了推销？
 
-5+ checks = good conversation. <3 = redo it.
+勾选五项以上，说明对话不错；不足三项，应重做。
 
-## The "Earliest Possible Pitch Refusal" Test
+<a id="the-earliest-possible-pitch-refusal-test"></a>
+## “尽早给对方拒绝推介的机会”测试
 
-Push the offer earlier than feels comfortable:
-- Not "I'm thinking about building..."
-- Instead: "Would you put down $500 today to be the first user?"
+比自己觉得舒服的时间更早提出交易：
 
-Their reaction is data. A flinch, a wandering excuse, or a "let me check with my team" all = no. A "yes, where do I send it?" = real lead.
+- 不要说“我正在考虑做……”
+- 改为：“你愿意今天付 500 美元，成为第一位用户吗？”
 
-This feels rude. It's not. It saves both of you from a 6-month dance ending in nothing.
+对方的反应就是数据。退缩、含糊找借口，或者“让我和团队商量一下”，都等于拒绝。“愿意，钱打到哪里？”才是真正的销售线索。
 
-## From Notes to Team Beliefs
+这感觉有点失礼，其实并不是。它能让双方避免周旋六个月，最后一无所获。
 
-Raw interview notes don't become product direction on their own. This protocol converts them into shared, tracked beliefs.
+<a id="from-notes-to-team-beliefs"></a>
+## 从笔记形成团队共识
 
-**Step 1 - Write up within 24 hours.**
-Each interviewer writes up their notes within 24 hours of the conversation. Include direct quotes, emotional signals (use the symbols from the note-taking table), and one sentence on what you personally believe changed or was confirmed.
+原始访谈笔记不会自行变成产品方向。以下流程将其转化为团队共享、可以追踪的判断。
 
-**Step 2 - Weekly team review.**
-The team reviews all write-ups from the past week together. Each person calls out surprises, contradictions, or patterns. No decisions yet - just shared understanding.
+**第 1 步：24 小时内整理。**
+每位访谈者在交流后 24 小时内整理笔记，包括直接引语、情绪信号（使用笔记符号表），并用一句话说明自己认为哪些判断发生了变化，或得到了确认。
 
-**Step 3 - Track belief changes on a shared doc.**
-Maintain a living belief tracker. Before each batch of interviews, record what the team currently believes. After the batch, record what (if anything) changed and why. This makes drift visible and prevents the team from unconsciously moving the goalposts.
+**第 2 步：团队每周复盘。**
+团队共同审阅过去一周的全部记录。每个人指出意外发现、矛盾或规律。此时先不决策，只形成共同理解。
 
-**Step 4 - Only update product direction on convergence.**
-A single interview, no matter how compelling, is not signal. Only update roadmap or positioning when multiple interviews, from different people with no reason to coordinate, point at the same problem or behavior. One data point is an anecdote. Three is a pattern.
+**第 3 步：用共享文档追踪判断变化。**
+维护一份持续更新的判断追踪表。每批访谈前，记录团队目前的判断；访谈结束后，记录发生了什么变化（如有），以及为什么。这能让偏移显现出来，避免团队不自觉地更换判断标准。
 
-**Belief Tracker Template**
+**第 4 步：只有证据趋同时才调整产品方向。**
+一次访谈再有说服力，也不构成有效信号。只有来自不同、没有理由互相串通的人的多次访谈，都指向同一个问题或行为时，才调整路线图或定位。一个数据点只是个别故事，三个才构成模式。
 
-| Belief | Evidence For | Evidence Against |
+**判断追踪表模板**
+
+| 判断 | 支持证据 | 反对证据 |
 |--------|-------------|-----------------|
-| [State the belief clearly] | [Quotes, behaviors, patterns that support it] | [Quotes, behaviors, patterns that contradict it] |
+| [清楚陈述判断] | [支持它的原话、行为、规律] | [与它相矛盾的原话、行为、规律] |

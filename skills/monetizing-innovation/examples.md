@@ -1,278 +1,318 @@
-# Monetizing Innovation - Worked Examples & Templates
+> 中文译文｜[英文对照](examples.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/monetizing-innovation/examples.md)。原项目整理：AgentSeal；原书：Madhavan Ramanujam 与 Georg Tacke 的《Monetizing Innovation》；AI 辅助翻译。
 
-Practical templates and worked math referenced from [SKILL.md](SKILL.md).
+<a id="monetizing-innovation---worked-examples--templates"></a>
+# 创新变现：计算示例与模板
 
----
-
-## Pizza & Breadsticks Bundling Math
-
-You sell pizza and breadsticks. 4 segments, 100 customers each, different WTP.
-
-| Strategy | Revenue |
-|----------|---------|
-| Pizza $4.50 + Breadsticks $5 (à la carte) | $2,850 |
-| Pizza $8 + Breadsticks $8.50 (optimal à la carte) | $3,300 |
-| Bundle only at $10.50 (pure bundling) | $4,200 |
-| **Mixed: Bundle $13 + Pizza $9 + Breadsticks $9** | **$4,400** (+33% over à la carte) |
-
-**Less than 10% of executives find the optimal answer.**
-
-**Bonus trick:** Bundle at $13 looks like a $5 discount vs $18 standalone. **Show discounting without discounting.**
-
-**Key lesson:** In mixed bundles, the à la carte prices need to be HIGHER than they were in pure à la carte. This is counterintuitive.
+这里提供 [SKILL.md](SKILL.md) 引用的实用模板和计算过程。
 
 ---
 
-## The 100-Point Goal Allocation Exercise
+<a id="pizza--breadsticks-bundling-math"></a>
+## 披萨与面包条：捆绑销售计算
 
-**Setup:** C-suite execs each independently allocate 100 points across goals.
+你销售披萨与面包条。有4个细分群体，每组100位客户，支付意愿不同。
 
-| Goal | Exec A | Exec B | Exec C | CEO | Avg |
-|------|--------|--------|--------|-----|-----|
-| Revenue | 30 | 15 | 40 | 25 | 28 |
-| Market share | 20 | 35 | 10 | 40 | 26 |
-| Profit | 25 | 20 | 30 | 15 | 23 |
-| Margin | 10 | 15 | 10 | 10 | 11 |
-| CLV | 10 | 10 | 5 | 5 | 8 |
-| ARPU | 5 | 5 | 5 | 5 | 5 |
-| **Total** | **100** | **100** | **100** | **100** | |
+| 策略 | 收入 |
+|---|---|
+| 披萨4.50美元+面包条5美元，分别销售 | 2,850美元 |
+| 披萨8美元+面包条8.50美元，最优单卖价格 | 3,300美元 |
+| 只卖10.50美元的组合，纯捆绑 | 4,200美元 |
+| **混合：组合13美元，披萨9美元，面包条9美元** | **4,400美元，比单卖高33%** |
 
-**Reveals massive misalignment** in teams who thought they agreed.
+**能找到最优答案的高管不到10%。**
 
-**Output:** Discussion converges to a written goal like:
-> "Maximize market share, but ensure overall profit increase of at least 10%."
+**额外技巧：**13美元的组合，相比单买合计18美元，看起来便宜5美元。**展示折扣感，却不真正降低原有收益。**
 
-This becomes the constraint for pricing strategy choice.
+**关键启示：**混合捆绑时，单品价格需要高于纯单卖时的价格。这一点违反直觉。
 
 ---
 
-## The BECAUSE Test - Templates
+<a id="the-100-point-goal-allocation-exercise"></a>
+## 100分目标分配练习
 
-Every pricing decision must end with a "because" traceable to customer data.
+**做法：**让每位高管独立把100分分配给不同目标。
 
-### Bad Examples
+| 目标 | 高管A | 高管B | 高管C | CEO | 平均值 |
+|---|---|---|---|---|---|
+| 收入 | 30 | 15 | 40 | 25 | 28 |
+| 市场份额 | 20 | 35 | 10 | 40 | 26 |
+| 利润 | 25 | 20 | 30 | 15 | 23 |
+| 利润率 | 10 | 15 | 10 | 10 | 11 |
+| 客户终身价值（CLV） | 10 | 10 | 5 | 5 | 8 |
+| 每用户平均收入（ARPU） | 5 | 5 | 5 | 5 | 5 |
+| **合计** | **100** | **100** | **100** | **100** | |
 
-- "We priced at $99 to be competitive."
-- "We priced at $99 because that's what our spreadsheet said."
-- "We priced at $99 because the CEO said so."
+它会暴露那些自认为意见一致的团队内部**巨大的分歧**。
 
-### Good Examples
+**产出：**通过讨论，收敛为一个书面目标，例如：
 
-- "We priced at $99 BECAUSE 60% of segment B told us $100 was the threshold above which they'd reconsider, and our value advantage justifies the high end of acceptable."
-- "We priced Better at $79 BECAUSE our G/B/B test showed the $69-$89 range produced 70% Better+Best with $79 maximizing total revenue."
-- "We chose subscription BECAUSE 75% of interviewed prospects preferred predictable monthly cost over per-seat licensing, and our cost-to-serve scales with usage."
+> “尽可能扩大市场份额，同时确保总体利润至少增长10%。”
 
-### Template
+这就成为选择定价策略时的约束条件。
+
+---
+
+<a id="the-because-test---templates"></a>
+## “因为”检验：模板
+
+每项定价决定，都必须以能够追溯到客户数据的“因为”收尾。
+
+<a id="bad-examples"></a>
+### 不好的例子
+
+- “我们定价99美元，是为了有竞争力。”
+- “我们定价99美元，因为电子表格算出来就是这个数。”
+- “我们定价99美元，因为 CEO 这么说。”
+
+<a id="good-examples"></a>
+### 好的例子
+
+- “我们定价99美元，因为细分人群 B 中60%的受访者说，超过100美元就会重新考虑，而我们的价值优势支持可接受区间的上限。”
+- “我们把进阶档定为79美元，因为三档测试显示，69—89美元区间能让70%的人选择进阶或旗舰，其中79美元的总收入最高。”
+- “我们选择订阅，因为75%的受访潜在客户更喜欢可预测的月费，而非按席位授权；我们的服务成本也会随使用量变化。”
+
+<a id="template"></a>
+### 模板
 
 ```
-We priced [SKU/tier] at $[price] BECAUSE
-[N]% of [segment] customers told us [specific data point about WTP/threshold/value],
-AND [secondary data point about competitive position or willingness to upgrade].
+我们将[SKU/档位]定价为[价格]美元，因为：
+[细分群体]中[N]%的客户告诉我们[有关支付意愿、阈值或价值的具体数据]，
+并且[有关竞争地位或升级意愿的第二项数据]。
 ```
 
 ---
 
-## MOCA Matrix - Worked Example
+<a id="moca-matrix---worked-example"></a>
+## MOCA 矩阵：实例
 
-### Setup
+<a id="setup"></a>
+### 背景
 
-You're an industrial pump maker competing against an incumbent.
+你是一家工业泵制造商，正与既有市场领先者竞争。
 
 ```
-                          HIGH IMPORTANCE
-                                |
-    Service network             |    Reliability (you = better)
-    (incumbent better)          |    Energy efficiency (you = better)
-                                |
-    ─────────────────────────────────────── Performance
-                                |
-    Industrial design           |    Onboarding software
-    (incumbent better)          |    (you = better)
-                                |
-                          LOW IMPORTANCE
+                         重要性高
+                            |
+   服务网络                 |    可靠性（你更好）
+   （既有企业更好）         |    能源效率（你更好）
+                            |
+   ─────────────────────────────────── 表现
+                            |
+   工业设计                 |    上手引导软件
+   （既有企业更好）         |    （你更好）
+                            |
+                         重要性低
 ```
 
-### Action by Quadrant
+<a id="action-by-quadrant"></a>
+### 各象限的行动
 
-- **Top Right (Reliability, Efficiency):** Lead all marketing here. These are your wedge.
-- **Bottom Right (Onboarding software):** Try to convince customers this matters - **only with proof points**. If you can't, don't waste budget.
-- **Top Left (Service network):** Prepare defensive arguments. Bundle 3rd-party service partners. Consider proactive remote diagnostics.
-- **Bottom Left (Industrial design):** Ignore for now.
+- **右上：可靠性、效率。**所有营销优先强调这里，这是突破口。
+- **右下：上手引导软件。**尝试让客户认识到其重要性，但**必须有证据**。如果做不到，就别浪费预算。
+- **左上：服务网络。**准备防守论据，联合第三方服务伙伴打包提供服务，考虑主动远程诊断。
+- **左下：工业设计。**暂时不管。
 
-### Critical Caveat
+<a id="critical-caveat"></a>
+### 关键提醒
 
-**Performance is "as your CUSTOMERS see it."** Many engineers fail MOCA by self-grading their own product. Run with customer interviews.
-
----
-
-## Value-Selling Spreadsheet (B2B Pattern)
-
-Best-in-class B2B sales build per-customer ROI calculators.
-
-### Template
-
-| Input (customer-specific) | Customer Value | Calculation |
-|----------------------------|----------------|-------------|
-| Current annual spend on Y | $___ | input |
-| Current error rate | __% | input |
-| Hours/week on manual task | __ | input |
-| Average labor cost/hr | $___ | input |
-| **Output** | | |
-| Annual error cost | $___ | spend × error rate |
-| Annual labor cost | $___ | hours × 52 × rate |
-| Total addressable savings | $___ | sum |
-| Our product cost | $___ | your price |
-| **Net annual savings** | $___ | savings - cost |
-| **Payback months** | __ | (cost / monthly savings) |
-
-### Effect
-
-- Reframes conversation from "how much does it cost" to "how much do I save"
-- Forces salespeople to engage with customer-specific value math
-- Gives the customer a quantified justification for procurement
-
-### SaaS Warehouse Case
-
-- Built spreadsheet computing inventory carrying costs reduced, picking hours saved, shipping errors avoided, paper-doc savings
-- Sales "took off like a rocket" while competitors were still explaining features
+**表现必须按客户的看法衡量。**很多工程师用自评给产品打分，导致 MOCA 失效。应通过客户访谈完成。
 
 ---
 
-## SmugMug Case (Benefit-not-Feature Messaging)
+<a id="value-selling-spreadsheet-b2b-pattern"></a>
+## 价值销售表：B2B 模式
 
-### Before
+优秀的 B2B 销售会为每位客户建立投资回报计算器。
 
-- 100+ feature statements
-- Customers confused, didn't buy
+<a id="template-1"></a>
+### 模板
 
-### After
+| 输入：针对具体客户 | 客户价值 | 计算方式 |
+|---|---|---|
+| 当前每年在Y上的支出 | ___美元 | 输入 |
+| 当前错误率 | __% | 输入 |
+| 手工作业每周工时 | __ | 输入 |
+| 每小时平均人工成本 | ___美元 | 输入 |
+| **输出** | | |
+| 每年错误成本 | ___美元 | 支出×错误率 |
+| 每年人工成本 | ___美元 | 工时×52×时薪 |
+| 总可节省金额 | ___美元 | 求和 |
+| 我们的产品成本 | ___美元 | 你的报价 |
+| **每年净节省** | ___美元 | 节省金额−成本 |
+| **回本月数** | __ | 成本÷每月节省金额 |
 
-Reduced to <10 benefit statements + 4 segment-specific tiers:
+<a id="effect"></a>
+### 效果
 
-| Segment Need | Tier |
-|--------------|------|
-| Want photo storage | **Basic** |
-| Want personalization | **Power** |
-| Want to sell online | **Portfolio** |
-| Want to market a business | **Business** |
+- 将对话从“要花多少钱”转向“能省多少钱”。
+- 促使销售人员计算每位客户的具体价值。
+- 给客户提供可量化的采购理由。
 
-Headline benefits: "beautiful design," "unlimited storage."
+<a id="saas-warehouse-case"></a>
+### 仓储 SaaS 案例
 
-### Result
-
-Double-digit % increase in revenue and conversion.
-
----
-
-## Manheim DealShield Case (Living Business Case)
-
-### Setup
-
-Used-car auctioneer wanted to launch return guarantee.
-
-### Process
-
-- Some execs: "Just launch it"
-- Pricing team: "Test first"
-- Found: WTP varied by car type, condition, return window
-- Risk-averse dealers wanted **21 days, 500 miles**
-- Built business case linking risks, value, WTP, demand
-
-### Outcome
-
-- Launched with that exact spec
-- Now protects billions in vehicle purchases
-
-**Lesson:** WTP testing reveals product spec, not just price. Living business case forces this discovery.
+- 制作表格，计算减少的库存持有成本、节省的拣货工时、避免的发货错误，以及纸质文档节省。
+- 当竞争对手还在解释功能时，销售“像火箭一样起飞”。
 
 ---
 
-## Behavioral Pricing - Anchoring (The Economist)
+<a id="smugmug-case-benefit-not-feature-messaging"></a>
+## SmugMug：讲客户收益，而非功能
 
-### Setup
+<a id="before"></a>
+### 改进前
 
-Magazine subscription test.
+- 超过100条功能介绍。
+- 客户困惑，不购买。
 
-### Group A
+<a id="after"></a>
+### 改进后
 
-| Option | Price | Pick Rate |
-|--------|-------|-----------|
-| Online only | $59 | 68% |
-| Print + online | $125 | 32% |
+压缩为不到10条收益说明，并设置针对4个细分人群的档位：
 
-### Group B (added an anchor)
+| 细分需求 | 档位 |
+|---|---|
+| 想存储照片 | **Basic：基础档** |
+| 想个性化定制 | **Power：增强档** |
+| 想在线销售 | **Portfolio：作品集档** |
+| 想推广业务 | **Business：商业档** |
 
-| Option | Price | Pick Rate |
-|--------|-------|-----------|
-| Online only | $59 | 16% |
-| Print only | $125 | 0% |
-| **Print + online** | **$125** | **84%** |
+核心收益表述：“精美设计”“无限存储”。
 
-### Lesson
+<a id="result"></a>
+### 结果
 
-The $125 print-only option made the $125 print+online bundle look like a no-brainer. Adding a useless option increased revenue ~30%.
-
-**Rule:** Always have an anchor product. Start B2B negotiations with a HIGH anchor.
-
----
-
-## Behavioral Pricing - Threshold Mapping
-
-### How To Find Your Thresholds
-
-1. Run an A/B test at multiple price points: $69, $69.99, $71, $74, $79, $89, $99
-2. Compare conversion at each level
-3. Look for **discontinuities** - cliffs where conversion drops sharply
-
-### Common Thresholds (Western Markets)
-
-- $40, $70, $99, $100, $199
-
-### Rule
-
-**Stay on the cliff** - the price just below a threshold (e.g., $69.99 instead of $71). The $1.01 difference dropped acceptance >20% in one online subscription study.
+收入和转化率均实现两位数百分比增长。
 
 ---
 
-## Razor & Blades - When to Use
+<a id="manheim-dealshield-case-living-business-case"></a>
+## Manheim DealShield：动态商业论证
 
-### Coffee Machine Example
+<a id="setup-1"></a>
+### 背景
 
-| Option | Machine | Coffee/mo | 12-mo Total |
-|--------|---------|-----------|-------------|
-| A | $480 | $10 | $600 |
-| B | $120 | $40 | $600 |
+一家二手车拍卖商希望推出退车保障。
 
-Same total. Customers strongly prefer B.
+<a id="process"></a>
+### 过程
 
-### Decision Rule
+- 部分高管说：“直接上线。”
+- 定价团队说：“先测试。”
+- 发现支付意愿随车型、车况和退车期限而变化。
+- 规避风险的经销商希望获得**21天、500英里**的保障。
+- 建立商业论证，连接风险、价值、支付意愿与需求。
 
-Use razor & blades **only if you're 100% sure you can sell the downstream products**:
-- Lock-in mechanism (proprietary cartridges, accounts, data)
-- High switching cost
-- Customer can't easily skip the consumable
+<a id="outcome"></a>
+### 结果
 
-If you're not sure, don't give away the razor.
+- 按这一具体规格推出产品。
+- 如今保护着数十亿美元的汽车交易。
+
+**启示：**支付意愿测试揭示的是产品规格，而不只是价格；动态商业论证会推动这种发现。
 
 ---
 
-## CEO Checklist - Quick Self-Diagnosis
+<a id="behavioral-pricing---anchoring-the-economist"></a>
+## 行为定价：锚定，《经济学人》案例
 
-Run this before approving any new product launch.
+<a id="setup-2"></a>
+### 背景
 
-| Question | Yes/No |
-|----------|--------|
-| Have we held WTP conversations with ≥10 customers? | |
-| Are our segments based on needs/value/WTP (not demographics)? | |
-| Do we have ≤4 segments? | |
-| Have we explicitly named our Leaders, Fillers, and Killers? | |
-| Is our G/B/B configured with FENCES (visible differences)? | |
-| Have we picked a monetization model (not assumed)? | |
-| Is our pricing strategy documented (max/penetration/skimming)? | |
-| Does our living business case link Price/Value/Volume/Cost? | |
-| Have we tested benefit-not-feature messaging? | |
-| Have we considered behavioral tactics? | |
-| Are we prepared to maintain price integrity post-launch? | |
-| Can anyone on the team answer "Why this price?" with a customer-data BECAUSE? | |
+杂志订阅测试。
 
-If any answer is NO, stop and fix it before launch.
+<a id="group-a"></a>
+### A组
+
+| 选项 | 价格 | 选择比例 |
+|---|---|---|
+| 仅在线版 | 59美元 | 68% |
+| 纸刊+在线版 | 125美元 | 32% |
+
+<a id="group-b-added-an-anchor"></a>
+### B组：增加一个锚点
+
+| 选项 | 价格 | 选择比例 |
+|---|---|---|
+| 仅在线版 | 59美元 | 16% |
+| 仅纸刊 | 125美元 | 0% |
+| **纸刊+在线版** | **125美元** | **84%** |
+
+<a id="lesson"></a>
+### 启示
+
+125美元的纯纸刊选项，让同价的纸刊与在线组合看起来无需犹豫。加入一个无人选择的选项，收入却提高约30%。
+
+**规则：**始终设置锚点产品。B2B 谈判从高锚点开始。
+
+---
+
+<a id="behavioral-pricing---threshold-mapping"></a>
+## 行为定价：绘制价格阈值
+
+<a id="how-to-find-your-thresholds"></a>
+### 如何找到你的阈值
+
+1. 对多个价格点开展 A/B 测试：69、69.99、71、74、79、89、99美元。
+2. 比较每档转化率。
+3. 寻找**不连续点**，也就是转化率骤降的悬崖。
+
+<a id="common-thresholds-western-markets"></a>
+### 西方市场常见阈值
+
+- 40、70、99、100、199美元。
+
+<a id="rule"></a>
+### 规则
+
+**停在悬崖边缘**：选择略低于阈值的价格，例如69.99美元，而不是71美元。在一项在线订阅研究中，1.01美元的差异让接受度下降超过20%。
+
+---
+
+<a id="razor--blades---when-to-use"></a>
+## 剃须刀与刀片模式：何时使用
+
+<a id="coffee-machine-example"></a>
+### 咖啡机例子
+
+| 方案 | 机器 | 每月咖啡 | 12个月总额 |
+|---|---|---|---|
+| A | 480美元 | 10美元 | 600美元 |
+| B | 120美元 | 40美元 | 600美元 |
+
+总额相同，客户却明显偏好 B。
+
+<a id="decision-rule"></a>
+### 决策规则
+
+只有**100%确定能卖出后续产品**时，才使用这种模式：
+
+- 有锁定机制，例如专用耗材、账户或数据。
+- 切换成本高。
+- 客户无法轻易省掉耗材。
+
+如果没有把握，就别把剃须刀白送出去。
+
+---
+
+<a id="ceo-checklist---quick-self-diagnosis"></a>
+## CEO 清单：快速自诊
+
+在批准任何新品上市前使用。
+
+| 问题 | 是/否 |
+|---|---|
+| 是否与至少10位客户开展了支付意愿访谈？ | |
+| 细分是否依据需求、价值和支付意愿，而非人口统计特征？ | |
+| 细分群体是否不超过4个？ | |
+| 是否明确列出了主力项、补充项与破坏项？ | |
+| 三档配置是否有可见的差异与分界？ | |
+| 是否认真选择了变现模式，而非默认沿用？ | |
+| 是否记录了最大化、渗透或撇脂等定价策略？ | |
+| 动态商业论证是否连接价格、价值、销量与成本？ | |
+| 是否测试了讲收益而非讲功能的表达？ | |
+| 是否考虑过行为定价手段？ | |
+| 是否准备好上市后保持价格完整性？ | |
+| 团队任何人能否用客户数据回答“为什么是这个价格”？ | |
+
+如果有任何一项为“否”，先停下并解决，再上市。

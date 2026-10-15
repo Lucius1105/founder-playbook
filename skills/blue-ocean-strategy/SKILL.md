@@ -1,249 +1,271 @@
 ---
 name: blue-ocean-strategy
-description: Frameworks from Kim & Mauborgne for creating uncontested market space and making competition irrelevant. Use when reframing competitive strategy, escaping commoditization, designing a new category, or applying Strategy Canvas, ERRC, Six Paths, Three Tiers of Noncustomers, Buyer Utility Map, or Strategic Sequence. Includes selection-bias caveats and inline decline notes for iconic cases that later collapsed.
+description: Kim 与 Mauborgne 提出的框架，用于创造无人竞争的市场空间，让竞争失去意义。适用于重构竞争战略、摆脱同质化、设计新品类，或应用战略布局图、剔除—减少—增加—创造（ERRC）、六条路径、非顾客的三个层次、买方效用图及战略序列。包含对选择偏差的提醒，并在标志性案例旁注明其后来的衰退情况。
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/blue-ocean-strategy/SKILL.md)。原项目整理：AgentSeal；书籍来源：《Blue Ocean Strategy》— W. Chan Kim 与 Renée Mauborgne；AI辅助翻译。
 
+> **说明：** 本技能是独立的分析与评论，并非原书文本的复制。它将书中核心思想与当代创业实践结合，指出框架过时或不完整之处，并融合相邻学科视角。完整论证与背景请阅读原书。
 
-# Blue Ocean Strategy
+<a id="blue-ocean-strategy"></a>
+# Blue Ocean Strategy（蓝海战略）
 
-> "How to create uncontested market space and make the competition irrelevant." - W. Chan Kim & Renée Mauborgne (2005, expanded 2015)
+> “如何创造无人竞争的市场空间，让竞争失去意义。”——W. Chan Kim 与 Renée Mauborgne（2005 年，2015 年扩充版）
 
-## When to Use
+<a id="when-to-use"></a>
+## 何时使用
 
-- Stuck in a commoditizing market
-- Designing a new category
-- Reframing competitive strategy
-- Choosing between Porter-style positioning vs category creation
+- 困于日益同质化的市场。
+- 设计新品类。
+- 重构竞争战略。
+- 在波特式定位与品类创造之间做选择。
 
-**Use Porter when:** industry structure is stable, defendable moats matter
-**Use BOS when:** you're trying to escape red-ocean dynamics
-They're complementary, not competing.
+**适合使用波特框架：** 行业结构稳定，可防守的护城河至关重要。
+**适合使用 BOS：** 你试图摆脱红海竞争机制。
+两者互补，并不互斥。
 
-## Honest Scope (Read First)
+<a id="honest-scope-read-first"></a>
+## 如实说明适用范围，请先阅读
 
-- Empirical base: ~150 strategic moves, 30+ industries, 100+ years - chosen by the authors. Correlational, post-hoc, sample-selected.
-- The "86% red / 14% blue / 39%/61% profit" headline is **suggestive of a pattern, not a measured fact.** Authors admit no hit-rate data.
-- **Many iconic cases later collapsed.** Treat the framework as a thinking discipline, not a recipe. Inline decline notes appear with each case below.
-- The framework is hard to falsify: when BOS-cited companies fail, the response is "they stopped applying it" or "it wasn't really blue ocean." Use it predictively with care.
-- Bratton/NYPD case is contested (broken-windows critiques, Compstat manipulation). Use as illustrative, not history.
+- 实证基础：约 150 次战略行动、30 多个行业、100 多年历史，由作者选取。属于相关性、事后分析，并存在样本选择。
+- “86% 红海／14% 蓝海／39% 与 61% 利润”的醒目数字，**只是提示某种模式，并非经过测量确认的事实。** 作者承认没有成功率数据。
+- **许多标志性案例后来陷入崩溃。** 将框架当作思考纪律，而非成功配方。下文逐案附有衰退说明。
+- 框架很难证伪：当书中引用的公司失败时，解释往往是“它们停止应用蓝海战略”，或“那并不是真正的蓝海”。用于预测时应谨慎。
+- Bratton／纽约警察局案例存在争议，包括对破窗理论的批评及 Compstat 数据操纵。应当作为示例，而非确定历史事实。
 
-Full framework details: see [frameworks.md](frameworks.md).
-Case studies with decline caveats: see [cases.md](cases.md).
-Worked examples: see [examples.md](examples.md).
-Integrations and conflicts: see [integration.md](integration.md).
+完整框架见 [frameworks.md](frameworks.md)。
+附有衰退提醒的案例见 [cases.md](cases.md)。
+完整示例见 [examples.md](examples.md)。
+协同与冲突见 [integration.md](integration.md)。
 
-## The Core Insight
+<a id="the-core-insight"></a>
+## 核心洞见
 
-| Red Ocean | Blue Ocean |
-|-----------|------------|
-| Existing market, defined boundaries | Uncontested space |
-| Beat competition | Make competition irrelevant |
-| Exploit existing demand | Create and capture new demand |
-| Value-cost trade-off | Break value-cost trade-off |
+| 红海 | 蓝海 |
+|------|------|
+| 现有市场，边界明确 | 无人竞争的空间 |
+| 打败竞争对手 | 让竞争失去意义 |
+| 利用现有需求 | 创造并获取新需求 |
+| 在价值与成本之间取舍 | 打破价值与成本的取舍 |
 
-**Value Innovation** = pursue differentiation AND low cost simultaneously by eliminating/reducing factors the industry takes for granted while raising/creating factors buyers truly value.
+**价值创新**＝同时追求差异化与低成本：剔除或减少行业视为理所当然的要素，同时增加或创造买方真正重视的要素。
 
-## The Five Frameworks
+<a id="the-five-frameworks"></a>
+## 五个框架
 
-| Framework | Purpose |
-|-----------|---------|
-| **Strategy Canvas** | Diagnostic - plot competing factors vs offering levels |
-| **ERRC Grid** | Generate value innovation (Eliminate / Reduce / Raise / Create) |
-| **Six Paths** | Find blue ocean opportunities |
-| **Three Tiers of Noncustomers** | Expand demand beyond current customers |
-| **Strategic Sequence** | Test commercial viability before launch |
+| 框架 | 目的 |
+|------|------|
+| **战略布局图** | 诊断：绘出竞争要素及其提供水平 |
+| **ERRC 网格** | 通过剔除／减少／增加／创造实现价值创新 |
+| **六条路径** | 寻找蓝海机会 |
+| **非顾客的三个层次** | 将需求扩展到现有客户之外 |
+| **战略序列** | 发布前检验商业可行性 |
 
-Three characteristics of a strong strategy curve: **Focus, Divergence, Compelling Tagline**.
+优秀战略曲线的三个特征：**聚焦、差异、引人入胜的宣传语**。
 
-ERRC mechanics in detail: see [frameworks.md](frameworks.md).
+ERRC 机制详见 [frameworks.md](frameworks.md)。
 
-## The Six Paths to Blue Oceans
+<a id="the-six-paths-to-blue-oceans"></a>
+## 通往蓝海的六条路径
 
-| # | Path | Question |
-|---|------|----------|
-| 1 | Alternative industries | What did customers reject when they chose us? |
-| 2 | Strategic groups | What makes customers trade up/down between groups? |
-| 3 | Chain of buyers | Are we targeting purchasers, users, or influencers? Switch focus. |
-| 4 | Complementary products/services | What pain happens before/during/after our product? |
-| 5 | Functional vs emotional appeal | Switch the appeal type |
-| 6 | Trends | What's decisive, irreversible, with clear trajectory? |
+| 序号 | 路径 | 问题 |
+|------|------|------|
+| 1 | 跨越替代性行业 | 客户选择我们时放弃了什么？ |
+| 2 | 跨越战略群体 | 什么促使客户在不同群体间向上或向下选择？ |
+| 3 | 跨越买方链 | 我们针对采购者、使用者还是影响者？换个焦点。 |
+| 4 | 跨越互补产品／服务 | 使用产品之前、期间、之后有哪些痛点？ |
+| 5 | 跨越功能诉求与情感诉求 | 转换诉求类型。 |
+| 6 | 跨越时间趋势 | 什么趋势具有决定性、不可逆性和清晰轨迹？ |
 
-Cases for each path (with decline notes): see [cases.md](cases.md).
+每条路径的案例及衰退说明见 [cases.md](cases.md)。
 
-## Strategic Sequence (Test Before Launch)
-
-```
-1. UTILITY    → Buyer Utility Map: where are the empty cells?     [No → rethink]
-2. PRICE      → Price Corridor of the Mass: accessible to mass?   [No → rethink]
-3. COST       → Price-minus costing hits target?                  [No → cost-innovate or partner]
-4. ADOPTION   → Employee/partner/public hurdles addressed?        [No → address before launch]
-                ↓
-              Commercially viable
-```
-
-Buyer Utility Map = 6 stages × 6 utility levers = 36 cells. Find empty cells where current offerings fail.
-
-Three stakeholder hurdles: employees (job security), partners (disrupted relationships), public (ethical/safety). Skip any one and execution dies.
-
-Full Buyer Utility Map and Price Corridor: see [frameworks.md](frameworks.md).
-
-## Three Tiers of Noncustomers
+<a id="strategic-sequence-test-before-launch"></a>
+## 战略序列：发布前检验
 
 ```
-   Existing customers
-     1st tier: soon-to-be (will leave when alternative appears)
-       2nd tier: refusing (considered industry, rejected)
-         3rd tier: unexplored (never considered)
+1. 效用 → 买方效用图：哪里存在空白格？           [否 → 重新思考]
+2. 价格 → 大众价格走廊：大众能负担吗？           [否 → 重新思考]
+3. 成本 → 从价格倒推成本，能达到目标吗？         [否 → 成本创新或寻找伙伴]
+4. 采用 → 员工／伙伴／公众的阻力都已解决吗？     [否 → 发布前解决]
+           ↓
+         商业可行
 ```
 
-**The mantras:** Noncustomers before customers. Commonalities before differences. Desegmentation before finer segmentation.
+买方效用图＝6 个阶段 × 6 个效用杠杆＝36 格。寻找现有供给未能满足的空白格。
 
-**Caveat:** "Three tiers" sounds rigorous but lacks an operational test for whether you have the **competence to seize** a given tier. Don't switch focus to noncustomers if you can't actually serve them.
+三类利益相关者障碍：员工的工作保障、伙伴关系受扰动、公众的伦理／安全关切。漏掉任何一类，执行都可能失败。
 
-## Three Strategic Propositions (All Must Align)
+完整买方效用图与价格走廊见 [frameworks.md](frameworks.md)。
 
-| Proposition | For Whom | Question |
-|-------------|----------|----------|
-| Value | Buyers | Exceptional buyer value? |
-| Profit | Company | Generates profit? |
-| People | Employees, partners, public | Motivates everyone whose support you need? |
-
-Tata Nano had value + profit but **failed the people proposition** (Singur protests + "cheap car" perception). The Singur relocation (2008, plant moved to Sanand) and the post-launch safety/identity perception are separate problems - the framework collapses them, but real-world causation was multi-stranded.
-
-## The Four Execution Hurdles (Tipping Point Leadership)
-
-| Hurdle | Tactic |
-|--------|--------|
-| Cognitive ("why change?") | Make people experience reality directly |
-| Resource ("not enough") | Hot Spots / Cold Spots / Horse Trading |
-| Motivational ("don't want to") | Kingpins, Fishbowl Management, Atomization |
-| Political ("they'll block us") | Consigliere, Angels, Silencing Devils |
-
-## Fair Process (3 E Principles)
-
-| Principle | Meaning |
-|-----------|---------|
-| **Engagement** | Involve people in decisions |
-| **Explanation** | Why decisions were made |
-| **Expectation Clarity** | What's expected after |
-
-**Without fair process, even the best strategy fails.** People sabotage execution.
-
-**Elco Plant lesson:** Same company, same strategy, two plants:
-- **Chester** (model non-union workforce): management assumed cooperation, skipped fair process → workers rebelled, strategy failed
-- **High Park** (strong union, expected to resist): management applied fair process → workers cooperated, strategy succeeded
-- The "easy" plant failed; the "hard" plant won. Difference was people management, not strategy.
-
-## Decision Trees
-
-### Are we in a red ocean?
+<a id="three-tiers-of-noncustomers"></a>
+## 非顾客的三个层次
 
 ```
-Competitors doing roughly the same thing?
-├─ YES → Red Ocean
-└─ NO → Margins shrinking despite improvement?
-        ├─ YES → Red Ocean trending to commodity
-        └─ NO → Run Strategy Canvas. Curve diverges + has focus + has tagline?
-                ├─ All 3 YES → Blue Ocean
-                └─ Any NO → Red Ocean or weak strategy
+   现有顾客
+     第一层：即将离开者，替代方案一出现就会离开
+       第二层：拒绝者，考虑过该行业但拒绝使用
+         第三层：未探索者，从未考虑过
 ```
 
-### Will our blue ocean idea work?
+**原则：** 非顾客优先于顾客，共性优先于差异，打破细分优先于进一步细分。
+
+**提醒：** “三个层次”听起来严谨，却缺乏操作性测试，判断你是否**有能力争取并服务**某一层。实际无法服务非顾客时，不要贸然转移重心。
+
+<a id="three-strategic-propositions-all-must-align"></a>
+## 三项战略主张：必须全部一致
+
+| 主张 | 面向谁 | 问题 |
+|------|--------|------|
+| 价值 | 买方 | 是否提供卓越的买方价值？ |
+| 利润 | 公司 | 是否产生利润？ |
+| 人员 | 员工、伙伴、公众 | 是否激励所有需要其支持的人？ |
+
+Tata Nano 具备价值与利润主张，却**未通过人员主张**，涉及 Singur 抗议和“廉价车”形象。2008 年工厂从 Singur 搬到 Sanand，以及上市后的安全／身份认知，是不同问题。框架把它们压缩在一起，但现实因果关系包含多条线索。
+
+<a id="the-four-execution-hurdles-tipping-point-leadership"></a>
+## 四大执行障碍：引爆点领导法
+
+| 障碍 | 方法 |
+|------|------|
+| 认知：“为什么要变？” | 让人直接体验现实 |
+| 资源：“不够用” | 热点／冷点／资源交换 |
+| 动机：“不想做” | 关键人物、鱼缸式透明管理、任务细化 |
+| 政治：“他们会阻挠” | 内部军师、支持者、压制反对者 |
+
+<a id="fair-process-3-e-principles"></a>
+## 公平过程：三个 E 原则
+
+| 原则 | 含义 |
+|------|------|
+| **参与（Engagement）** | 让人参与决策 |
+| **解释（Explanation）** | 说明为何做出决定 |
+| **明确预期（Expectation Clarity）** | 明确决策后的期望 |
+
+**没有公平过程，再好的战略也会失败。** 人们会破坏执行。
+
+**Elco 工厂的启示：** 同一家公司、同一战略、两家工厂：
+- **Chester**：模范、无工会的员工群体。管理层认为员工自然会合作，跳过公平过程，结果工人反抗，战略失败。
+- **High Park**：工会强大，原本预期会抵制。管理层采用公平过程，工人合作，战略成功。
+- “容易”的工厂失败，“困难”的工厂成功，区别在人员管理，而非战略。
+
+<a id="decision-trees"></a>
+## 决策树
+
+<a id="are-we-in-a-red-ocean"></a>
+### 我们身处红海吗？
 
 ```
-Step 1: Buyer Utility - find empty cells in 6×6 map
-├─ NO → Stop. Rethink.
-└─ YES → Step 2: Price - accessible to mass?
-         ├─ NO → Re-engineer offer.
-         └─ YES → Step 3: Cost - hit target via cost innovation/partnering?
-                  ├─ NO → Find cost innovations or partner.
-                  └─ YES → Step 4: Adoption hurdles - address all three
-                           → Then launch.
+竞争对手做的事情大致相同吗？
+├─ 是 → 红海
+└─ 否 → 虽然不断改进，利润率仍在下降吗？
+        ├─ 是 → 正走向同质化的红海
+        └─ 否 → 绘制战略布局图：曲线有差异、聚焦，并有宣传语吗？
+                ├─ 三项均是 → 蓝海
+                └─ 任一为否 → 红海或薄弱战略
 ```
 
-## The 10 Red Ocean Traps (Critical Practitioner Errors)
-
-1. Customer-orientation (focus on noncustomers first)
-2. Going beyond existing industries (most blue oceans are adjacent)
-3. Tech innovation = blue ocean (no - VALUE innovation does)
-4. First-mover advantage (Tellis & Golder: 90% of pioneers fail; first to **get value-cost right** wins)
-5. Differentiation = premium (BOS = both/and)
-6. Low cost = low pricing (strategic pricing vs alternatives)
-7. Innovation broadly (must be specifically value innovation)
-8. Niche thinking (niches are small red oceans)
-9. Win the competition (irrelevance > winning)
-10. Disruption (BOS embraces nondestructive creation)
-
-## When NOT to Use This Skill
+<a id="will-our-blue-ocean-idea-work"></a>
+### 我们的蓝海构想可行吗？
 
 ```
-Operational/execution problem? → BOS is for strategy reframing, skip
-Founding-stage validation? → Use Mom Test first
-Mature stable market with healthy competition? → Probably don't need BOS
-Network-effect / two-sided platform? → BOS handles these poorly
-AI-native fast-cycle category? → Cycle too fast for BOS planning timelines
+第一步：买方效用——在 6×6 图中寻找空白格
+├─ 没有 → 停止，重新思考
+└─ 有 → 第二步：价格——大众能负担吗？
+        ├─ 否 → 重新设计产品与服务组合
+        └─ 是 → 第三步：成本——能通过成本创新／合作达到目标吗？
+                ├─ 否 → 寻找成本创新或合作伙伴
+                └─ 是 → 第四步：采用障碍——解决全部三类障碍
+                         → 然后发布
 ```
 
-## Iconic Cases - Decline Notes Inline
+<a id="the-10-red-ocean-traps-critical-practitioner-errors"></a>
+## 十个红海陷阱：实践者的关键错误
 
-These cases are taught as canonical wins. Many later collapsed. Cite carefully:
+1. 顾客导向：应先关注非顾客。
+2. 跨越现有行业：多数蓝海其实位于相邻领域。
+3. 技术创新等于蓝海：并非如此，关键是价值创新。
+4. 先发优势：Tellis 与 Golder 认为 90% 的先驱失败，首先**正确实现价值与成本组合**的人才会赢。
+5. 差异化等于溢价：BOS 要求差异化与低成本同时实现。
+6. 低成本等于低售价：应对照替代方案进行战略定价。
+7. 泛泛谈创新：必须具体到价值创新。
+8. 利基思维：利基是小型红海。
+9. 赢得竞争：让竞争失去意义，优于打赢竞争。
+10. 颠覆：BOS 也拥抱非破坏性的创造。
 
-- **Cirque du Soleil** - Created circus + theater hybrid. (Note: filed for bankruptcy 2020.)
-- **Curves** - Big Fish/Small Pond gym for women. (Note: filed for bankruptcy 2014.)
-- **The Body Shop** - Functional positioning of cosmetics. (Note: entered administration 2024.)
-- **NABI Buses** - Path 4 complementary services move with fiberglass buses. (Note: distressed sale 2013.)
-- **Yellow Tail wines** - Path 2 across strategic groups. (Note: heavily eroded by imitators.)
-- **NTT DoCoMo i-mode** - Path 1 alternatives. (Note: crushed by iPhone post-2007.)
-- **Southwest Airlines** - Tagline iconic. (Note: ongoing operational/competitive struggles.)
+<a id="when-not-to-use-this-skill"></a>
+## 何时不使用本技能
 
-Of ~12 major cases, only ~3 (Novo Nordisk, Bloomberg, Salesforce) remain solidly successful. Detailed cases with full decline analysis: see [cases.md](cases.md).
+```
+运营／执行问题？→ BOS 用于重构战略，跳过。
+创业初期验证？→ 先用 Mom Test。
+成熟稳定、竞争健康的市场？→ 很可能不需要 BOS。
+网络效应／双边平台？→ BOS 对此处理较弱。
+AI 原生、快速迭代的品类？→ 周期过快，难以适配 BOS 的规划时间线。
+```
 
-## Key Critical Caveats
+<a id="iconic-cases---decline-notes-inline"></a>
+## 标志性案例及衰退说明
 
-1. **Strategy Canvas X-axis selection is subjective.** The factors you choose to plot determine the analysis. Presented as rigorous; isn't.
-2. **86%/14% headline is post-hoc and sample-selected.** Don't quote as a measured fact.
-3. **First-mover claims need Tellis & Golder's 90% pioneer-fail counterpoint.**
-4. **Three Tiers needs a competence-to-seize test** beyond "can you reach them."
-5. **Bratton/NYPD case** is hagiographic - subsequent research disputes it.
-6. **Tata Nano causal chain** is compressed. Singur ≠ "cheap car" perception ≠ launch failure - they were related but separable.
+这些案例常被当成经典成功故事，许多后来却陷入崩溃，引用应谨慎：
 
-## Quick Reference
+- **Cirque du Soleil**——创造马戏与戏剧混合形式。（备注：2020 年申请破产。）
+- **Curves**——面向女性的“小池塘里的大鱼”健身房。（备注：2014 年申请破产。）
+- **The Body Shop**——化妆品的功能型定位。（备注：2024 年进入破产管理程序。）
+- **NABI Buses**——以玻璃纤维巴士采用第四条路径的互补服务策略。（备注：2013 年陷入困境后出售。）
+- **Yellow Tail 葡萄酒**——第二条路径，跨越战略群体。（备注：受到模仿者的严重侵蚀。）
+- **NTT DoCoMo i-mode**——第一条路径，跨越替代行业。（备注：2007 年后被 iPhone 压倒。）
+- **Southwest Airlines**——宣传语堪称经典。（备注：持续面临运营与竞争困境。）
 
-**Diagnose red ocean:**
-- Competitors converging on offerings
-- Margins shrinking despite operational gains
-- Industry growth flat/negative
+约 12 个主要案例中，仅约 3 个（Novo Nordisk、Bloomberg、Salesforce）仍稳健成功。完整衰退分析见 [cases.md](cases.md)。
 
-**Run Strategy Canvas:**
-- 5-12 competing factors on X-axis
-- Plot self, competitors, industry average
-- Test for focus + divergence + tagline
+<a id="key-critical-caveats"></a>
+## 关键批判性提醒
 
-**Apply ERRC:**
-- ELIMINATE what industry takes for granted
-- REDUCE below industry standard
-- RAISE above industry standard
-- CREATE what's never been offered
+1. **战略布局图的 X 轴选择具有主观性。** 你选择绘出的要素决定分析结果。它被呈现得很严谨，实际并非如此。
+2. **86%／14% 的醒目数字来自事后与选择性样本分析。** 不要当作经过测量确认的事实引用。
+3. **先发优势主张需要同时呈现 Tellis 与 Golder“90% 先驱失败”的反面观点。**
+4. **非顾客三个层次需要增加“是否有能力争取”的测试**，不能只问能否触达。
+5. **Bratton／纽约警察局案例**带有英雄化色彩，后续研究对此提出异议。
+6. **Tata Nano 的因果链被压缩。** Singur 事件 ≠ “廉价车”认知 ≠ 上市失败；彼此相关，但可以区分。
 
-**Pre-launch sequence:**
-- Utility passes 6×6 map?
-- Price accessible to mass?
-- Cost achievable at strategic price?
-- Adoption hurdles addressed?
+<a id="quick-reference"></a>
+## 速查
 
-## The Big Idea
+**诊断红海：**
+- 竞争者提供的产品与服务趋同。
+- 运营改进但利润率下降。
+- 行业增长停滞或为负。
 
-> "Don't try to outperform the competition. Make the competition irrelevant by creating new market space."
+**绘制战略布局图：**
+- X 轴列出 5—12 个竞争要素。
+- 绘出自身、竞争者和行业平均水平。
+- 检查聚焦、差异、宣传语。
 
-The framework's lasting contribution isn't the metaphor or the specific tools. It's the question: **What if we stopped trying to win and started designing a different game?**
+**应用 ERRC：**
+- 剔除行业视为理所当然的要素。
+- 将某些要素减少到行业标准之下。
+- 将某些要素增加到行业标准之上。
+- 创造从未提供过的要素。
 
-Worth asking every few years - even when the answer is "no, this game is worth playing."
+**发布前序列：**
+- 效用通过 6×6 图检验吗？
+- 大众能承担价格吗？
+- 战略价格下的成本可实现吗？
+- 采用障碍已解决吗？
 
-## Supporting Files
+<a id="the-big-idea"></a>
+## 核心思想
 
-- **[frameworks.md](frameworks.md)** - Strategy Canvas in depth, ERRC mechanics, Buyer Utility Map (6×6), Price Corridor of the Mass, Pioneer-Migrator-Settler map, BOI Index, Imitation barriers, 4-step Visualizing Strategy
-- **[cases.md](cases.md)** - All cases by Path, with inline decline caveats, plus Bratton/NYPD historical contestation, Elco Plant detail
-- **[examples.md](examples.md)** - Worked ERRC tables (Cirque, Yellow Tail), tagline examples, value curve drawings, Strategic Sequence walkthroughs
-- **[integration.md](integration.md)** - Conflicts/integrations with Mom Test, Crossing the Chasm, Monetizing Innovation, $100M Offers, Money Models, $100M Leads, SPIN Selling, Obviously Awesome, Influence
+> “不要试图超越竞争对手，而要通过创造新的市场空间，让竞争失去意义。”
+
+这个框架持久的贡献，不是比喻或某项具体工具，而是一个问题：**如果我们停止试图赢得这场游戏，转而设计另一种游戏，会怎样？**
+
+这个问题值得每隔几年问一次，即便答案是“这场游戏仍值得参与”。
+
+<a id="supporting-files"></a>
+## 配套文件
+
+- **[frameworks.md](frameworks.md)**——战略布局图详解、ERRC 机制、6×6 买方效用图、大众价格走廊、先驱者—迁移者—安于现状者图、蓝海创意指数、模仿壁垒、战略可视化四步骤。
+- **[cases.md](cases.md)**——按路径排列的全部案例，附衰退说明，以及 Bratton／纽约警察局历史争议与 Elco 工厂细节。
+- **[examples.md](examples.md)**——完整 ERRC 表（Cirque、Yellow Tail）、宣传语示例、价值曲线图、战略序列演示。
+- **[integration.md](integration.md)**——与 Mom Test、Crossing the Chasm、Monetizing Innovation、$100M Offers、Money Models、$100M Leads、SPIN Selling、Obviously Awesome、Influence 的协同及冲突。

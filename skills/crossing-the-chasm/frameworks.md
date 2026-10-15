@@ -1,283 +1,320 @@
-# Crossing the Chasm - Detailed Frameworks
+> 中文译文｜[英文对照](frameworks.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/crossing-the-chasm/frameworks.md)。原项目整理：AgentSeal；书籍来源：《Crossing the Chasm》— Geoffrey Moore；AI辅助翻译。
 
-Deep frameworks referenced from [SKILL.md](SKILL.md).
+<a id="crossing-the-chasm---detailed-frameworks"></a>
+# Crossing the Chasm——框架详解
 
----
-
-## Detailed Segment Profiles
-
-### Innovators (Technology Enthusiasts)
-
-- Technology is a central interest in their life
-- Will spend hours getting buggy products to work
-- Forgive ghastly docs and slow performance "in the name of moving tech forward"
-- Few in number but **gatekeepers** - everyone deems them competent to evaluate
-- What they want: **truth without tricks, technical access, first crack, cheap**
-- **Don't pay much, but their endorsement enables everything else**
-
-### Early Adopters (Visionaries)
-
-- Insight to match emerging tech to strategic opportunity
-- Buy DREAMS, not products - "fundamental breakthrough" not "improvement"
-- Have multi-million-dollar budgets for strategic initiatives
-- Easy to sell to (they want the dream), VERY hard to please (dreams can't be fulfilled)
-- Will pay premium, will be visible references, will commit before making sense
-- **Examples:** Sheldon Laube (Price Waterhouse) committing to 10,000 Lotus Notes seats; Steve Jobs taking Xerox PARC interface
-
-### Early Majority (Pragmatists) - YOUR MAINSTREAM TARGET
-
-- Make a percentage improvement, not a quantum leap
-- "Risk" is a negative word - means wasted money/time
-- Want **established references** before buying substantially
-- Communicate **vertically** within their own industry (chemists talk to chemists)
-- **Once won, fiercely loyal** - often enforce company-wide standards
-- Buy from market leaders (whole product ecosystem reduces support burden)
-- Will pay up to **30% premium** for the leader
-
-### Late Majority (Conservatives)
-
-- Believe more in tradition than progress
-- Want pre-assembled packages, everything bundled, heavily discounted
-- "Want high tech to be like refrigerators - open the door, light comes on"
-- Best understood through single-function dedicated products
-- **Not pursued enough by US tech industry** (Far East dominates this segment)
-
-### Laggards (Skeptics)
-
-- Block purchases rather than make them
-- Their function: forcing high-tech to confront where it overpromised
-- Don't try to sell to them - try to neutralize their objections
+本文件展开 [SKILL.md](SKILL.md) 引用的框架。
 
 ---
 
-## The 5 Perils of the Chasm
+<a id="detailed-segment-profiles"></a>
+## 详细群体画像
 
-1. **Insufficient marketplace of dollars** - Visionaries saturated, pragmatists nowhere near buying
-2. **Cash-flow reverses** - Trend reverses, accelerates negative
-3. **Mainstream competitors counterattack** - They've spotted you and mobilize
-4. **No safety in existing accounts** - Just catching up to promises
-5. **No safety in early market** - Competitor with better story is coming
+<a id="innovators-technology-enthusiasts"></a>
+### 创新者：技术爱好者
 
----
+- 技术是生活中的核心兴趣。
+- 愿意花数小时让有缺陷的产品运行起来。
+- “为了推动技术前进”，可以容忍糟糕文档和缓慢性能。
+- 人数少，却是**把关者**，大家认为他们有资格评估技术。
+- 想要的是：**没有套路的真话、技术接触权限、率先尝试、低价**。
+- **付费不多，但他们的认可为后续一切打开可能。**
 
-## Application vs Platform: A Critical Distinction
+<a id="early-adopters-visionaries"></a>
+### 早期采用者：愿景者
 
-**Applications are naturally vertical.** They interface with end users who organize by industry/profession. They cross the chasm easily but lose mass markets.
+- 能洞察新技术与战略机会的契合点。
+- 买的是梦想，不是产品；要“根本突破”，而非“改进”。
+- 为战略举措掌握数百万美元预算。
+- 容易成交，因为他们想要梦想；极难满足，因为梦想无法完全兑现。
+- 愿意支付溢价、公开提供参考、在逻辑尚未完全成立前承诺投入。
+- **案例：** Price Waterhouse 的 Sheldon Laube 承诺购买 10,000 个 Lotus Notes 席位；Steve Jobs 将 Xerox PARC 的界面带走应用。
 
-**Platforms are naturally horizontal.** They interface with machines/programs. Their value is being a stable standard. They struggle to cross but win mass markets.
+<a id="early-majority-pragmatists---your-mainstream-target"></a>
+### 早期大众：实用主义者，你的主流目标
 
-| Type | Cross Chasm | Mass Market | Examples |
-|------|-------------|-------------|----------|
-| **Applications** | EASY (vertical fit) | HARD (lose to platforms) | Wang word processor (lost to PCs), Lotus Notes (lost to Internet), Macintosh (lost to Windows), Silicon Graphics (lost to Sun/Intel) |
-| **Platforms** | HARD (no vertical fit) | EASY (once mass) | Smartcards, IP telephony |
+- 追求一定比例的改进，而非飞跃。
+- “风险”是负面词，意味着浪费金钱与时间。
+- 大额购买前需要**已有的参考客户**。
+- 在本行业内**纵向**交流，例如化学家与化学家交流。
+- **一旦赢得，就高度忠诚**，常推动全公司标准化。
+- 向市场领导者购买，因为完整产品生态能降低支持负担。
+- 愿为领导者支付最多 **30% 的溢价**。
 
-**Critical rule for platforms:** Clothe yourself in applications clothing. Tie your platform to a specific application that gains end-user sponsorship for the beachhead. Pragmatists won't adopt platforms en masse; they adopt applications that solve broken processes.
+<a id="late-majority-conservatives"></a>
+### 后期大众：保守者
 
----
+- 比起进步，更相信传统。
+- 需要预先组装、全部打包、折扣很大的方案。
+- “希望高科技像冰箱：门一开，灯就亮。”
+- 最容易理解的是单一功能的专用产品。
+- **美国科技行业对此投入不足**，远东企业主导这一市场。
 
-## Target-Customer (Not Target-Market) Characterization
+<a id="laggards-skeptics"></a>
+### 落后者：怀疑者
 
-Markets are abstract ("the office automation market"). Customers are real people. Build scenarios with:
-
-### Header
-
-- User (industry, geography, department, job title)
-- Technical buyer
-- Economic buyer
-
-### Day in the Life BEFORE (5 elements)
-
-1. Scene/situation - the moment of frustration
-2. Desired outcome - what they're trying to accomplish
-3. Attempted approach - how they currently fail
-4. Interfering factors - what goes wrong
-5. Economic consequences - why it matters
-
-### Day in the Life AFTER (3 elements)
-
-1. New approach - with your product
-2. Enabling factors - why it works now
-3. Economic rewards - savings/gains
-
-Aim for 20-50 scenarios → typically reveals 8-10 distinct alternatives.
-
-### High-Risk, Low-Data Decision
-
-You can't use analytical reasoning - you have no direct experience with this segment yet. **Numbers lie:**
-
-> "Watch out for: 'It will be a billion-dollar market in 1995. If we only get 5 percent of that market...' - exit gracefully, holding on to your wallet."
-
-Use **informed intuition**: a few high-quality images (archetypes) treated as data fragments. **If you can't remember it, don't try.**
+- 更常阻止采购，而非主动购买。
+- 作用是迫使高科技行业面对过度承诺。
+- 不要试图卖给他们，应化解其反对意见。
 
 ---
 
-## Sub-Segmentation When the Niche Is Too Big
+<a id="the-5-perils-of-the-chasm"></a>
+## 鸿沟的五大危险
 
-| Approach | When |
-|----------|------|
-| **Special interest groups** | Best - tightly networked, formed because they share special problems |
-| **Geography** | Fallback - only if it affects how communities congregate |
-| **Departmental function with broken process** | Strong - identifies a buyer mandate (Mac/graphics arts; Documentum/regulatory affairs) |
-
-If too small: respect genuine boundaries; super-segmenting often fails because word-of-mouth doesn't span the boundary.
-
-### When No Scenario Survives
-
-Sometimes the right answer is: **don't cross.** Do not try to cross. Also, do not try to grow. Stay in early-market mode, keep burn rate low, keep searching.
+1. **市场中的购买资金不足**——愿景者已饱和，实用主义者远未准备购买。
+2. **现金流逆转**——趋势反转，并加速向负面发展。
+3. **主流竞争者反击**——已经发现你，开始动员。
+4. **现有客户无法保安全**——你只是忙于补兑现旧承诺。
+5. **早期市场也不安全**——讲述更好故事的竞争者即将到来。
 
 ---
 
-## Whole Product Management
+<a id="application-vs-platform-a-critical-distinction"></a>
+## 应用与平台：关键区别
 
-> "Pragmatists evaluate and buy whole products."
+**应用天然垂直。** 它们与按行业／职业组织的终端用户交互，较容易跨越鸿沟，却容易丢掉大众市场。
 
-### The R&D Investment Shift Rule
+**平台天然横向。** 它们与机器／程序交互，价值在于成为稳定标准。跨越鸿沟困难，但能赢得大众市场。
 
-- Early product (1-2 comparable): invest at GENERIC level
-- Once parity reached: invest at EXPECTED, AUGMENTED, POTENTIAL levels
+| 类型 | 跨越鸿沟 | 大众市场 | 示例 |
+|------|----------|----------|------|
+| **应用** | 容易，符合垂直需求 | 困难，输给平台 | Wang 文字处理机输给 PC、Lotus Notes 输给互联网、Macintosh 输给 Windows、Silicon Graphics 输给 Sun／Intel |
+| **平台** | 困难，缺乏垂直适配 | 一旦规模化就容易 | 智能卡、IP 电话 |
 
-### Tactical vs Strategic Alliances
-
-| Type | Level | Purpose | Success Rate |
-|------|-------|---------|--------------|
-| **Strategic** | Boardroom | Long-term industry positioning | Rarely succeed (cultures clash) |
-| **Tactical** | Product manager | Accelerate whole product within target segment | Usually succeed if focused |
-
-**Tactical alliance rule:** One purpose only - codevelop and comarket the whole product to a specific niche.
-
-### 8 Whole Product Management Tips
-
-1. **Use the doughnut diagram** - Define and communicate what's yours vs partners'
-2. **KISS** - Reduce to minimal whole product
-3. **Review from each participant's POV** - Each partner must win
-4. **Develop relationships slowly** - Cooperation precedes formalization
-5. **Direction depends on partner size** - Small partners: top down. Large: bottom up.
-6. **Formalized relationships ≠ cooperation** - Specific individuals trust each other
-7. **Focus by partner size** - Don't waste time on corporate staffs of large partners
-8. **Hardest partner is your own company** - Internal politics will demand bigger share
+**平台的关键规则：** 披上应用的外衣。将平台绑定到某个具体应用，让终端用户支持滩头行动。实用主义者不会大规模采用抽象平台，他们采用的是能修复失效流程的应用。
 
 ---
 
-## Positioning Lifecycle - 4 Stages Through TALC
+<a id="target-customer-not-target-market-characterization"></a>
+## 刻画目标客户，而非目标市场
 
-| Stage | Audience | Question | Example Failure |
-|-------|----------|----------|-----------------|
-| 1. **Name and frame** | Tech enthusiast | What is it / what category? | "Middleware" failed; "Enterprise Application Integration" succeeded |
-| 2. **Who and what for** | Visionary | Who uses it for what advantage? | E-books unclear who buys for what |
-| 3. **Competition and differentiation** | Pragmatist | How does this compare? | Where most companies fail |
-| 4. **Financials and Futures** | Conservative | Will vendor be here in 5 years? | Microsoft, IBM, Oracle |
+市场是抽象的，例如“办公自动化市场”；客户是真实的人。用以下内容构建场景：
 
-### The 5 Failure Modes if Elevator Test Fails
+<a id="header"></a>
+### 基本信息
 
-1. Word of mouth can't transmit it (max 1-2 sentences per unit of thought)
-2. Marketing communications scatter
-3. R&D goes in different directions
-4. Can't recruit partners
-5. Can't get experienced financing
+- 用户：行业、地域、部门、职位。
+- 技术决策者。
+- 经济决策者。
 
-### What You Have to GIVE UP in Positioning
+<a id="day-in-the-life-before-5-elements"></a>
+### 使用前的一天：五个要素
 
-> "What is often interesting about writing a statement like this is not what you write down but what you have to give up."
+1. 场景／处境：令人沮丧的时刻。
+2. 期望结果：他们想完成什么。
+3. 已尝试的方法：目前如何失败。
+4. 干扰因素：哪里出错。
+5. 经济后果：为何重要。
 
-People are conservative about what they let into their head. **Don't take up too much space.** A single attribute is your real estate:
+<a id="day-in-the-life-after-3-elements"></a>
+### 使用后的一天：三个要素
 
-- Mercedes = "top-of-the-line, conservative"
-- BMW = "upscale performance sedan, yuppie"
-- Lexus = "new kid, current best buy"
+1. 新方法：采用你的产品。
+2. 促成因素：为什么现在有效。
+3. 经济回报：节约／收益。
 
-That's the entire space you get. Don't try to add more.
+争取构建 20—50 个场景，通常会揭示 8—10 个不同候选方案。
 
-### Whole Product Launches - Shift the Message
+<a id="high-risk-low-data-decision"></a>
+### 高风险、低数据的决策
 
-| Standard Launch | Whole Product Launch |
-|-----------------|----------------------|
-| "Look at my hot new product" | **"Look at this hot new market"** |
+你尚无该市场的直接经验，无法只依赖分析推理。**数字会骗人：**
 
-The chasm message: emerging new market, fed by partners and allies, each supplying part of the puzzle, satisfying a growing customer base.
+> “警惕这种说法：‘到 1995 年，这将是一个十亿美元市场；我们只要拿到 5%……’——此时请体面退出，并捂紧钱包。”
 
-**Two venues:**
-- **Business press** - Build via financial analyst community first; bring partners/customers/distributors to press conferences
-- **Vertical media** - Trade shows, conferences, niche publications. Vendor as consultant, customer at center.
+使用**有根据的直觉**：将少量高质量形象，也就是原型，作为数据片段。**如果想不起来，就不要硬做。**
 
 ---
 
-## Distribution & Pricing
+<a id="sub-segmentation-when-the-niche-is-too-big"></a>
+## 利基过大时进一步细分
 
-### The 8 Distribution Channels
+| 方法 | 适用情况 |
+|------|----------|
+| **特殊兴趣群体** | 最佳：网络紧密，因共同特殊问题而形成 |
+| **地域** | 备选：仅当地域影响社群聚集方式时 |
+| **存在失效流程的部门职能** | 很有力：识别必须购买的理由，例如 Mac／平面艺术，Documentum／监管事务 |
 
-| Channel | Best For | Price Range |
-|---------|----------|-------------|
-| **Direct sales** | Consultative, complex sales | >$75K |
-| **Two-tier retail** | Established mass-market products | <$10K |
-| **One-tier retail** | Commoditized products | <$10K |
-| **Internet retail** | Self-service consumer | <$1K |
-| **VARs** | Complex products with niche service | $10K-$75K (No-Man's Land) |
-| **National roll-ups** | Complex products needing nationwide | Variable |
-| **OEMs** | Components for larger systems | Embedded |
-| **Systems integrators** | Mission-critical large projects | $1M+ |
+如果太小，应尊重真实边界；强行合并细分市场往往失败，因为口碑无法跨越边界。
 
-### Channels NOT Suited for Chasm-Crossing
+<a id="when-no-scenario-survives"></a>
+### 没有任何场景通过时
 
-- **OEMs** - Their sales force won't focus on your add-on
-- **Internet (as direct channel, in 1991)** - Need consultative, face-to-face dialogue (NOTE: this is dated; see [integration.md](integration.md#modern-relevance-1991--2026))
-- **Outbound retail** - Demand fulfillers, not creators
-- **Pure VARs** - Don't market, geographic patchwork, labor-backlog inefficiency
-
-### Distribution-Oriented Pricing Tests
-
-1. **Is it priced to sell?** - Common chasm error: priced too high based on visionary success. Channel knows pragmatist resistance.
-2. **Is it worthwhile to sell?** - Margin must reward channel for novelty effort.
-
-### The Fundamental Chasm Pricing Goal
-
-> "Set pricing at the market leader price point, thereby reinforcing your claims to market leadership, and build a disproportionately high reward for the channel into the price margin, a reward that will be phased out as the product becomes truly established."
+有时正确答案是：**不要跨越。** 不要尝试跨越，也不要尝试增长。维持早期市场模式，保持低烧钱率，继续寻找。
 
 ---
 
-## The Microsoft Exception (Don't Copy)
+<a id="whole-product-management"></a>
+## 完整产品管理
 
-Microsoft has NEVER followed niche/D-Day strategy. They use the **"Evel Knievel approach": Ignore the chasm entirely.**
+> “实用主义者评估并购买完整产品。”
 
-### Why This Isn't Replicable
+<a id="the-rd-investment-shift-rule"></a>
+### 研发投入转移规则
 
-- Windows, NT, IE were extensions of a PC OS franchise inherited from IBM
-- They were "born inside a tornado of demand IBM created"
-- They're fast-followers, not first-movers (Windows from Mac, IE from Netscape)
-- They own the client side - "permanent enclave on the pragmatist side of the chasm"
+- 早期产品，只有 1—2 个可比产品时，投入通用产品层。
+- 达到同等水平后，投入期望、增强、潜在产品层。
 
-If you don't have IBM-scale platform inheritance, don't try the Microsoft approach. The chasm is real for you.
+<a id="tactical-vs-strategic-alliances"></a>
+### 战术联盟与战略联盟
+
+| 类型 | 层级 | 目的 | 成功情况 |
+|------|------|------|----------|
+| **战略联盟** | 董事会 | 长期行业定位 | 很少成功，文化容易冲突 |
+| **战术联盟** | 产品经理 | 加速目标细分市场的完整产品建设 | 聚焦时通常成功 |
+
+**战术联盟规则：** 只有一个目的——针对特定利基，共同开发、共同营销完整产品。
+
+<a id="8-whole-product-management-tips"></a>
+### 完整产品管理的八项建议
+
+1. **使用甜甜圈图**——定义并沟通哪些归你、哪些归伙伴。
+2. **保持简单，KISS**——缩减到最小完整产品。
+3. **从每个参与者视角审视**——每个伙伴都必须获益。
+4. **慢慢发展关系**——合作先于正式化。
+5. **方向取决于伙伴规模**——小伙伴自上而下，大伙伴自下而上。
+6. **正式关系不等于合作**——合作来自具体个人之间的信任。
+7. **根据伙伴规模聚焦**——不要在大伙伴总部职能人员身上浪费时间。
+8. **最难合作的伙伴是自己的公司**——内部政治会要求更大份额。
 
 ---
 
-## The Pragmatist Whole-Product Examples (Why Inferior Wins)
+<a id="positioning-lifecycle---4-stages-through-talc"></a>
+## 定位生命周期：TALC 中的四个阶段
 
-| Pragmatists Pick | Over | Reason |
-|------------------|------|--------|
-| Intel | Digital alpha | Whole product ecosystem |
-| Windows NT | Linux | Books, training, support |
-| Oracle | Sybase | Aftermarket of compatible tools |
-| Microsoft Word | WordPerfect | Standardization |
-| HP printers | Lexmark | Ecosystem |
+| 阶段 | 受众 | 问题 | 失败示例 |
+|------|------|------|----------|
+| 1. **命名与框定** | 技术爱好者 | 这是什么，属于什么品类？ | “中间件”失败，“企业应用集成”成功 |
+| 2. **谁用、用来做什么** | 愿景者 | 谁使用它获得什么优势？ | 电子书不清楚谁买、买来做什么 |
+| 3. **竞争与差异化** | 实用主义者 | 与其他方案相比怎样？ | 多数公司在此失败 |
+| 4. **财务与未来** | 保守者 | 供应商五年后还在吗？ | Microsoft、IBM、Oracle |
 
-**In every case, the "winner" had inferior generic product but superior whole product.** Pragmatists optimize for the whole product, not the spec sheet.
+<a id="the-5-failure-modes-if-elevator-test-fails"></a>
+### 未通过电梯测试的五种失败模式
+
+1. 口碑无法传达，每个思想单位最多容纳 1—2 句话。
+2. 营销沟通分散。
+3. 研发朝不同方向前进。
+4. 无法招募伙伴。
+5. 无法获得有经验投资者的融资。
+
+<a id="what-you-have-to-give-up-in-positioning"></a>
+### 定位中必须放弃什么
+
+> “写这种声明时，有意思的往往不是你写下什么，而是你不得不放弃什么。”
+
+人们对让什么进入头脑很保守。**不要占太多空间。** 一个属性就是你的心智地盘：
+
+- Mercedes＝“顶级、稳重保守”。
+- BMW＝“高档性能轿车、雅皮士”。
+- Lexus＝“新来者、当前最值得购买”。
+
+你能获得的空间就这么多，不要再加。
+
+<a id="whole-product-launches---shift-the-message"></a>
+### 完整产品发布：转变传播信息
+
+| 常规发布 | 完整产品发布 |
+|----------|--------------|
+| “看看我的热门新产品” | **“看看这个热门新市场”** |
+
+鸿沟期的信息：一个正在出现的新市场，由伙伴和盟友共同推动，每家提供拼图的一部分，服务不断增长的客户群。
+
+**两个传播场域：**
+- **商业媒体**——先通过金融分析师社群建立影响；新闻发布会带上伙伴、客户、经销商。
+- **垂直媒体**——行业展会、会议、利基刊物。供应商扮演顾问，客户居于中心。
 
 ---
 
-## The Two Reference Competitors - Why Both Are Needed
+<a id="distribution--pricing"></a>
+## 分销与定价
 
-You need a Market Alternative AND a Product Alternative. Pragmatists need to triangulate.
+<a id="the-8-distribution-channels"></a>
+### 八种分销渠道
 
-### Market Alternative (the budget you preempt)
+| 渠道 | 最适合 | 价格范围 |
+|------|--------|----------|
+| **直销** | 顾问式、复杂销售 | 7.5 万美元以上 |
+| **两级零售** | 成熟大众市场产品 | 1 万美元以下 |
+| **一级零售** | 同质化产品 | 1 万美元以下 |
+| **互联网零售** | 自助消费 | 1,000 美元以下 |
+| **VAR 增值经销商** | 需要利基服务的复杂产品 | 1 万—7.5 万美元，无人地带 |
+| **全国性整合经销商** | 需要全国覆盖的复杂产品 | 不固定 |
+| **OEM 原始设备制造商** | 大型系统中的组件 | 嵌入式 |
+| **系统集成商** | 关键业务的大型项目 | 100 万美元以上 |
 
-The customer is currently spending money to address this problem. That's the budget you're going after. By naming the Market Alternative, you:
-- Make the problem concrete (they already pay for it)
-- Identify the budget line you're attacking
-- Let the customer mentally re-allocate spend, not find new spend
+<a id="channels-not-suited-for-chasm-crossing"></a>
+### 不适合跨越鸿沟的渠道
 
-### Product Alternative (the tech leader you triangulate against)
+- **OEM**——他们的销售团队不会聚焦你的附加产品。
+- **互联网，1991 年所说的直接渠道**——需要顾问式面对面对话。注意：此观点过时，见 [integration.md](integration.md#modern-relevance-1991--2026)。
+- **向外分销的零售渠道**——满足需求，而非创造需求。
+- **纯 VAR**——不做营销，地域覆盖零散，人工服务积压导致低效率。
 
-Some other company is also pitching disruptive innovation in this space. Naming them:
-- Confirms there's a market (pragmatists need competition to validate)
-- Clarifies how you're different (you've assembled a whole product for THIS specific niche)
+<a id="distribution-oriented-pricing-tests"></a>
+### 以分销为导向的定价测试
 
-Without both alternatives, the customer is forced to evaluate you in a vacuum. Pragmatists hate vacuum.
+1. **这个价格卖得动吗？** 鸿沟期常见错误是依据愿景者阶段的成功定价过高。渠道知道实用主义者的阻力。
+2. **卖它值得吗？** 利润必须补偿渠道推广新品所需的额外努力。
+
+<a id="the-fundamental-chasm-pricing-goal"></a>
+### 鸿沟定价的根本目标
+
+> “将价格设在市场领导者的水平，以加强你对市场领导地位的主张，并在利润空间中为渠道设置不成比例的高额回报；产品真正成熟后，再逐步取消这种回报。”
+
+---
+
+<a id="the-microsoft-exception-dont-copy"></a>
+## Microsoft 例外：不要模仿
+
+Microsoft 从未遵循利基／诺曼底登陆战略。它采用**“Evel Knievel 特技飞越法”：完全忽略鸿沟。**
+
+<a id="why-this-isnt-replicable"></a>
+### 为什么无法复制
+
+- Windows、NT、IE 是继承自 IBM 的 PC 操作系统业务版图的延伸。
+- 它们“出生在 IBM 创造的需求龙卷风中”。
+- 它们是快速跟随者，不是先行者：Windows 跟随 Mac，IE 跟随 Netscape。
+- 它们掌握客户端，是“鸿沟实用主义者一侧的永久飞地”。
+
+没有 IBM 级别的平台继承优势，就不要尝试 Microsoft 的做法。对你而言，鸿沟是真实的。
+
+---
+
+<a id="the-pragmatist-whole-product-examples-why-inferior-wins"></a>
+## 实用主义者的完整产品案例：较差产品为何取胜
+
+| 实用主义者选择 | 而非 | 原因 |
+|----------------|------|------|
+| Intel | Digital alpha | 完整产品生态 |
+| Windows NT | Linux | 书籍、培训、支持 |
+| Oracle | Sybase | 兼容工具的后续配套市场 |
+| Microsoft Word | WordPerfect | 标准化 |
+| HP 打印机 | Lexmark | 生态 |
+
+**每个案例中，“赢家”的通用产品更差，完整产品却更强。** 实用主义者优化的是完整产品，而非规格表。
+
+---
+
+<a id="the-two-reference-competitors---why-both-are-needed"></a>
+## 两个参考竞争者：为何缺一不可
+
+既需要市场替代方案，也需要产品替代方案，实用主义者要通过三角关系判断位置。
+
+<a id="market-alternative-the-budget-you-preempt"></a>
+### 市场替代方案：你要争取的预算
+
+客户目前已经花钱解决这个问题，那就是你要争取的预算。明确指出市场替代方案，可以：
+- 让问题具体化，因为客户已经为此付钱。
+- 明确你要争取的预算科目。
+- 让客户在脑中重新分配支出，而非寻找新增预算。
+
+<a id="product-alternative-the-tech-leader-you-triangulate-against"></a>
+### 产品替代方案：用于三角定位的技术领导者
+
+另有公司也在该领域宣传颠覆性创新。指出它，可以：
+- 确认市场存在，实用主义者需要竞争来验证市场。
+- 澄清你的不同：你已为这个具体利基整合完整产品。
+
+缺少任一替代方案，客户就被迫在真空中评估你。实用主义者讨厌真空。

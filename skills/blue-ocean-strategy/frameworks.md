@@ -1,202 +1,225 @@
-# Blue Ocean Strategy - Framework Details
+> 中文译文｜[英文对照](frameworks.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/blue-ocean-strategy/frameworks.md)。原项目整理：AgentSeal；书籍来源：《Blue Ocean Strategy》— W. Chan Kim 与 Renée Mauborgne；AI辅助翻译。
 
-## Strategy Canvas
+<a id="blue-ocean-strategy---framework-details"></a>
+# Blue Ocean Strategy——框架详解
 
-The primary diagnostic tool. X-axis = competing factors. Y-axis = offering level (low to high).
+<a id="strategy-canvas"></a>
+## 战略布局图
 
-```
-Y (Offering Level)
-HIGH ┤             ●─●─●  ← Competitor A
-     │       ●─●─●        ← Competitor B
-     │ ●─●─●              ← Industry average
-LOW  ┤───────────────────
-       Price  Service  Speed  Features...
-              X (Competing Factors)
-```
-
-### Three Characteristics of a Strong Strategy
-
-| Characteristic | Definition |
-|----------------|------------|
-| **Focus** | Disproportionately invests in a few factors, not spread thin |
-| **Divergence** | Curve looks DIFFERENT from competitors' |
-| **Compelling Tagline** | Captures the strategy in a memorable phrase |
-
-**Compelling taglines:**
-- Southwest Airlines: "The speed of a plane at the price of a car--whenever you need it"
-- [yellow tail]: "A fun and simple wine to be enjoyed every day"
-
-If your curve mirrors competitors' = red ocean. No focus = trying to be everything to everyone.
-
-### Caveat: X-Axis Subjectivity
-
-The factors you choose to plot ARE the analysis. The framework presents itself as rigorous diagnostic, but X-axis selection is subjective. Different factor sets produce different "blue ocean" stories from the same data.
-
-## The 4-Step Visualizing Strategy Process
-
-Drawing the canvas isn't a desk exercise. The book prescribes a structured group process:
-
-### Step 1: Visual Awakening
-- Draw your "as is" canvas vs competitors
-- Reveals where current strategy must change
-- "A picture is worth a thousand spreadsheets"
-
-### Step 2: Visual Exploration
-- Field observation
-- Watch alternatives, customers, noncustomers, customers of alternative industries
-- See what they DO, not what they say
-
-### Step 3: Visual Strategy Fair
-- Draw "to be" canvas
-- Get feedback from customers, competitors' customers, noncustomers
-- 5-sticky-note voting per participant
-- Build final "to be" strategy
-
-### Step 4: Visual Communication
-- One-page before/after profile
-- Only aligned projects funded
-- Communicates strategy across the org
-
-**EFS case:** This process produced 30% revenue boost and the tagline "FedEx of corporate foreign exchange."
-
-## ERRC Grid (Four Actions Framework)
-
-The mechanism for value innovation:
-
-| Action | Cost/Value Effect | Question |
-|--------|-------------------|----------|
-| **ELIMINATE** | Drives cost DOWN | Which factors that industry takes for granted should be eliminated? |
-| **REDUCE** | Drives cost DOWN | Which factors should be reduced well below standard? |
-| **RAISE** | Drives value UP | Which factors should be raised well above standard? |
-| **CREATE** | Drives value UP | Which factors should be created the industry has never offered? |
-
-**Critical:** ELIMINATE and CREATE force a break with the industry. REDUCE and RAISE only adjust within existing rules. Breakthroughs usually come from elimination + creation.
-
-## Buyer Utility Map (6×6 = 36 cells)
-
-For each cell: where do current offerings fail? Find the empty spaces.
-
-### 6 Stages of the Buyer Experience Cycle
-1. Purchase
-2. Delivery
-3. Use
-4. Supplements
-5. Maintenance
-6. Disposal
-
-### 6 Utility Levers
-1. Customer Productivity
-2. Simplicity
-3. Convenience
-4. Risk Reduction
-5. Fun and Image
-6. Environmental Friendliness
-
-**Failure example:** Philips CD-i had brilliant tech but users couldn't figure out what to do with it. Failed utility test.
-
-## Price Corridor of the Mass
-
-Set strategic price by looking at alternatives in 2 categories:
-
-1. **Different form / same function** (cars vs trains - different form, same transport function)
-2. **Different form & function / same objective** (movies vs restaurants - different everything, same "Saturday-night fun")
-
-Set price based on imitation defense:
-- **Upper boundary:** Legal protection AND high fixed costs
-- **Mid:** Some imitation defenses
-- **Lower:** Imitation easy, scale matters most
-
-### Price-Minus Costing (Not Cost-Plus)
+主要诊断工具。X 轴＝竞争要素；Y 轴＝提供水平，从低到高。
 
 ```
-Strategic price (set in step 2)
-- Target margin
-= Target cost (NON-NEGOTIABLE)
+Y（提供水平）
+高 ┤             ●─●─●  ← 竞争者 A
+   │       ●─●─●        ← 竞争者 B
+   │ ●─●─●              ← 行业平均
+低 ┤───────────────────
+     价格  服务  速度  功能……
+            X（竞争要素）
 ```
 
-Three levers to hit target cost:
-1. **Streamline operations / cost innovations** (Swatch reduced parts from 150 to 51)
-2. **Partnering** (SAP partnered with Oracle, Capgemini)
-3. **Pricing innovation** (subscriptions, time-shares - NetJets, leasing)
+<a id="three-characteristics-of-a-strong-strategy"></a>
+### 优秀战略的三个特征
 
-## Adoption: Three Stakeholder Hurdles
+| 特征 | 定义 |
+|------|------|
+| **聚焦** | 集中投入少数要素，而非平均分散 |
+| **差异** | 曲线形态与竞争者不同 |
+| **引人入胜的宣传语** | 用令人记住的短语概括战略 |
 
-| Stakeholder | Hurdle | Address Via |
-|-------------|--------|-------------|
-| Employees | Job security threats | Education, transparency |
-| Partners | Disrupted relationships | Win-win design (SAP's ASAP partner program) |
-| Public | Ethical/safety concerns | Education, transparency |
+**引人入胜的宣传语：**
+- Southwest Airlines：“汽车的价格、飞机的速度，随时满足所需。”
+- [yellow tail]：“每天都能享用的轻松、简单葡萄酒。”
 
-Failure example: Merrill Lynch failed to address employee fears about online trading; Netflix succeeded with the same kind of disruption.
+曲线与竞争者相似＝红海。没有聚焦＝试图满足所有人的所有需求。
 
-## Blue Ocean Idea (BOI) Index
+<a id="caveat-x-axis-subjectivity"></a>
+### 提醒：X 轴的主观性
 
-Simple test of an idea's commercial viability:
+你选择绘制的要素，本身就是分析。框架将自己呈现为严谨诊断工具，但 X 轴的选择是主观的。同一批数据，换一组要素，就能讲出不同的“蓝海”故事。
 
-| Element | Question |
-|---------|----------|
-| **Utility** | Exceptional buyer utility? |
-| **Price** | Easily accessible to the mass? |
-| **Cost** | Cost structure meets target? |
-| **Adoption** | Adoption hurdles addressed upfront? |
+<a id="the-4-step-visualizing-strategy-process"></a>
+## 战略可视化的四步流程
 
-**All four must score "High"** for commercial viability. Mixed scores = back to the drawing board.
+绘制布局图不是坐在办公桌前完成的练习。书中规定了结构化的团队流程：
 
-- Philips CD-i: High Cost, Low Utility, Low Price, Low Adoption → failed
-- Motorola Iridium: Low Utility, Low Price, Low Adoption → failed despite genius engineering
-- NTT DoCoMo i-mode: High across all four → succeeded (but later crushed by iPhone)
+<a id="step-1-visual-awakening"></a>
+### 第一步：视觉唤醒
+- 绘制自身与竞争者的“现状”布局图。
+- 揭示当前战略必须改变的地方。
+- “一张图胜过一千张电子表格。”
 
-## Imitation Barriers (Why Blue Oceans Last)
+<a id="step-2-visual-exploration"></a>
+### 第二步：视觉探索
+- 实地观察。
+- 观察替代方案、顾客、非顾客，以及替代行业的顾客。
+- 看他们做什么，而非只听他们说什么。
 
-| Barrier | Why It Slows Imitation |
-|---------|------------------------|
-| **Alignment** | Hard to copy a value-cost-people aligned strategy |
-| **Cognitive/Organizational** | Imitators don't see the model |
-| **Brand** | Loyalty creates switching costs |
-| **Economic** | Network effects, scale advantages |
-| **Legal** | Patents, regulations |
+<a id="step-3-visual-strategy-fair"></a>
+### 第三步：视觉战略展示会
+- 绘制“未来”布局图。
+- 获取顾客、竞争者顾客和非顾客的反馈。
+- 每人用 5 张便利贴投票。
+- 构建最终“未来”战略。
 
-## Pioneer-Migrator-Settler Map
+<a id="step-4-visual-communication"></a>
+### 第四步：视觉沟通
+- 用一页展示前后对比。
+- 只资助与战略一致的项目。
+- 在整个组织中传达战略。
 
-Diagnostic for company portfolios:
+**EFS 案例：** 这一流程使收入增加 30%，并形成“企业外汇领域的 FedEx”这一宣传语。
+
+<a id="errc-grid-four-actions-framework"></a>
+## ERRC 网格：四项行动框架
+
+价值创新的机制：
+
+| 行动 | 对成本／价值的影响 | 问题 |
+|------|-------------------|------|
+| **剔除（ELIMINATE）** | 降低成本 | 行业视为理所当然的哪些要素应被剔除？ |
+| **减少（REDUCE）** | 降低成本 | 哪些要素应降至远低于行业标准？ |
+| **增加（RAISE）** | 提升价值 | 哪些要素应提高到远超行业标准？ |
+| **创造（CREATE）** | 提升价值 | 应创造哪些行业从未提供的要素？ |
+
+**关键：** 剔除与创造迫使你打破行业惯例。减少与增加只是现有规则内的调整。突破通常来自剔除与创造。
+
+<a id="buyer-utility-map-66--36-cells"></a>
+## 买方效用图：6×6＝36 格
+
+逐格提问：现有供给在哪里失效？寻找空白空间。
+
+<a id="6-stages-of-the-buyer-experience-cycle"></a>
+### 买方体验周期的六个阶段
+1. 购买。
+2. 交付。
+3. 使用。
+4. 配套补充。
+5. 维护。
+6. 处置。
+
+<a id="6-utility-levers"></a>
+### 六个效用杠杆
+1. 顾客生产效率。
+2. 简单性。
+3. 便利性。
+4. 风险降低。
+5. 乐趣与形象。
+6. 环保性。
+
+**失败案例：** Philips CD-i 技术出色，用户却不知道拿它做什么，未通过效用测试。
+
+<a id="price-corridor-of-the-mass"></a>
+## 大众价格走廊
+
+对照两类替代方案，设定战略价格：
+
+1. **形式不同、功能相同**：汽车与火车，形式不同，运输功能相同。
+2. **形式与功能都不同、目标相同**：电影与餐厅，各方面不同，但都满足“周六晚娱乐”。
+
+依据防模仿能力设定价格：
+- **上沿：** 有法律保护，且固定成本高。
+- **中间：** 有一定防模仿能力。
+- **下沿：** 容易模仿，规模最重要。
+
+<a id="price-minus-costing-not-cost-plus"></a>
+### 从价格倒推成本，而非成本加成
 
 ```
-PIONEERS    MIGRATORS    SETTLERS
-(blue       (improving)  (red ocean,
- ocean)                   "me-too")
-   ↑                          ↓
-HIGH GROWTH              LOW GROWTH
-HIGH MARGIN              COMMODITY
+战略价格（第二步确定）
+－目标利润
+＝目标成本（不可妥协）
 ```
 
-**Healthy portfolio:** Settlers fund operations, Migrators provide moderate growth, Pioneers create future value.
+实现目标成本的三个杠杆：
+1. **精简运营／成本创新**：Swatch 将零件从 150 个减至 51 个。
+2. **合作**：SAP 与 Oracle、Capgemini 合作。
+3. **定价创新**：订阅、分时使用，例如 NetJets，以及租赁。
 
-**Unhealthy:** Heavy Settler concentration → company is in decline even when current profits look fine.
+<a id="adoption-three-stakeholder-hurdles"></a>
+## 采用：三类利益相关者障碍
 
-### Renewal Rules
+| 利益相关者 | 障碍 | 解决方式 |
+|------------|------|----------|
+| 员工 | 工作保障受到威胁 | 教育、透明沟通 |
+| 伙伴 | 既有关系被打乱 | 双赢设计，例如 SAP 的 ASAP 合作伙伴计划 |
+| 公众 | 伦理／安全关切 | 教育、透明沟通 |
 
-- **Single business:** Monitor your strategy canvas. When competitors' value curves CONVERGE with yours, renew.
-- **Multi-business:** Maintain Pioneer-Migrator-Settler balance.
-- **Don't renew while your curve still has Focus, Divergence, and Tagline.** Premature renewal destroys current value.
+失败案例：Merrill Lynch 未能处理员工对网上交易的担忧；Netflix 面对同类颠覆却取得成功。
 
-### Apple's Pattern
+<a id="blue-ocean-idea-boi-index"></a>
+## 蓝海创意指数：BOI
 
-iMac → iPod → iTunes → iPhone → iPad → Apple Watch. Each was a blue ocean move launched as the previous matured. Continuous renewal at the company level.
+检验构想商业可行性的简单方法：
 
-## Critical Numbers
+| 要素 | 问题 |
+|------|------|
+| **效用** | 买方效用卓越吗？ |
+| **价格** | 大众容易负担吗？ |
+| **成本** | 成本结构达到目标吗？ |
+| **采用** | 是否提前解决采用障碍？ |
 
-| Number | Rule |
-|--------|------|
-| **86%/14%** | Strategic moves split (red vs blue) - correlational, post-hoc |
-| **39%/61%** | Profit split (red vs blue) - same caveat |
-| **3** | Tiers of noncustomers |
-| **6** | Paths to blue oceans |
-| **6×6 = 36** | Cells in Buyer Utility Map |
-| **4** | Steps in strategic sequence |
-| **4** | ERRC actions |
-| **4** | Execution hurdles |
-| **3 E** | Engagement, Explanation, Expectation Clarity |
-| **3** | Strategic propositions (value, profit, people) |
-| **3** | Strong-strategy characteristics (focus, divergence, tagline) |
-| **5** | Imitation barriers |
-| **10** | Red ocean traps |
+商业可行要求**四项全部为“高”**。分数参差不齐，就要重新设计。
+
+- Philips CD-i：成本项高、效用项低、价格项低、采用项低 → 失败。
+- Motorola Iridium：效用项低、价格项低、采用项低 → 尽管工程技术精妙，仍然失败。
+- NTT DoCoMo i-mode：四项均高 → 成功，但后来被 iPhone 压倒。
+
+<a id="imitation-barriers-why-blue-oceans-last"></a>
+## 模仿壁垒：蓝海为何能够持续
+
+| 壁垒 | 延缓模仿的原因 |
+|------|----------------|
+| **一致性** | 价值、成本、人员一致的战略难以复制 |
+| **认知／组织** | 模仿者看不懂该模式 |
+| **品牌** | 忠诚度带来转换成本 |
+| **经济** | 网络效应、规模优势 |
+| **法律** | 专利、监管 |
+
+<a id="pioneer-migrator-settler-map"></a>
+## 先驱者—迁移者—安于现状者图
+
+用于诊断公司的业务组合：
+
+```
+先驱者       迁移者       安于现状者
+（蓝海）     （改进中）   （红海、“我也有”）
+   ↑                         ↓
+高增长                     低增长
+高利润率                   同质化
+```
+
+**健康组合：** 安于现状者为运营提供资金，迁移者带来适度增长，先驱者创造未来价值。
+
+**不健康组合：** 过度集中于安于现状者，即便当前利润看似良好，公司也已走向衰退。
+
+<a id="renewal-rules"></a>
+### 更新规则
+
+- **单一业务：** 监测战略布局图。当竞争者的价值曲线与你趋同时，进行更新。
+- **多业务：** 保持先驱者、迁移者、安于现状者之间的平衡。
+- **曲线仍具备聚焦、差异和宣传语时，不要更新。** 过早更新会破坏当前价值。
+
+<a id="apples-pattern"></a>
+### Apple 的模式
+
+iMac → iPod → iTunes → iPhone → iPad → Apple Watch。每一项都是在前一项成熟时推出的蓝海行动，形成公司层面的持续更新。
+
+<a id="critical-numbers"></a>
+## 关键数字
+
+| 数字 | 含义 |
+|------|------|
+| **86%／14%** | 红海与蓝海战略行动的占比，来自相关性、事后分析 |
+| **39%／61%** | 红海与蓝海利润占比，同样需要上述提醒 |
+| **3** | 非顾客层次数 |
+| **6** | 通往蓝海的路径数 |
+| **6×6＝36** | 买方效用图的格数 |
+| **4** | 战略序列步骤数 |
+| **4** | ERRC 行动数 |
+| **4** | 执行障碍数 |
+| **3 E** | 参与、解释、明确预期 |
+| **3** | 战略主张数：价值、利润、人员 |
+| **3** | 优秀战略特征数：聚焦、差异、宣传语 |
+| **5** | 模仿壁垒数 |
+| **10** | 红海陷阱数 |

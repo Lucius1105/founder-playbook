@@ -1,237 +1,278 @@
-# money-models - Detailed Frameworks
+> 中文译文｜[英文对照](frameworks.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/money-models/frameworks.md)。原项目整理：AgentSeal；原书：Alex Hormozi 的《$100M Money Models》；AI 辅助翻译。
 
-Every named offer play with its steps, formulas, and worked math. Referenced from [SKILL.md](SKILL.md).
+<a id="money-models---detailed-frameworks"></a>
+# 收入模式：框架详解
 
----
-
-## The 4-Step Money Model Build
-
-Build in order, one offer at a time. Each stage funds the next.
-
-| Step | Offer | Goal | Timing |
-|------|-------|------|--------|
-| 1 | **Attraction** | Turn strangers into customers; cover acquisition cost | Decide what to sell → how to present it → advertise it |
-| 2 | **Upsell** | Push 30-day profit well above acquire + deliver cost | At the customer's moment of greatest need |
-| 3 | **Downsell** | Convert the "no"s into a different "yes" | The instant they decline the prior offer |
-| 4 | **Continuity** | Capture one last sale in 30 days + stack recurring | Often best *after* the first 30 days - that's fine |
-
-**Reliability chain:** get customers reliably → make them pay for themselves reliably → make them pay for the *next* customer reliably → maximize lifetime value → spend as much ad budget as possible. Finding the best attraction offer "may take up to a year."
+逐一介绍各类销售打法的步骤、公式与计算，供 [SKILL.md](SKILL.md) 引用。
 
 ---
 
-## ATTRACTION OFFERS
+<a id="the-4-step-money-model-build"></a>
+## 收入模式的四步构建法
 
-Turn eyeballs into money. Strangers can't verify your value claims, but they can always verify price - so a discount/free hook is legible proof of "great deal." Free (100% off) is the maximum discount. "Free," "$1," and "discount" are points on one continuum; swap by context and law.
+按顺序，一次构建一个方案；每阶段为下一阶段提供资金。
 
-### Win Your Money Back
-> "Do X within Y time under Z rules, and it's free."
+| 步骤 | 方案 | 目标 | 时机 |
+|---|---|---|---|
+| 1 | **获客** | 将陌生人变为客户，覆盖获客成本 | 决定卖什么→怎样呈现→投放广告 |
+| 2 | **升级销售** | 让30天利润明显高于获客与交付成本 | 客户最需要的时刻 |
+| 3 | **降档销售** | 将“不”转为另一种“是” | 拒绝前一方案后立即提出 |
+| 4 | **持续订阅** | 在30天内争取最后一次销售，并叠加经常性收入 | 往往在前30天之后更合适，这也没问题 |
 
-Customer pays up front; earns a full refund (cash or store credit) by hitting a goal. Three qualifying variants:
-
-| Variant | The bet | Example criteria |
-|---------|---------|------------------|
-| **Results-based** | On their own ability to hit an outcome | Lose Z lbs, make $X/mo |
-| **Action-based** | On following directions | Attend all calls, log daily, post progress |
-| **Actions AND Results** | Both (best odds) | Do the work *and* hit the target |
-
-Rules for good criteria: **easy to track** (ideally auto-tracked), **realistically gets results** (model on what your best customers do), **advertises the business** (require posts, tags, referrals, reviews).
-
-**Store-credit math (keep skin in the game):** product is $200/mo, customer wins $600. Don't give 3 free months. Spread it: $600 ÷ 12 = **$50/mo off → they pay $150/mo for a year**. People disengage from things they pay nothing for.
-
-Diagnostics: only run it if refund rate is already **<5%**. Reported real-world refund request rate ~10% of customers; if that's uncomfortable, don't run it. Store credit converts the same as cash back in testing.
-
-### Giveaway (6 steps)
-Many enter, one wins the grand prize, *everyone else* gets the same thing at a discount.
-
-1. Pick a grand prize (the thing you most want everyone to buy; assign a real dollar value = your anchor).
-2. Pick your promotional (consolation) offer - core offer + discount/bonus.
-3. Ask for contact info + eligibility + qualifying actions.
-4. Pick qualifying actions (double as promotion).
-5. Put it on a deadline (Hormozi's window: **3-7 days**; daily countdown updates).
-6. Announce the winner publicly; contact everyone else privately with a *second* deadline (~7 days) to claim.
-
-**Discount sizing:** 10-30% of gross margin. Worked: grand prize valued $5,000, retails $2,000, everyone else pays **$1,800** (10% off retail). Reframe: "$5,000 of value for $1,800" = a 64% cost-to-value gap ((5000−1800)/5000).
-
-Notes: harder entry = fewer but higher-quality entrants; if it flops, the prize wasn't grand enough; two prizes (refer-a-winner-you-win-too) multiplies referral entries; cap entries to what your team can call in 7 days.
-
-### Decoy
-Advertise something free/cheap (the decoy); when leads engage, present a far more valuable premium option beside it and emphasize the premium.
-
-1. Advertise a stripped-down version (fewer components, older models, no guarantee) - its only job is to get engagement.
-2. When leads engage, present both; get excited about the premium.
-
-Permission script: **"Are you here for free stuff or lasting results?"** "Results" → skip to premium. "Free stuff" → show decoy, contrast, ask "which gets you to your goal faster?"
-
-Measured take-rate in Hormozi's fitness test: free one-session/week decoy vs $399 Ultimate → **8 of 10 chose $399**. Rule: make the contrast huge. Discount (even $1) offers show up at a higher *rate* than free offers (use when no-shows are costly: doctors, dentists, lawyers).
-
-### Buy X Get Y Free
-Same revenue, reframed. "3 shirts for $30" and "buy 1 for $30, get 2 free" both net $30 - but free out-pulls the discount.
-
-1. Take your discount math ("3 for $X").
-2. Convert to "buy 1 [at anchor price], get N free."
-3. **Raise the base price first** (permanently) so the giveaway doesn't erode margin.
-4. Test cheaper substitute freebies (socks with shirts) to afford more "free."
-5. Give **more free than paid** ("buy 1 get 2 free" > "buy 10 get 2 free").
-
-Service version, all $1,800 for 18 months: "Buy 12 get 6 free" < "Buy 9 get 9 free" < **"Buy 6 get 12 free"** (most-free framing wins). On existing recurring customers, cap the cash-injection offer at ~10% of the base.
-
-### Pay Less Now or Pay More Later
-Two options that remove all risk and capture card-on-file:
-
-- **Pay Later:** $0 now (advertised "free"), card on file, billed full price later *unless they cancel before the date* - functions as a conditional guarantee.
-- **Pay Now:** discounted **20-50% off** immediately + "today only" bonuses, offered *only after* they accept Pay Later. Discount + bonuses **replace** the guarantee (mutually exclusive).
-
-Rules: promise a **binary yes/no result** (rate pain 1-10 before/after); make the guarantee **conditional** (must attend to be eligible to cancel); tune the split by sweetening whichever side is under-chosen. **>10% cancellation = overpromised, weak conditions, or price too high.**
+**可靠性链条：**稳定获客→客户稳定支付自己的成本→稳定支付下一位客户的成本→最大化终身价值→尽可能扩大广告预算。找到最佳获客方案“可能需要长达一年”。
 
 ---
 
-## UPSELL OFFERS
+<a id="attraction-offers"></a>
+## 获客方案
 
-Whatever you offer next. Every solved problem reveals a new problem; the upsell solves it. Often where the real profit is. Upsells offer **More** (quantity), **Better** (quality), or **New** (complementary).
+把注意力变成钱。陌生人无法验证价值主张，却总能核对价格，所以折扣或免费钩子是容易理解的“划算”证据。免费即100%折扣，是最大折扣；免费、1美元、打折是同一连续区间上的点，须按场景和法律要求选择。
 
-**Burger math:** base burger profit $0.25. + fries/drink meal → **$2.00 (8x)**. + supersize → **$3.00 (11.6x)**. The core offer isn't where the profit lives.
+<a id="win-your-money-back"></a>
+### 达标返款
 
-### Classic Upsell
-> "You can't have X without Y."
+> “在Y时间内，按Z规则完成X，就免费。”
 
-Solve the next problem the instant it appears. Tactics: offer the more-profitable upsell first; get them to "say no to say yes" ("you don't want anything else, do you?"); give access fast (harder to give back than to say no); ride the **Hyper Buying Cycle** (the high-spend window right after a big life decision); use free bonuses to create problems your upsell solves; **BAMFAM**; bundle-and-name so it's one ask, not nine.
+客户先付款，达成目标后获得全额现金退款或店内额度。三种资格条件：
 
-**Magnetic Middle** (pricing to push a tier): to push Large - Small $5, Medium **$8** (not $7), Large $9. To push Medium - Small **$6** (not $5), Medium $7, Large $9. If most buy Large already, just raise all prices.
-
-**Charge for guarantees/warranties/insurance** instead of giving them free: add **5-50%** on top. Art-studio case: added 10% for a damage guarantee → **30% of customers** paid for what was free = pure profit.
-
-### Menu Upsell
-> "You don't need that... you need this."
-
-Four tactics in sequence:
-
-1. **Unsell** - tell them what they *don't* need (builds trust, even for products you weren't selling them).
-2. **Prescription upsell** - detailed, personalized "how to use it," framed as if they already own it (outsells vague suggestions).
-3. **A/B upsell** - ask preference (chocolate or vanilla? AM or PM?), removing the "no" option. Anything is A/B-able: quantity, dates, flavor, channel, speed.
-4. **Card on file** - "wanna just use the card on file?" (for first purchase: "what card do you wanna use?").
-
-**The "Economist" play** (sell both via a decoy): The Economist tested Digital $59 vs Digital+Print $125 → print collapsed. Adding a **Print-only decoy at $125** made Digital+Print the obvious rational choice → most chose the bundle. Price the combined option = the pricier standalone.
-
-### Anchor Upsell
-Show the premium option first so the real offer looks like a deal.
-
-1. Present the anchor (the expensive one).
-2. Get "the gasp" (sticker shock - a good sign; "the bigger the gasp, the more they bought").
-3. Come to the rescue (ask if they care about the premium/secondary features).
-4. Present the main offer (relief → perceived deal).
-5. Ask how they want to pay.
-
-Ideal anchor price: **5-10x** the main offer. Anchor and main must share the **same primary features**; differ only on **secondary** ones. Suit-shop case: $16,000 anchor → $2,200 suit + $300 add-ons. Two bonus effects: anchored customers spend a bit more; some actually buy the anchor. Pro-tip math: a $1,000 offer to a $100 budget loses $100; a $100 offer to a $1,000 budget loses $900 - always have a premium ready.
-
-### Rollover Upsell
-> "Wanna just roll it forward?"
-
-Credit some/all of prior spend toward a bigger/next offer instead of refunding or discounting. Three design questions:
-
-- **Who:** re-engage lapsed customers; rescue upset customers (vs refund); poach competitors' upset customers; upsell current customers.
-- **What:** more / better / new - roll credit toward something more expensive.
-- **How:** all or part of the credit, up front or spread over time.
-
-**Pricing rule: price the next offer at least 4x the rollover credit** → caps the effective discount at **25%** even if you roll their entire first purchase. Membership example: $600 first purchase → **$50/mo off for 12 months**. Add urgency (one-time-only). Winback case: 200 lapsed customers, personalized videos offering $4,000 credit, ~20% conversion → **~$1.9M/yr** added.
-
-**Gift-card play (rollover as attraction):** sell a $200 gift card for $20 (90% off), limit 2 per customer, can't use on self (must gift). Card value ≈ 20% of the next offer's price; when redeemed, roll it toward a $1,000+ offer. Customers pay you to refer friends; unredeemed cards are pocket change.
-
----
-
-## DOWNSELL OFFERS
-
-Any offer made after a "no." Two levers: **how they pay** (payment plans, trials) or **what they get** (features). Everybody buys something.
-
-**Six rules of downselling:** (1) they said no to *this* offer, not all offers; (2) downsells are trades - if you give, get; (3) personalize, don't pressure; (4) offer the same things in new ways; (5) never drop the price on the same thing (that's discounting, use a payment plan instead); (6) customers talk about price - plan prices in advance, never improvise downward. **Never offer the same thing for less; you may offer something different for less.**
-
-### Payment Plan Downsell (7 steps)
-Same product, same total price, restructured payment. "This costs too much" usually means "too much *up front*." Work from most-cash-now down; stop the moment they say yes.
-
-1. **Reward for paying in full** (anchor the full-with-interest price, then discount for prepay: "$15, but $10 if you prepay - that's what most people do").
-2. **3rd-party financing → credit card → layaway** (three sub-offers).
-3. **Half now, half later** (align to paydays; biweekly beats monthly for 30-day profit).
-4. **Check desire** - "1-10, how bad do you want this?" 8+ → keep going; 7 or below → "why not a 10?" → pivot to Feature Downsell.
-5. **Split into three payments** (paychecks or months).
-6. **Evenly spread payments** (e.g. 16-week program → 16 weekly charges).
-7. **Free trial** → the Trial With Penalty chapter.
-
-Up to **9 total offers** to one prospect (step 2 holds three). "Seesaw" shortcut for simpler reps: "giant monthly payments or tiny ones?" then invert to reward prepay.
-
-**Make sure it makes money:** close rate should rise while the *percentage* paying in full holds steady. Worked: 10 leads, sell 3 in full without a plan; add the plan → sell 3 more via plan = 6 total, and the original 3 still pay in full (no cannibalization).
-
-**Retry declines the same day** (paychecks land at different times) → recoups ~1/3 of declined payments.
-
-### Trial With Penalty (5-step sell)
-Free *as long as* the customer meets terms; if they don't, they get charged. (Contrast Win Your Money Back: there they pay first and get money back; here they pay only if they *fail*.) Terms should mirror the actions/results that create great customers.
-
-1. Use it as a **downsell** (only after big + small packages are declined).
-2. **Always get a credit card** ("what card do you wanna use?"); no card + no work → don't sell them.
-3. **Set expectation of staying & paying** ("if this got you the result, will you stay long-term?").
-4. **Explain how fees motivate** - *after* getting the card; initial each fee clause separately.
-5. **Make sales meetings part of the trial** (missed check-in = fee).
-
-Doubling math: close 3 of 10 on the main offer; downsell a penalty trial to the other 7 → 4 take it → upsell 3 of those 4 → **6 of 10 total (doubled)**. Break fees per-mess-up ($50 each) rather than one $500 lump, unless one miss sabotages the whole result. Recovery: "if they hate it," ~50% buy a better-fit offer when you take the blame and re-pitch. Fits **recurring services where the customer must do work** to get results; use Pay-Less-Now/Pay-More-Later for one-time products.
-
-### Feature Downsell
-> "Why don't we try this instead?"
-
-Lower the price by changing **what they get**, never by discounting the same package. Formula: **take something away + lower the price + "how about now?"**
-
-Sequencing rule: remove features **highest-value first** - customers weigh money saved vs value lost and often "re-upsell" themselves back to the full offer. Levers: quantity, quality, and a long list of **service-quality features** (time/location availability, cancellation terms, response speed, delivery speed, service ratio 1:1 vs 1:many, comms method, provider seniority, live vs recorded, in-person vs remote, DIY/DWY/DFY, expiration, personalization, guarantee length/coverage/terms). Running the list in reverse = an upsell.
-
-Tactics: **never negotiate price** on the same thing ("business terrorists"); name combos with status labels ("The Whale," "The Minimum"); temperature-check after two downsells (8+ → payment plan; 7 or below → "what would a 10 look like?"); ask **"Deal?"** after each move; barter discounts for reviews/testimonials/referrals; **DFY→DIY** when all service downsells fail (sell home tools / free orientation then DIY product). Feature-downsell existing customers before they cancel - those downsold into a custom-fit lower package have the **second-highest lifetime value** in Hormozi's business.
-
----
-
-## CONTINUITY OFFERS
-
-Ongoing value for ongoing payment until cancellation. "You can shear a sheep for a lifetime, but only skin it once."
-
-**Why it changes the economics:** $1,000 one-time to 100 people → 10 buy → $10,000, all now. Same value as $50/mo → 40 buy (4x, lower barrier) → if they stay 20 months, $1,000 LTV each → **$40,000 total**, but only $2,000 in month one. Plus 4x the customer base to upsell. The trade-off: far less cash *today*. So sequence it last, after the cash offers.
-
-Rule of thumb: if the customer gets **ongoing value**, charge **ongoing payment**. A one-time workshop paid off over time is a payment plan, not continuity.
-
-### Continuity Bonus Offer
-Give a valuable bonus (usually worth more than the first payment) *if* they sign up today. Focus advertising on the **bonus, not the membership**. Bonuses parallel upsells (more/complementary/upgrade), must relate to the core offer, and should be things you already have/do. Sequence the pitch: sell the bonus's value → reveal its anchor → "want to know how to get it free?" → "become a member today and it's free, or buy it for $XXX - which would you prefer?" Stack multiple bonuses, each with a stated dollar value.
-
-**One-time vs continuity pricing chart** - price the standalone one-time option as a multiple of the monthly-equivalent rate to steer how many choose continuity:
-
-| Target % choosing continuity | One-time price multiple | Example (vs $199/mo) |
+| 变体 | 赌的是什么 | 条件示例 |
 |---|---|---|
-| 50% | 1.33x | $399 one-time (~$266/mo equiv) |
-| 60% | 1.66x | $499 one-time (~$333/mo) |
-| 70% | 2.0x | $599 one-time (~$399/mo) |
-| 80% | 2.33x | $699 one-time (~$466/mo) |
-| 90% | 2.66x | $799 one-time (~$532/mo) |
+| **结果型** | 自己达成结果的能力 | 减重Z磅、每月赚X美元 |
+| **行动型** | 遵循要求 | 参加全部通话、每天记录、发布进展 |
+| **行动加结果** | 两者都满足，成功可能性最高 | 完成行动并达到目标 |
 
-People will pay ~**33% more** to avoid committing. **Bulk prepay** ("buy 5 get 1 free"): even if only 1 in 8 take it, 30-day profit rises ~50%.
+好的条件应当：**易于追踪**，最好自动追踪；**现实地促成结果**，模仿最佳客户的行动；**帮助宣传业务**，要求发帖、标记、推荐或评价。
 
-### Continuity Discount Offer
-Give free time now/later in exchange for a paid commitment. (*Naming note: this doesn't break the "downsell, don't discount" rule - the price cut here is traded for a commitment, a structural exchange, not dropped on the same static product to rescue a close.*) Four ways to apply the discount:
+**店内额度计算：保持客户投入。**产品每月200美元，客户赢得600美元。不要给3个月完全免费，而应分摊：600÷12=**每月减50美元，客户一年内每月仍付150美元**。完全不用付钱的事情，人们容易失去投入。
 
-| Method | Mechanic | Best/worst for |
-|--------|----------|----------------|
-| **Up front** | Free period first, paid term after | Contract-enforcing industries; NOT high-churn; delays cash |
-| **At the end** | Free time earned after full on-time term | Lower churn, fewer signups, cash-safe |
-| **Spread over time** | Discount blended into a flat lower rate all term | Keeps cash flowing; e.g. 3 months free on 12 = $600 → $50/mo off |
-| **After first 1-2 payments** | Pay first/last month or activation fee, then credit | Collects cash early; forces a working payment method |
+诊断门槛：现有退款率**低于5%**才开展。原文报告，实际退款申请约占客户10%；若不能接受，就别做。测试中，店内额度与现金返款的转化表现相同。
 
-**Highest-value-per-word trick:** bill **every 4 weeks, not monthly** → 13 cycles/year vs 12 = **8.3% more revenue** for identical perceived price. On 20% margins that's a **41% profit lift**. Also: "plus a 3% processing fee" (nobody declines; ~30% bottom-line lift at 10% margin); waive it for a second form of payment (prefer ACH); deliver discounts as **gift cards** (giftable = referral; forgotten = full-price signup). **Lifetime discount at your churn point** - make them earn a permanent lower rate by staying past your average drop-off month.
+<a id="giveaway-6-steps"></a>
+### 赠奖活动：六步
 
-**Cancellations:** decide a policy in advance; Hormozi's rule - cancellation fee = the total discount they received (fair, simple). Make cancellation easy to find (or they leave *and* leave a bad review). Always offer an exit interview (waive the fee for honest feedback) → saves ~1/3 of would-be cancellers.
+很多人参加，一人获得大奖，其他所有人以折扣购买相同产品。
 
-### Waived Fee Offer
-> "Month-to-month with a setup fee, or I'll waive it if you commit to a year."
+1. 选大奖，就是最想让所有人购买的东西；给出真实金额价值，作为锚点。
+2. 选促销或安慰奖方案：核心方案+折扣或赠品。
+3. 收集联系方式、资格信息及达标行动。
+4. 选择兼具宣传作用的达标行动。
+5. 设置截止日期；Hormozi 使用**3—7天**窗口，每天更新倒计时。
+6. 公开宣布获胜者，私下联系其他人，给出第二个约7天的领取期限。
 
-Two choices: (A) pay a big one-time setup fee (**3-5x** monthly), go month-to-month, leave anytime; (B) commit to a term (default 12 months), fee **waived** - but canceling early triggers the fee. Worked: $1,000/mo, $5,000 fee. Option A = $5,000 + $1,000/mo. Option B = $1,000/mo, $5,000 only if they break the term.
+**折扣幅度：**毛利的10—30%。示例：大奖价值5,000美元，零售价2,000美元，其他人付**1,800美元**，即零售价减10%。重新表达为“1,800美元获得5,000美元价值”，价格与价值差为64%，计算为(5000−1800)/5000。
 
-Fees get them to **start** (avoiding the fee is itself valuable) and to **stick** (leaving now costs more than staying). Bigger fee → more commit; smaller fee (**1.5-3x**) → more month-to-month = more cash today. **>5% wanting to cancel early = look into it** (don't handcuff people to a product they hate). Drop the fee obligation once the term is fulfilled. Best for commitments of a year+ and delayed-payoff services (SEO, investing, weight loss).
+注意：报名越难，人越少但质量越高；活动失败可能是奖品不够吸引人；双奖，例如“你推荐的人中奖，你也中奖”，会增加推荐报名；人数上限应是团队7天内能够打完电话的人数。
+
+<a id="decoy"></a>
+### 诱饵
+
+用免费或低价产品吸引人；线索互动后，同时展示价值高得多的高端方案，并重点介绍后者。
+
+1. 宣传精简版，例如组件更少、旧型号、无保证；它唯一任务是引发互动。
+2. 互动后同时呈现两者，对高端方案表现出热情。
+
+许可话术：**“你是来拿免费东西，还是想要持久结果？”**回答“结果”，直接转高端；回答“免费”，展示诱饵与对比，再问“哪个能让你更快达到目标？”
+
+Hormozi 的健身测试中，每周一次免费训练对比399美元 Ultimate，**10人中8人选399美元**。规则是拉大差异。打折方案，哪怕1美元，到场率也比免费高；医生、牙医、律师等爽约成本高的场景可以考虑。
+
+<a id="buy-x-get-y-free"></a>
+### 买X送Y
+
+收入不变，换个表达。“3件衬衫30美元”和“花30美元买1件送2件”都收30美元，但免费比折扣更吸引人。
+
+1. 从折扣算式“X美元买3件”开始。
+2. 改为“按锚点价买1件，送N件”。
+3. **先永久提高基础价格**，避免赠送侵蚀利润。
+4. 测试便宜的替代赠品，例如买衬衫送袜子，以便送更多。
+5. **送的数量多于买的数量**，“买1送2”优于“买10送2”。
+
+服务版本：18个月总价均为1,800美元，“买12送6”不如“买9送9”，后者又不如**“买6送12”**，免费比例最多的表达胜出。针对现有经常性客户的现金补充活动，范围控制在客户基础的约10%。
+
+<a id="pay-less-now-or-pay-more-later"></a>
+### 现在少付，或以后多付
+
+提供两项选择，去除风险并登记付款卡：
+
+- **以后付：**现在0美元，宣传为免费，留存卡片；若未在指定日期前取消，则之后按原价收费，相当于条件保证。
+- **现在付：**立即优惠**20—50%**，加“仅今天”赠品；只在客户接受以后付之后提出。折扣与赠品替代保证，二者互斥。
+
+规则：承诺**可用是或否判断的结果**，例如前后各按1—10分评疼痛；保证设为**有条件**，例如必须参加才有资格取消；哪边选得少，就增强哪边的吸引力。**取消超过10%，说明过度承诺、条件太弱或价格过高。**
 
 ---
 
-## Cross-Cutting Principles
+<a id="upsell-offers"></a>
+## 升级销售方案
 
-- **Simple scales, fancy fails.** Aim for "100 ways to offer your product," not "100 products." (Personal training sold as 1/2/3/4 sessions a week = one product, many offers.)
-- **Affiliate products fill gaps** - sell someone else's product for commission when you lack an offer at a stage (they handle delivery).
-- **Mix and match freely** - the four-category structure is a teaching convenience; upsell tactics can live inside attraction offers, continuity can attract, etc.
-- **Reframe gain vs loss** - the same economics land differently: "prepay discount" vs "interest," "fee avoidance" vs "money back." Change the words, not the deal.
+就是接下来提供的东西。每解决一个问题，就露出新问题，升级去解决它；真正利润往往在这里。升级可以提供**更多数量、更好质量或新的互补内容**。
+
+**汉堡计算：**基础汉堡利润0.25美元；加薯条饮料套餐，利润**2美元，8倍**；再升级大份，利润**3美元，原文写11.6倍**。利润不一定在核心产品上。
+
+> 译注：3÷0.25=12；原文同时写3美元与11.6倍，此处保留差异。
+
+<a id="classic-upsell"></a>
+### 经典升级
+
+> “没有Y，就不能拥有X。”
+
+新问题一出现就解决。具体手段：先推荐利润更高的升级；让客户通过说“不”来同意，例如“别的都不要，对吗”；尽快让其获得使用权，已经得到后比一开始拒绝更难；抓住**高强度购买周期**，即重大人生决定后的集中消费窗口；通过免费赠品暴露升级可解决的新问题；使用**BAMFAM，在本次会面约好下次**；把多项打包命名，变成一个提议而不是九个。
+
+**有吸引力的中间档：**想推大杯，小杯5美元、中杯**8美元而非7美元**、大杯9美元；想推中杯，小杯**6美元而非5美元**、中杯7美元、大杯9美元。若大多数已买大杯，直接整体提价。
+
+**为保证、保修和保险收费**，而不是免费送，可在原价上加**5—50%**。艺术工作室案例中，损坏保障加价10%，**30%的客户**愿意为原先免费的东西付费，成为新增利润。
+
+<a id="menu-upsell"></a>
+### 菜单式升级
+
+> “你不需要那个，你需要这个。”
+
+四种动作依次使用：
+
+1. **反向销售**：告诉客户哪些不需要，建立信任，甚至包括原本也没打算卖给他的产品。
+2. **处方式升级**：给出具体、个性化的使用说明，仿佛客户已拥有；比模糊建议更容易成交。
+3. **A/B选择式升级**：问偏好，例如巧克力还是香草、上午还是下午，移除“不买”的选项。数量、日期、口味、渠道、速度都可这样问。
+4. **使用已留存卡片**：“直接用留存的卡吗？”首次购买问“想用哪张卡？”
+
+**《经济学人》打法，通过诱饵卖组合：**59美元数字版对比125美元数字+纸刊，纸刊表现低迷；加入**125美元纯纸刊诱饵**后，数字+纸刊显得合理，多数人选组合。组合价等于较贵单品价。
+
+<a id="anchor-upsell"></a>
+### 锚点升级
+
+先展示高端选项，让真实方案显得划算。
+
+1. 呈现昂贵锚点。
+2. 引出惊讶的价格反应，这是好信号；“越惊讶，买得越多”。
+3. 帮客户解围，问他是否在意高端或次要功能。
+4. 提供主方案，松一口气转化为划算感。
+5. 问想如何付款。
+
+理想锚点为主方案的**5—10倍**。二者的**主要功能必须相同**，仅次要功能不同。西装案例：16,000美元锚点→2,200美元西装+300美元配件。额外效果：被锚定的客户多花一点，少数还真买锚点。经验算式：对100美元预算的人只卖1,000美元方案，会错失100美元；对1,000美元预算的人只卖100美元方案，会错失900美元。始终备好高端方案。
+
+<a id="rollover-upsell"></a>
+### 消费额抵扣升级
+
+> “直接把这笔钱转到下一项上，怎么样？”
+
+把既有消费部分或全部抵扣更大的后续方案，替代退款或打折。三个设计问题：
+
+- **给谁：**唤回老客、挽回不满客户以替代退款、争取对竞品不满的人、升级现有客户。
+- **抵什么：**更多、更好或新的内容，转到更贵的方案。
+- **怎么抵：**全部或部分，立即抵或分期抵。
+
+**定价规则：后续方案至少为抵扣额的4倍**，即便首单全额抵扣，有效折扣也不超过**25%**。例如首单600美元，随后**12个月每月抵50美元**。加入仅一次机会的紧迫感。挽回案例：向200名老客发个性化视频，提供4,000美元抵扣，约20%转化，新增**每年约190万美元**。
+
+**礼品卡打法，把抵扣用于获客：**200美元礼品卡卖20美元，优惠90%，每人限2张，只能送人、不能自用。卡面价值约为后续方案价格的20%，兑换时抵扣1,000美元以上方案。客户付钱给你推荐朋友，未兑换的卡则留下小额收入。
+
+---
+
+<a id="downsell-offers"></a>
+## 降档销售方案
+
+被拒绝后提出的任何方案。两个杠杆：**怎么付款**，例如分期、试用；**得到什么**，例如功能。目标是人人买点东西。
+
+**六条规则：**第1条，客户拒绝的是这一个方案，而非所有方案；第2条，降档是交换，你让一步也要得到东西；第3条，个性化而非施压；第4条，用新方式提供相同东西；第5条，同样东西不要直接降价，改用分期；第6条，客户会互相谈价格，提前规划，别临场往下乱报。**不能同物低价，可以不同物低价。**
+
+<a id="payment-plan-downsell-7-steps"></a>
+### 分期降档：七步
+
+产品与总价相同，重新安排付款。“太贵”通常是“前期要付太多”。从现在收款最多的方式逐级向下，一答应就停。
+
+1. **奖励一次付清**：先以含利息总额锚定，再给预付优惠，例如“15美元，预付只要10，大多数人这样做”。
+2. **第三方融资→信用卡→先分期后提货**，包含三个子方案。
+3. **现在一半，以后一半**：对齐发薪日；为30天利润考虑，两周一次优于每月。
+4. **检查意愿**：“1—10分，有多想要？”8分以上继续，7分以下问“为什么不是10”，再转功能降档。
+5. **分三次**，按发薪日或月份。
+6. **均匀分摊**，例如16周项目，每周收一次，共16次。
+7. **免费试用**，进入带处罚条件的试用方案。
+
+对一个客户最多可提出**9个方案**，因为第2步包含三个。较易执行的“跷跷板”捷径：先问“每月大额付款还是小额”，再反向说明预付的好处。
+
+**确认能赚钱：**成交率应上升，同时一次付清的比例保持稳定。示例：10条线索原先3人全款；加分期后又成交3人，总计6人，原来3人仍付全款，没有内部蚕食。
+
+**同一天重试扣款失败**：工资到账时点不同，原文称可挽回约三分之一失败付款。
+
+<a id="trial-with-penalty-5-step-sell"></a>
+### 带处罚条件的试用：五步销售
+
+客户遵守条件就免费，不遵守才收费。与达标返款不同，后者先付再返，这里失败才付。条件应对应优质客户获得结果所需的行动。
+
+1. 作为**降档**使用，仅在大、小套餐均被拒绝后提出。
+2. **始终登记信用卡**：“想用哪张卡？”不留卡且不行动，就不销售。
+3. **建立长期留下并付款的预期**：“如果取得结果，你会长期继续吗？”
+4. **解释费用如何促进投入**：在拿到卡片后说明，每条费用条款分别签名确认。
+5. **将销售会面纳入试用要求**，缺席检查会则收费。
+
+翻倍计算：10人中3人买主方案；剩下7人中4人接受带处罚条件的试用，其中3人再升级，**最终10人中6人成交，翻倍**。每次失误收50美元，比一次收500美元更合适，除非一次失误就毁掉全部结果。挽回方式：客户讨厌当前方案时，主动承担责任并重新推荐，约50%会买更合适方案。适用于**客户需要投入行动才能见效的经常性服务**；一次性产品用现在少付/以后多付。
+
+<a id="feature-downsell"></a>
+### 功能降档
+
+> “要不试试这个？”
+
+通过改变所得降低价格，而不是同套餐打折。公式：**拿掉某项+降低价格+“现在怎么样？”**
+
+顺序规则：**先移除价值最高的功能**，客户会衡量省下的钱与失去的价值，常会自己升回完整方案。可调整数量、质量，以及服务质量特征：时间、地点、取消条款、响应速度、交付速度、1对1或1对多、沟通方式、服务者资历、直播或录播、线下或远程、自行完成/陪同完成/代做、有效期、个性化、保证期限/范围/条款。倒序使用就是升级销售。
+
+手段：**同样东西不议价**，原文将纠缠议价者称为“商业恐怖分子”；用带身份感的名称命名组合，例如“大鲸鱼”“最低配置”；两次降档后检查意愿，8分以上转分期，7分以下问“怎样才是10分”；每步后问**“成交？”**；用折扣交换评价、证言、推荐；服务降档全失败时，从**代做转自行完成**，销售家用工具或先免费指导再卖自助产品。现有客户取消前先做功能降档；Hormozi 业务中，降至更合身套餐的人拥有**第二高的终身价值**。
+
+---
+
+<a id="continuity-offers"></a>
+## 持续订阅方案
+
+持续提供价值，持续收款，直到取消。“羊毛可以剪一辈子，羊皮只能剥一次。”
+
+**为什么改变经济账：**向100人卖1,000美元单次产品，10人买，立即收10,000美元。相同价值改为每月50美元，40人买，门槛降低带来4倍客户；若留存20个月，每人终身价值1,000美元，**总计40,000美元**，但首月只有2,000美元。还多了4倍可升级客户。代价是今天现金少很多，因此放在现金方案之后。
+
+经验规则：客户获得**持续价值**，就收**持续费用**。一次工作坊分期付款，是分期，不是持续订阅。
+
+<a id="continuity-bonus-offer"></a>
+### 持续订阅赠品
+
+今天订阅，就送高价值赠品，通常价值超过首笔费用。广告聚焦**赠品，而非会员**。赠品可像升级一样提供更多、互补或更高档内容，但必须与核心方案有关，最好是已有内容或已在做的事。推介顺序：说明赠品价值→揭示锚点→“想知道怎么免费拿到吗”→“今天成为会员就免费，或单买XXX美元，你选哪个？”可叠加多个赠品，并逐一标价。
+
+**一次性与持续订阅定价表：**按月度等值费率的倍数设置一次性价格，引导订阅比例。
+
+| 目标订阅比例 | 一次性价格倍数 | 相比每月199美元的例子 |
+|---|---|---|
+| 50% | 1.33倍 | 一次399美元，月等值约266美元 |
+| 60% | 1.66倍 | 一次499美元，月等值约333美元 |
+| 70% | 2.0倍 | 一次599美元，月等值约399美元 |
+| 80% | 2.33倍 | 一次699美元，月等值约466美元 |
+| 90% | 2.66倍 | 一次799美元，月等值约532美元 |
+
+为了不作长期承诺，人们愿意多付约**33%**。**批量预付**如“买5送1”，即使只有八分之一的人接受，30天利润也可提高约50%。
+
+<a id="continuity-discount-offer"></a>
+### 持续订阅折扣
+
+用现在或以后免费的一段时间换取付费承诺。名称说明：这不违反“降档而非直接打折”，因为优惠换来了承诺，是结构性交换，不是为挽救成交而给同样东西降价。四种方式：
+
+| 方式 | 机制 | 最适合或最不适合 |
+|---|---|---|
+| **先免费** | 先免费一段，之后进入付费期限 | 合同执行有力的行业；不适合高流失；延后现金 |
+| **最后免费** | 按时完成全部期限后获得免费时间 | 流失较低、注册较少，现金安全 |
+| **分摊优惠** | 全期折成统一较低费率 | 保持现金流，例如12个月送3个月，600美元分为每月减50 |
+| **前1—2次付款后** | 先付首尾月或激活费，再抵扣 | 及早收款，确保支付方式有效 |
+
+**最精简却高价值的技巧：每4周而非每月收费。**一年13期而非12期，感知价格相同，收入多**8.3%**。利润率20%时，原文称利润可升**41%**。还可“加3%处理费”，原文称无人拒绝，利润率10%时利润增约30%；提供第二支付方式，优先ACH，则免除。以**礼品卡**发折扣，可送人带来推荐，忘记使用则全价注册。**在平均流失节点提供终身折扣**：客户留过该月份，才赢得永久低价。
+
+**取消：**提前定政策。Hormozi 的规则是取消费等于已获总优惠，公平简单。取消入口要容易找到，否则客户离开还会留差评。始终提供退出访谈，以免除费用换坦诚反馈，原文称可挽回约三分之一准备取消的人。
+
+<a id="waived-fee-offer"></a>
+### 免除费用方案
+
+> “按月续费需要启动费；承诺一年，我就免掉。”
+
+两项选择：A，支付相当于月费**3—5倍**的一次性启动费，此后按月，随时可走；B，承诺固定期限，默认12个月，**免启动费**，但提前取消就收取。例子：月费1,000美元，启动费5,000；A为5,000+每月1,000，B为每月1,000，只有违约才收5,000。
+
+费用促使客户**开始**，避免该费用本身有价值；也促使**留下**，因为离开比继续贵。费用越大，越多人承诺长期；费用较小，如月费**1.5—3倍**，更多人选逐月，今天现金更多。**超过5%想提前取消，就要调查**，不能把人锁在讨厌的产品里。履行完期限后解除费用义务。适合一年以上承诺与回报较慢的服务，如SEO、投资、减重。
+
+---
+
+<a id="cross-cutting-principles"></a>
+## 通用原则
+
+- **简单能规模化，花哨容易失败。**追求“一个产品的100种方案”，而非100个产品。例如私教每周1、2、3、4次，本质是一个产品、多种方案。
+- **联盟产品补缺口**：某阶段缺方案时，销售他人产品赚佣金，由对方交付。
+- **自由组合**：四类结构只是教学方便，升级手段可放进获客方案，持续订阅也可用于获客。
+- **重新表达得到与失去**：经济结果相同，表达不同，例如“预付优惠”与“利息”、“避免费用”与“返款”。改变措辞，不改变交易实质。

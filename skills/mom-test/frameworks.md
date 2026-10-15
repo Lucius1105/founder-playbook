@@ -1,113 +1,136 @@
-# Mom Test - Detailed Frameworks
+> 中文译文｜[英文对照](frameworks.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/mom-test/frameworks.md)。原项目整理：AgentSeal；书籍来源：《The Mom Test》— Rob Fitzpatrick；AI辅助翻译。
 
-## The VFWPA Email Framework (Cold Conversation Requests)
+<a id="mom-test---detailed-frameworks"></a>
+# Mom Test——详细框架
 
-For warm intro emails / cold outreach to potential interviewees:
+<a id="the-vfwpa-email-framework-cold-conversation-requests"></a>
+## VFWPA 邮件框架（向陌生人请求交流）
 
-| Letter | Element | Purpose |
+用于经人引荐的邮件，或向潜在受访者主动发送的陌生联系邮件：
+
+| 字母 | 要素 | 目的 |
 |--------|---------|---------|
-| **V**ision | Your big-picture goal | Why they should care |
-| **F**raming | Honest where you are | Sets expectations, removes pitch fear |
-| **W**eakness | What you don't know | Gives them a way to help |
-| **P**edestal | Why they specifically | Flatters genuinely, signals research |
-| **A**sk | Concrete request | Makes saying yes easy |
+| **V**ision：愿景 | 你的总体目标 | 解释为什么值得对方关注 |
+| **F**raming：交代背景 | 如实说明目前所处阶段 | 建立预期，消除对被推销的担忧 |
+| **W**eakness：知识缺口 | 你不了解什么 | 让对方知道怎样帮忙 |
+| **P**edestal：认可对方 | 为什么特意找他 | 真诚表达认可，显示你做过研究 |
+| **A**sk：请求 | 具体请求 | 让对方容易答应 |
 
-### Template
+<a id="template"></a>
+### 模板
 
+```text
+你好，[姓名]：
+
+我正在尝试[解决某个问题／实现某个愿景]。（愿景）
+
+我们刚起步，没有东西要卖，只想确保做出来的东西确实能帮上忙。（交代背景）
+
+我一直没弄明白[具体的知识缺口]。（知识缺口）
+
+你一直在[从事相关工作]，应该能帮助我理清这些问题。（认可对方）
+
+未来几周，你有时间见面聊聊吗？（请求）
 ```
-Hey [Name],
 
-I'm trying to [solve problem / achieve vision]. (VISION)
+<a id="where-to-find-people"></a>
+## 去哪里找人
 
-We're just starting out and don't have anything to sell, but want 
-to make sure we're building something that actually helps. (FRAMING)
-
-I'm having a hard time understanding [specific gap]. (WEAKNESS)
-
-You've been [doing relevant thing] and could really help me 
-cut through the fog. (PEDESTAL)
-
-Do you have time in the next couple weeks to meet up for a chat? (ASK)
-```
-
-## Where to Find People
-
-| Source | How |
+| 来源 | 方法 |
 |--------|-----|
-| Industry events | Conferences, meetups, trade shows |
-| Self-organized meetups | Unfair advantage - you control the room |
-| Universities | Professors have industry contacts |
-| LinkedIn cold outreach | Even works for executives |
-| Landing pages | Email everyone who signs up |
-| Cash in favors | Everyone who said "let me know how I can help" |
+| 行业活动 | 大会、聚会、展会 |
+| 自己组织的聚会 | 一种独特优势：你掌控现场 |
+| 大学 | 教授有人脉，可以联系到行业人士 |
+| LinkedIn 陌生触达 | 对高管也有效 |
+| 落地页 | 给每个登记的人发邮件 |
+| 请人兑现帮助意愿 | 联系所有说过“有什么能帮忙的尽管说”的人 |
 
-## Question Depth Hierarchy
+<a id="question-depth-hierarchy"></a>
+## 问题的深度层次
 
-### Surface (avoid)
-- "Do you like X?"
-- "Would X be useful?"
+<a id="surface-avoid"></a>
+### 表面层（避免）
 
-### Workflow (good)
-- "Walk me through how you do this today"
-- "What happens after that?"
-- "Where does this break down?"
+- “你喜欢 X 吗？”
+- “X 会有用吗？”
 
-### Motivation (better)
-- "Why do you bother?"
-- "What are the implications if you don't solve this?"
-- "What's the cost of doing nothing?"
+<a id="workflow-good"></a>
+### 工作流程层（好）
 
-### Commitment (best)
-- "Who else should I show this to?"
-- "Can I get back on your calendar after I build this?"
-- "Would you put down a deposit?"
+- “带我过一遍，你现在怎么做这件事？”
+- “然后发生什么？”
+- “哪里会出问题？”
 
-## Conversation Frame: The Casual Default
+<a id="motivation-better"></a>
+### 动机层（更好）
 
-### Why Formality Kills Conversations
-- Meetings cost 4+ hours with overhead
-- Sets expectation you'll pitch, inviting biased feedback
-- Feels like an interview, not a conversation
+- “你为什么要费心做这件事？”
+- “不解决的话，会有什么影响？”
+- “什么都不做的代价是什么？”
 
-### Better Approach
-- Strip the formality - reduce "meeting" to "chat"
-- Pop your most important question immediately
-- 5-10 minute casual conversations yield as much as formal meetings
-- Goal: they don't even realize they've "had a meeting"
+<a id="commitment-best"></a>
+### 承诺层（最好）
 
-## The Three Levels of Filtering
+- “我还应该给谁看这个？”
+- “做出来之后，能再约你聊一次吗？”
+- “你愿意付一笔定金吗？”
 
-When you hear customer signal, filter through three lenses:
+<a id="conversation-frame-the-casual-default"></a>
+## 对话基调：默认轻松交流
 
-| Layer | Question | Why |
+<a id="why-formality-kills-conversations"></a>
+### 正式感为什么会毁掉对话
+
+- 算上相关准备与往返，一次会议会花掉 4 个多小时。
+- 让对方预期你会推销，容易得到有偏差的反馈。
+- 感觉像接受采访，不像交流。
+
+<a id="better-approach"></a>
+### 更好的做法
+
+- 去掉正式感，把“开会”变成“聊聊”。
+- 直接问最重要的问题。
+- 5—10 分钟的随意交流，可以获得与正式会议同样多的信息。
+- 目标是让对方甚至没有意识到自己“开了个会”。
+
+<a id="the-three-levels-of-filtering"></a>
+## 三层筛选
+
+听到客户信号时，用三个视角加以筛选：
+
+| 层次 | 问题 | 原因 |
 |-------|----------|-----|
-| **Behavior** | What have they actually done? | Past beats hypothetical |
-| **Money** | Where does budget come from? | Reveals real priority |
-| **Process** | Who else is involved? | Tests buying complexity |
+| **行为** | 他们实际做过什么？ | 过去行为比假设可靠 |
+| **金钱** | 预算从哪里来？ | 揭示真正的优先级 |
+| **流程** | 还有谁参与？ | 检验购买流程的复杂程度 |
 
-## Minimum Useful Threshold
+<a id="minimum-useful-threshold"></a>
+## 达到可用信息量的最低门槛
 
-The book's general guidance is: keep going until you stop hearing new things.
+书中的总体建议是：持续交流，直到不再听到新信息。
 
-Practical signals you have enough:
-- Hearing the same problems repeatedly
-- Can predict the next interview's answers
-- Distinct segments emerging clearly
-- B2B with buying committees: talk to economic buyer, user, AND technical evaluator (these are typically different people)
+以下信号说明信息已经足够：
 
-If 10+ conversations and still confused → segment is too broad. Slice tighter, don't keep interviewing.
+- 反复听到相同的问题。
+- 能预测下一次访谈会得到的回答。
+- 不同客群逐渐清晰浮现。
+- 面对有采购委员会的 B2B 客户，要分别与经济决策者、使用者和技术评估者交流；他们通常是不同的人。
 
-## Three Big Questions Framework
+如果聊了 10 多次仍然困惑，说明客群太宽。应继续细分，而不是不停访谈。
 
-Before each round of conversations, decide with your team:
+<a id="three-big-questions-framework"></a>
+## 三个大问题框架
 
-1. What's the most important thing we need to learn?
-2. What would change our plans if we learned it?
-3. How will we know we've learned it?
+每轮交流前，与团队共同决定：
 
-After each round:
-1. What did we learn?
-2. How does this change what we'll do?
-3. What are the next 3 big questions?
+1. 我们最需要了解的是什么？
+2. 得知什么信息，会改变我们的计划？
+3. 如何判断已经弄清楚？
 
-This forces continual focus and prevents "interviewing for interviewing's sake."
+每轮交流后：
+
+1. 我们学到了什么？
+2. 这会如何改变接下来的行动？
+3. 接下来的三个大问题是什么？
+
+这样能持续聚焦，避免“为了访谈而访谈”。

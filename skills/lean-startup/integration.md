@@ -1,325 +1,361 @@
-# Integration - The Lean Startup
+> 中文译文｜[英文对照](integration.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/lean-startup/integration.md)。原项目整理：AgentSeal；书籍来源：《The Lean Startup》— Eric Ries；AI辅助翻译。
 
-## Relationship to Other Skills
+<a id="integration---the-lean-startup"></a>
+# 整合——The Lean Startup
 
-### Lean Startup --> Four Steps to the Epiphany
+<a id="relationship-to-other-skills"></a>
+## 与其他技能的关系
 
-**Lean Startup is the direct descendant of Four Steps.** Eric Ries was Steve Blank's student and implemented Customer Development at IMVU. The book was required reading for every IMVU hire. Ries explicitly credits Blank as the foundation.
+<a id="lean-startup----four-steps-to-the-epiphany"></a>
+### Lean Startup → The Four Steps to the Epiphany
 
-| Dimension | Four Steps (2005) | Lean Startup (2011) |
+**精益创业直接继承自 Four Steps。**Eric Ries 是 Steve Blank 的学生，在 IMVU 实施客户开发。Four Steps 曾是 IMVU 每位新员工的必读书，Ries 明确承认 Blank 是其思想基础。
+
+| 维度 | Four Steps（2005） | Lean Startup（2011） |
 |---|---|---|
-| **Core loop** | Customer Discovery <-> Customer Validation (iterative circles) | Build -> Measure -> Learn |
-| **Pivot concept** | Validation fails -> return to Discovery | Formalized as "pivot" with 10 specific types |
-| **Product approach** | "First release for the few, not the many" | Minimum Viable Product (MVP) with explicit types |
-| **Speed of iteration** | Weeks to months per cycle | Days to weeks (especially web/mobile) |
-| **Validation method** | Founder-led conversations + sales | Experiments, A/B tests, cohort analysis + conversations |
-| **Audience** | Enterprise B2B, hardware, deep tech | Web/mobile startups, SaaS, corporate innovation |
-| **Metrics** | Sales roadmap validation | Innovation accounting (baseline, tune, pivot-or-persevere) |
+| **核心循环** | 客户探索 ↔ 客户验证，迭代循环 | 构建 → 衡量 → 学习 |
+| **转型概念** | 验证失败，返回探索 | 正式定义转型，并列出十种具体类型 |
+| **产品方法** | “首版面向少数人，而非多数人。” | 最小可行产品（MVP），类型明确 |
+| **迭代速度** | 每轮数周至数月 | 数天至数周，尤其网页／移动产品 |
+| **验证方法** | 创始人主导对话与销售 | 实验、A/B 测试、同期群分析及对话 |
+| **对象** | 企业 B2B、硬件、深科技 | 网页／移动创业、SaaS、企业创新 |
+| **指标** | 验证销售路线图 | 创新核算：基线、调优、转型或坚持 |
 
-**What Lean Startup adds to Four Steps:**
-- The MVP concept (making "first release for the few" more explicit and faster)
-- Innovation accounting (quantitative metrics for validated learning)
-- Specific pivot types (zoom-in, zoom-out, customer segment, etc.)
-- Engines of growth framework (sticky, viral, paid)
-- Small batches and continuous deployment
-- Five Whys for organizational learning
-- Applicability to web/mobile where iteration is measured in days
+**Lean Startup 在 Four Steps 基础上增加的内容：**
 
-**What Four Steps has that Lean Startup doesn't:**
-- Market Type framework (existing/new/resegmented) - Lean Startup doesn't address this
-- Customer Creation step (how to launch and create demand) - Lean Startup stops at product/market fit
-- Company Building step (organizational transition) - Lean Startup focuses on pre-scale
-- New Lanchester Strategy for market entry cost analysis
-- Detailed sales roadmap construction methodology
-- Earlyvangelist identification framework with pain hierarchy scoring
+- MVP 概念，让“首版面向少数人”更明确、更快。
+- 创新核算，以定量指标衡量经验证的学习。
+- 具体转型类型：放大、缩小、客户细分等。
+- 增长引擎框架：黏性、病毒式、付费。
+- 小批量与持续部署。
+- 用五问法促进组织学习。
+- 适用于以天衡量迭代速度的网页／移动产品。
 
-**Where they conflict:**
-- Four Steps says "the initial product specification comes from the founders' vision." Lean Startup says "test everything empirically." In practice this is a matter of emphasis, not contradiction - both agree you need a vision AND you need to test it.
-- Four Steps is more prescriptive about organizational structure (mission-centric org, department templates). Lean Startup is more flexible.
+**Four Steps 有而 Lean Startup 没有的内容：**
 
-**Integration rule:** Use Four Steps for the strategic framework (especially Market Type and the four-step sequence). Use Lean Startup for the tactical iteration speed (especially MVPs, innovation accounting, and quantitative experiments). They are complementary, not competing.
+- 市场类型框架：现有、新建、重新细分，Lean Startup 没有讨论。
+- 客户创造：如何推出与创造需求，Lean Startup 止于产品市场匹配。
+- 公司建设：组织转型，Lean Startup 聚焦规模化之前。
+- 分析市场进入成本的新兰彻斯特战略。
+- 详细的销售路线图构建方法。
+- 带有痛点层次评分的早期核心客户识别框架。
+
+**冲突之处：**
+
+- Four Steps 认为“初始产品规格来自创始人愿景”；Lean Startup 主张“一切都做实证检验”。实际是侧重点不同，并非矛盾，两者都承认既要愿景，也要检验。
+- Four Steps 对组织结构给出更多具体规定，例如使命中心组织、部门模板；Lean Startup 更灵活。
+
+**整合规则：**用 Four Steps 提供战略框架，尤其市场类型与四步顺序；用 Lean Startup 提高具体迭代速度，尤其 MVP、创新核算、定量实验。两者互补，不是竞争。
 
 ---
 
-### Lean Startup --> Mom Test
+<a id="lean-startup----mom-test"></a>
+### Lean Startup → Mom Test
 
-**Lean Startup's Build-Measure-Learn loop needs good customer conversations. Mom Test provides the technique.**
+**构建—衡量—学习需要高质量客户对话，Mom Test 提供技巧。**
 
-| Dimension | Lean Startup | Mom Test |
+| 维度 | Lean Startup | Mom Test |
 |---|---|---|
-| **Focus** | Full loop: build, measure, learn | Specifically: how to LEARN from conversations |
-| **Conversation approach** | Mentions "genchi gembutsu" (go see for yourself) | Detailed rules for extracting truth without bias |
-| **What to build** | MVP to test assumptions | N/A (Mom Test is about conversations, not product) |
-| **Metrics** | Innovation accounting, cohort analysis | Commitments and advancement signals |
+| **重点** | 完整的构建、衡量、学习循环 | 专门研究如何从对话中学习 |
+| **对话方法** | 提到“现地现物”，亲自去看 | 详细规则：不带偏见地提取真相 |
+| **构建什么** | 用 MVP 检验假设 | 不适用，讨论对话而非产品 |
+| **指标** | 创新核算、同期群分析 | 承诺与推进信号 |
 
-**Where they align:**
-- Both say: listen to customer BEHAVIOR, not just words
-- Both say: don't pitch your product in learning conversations
-- Both say: compliments are worthless data ("that's a great idea!" is not validation)
-- Both say: specifics matter more than generalities
-- Lean Startup's genchi gembutsu ("go and see for yourself") is exactly what Mom Test teaches
+**一致之处：**
 
-**Where they complement:**
-- Lean Startup tells you WHEN to talk to customers (during the Learn phase) and WHAT to do with what you learn (update hypotheses, pivot or persevere)
-- Mom Test tells you HOW to have those conversations without contaminating the data
-- Lean Startup's quantitative validation (metrics, split tests) fills the gap where Mom Test's qualitative conversations aren't sufficient
-- Mom Test's conversation technique is essential during the BUILD phase (to understand what to build) and the LEARN phase (to understand why metrics moved)
+- 都关注客户行为，而不只是言语。
+- 都反对在学习型对话中推销产品。
+- 都认为赞美不是有用数据，“想法真棒”不等于验证。
+- 都认为具体事实比泛泛而谈重要。
+- Lean Startup 的“现地现物”，即亲自去看，正是 Mom Test 所教的。
 
-**Integration rule:** Use Mom Test conversation techniques whenever Lean Startup says "talk to customers" - particularly during hypothesis formation, post-experiment debriefs, and pivot-or-persevere deliberations. Mom Test is the HOW of the conversations; Lean Startup is the WHAT and WHEN.
+**互补之处：**
+
+- Lean Startup 告诉你何时与客户交谈，即学习阶段，以及如何处理所学：更新假设、转型或坚持。
+- Mom Test 告诉你怎样交谈，避免污染数据。
+- 当定性对话不足时，Lean Startup 的指标、分组测试等定量验证补足缺口。
+- 构建阶段需理解该做什么，学习阶段需理解指标为何变化，两处都需要 Mom Test 对话技巧。
+
+**整合规则：**Lean Startup 任何要求“与客户交谈”的地方，都用 Mom Test 技巧，尤其假设形成、实验后复盘、转型或坚持讨论。Mom Test 解决怎么谈，Lean Startup 解决做什么、何时做。
 
 ---
 
-### Lean Startup --> Crossing the Chasm
+<a id="lean-startup----crossing-the-chasm"></a>
+### Lean Startup → Crossing the Chasm
 
-**Lean Startup covers pre-product/market fit. Crossing the Chasm covers the transition to mainstream.**
+**Lean Startup 处理产品市场匹配之前，Crossing the Chasm 处理向主流市场过渡。**
 
-| Dimension | Lean Startup | Crossing the Chasm |
+| 维度 | Lean Startup | Crossing the Chasm |
 |---|---|---|
-| **Focus** | Finding product/market fit | Moving from early adopters to mainstream |
-| **Starting point** | Zero - no customers, no validation | Early adopter traction |
-| **End point** | Product/market fit (engine of growth running) | Mainstream market dominance in beachhead |
-| **Customer type** | Earlyvangelists / visionaries | Pragmatists (mainstream) |
-| **Key question** | "Should this product exist?" | "How do we get pragmatists to buy?" |
+| **重点** | 寻找产品市场匹配 | 从早期采用者进入主流 |
+| **起点** | 从零开始，无客户、无验证 | 已有早期采用者进展 |
+| **终点** | 产品市场匹配，增长引擎运转 | 在滩头市场主导主流市场 |
+| **客户类型** | 早期核心客户／愿景型客户 | 实用主义者，即主流客户 |
+| **关键问题** | “这个产品应该存在吗？” | “如何让实用主义者购买？” |
 
-**Where they overlap:**
-- Both acknowledge that early customers (earlyvangelists / visionaries) are fundamentally different from mainstream customers
-- Both recognize that what works for early customers often DOESN'T work for mainstream
-- Lean Startup's "engine of growth" concept partially overlaps with chasm-crossing strategy
+**重叠之处：**
 
-**Where they create tension:**
-- Lean Startup says "build for the few, iterate, let the product evolve." Crossing the Chasm says "pick a beachhead and build the WHOLE PRODUCT for that specific segment."
-- Lean Startup favors continuous iteration. Chasm-crossing requires a more deliberate strategic commitment to a specific segment.
-- Resolution: Lean Startup gets you to product/market fit with early adopters. Once there, Crossing the Chasm's beachhead strategy and whole-product thinking take over.
+- 都承认早期核心客户／愿景型客户与主流客户根本不同。
+- 都知道对早期客户有效的方法，对主流客户往往无效。
+- Lean Startup 的增长引擎概念与跨越鸿沟策略部分重叠。
 
-**Handoff rule:** Complete Lean Startup's Build-Measure-Learn until you have a running engine of growth with early adopters. THEN apply Crossing the Chasm to move into the mainstream. The handoff point is when your engine of growth is running but growth is slowing because you've saturated the early adopter market.
+**产生张力之处：**
+
+- Lean Startup 主张“为少数人构建、迭代，让产品演化”；Crossing the Chasm 主张“选择滩头市场，为这个具体客群做出完整产品”。
+- 精益创业偏好持续迭代，跨越鸿沟则需要更明确地在战略上押注某个客群。
+- 处理方法：Lean Startup 帮你在早期采用者中实现产品市场匹配；随后由 Crossing the Chasm 的滩头策略与完整产品思维接手。
+
+**交接规则：**持续运行构建—衡量—学习，直到在早期采用者中拥有运转的增长引擎，然后用 Crossing the Chasm 进入主流。交接时点是增长引擎已运转，但早期采用者市场饱和，增长开始放缓。
 
 ---
 
-### Lean Startup --> $100M Offers
+<a id="lean-startup----100m-offers"></a>
+### Lean Startup → $100M Offers
 
-**Tension: validation-first vs. offer-first.**
+**张力：验证优先与销售方案优先。**
 
-| Dimension | Lean Startup | $100M Offers |
+| 维度 | Lean Startup | $100M Offers |
 |---|---|---|
-| **Starting point** | Hypothesis about customer problem | Craft an irresistible offer |
-| **Validation** | Experiments, MVPs, innovation accounting | Market response to the offer |
-| **Product approach** | Build minimum, test, iterate | Design the offer to be so good people feel stupid saying no |
+| **起点** | 对客户问题的假设 | 制作令人难以拒绝的销售方案 |
+| **验证** | 实验、MVP、创新核算 | 市场对方案的反应 |
+| **产品方法** | 最小构建、测试、迭代 | 把方案做到令人觉得拒绝很傻 |
 
-**Where they conflict:**
-- $100M Offers assumes you know who the customer is and what they want. Lean Startup says you probably don't.
-- $100M Offers focuses on offer construction (bonuses, guarantees, scarcity, urgency). Lean Startup focuses on whether anyone wants what you're building at all.
-- $100M Offers' "Grand Slam Offer" approach can lead to premature optimization of an offer for a problem that hasn't been validated.
+**冲突之处：**
 
-**Where they complement:**
-- Once you've validated the value hypothesis (customers want this AND will pay), $100M Offers techniques can dramatically improve conversion
-- Lean Startup's innovation accounting can measure whether $100M Offers tactics actually move metrics (instead of just looking good)
-- $100M Offers' value stacking (bonuses, guarantees) can be tested as split-test experiments within the Lean Startup framework
+- $100M Offers 假定你知道客户是谁、想要什么；Lean Startup 认为很可能不知道。
+- $100M Offers 聚焦赠品、保障、稀缺性、紧迫感等方案构建；Lean Startup 聚焦是否有人想要你做的东西。
+- 大满贯方案方法可能让团队过早优化一个未经验证的问题的方案。
 
-**Integration rule:** Complete Build-Measure-Learn until you have validated demand (value hypothesis confirmed). THEN apply $100M Offers to optimize the offer structure. Use innovation accounting to measure whether offer changes actually improve metrics, not just conversion rates.
+**互补之处：**
+
+- 价值假设验证后，即客户想要且愿意付费，$100M Offers 可以显著改善转化。
+- 创新核算能够衡量这些技巧是否真正改变指标，而非只是好看。
+- 赠品、保障等价值叠加，可在精益创业框架中作为分组实验测试。
+
+**整合规则：**先通过构建—衡量—学习验证需求、确认价值假设，再用 $100M Offers 优化结构。用创新核算衡量方案变化是否真正改善各项指标，而不只看转化率。
 
 ---
 
-### Lean Startup --> SPIN Selling
+<a id="lean-startup----spin-selling"></a>
+### Lean Startup → SPIN Selling
 
-| Dimension | Lean Startup | SPIN Selling |
+| 维度 | Lean Startup | SPIN Selling |
 |---|---|---|
-| **Focus** | Should this product exist? | How to sell a complex product |
-| **Sales approach** | Founder-led, exploratory | Professional, structured questioning |
-| **When** | Pre-product/market fit | Post-product/market fit, during scaling |
+| **重点** | 产品应该存在吗？ | 如何销售复杂产品 |
+| **销售方法** | 创始人主导、探索性 | 专业、结构化提问 |
+| **时间** | 产品市场匹配之前 | 产品市场匹配之后、规模化期间 |
 
-**Where they complement:**
-- SPIN's Situation and Problem questions are excellent tools during the LEARN phase of Build-Measure-Learn
-- SPIN's Implication questions help founders understand the true cost of the problem they're solving (informing the value hypothesis)
-- SPIN's Need-Payoff questions can validate willingness to pay before building anything
-- Lean Startup's MVP + SPIN's consultative selling = powerful combination for B2B validation
+**互补之处：**
 
-**Integration rule:** Use SPIN's questioning framework during Lean Startup's customer conversations. SPIN provides structure for the exploratory conversations that Lean Startup requires but doesn't give detailed technique for. Especially useful in B2B contexts where the sales process is part of the validation.
+- SPIN 的情境和问题提问，是学习阶段的好工具。
+- 影响提问帮助创始人理解问题真实成本，为价值假设提供依据。
+- 需求回报问题可在开发任何东西之前验证支付意愿。
+- Lean Startup 的 MVP 加上 SPIN 顾问式销售，是 B2B 验证的有力组合。
+
+**整合规则：**在精益创业客户对话中使用 SPIN。它为本书要求、却未详细说明技巧的探索对话提供结构，尤其适用于销售流程本身就是验证一部分的 B2B 场景。
 
 ---
 
-### Lean Startup --> Obviously Awesome
+<a id="lean-startup----obviously-awesome"></a>
+### Lean Startup → Obviously Awesome
 
-| Dimension | Lean Startup | Obviously Awesome |
+| 维度 | Lean Startup | Obviously Awesome |
 |---|---|---|
-| **When to position** | After product/market fit (engine running) | After you have some customers and traction |
-| **Positioning approach** | Emergent from experiments | Systematic: competitive alternatives -> unique attributes -> value |
+| **何时定位** | 产品市场匹配、引擎运转之后 | 已有一些客户和市场进展之后 |
+| **定位方法** | 从实验中涌现 | 系统过程：竞争替代方案 → 独特属性 → 价值 |
 
-**Where they align:**
-- Both say: positioning must come from real customer understanding, not imagination
-- Both say: what customers value is often different from what you think they value
-- Lean Startup's validated learning about WHY customers use the product directly feeds Obviously Awesome's positioning process
+**一致之处：**
 
-**Where they complement:**
-- Lean Startup discovers what customers actually value through experiments and metrics
-- Obviously Awesome takes those discoveries and crafts them into positioning
-- Lean Startup can then TEST the positioning through split tests and cohort analysis
+- 定位应源于真实客户理解，而非想象。
+- 客户重视的东西，经常不同于你的预想。
+- 精益创业对客户为何使用产品的经验证学习，直接输入 Obviously Awesome 的定位流程。
 
-**Integration rule:** Use Lean Startup to discover what your product's actual value is (not what you think it is). Feed those discoveries into Obviously Awesome's positioning process. Then use Lean Startup's experimentation framework to test whether the positioning works.
+**互补之处：**
+
+- Lean Startup 用实验和指标发现客户实际重视什么。
+- Obviously Awesome 把这些发现组织为定位。
+- Lean Startup 再通过分组测试、同期群分析检验定位。
+
+**整合规则：**先用 Lean Startup 发现真实价值，而不是自以为的价值；将发现送入 Obviously Awesome 定位流程，再用实验框架检验定位是否有效。
 
 ---
 
-### Lean Startup --> Monetizing Innovation
+<a id="lean-startup----monetizing-innovation"></a>
+### Lean Startup → Monetizing Innovation
 
-| Dimension | Lean Startup | Monetizing Innovation |
+| 维度 | Lean Startup | Monetizing Innovation |
 |---|---|---|
-| **Pricing** | Tested through experiments (MVP at a price, measure conversion) | Designed into the product from the start using WTP research |
-| **Product design** | Build -> Measure -> Learn iteratively | Design product around price point from inception |
+| **定价** | 通过带价格的 MVP、转化衡量等实验检验 | 从一开始用支付意愿研究嵌入产品设计 |
+| **产品设计** | 反复构建 → 衡量 → 学习 | 从起点就围绕价格设计产品 |
 
-**Where they complement:**
-- Monetizing Innovation's willingness-to-pay research can inform the value hypothesis before building any MVP
-- Lean Startup's experimentation framework can test Monetizing Innovation's pricing predictions empirically
-- Monetizing Innovation's segmentation (by WTP) aligns with Lean Startup's customer archetype concept
+**互补之处：**
 
-**Where they create tension:**
-- Monetizing Innovation says "design the product around the price." Lean Startup says "test whether the product has value before worrying about price."
-- Resolution: For radically new products, validate value first (Lean Startup), then optimize pricing (Monetizing Innovation). For products in known categories, WTP research (Monetizing Innovation) can run in parallel with MVP testing.
+- 支付意愿研究可在做任何 MVP 之前为价值假设提供依据。
+- 精益创业实验框架能实证检验定价预测。
+- 按支付意愿细分，与精益创业的客户原型概念相符。
 
-**Integration rule:** Use Lean Startup to validate the value hypothesis first. Once you know customers want the product, use Monetizing Innovation to optimize the pricing and packaging. Lean Startup's split testing is the perfect mechanism for testing Monetizing Innovation's pricing hypotheses.
+**产生张力之处：**
+
+- Monetizing Innovation 说“围绕价格设计产品”；Lean Startup 说“先检验产品是否有价值，再担心价格”。
+- 处理方法：真正全新的产品先验证价值，再优化定价；已知品类中的产品，支付意愿研究可与 MVP 测试并行。
+
+**整合规则：**先用 Lean Startup 验证价值假设。知道客户想要产品后，再用 Monetizing Innovation 优化定价与包装。分组测试非常适合检验后者的定价假设。
 
 ---
 
-### Lean Startup --> Blue Ocean Strategy
+<a id="lean-startup----blue-ocean-strategy"></a>
+### Lean Startup → Blue Ocean Strategy
 
-| Dimension | Lean Startup | Blue Ocean Strategy |
+| 维度 | Lean Startup | Blue Ocean Strategy |
 |---|---|---|
-| **Market approach** | Test assumptions about any market | Create uncontested market space |
-| **Competition** | Focus on customer, not competitors | Explicitly eliminate/reduce competitive factors |
-| **Product design** | MVP -> iterate based on data | Strategy canvas -> four actions framework |
+| **市场方法** | 检验任何市场的假设 | 创造无争夺的市场空间 |
+| **竞争** | 聚焦客户，而非竞争者 | 明确剔除／减少竞争因素 |
+| **产品设计** | MVP → 根据数据迭代 | 战略画布 → 四步动作框架 |
 
-**Where they complement:**
-- Blue Ocean's strategy canvas can help identify which leap-of-faith assumptions to test first
-- Blue Ocean's four actions framework (eliminate/reduce/raise/create) can generate hypotheses for Lean Startup to test
-- Lean Startup's experimentation validates whether a blue ocean strategy actually has demand
-- Blue Ocean without Lean Startup risks creating a market that doesn't exist. Lean Startup without Blue Ocean might iterate within a crowded red ocean.
+**互补之处：**
 
-**Integration rule:** Use Blue Ocean Strategy to identify potential uncontested market spaces. Use Lean Startup to validate whether customers actually want what the blue ocean offers. The strategy canvas generates hypotheses; Build-Measure-Learn tests them.
+- 蓝海战略画布有助于决定先测试哪些信念飞跃式假设。
+- 剔除、减少、增加、创造的四步动作，可以生成精益创业要测试的假设。
+- 精益创业实验验证蓝海策略是否真的有需求。
+- 蓝海缺少精益创业，可能创造不存在的市场；精益创业缺少蓝海，则可能一直在拥挤红海中迭代。
+
+**整合规则：**用蓝海战略识别潜在的无争夺空间，再用精益创业验证客户是否真正需要蓝海所提供的东西。战略画布生成假设，构建—衡量—学习检验假设。
 
 ---
 
-### Lean Startup --> $100M Leads
+<a id="lean-startup----100m-leads"></a>
+### Lean Startup → $100M Leads
 
-| Dimension | Lean Startup | $100M Leads |
+| 维度 | Lean Startup | $100M Leads |
 |---|---|---|
-| **Focus** | Finding product/market fit | Generating leads at scale |
-| **When** | Pre-product/market fit | Post-product/market fit |
-| **Growth approach** | Engines of growth (sticky/viral/paid) | Detailed tactics for each lead channel |
+| **重点** | 寻找产品市场匹配 | 规模化获取销售线索 |
+| **何时使用** | 产品市场匹配之前 | 产品市场匹配之后 |
+| **增长方法** | 黏性／病毒式／付费引擎 | 各获客渠道的详细战术 |
 
-**Where they complement:**
-- Lean Startup's engine of growth framework determines WHICH type of lead generation to invest in
-- $100M Leads provides detailed tactical playbooks for the PAID engine of growth
-- Lean Startup's innovation accounting measures whether $100M Leads tactics actually work
-- $100M Leads' "lead magnet" concept can function as a smoke-test MVP
+**互补之处：**
 
-**Integration rule:** Determine your engine of growth first (Lean Startup). If running the paid engine, use $100M Leads for tactical lead generation. Measure all lead generation experiments using innovation accounting (cohort analysis, actionable metrics), not vanity metrics (total leads generated).
+- 增长引擎框架决定应投资哪类获客方式。
+- $100M Leads 为付费增长引擎提供具体操作方法。
+- 创新核算衡量这些战术是否真正有效。
+- $100M Leads 的“获客诱饵”也可作为烟雾测试 MVP。
+
+**整合规则：**先决定增长引擎。如果是付费引擎，再用 $100M Leads 具体获客。用同期群分析、可行动指标等创新核算衡量所有实验，而非只看线索总量等虚荣指标。
 
 ---
 
+<a id="lean-startup--money-models"></a>
 ### Lean Startup → Money Models
 
-| Dimension | Lean Startup | Money Models |
+| 维度 | Lean Startup | Money Models |
 |---|---|---|
-| **Focus** | Engines of growth (sticky/viral/paid) | Sequencing offers so each customer funds acquiring the next |
-| **Symptom addressed** | Paid engine breaking (rising CPA, falling LTV) | Same symptom, fixed via payback speed rather than more spend |
+| **重点** | 黏性／病毒式／付费增长引擎 | 安排销售方案顺序，让每位客户支持下一位客户的获取 |
+| **解决的症状** | 付费引擎失灵，CPA 上升、LTV 下降 | 同样症状，但通过回本速度修复，而非增加支出 |
 
-**Where they complement:**
-- The Paid engine of growth is the most fragile of the three - it breaks the moment competitors bid up CPA or LTV assumptions prove optimistic. Money Models attacks the same failure mode differently: instead of assuming the engine itself is broken, fix payback speed by sequencing offers (attraction, upsell, downsell, continuity) so cash returns in ~30 days.
-- The two frameworks rhyme on method: Lean Startup's "small batches" = Money Models' "perfect one offer at a time" before adding the next; Lean Startup's innovation accounting = Money Models' "raise price until nos outweigh yeses" (pricing as a testable hypothesis, not a fixed input).
+**互补之处：**
 
-**Integration rule:** When the paid engine of growth is faltering, don't just diagnose it as a growth-loop problem (Lean Startup) - check whether payback speed is the actual constraint (Money Models). Sequence offers to fix cash-flow timing before concluding the engine is dead.
+- 付费引擎是三者中最脆弱的：竞争者抬高 CPA，或 LTV 假设过于乐观，都能让它立刻失灵。Money Models 不直接假定引擎坏了，而是通过吸引、升级销售、降档销售、持续收费的顺序，改善回本速度，让现金约 30 天回来。
+- 两者方法相通：精益创业的“小批量”，对应 Money Models 的“一次完善一个方案，再加下一个”；创新核算对应“涨价直到拒绝多于接受”，把价格作为可检验假设，而非固定输入。
 
----
-
-## The Master Sequence
-
-```
-PHASE 1: SEARCH (Pre-product/market fit)
-|-- Lean Startup: Build-Measure-Learn loop, MVP, innovation accounting
-|-- Four Steps: Customer Discovery + Customer Validation (strategic framework)
-|-- Mom Test: conversation technique for the Learn phase
-|-- SPIN Selling: questioning structure for B2B validation
-|-- Monetizing Innovation: WTP research to inform value hypothesis
-+-- $100M Offers: offer construction (only after value hypothesis validated)
-
-PHASE 2: LAUNCH (Post-validation, pre-mainstream)
-|-- Lean Startup: engines of growth, small batches, Five Whys
-|-- Four Steps: Customer Creation (Market Type + launch strategy)
-|-- Obviously Awesome: positioning (fed by Lean Startup's learning)
-|-- $100M Leads: lead generation (for paid engine of growth)
-|-- Blue Ocean Strategy: market space analysis
-+-- Influence: persuasion in messaging
-
-PHASE 3: SCALE (Mainstream growth)
-|-- Lean Startup: adaptive organization, innovation sandbox, Five Whys
-|-- Four Steps: Company Building
-|-- Crossing the Chasm: chasm-crossing strategy
-+-- Crossing the Chasm: bowling alley expansion
-```
+**整合规则：**付费引擎不顺时，不只诊断增长循环，也检查真正约束是否是回本速度。在断言引擎已死之前，先通过方案顺序改善现金流时间。
 
 ---
 
-## Lean Startup Within Established Companies
+<a id="the-master-sequence"></a>
+## 总体顺序
 
-### When to Apply
+```text
+阶段1：寻找（产品市场匹配之前）
+├─ Lean Startup：构建—衡量—学习、MVP、创新核算。
+├─ Four Steps：客户探索＋客户验证，提供战略框架。
+├─ Mom Test：学习阶段的对话技巧。
+├─ SPIN Selling：B2B验证的提问结构。
+├─ Monetizing Innovation：支付意愿研究，为价值假设提供依据。
+└─ $100M Offers：价值假设验证后，才做销售方案构建。
 
-Lean Startup isn't just for garage startups. The book dedicates significant space to corporate innovation:
+阶段2：推出（验证之后、主流之前）
+├─ Lean Startup：增长引擎、小批量、五问法。
+├─ Four Steps：客户创造，市场类型与推出策略。
+├─ Obviously Awesome：定位，承接精益创业的学习。
+├─ $100M Leads：为付费增长引擎获客。
+├─ Blue Ocean Strategy：市场空间分析。
+└─ Influence：信息表达中的说服。
 
-| Situation | Apply Lean Startup? |
+阶段3：规模化（主流市场增长）
+├─ Lean Startup：自适应组织、创新沙盒、五问法。
+├─ Four Steps：公司建设。
+├─ Crossing the Chasm：跨越鸿沟策略。
+└─ Crossing the Chasm：保龄球道式扩张。
+```
+
+---
+
+<a id="lean-startup-within-established-companies"></a>
+## 在成熟企业内部使用精益创业
+
+<a id="when-to-apply"></a>
+### 何时应用
+
+精益创业不只适用于车库创业，本书用了大量篇幅讨论企业创新：
+
+| 情境 | 是否应用精益创业 |
 |---|---|
-| New product line for existing company | YES - use innovation sandbox |
-| Incremental feature for existing product | MAYBE - use Build-Measure-Learn for risky features |
-| Optimizing existing funnel | PARTIALLY - use split testing and cohort analysis |
-| Managing existing mature business | NO - use operational excellence frameworks |
-| Exploring adjacent markets | YES - treat as a startup within the company |
+| 现有公司的新产品线 | 是，使用创新沙盒 |
+| 现有产品的渐进功能 | 视情况，风险较高的功能使用构建—衡量—学习 |
+| 优化现有漏斗 | 部分使用，做分组测试、同期群分析 |
+| 管理成熟的现有业务 | 否，使用卓越运营框架 |
+| 探索邻近市场 | 是，把它当公司内部的创业项目 |
 
-### The Innovation Sandbox Integration
+<a id="the-innovation-sandbox-integration"></a>
+### 创新沙盒整合
 
-For established companies, the innovation sandbox is the bridge between Lean Startup and corporate governance:
+对于成熟公司，创新沙盒是精益创业与企业治理之间的桥梁：
 
-```
-STARTUP WORLD                    CORPORATE WORLD
------------                      ---------------
-Full autonomy                    Full governance
-Zero accountability structure    Heavy accountability structure
-        \                        /
-         \                      /
-          INNOVATION SANDBOX
-          - Contained scope (limited customers/features)
-          - Standard actionable metrics
-          - Team autonomy within boundaries
-          - Clear team leader (shusa)
-          - Same metrics across all sandboxed experiments
+```text
+创业世界                      大公司世界
+────────                      ──────────
+完全自主                      完整治理
+没有问责结构                  重度问责结构
+       \                     /
+        \                   /
+             创新沙盒
+        - 范围受限，客户／功能有限。
+        - 标准化的可行动指标。
+        - 边界内团队自主。
+        - 明确团队负责人，类似主查（shusa）。
+        - 所有沙盒实验使用相同指标。
 ```
 
 ---
 
-## Intellectual Lineage
+<a id="intellectual-lineage"></a>
+## 思想谱系
 
-```
-TOYOTA PRODUCTION SYSTEM (Taiichi Ohno, 1950s-1980s)
-|-- Small batches, just-in-time, andon cord, Five Whys
-|-- Lean Manufacturing (Womack & Jones, 1990s)
-|   +-- Applied Toyota principles to Western manufacturing
-|
-+-- Steve Blank's Four Steps to the Epiphany (2005)
-    |-- Customer Development as parallel process to Product Development
-    |-- Market Type framework
-    |-- Earlyvangelist concept
-    |
-    +-- Eric Ries's The Lean Startup (2011)
-        |-- Build-Measure-Learn loop
-        |-- MVP as experiment
-        |-- Innovation accounting
-        |-- Pivot as structured hypothesis change
-        |-- Applied Toyota's small batches + Five Whys to startups
-        |
-        +-- Lean Analytics (Croll & Yoskovitz, 2013)
-        +-- Running Lean (Ash Maurya, 2012)
-        +-- The Startup Way (Ries, 2017)
+```text
+丰田生产方式（大野耐一，20世纪50—80年代）
+├─ 小批量、准时制、安灯拉绳、五问法。
+├─ 精益制造（Womack与Jones，20世纪90年代）
+│   └─ 将丰田原则用于西方制造业。
+│
+└─ Steve Blank的The Four Steps to the Epiphany（2005）
+    ├─ 客户开发与产品开发并行。
+    ├─ 市场类型框架。
+    ├─ 早期核心客户概念。
+    │
+    └─ Eric Ries的The Lean Startup（2011）
+        ├─ 构建—衡量—学习循环。
+        ├─ MVP作为实验。
+        ├─ 创新核算。
+        ├─ 转型是结构化改变假设。
+        ├─ 将丰田小批量与五问法用于创业。
+        │
+        ├─ Lean Analytics（Croll与Yoskovitz，2013）
+        ├─ Running Lean（Ash Maurya，2012）
+        └─ The Startup Way（Ries，2017）
 
-Also influenced by:
-- W. Edwards Deming (quality movement, systems thinking)
-- Clayton Christensen (The Innovator's Dilemma - disruptive innovation)
-- John Boyd (OODA loop - Observe, Orient, Decide, Act)
-- Geoffrey Moore (Crossing the Chasm - technology adoption)
-- Frederick Winslow Taylor (scientific management - Ries draws explicit parallel)
+其他影响来源：
+- W. Edwards Deming：质量运动、系统思维。
+- Clayton Christensen：The Innovator's Dilemma，颠覆性创新。
+- John Boyd：OODA循环，观察、判断方位、决策、行动。
+- Geoffrey Moore：Crossing the Chasm，技术采用。
+- Frederick Winslow Taylor：科学管理，Ries明确作过类比。
 ```

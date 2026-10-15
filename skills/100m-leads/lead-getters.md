@@ -1,226 +1,254 @@
-# 100m-leads - Lead Getters Playbook
+> 中文译文｜[英文对照](lead-getters.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/100m-leads/lead-getters.md)。原项目整理：AgentSeal；原书：Alex Hormozi《$100M Leads》；AI 辅助翻译。
 
-Once YOU can get leads, get others to do it for you. Lead Getters scale lead gen beyond your personal capacity.
+<a id="100m-leads---lead-getters-playbook"></a>
+# 100m-leads — 获客伙伴实操手册
 
-## The 4 Types
+当你自己已经能够获取线索，就让其他人帮助你做。获客伙伴能让线索增长突破个人产能的限制。
 
-| Type | Who | How to Get Them |
+<a id="the-4-types"></a>
+## 4种类型
+
+| 类型 | 对象 | 如何获得 |
 |------|-----|-----------------|
-| **Customers** | Existing buyers | Referral program |
-| **Employees** | Your team | Train + incentivize |
-| **Agencies** | Marketing firms | Pay for results |
-| **Affiliates** | Partners with audiences | Commission structure |
+| **客户** | 现有买家 | 转介绍计划 |
+| **员工** | 你的团队 | 培训与激励 |
+| **代理机构** | 营销公司 | 为结果付费 |
+| **联盟伙伴** | 有受众的合作方 | 佣金机制 |
 
-## Type 1: Customers (Referrals)
+<a id="type-1-customers-referrals"></a>
+## 类型1：客户（转介绍）
 
-Customers are typically the highest-converting source - they pre-qualify referrals.
+客户通常是转化率最高的来源，因为他们会先替你筛选被推荐的人。
 
-### 6 Ways to Build Goodwill (Before Asking)
+<a id="6-ways-to-build-goodwill-before-asking"></a>
+### 请求前，积累好感的6种方式
 
-| Lever | How |
+| 途径 | 做法 |
 |-------|-----|
-| What they're paying for | Deliver on your promises |
-| How it's delivered | Make experience seamless |
-| Constant communication | Keep them in the loop |
-| Problems you solve along the way | Fix issues fast |
-| Speed of service | Faster = more value |
-| Unexpected extras | Surprise and delight |
+| 客户付钱购买的内容 | 兑现承诺 |
+| 交付方式 | 让体验顺畅 |
+| 持续沟通 | 让客户了解进展 |
+| 沿途解决的问题 | 迅速处理问题 |
+| 服务速度 | 更快意味着更多价值 |
+| 预期之外的附加价值 | 制造惊喜，让客户满意 |
 
-Goodwill is the precondition for referrals. A satisfied customer might refer; a delighted one will.
+好感是转介绍的前提。满意的客户可能会推荐，惊喜的客户更愿意推荐。
 
-### 7 Ways to Ask for Referrals
+<a id="7-ways-to-ask-for-referrals"></a>
+### 请求转介绍的7种方式
 
-| Approach | Timing |
+| 方式 | 时机 |
 |----------|--------|
-| **After a big win** | Right when they're happiest |
-| **Right when they buy** | On checkout page, ask for names |
-| **As negotiation chip** | "I'll give a discount for 3 intros" |
-| **Referral events** | 1-4 week campaigns ("Bring a friend week") |
-| **Ongoing program** | Talk about benefits of doing things with friends |
-| **Unlockable bonuses** | Refer X friends, unlock VIP tier |
-| **Gift cards** | Give them a gift card to give to friends (expiring) |
+| **取得重大成果之后** | 客户最开心时 |
+| **刚购买时** | 在结账页请客户提供推荐人选 |
+| **作为谈判筹码** | “介绍3位联系人，可以给你优惠。” |
+| **转介绍活动** | 持续1—4周的活动，如“带朋友体验周” |
+| **持续计划** | 介绍与朋友一起参与的好处 |
+| **可解锁奖励** | 推荐 X 位朋友，解锁 VIP 等级 |
+| **礼品卡** | 给客户可转赠朋友、有到期日的礼品卡 |
 
-### Referral Program Design Principles
+<a id="referral-program-design-principles"></a>
+### 转介绍计划的设计原则
 
-A referral program needs:
+一个计划需要：
 
-1. **Mutual benefit** - Both referrer and new customer get something
-2. **Easy to do** - One-click sharing, pre-written messages
-3. **Clear reward** - Specific dollar amount or unambiguous benefit
-4. **Tracking** - You know who referred whom
-5. **Speed** - Reward delivered fast (don't wait 90 days)
+1. **双方受益**——推荐人和新客户都能得到东西。
+2. **操作简单**——一键分享、预写好的消息。
+3. **奖励明确**——具体金额或毫无歧义的好处。
+4. **可以追踪**——知道是谁推荐了谁。
+5. **兑现迅速**——尽快发奖励，不要等90天。
 
-### Example Reward Structures
+<a id="example-reward-structures"></a>
+### 奖励结构示例
 
-| Structure | Example | Best For |
+| 结构 | 示例 | 最适合 |
 |-----------|---------|----------|
-| Cash to both sides | "$X to you, $X to them" | High-margin services |
-| Discount to both | "20% off you, 20% off them" | Subscription products |
-| Tier unlock for referrer | "Refer 3 friends, get VIP" | Community/access products |
-| Affiliate-style commission | "Earn 20% lifetime" | Coaching, info products |
-| Charitable donation | "$X to charity per referral" | Mission-driven brands |
+| 双方获得现金 | “你得 X 美元，对方也得 X 美元。” | 高毛利服务 |
+| 双方获得折扣 | “你和对方各享八折。” | 订阅产品 |
+| 推荐人解锁等级 | “推荐3位朋友，获得 VIP。” | 社群或访问权限类产品 |
+| 联盟式佣金 | “获得终身20%的佣金。” | 教练服务、知识产品 |
+| 公益捐赠 | “每次推荐，向公益机构捐 X 美元。” | 使命驱动的品牌 |
 
-The "give $X / get $X" symmetric pattern is common because it works in both directions: the referrer feels generous, the new customer doesn't feel sold to.
+“送出 X、得到 X”的对称结构很常见，因为它兼顾双方：推荐人觉得自己在送好处，新客户也不觉得被推销。
 
-Source note: Specific dollar amounts and the "100/100/100" framing are coaching-content level prescriptions whose exact numbers should be calibrated to your business; treat any specific tier as a starting point, not a rule.
+来源说明：具体金额和“100/100/100”说法属于辅导内容中的建议，应按你的业务校准；把具体档位作为起点，而非固定规则。
 
-### Why Customers Don't Refer
+<a id="why-customers-dont-refer"></a>
+### 为什么客户不推荐
 
-Customers refer when benefits to them outweigh risk of hurting friendship. Make referrals EASY (one-click) and REWARDING (clear value).
+当推荐带来的收益大于损伤友谊的风险时，客户才会行动。让推荐**容易做**，例如一键分享；也让它**值得做**，例如明确奖励。
 
-If your referral program isn't working, usually:
-- The product isn't actually delight-level (fix product first)
-- The ask is awkward (smooth the experience)
-- The reward is too small (test bigger)
-- Tracking is broken (referrers don't trust they'll get credit)
+如果计划没有效果，通常是因为：
 
-## Type 2: Employees
+- 产品还没有好到让人惊喜：先修产品。
+- 请求方式尴尬：改善体验。
+- 奖励太小：测试更大奖励。
+- 追踪失灵：推荐人不相信自己能被计入。
 
-Your team gets leads while you focus elsewhere.
+<a id="type-2-employees"></a>
+## 类型2：员工
 
-### When to Hire Each Lead-Gen Role
+让团队获取线索，你就能专注其他事情。
 
-Specific revenue thresholds vary by industry, margin, and labor cost. Below are directional staging guidelines:
+<a id="when-to-hire-each-lead-gen-role"></a>
+### 何时招聘各类获客岗位
 
-| Stage | Action |
+具体收入门槛取决于行业、利润率和人力成本。以下提供阶段方向：
+
+| 阶段 | 行动 |
 |-------|--------|
-| Solo founder, early | You do warm outreach |
-| Some traction | Add content OR cold outreach |
-| First scaling | First hire does outreach (the channel you've already mastered) |
-| Profitable | Add paid ads |
-| Mid scale | Referral program operator |
-| Growing | Agency or affiliate management |
-| Mature | All four channels run by team, you steer |
+| 单人创业初期 | 自己做熟人触达 |
+| 初见增长 | 增加内容或陌生开发 |
+| 首次放大规模 | 第一位员工接手你已经掌握的触达渠道 |
+| 已盈利 | 加入付费广告 |
+| 中等规模 | 配置转介绍计划运营人员 |
+| 持续增长 | 管理代理机构或联盟伙伴 |
+| 成熟 | 团队运行四种渠道，你负责方向 |
 
-Don't hire someone for a channel you haven't mastered yourself. They'll have nothing to copy.
+不要把自己还没掌握的渠道交给新员工，否则他们没有可复制的做法。
 
-### Training Employees: The 3Ds
+<a id="training-employees-the-3ds"></a>
+### 培训员工：3D 法
 
-| Step | What | Test |
+| 步骤 | 内容 | 检验 |
 |------|------|------|
-| **Document** | Write down exactly how YOU do it (checklist form) | Can a stranger follow it? |
-| **Demonstrate** | Do it in front of them, walk through each step | Did they see every micro-decision? |
-| **Duplicate** | They do it in front of you, following your checklist | Do they get your results? |
+| **Document：记录** | 用清单准确写下你如何执行 | 陌生人能照着做吗？ |
+| **Demonstrate：示范** | 当面操作，逐步讲解 | 对方看到了每一个细小判断吗？ |
+| **Duplicate：复现** | 对方按清单在你面前执行 | 能得到与你相当的结果吗？ |
 
-Source note: The "3Ds" formulation (Document/Demonstrate/Duplicate) is consistent with Hormozi's training content. Other frameworks use slightly different letters (e.g., "I Do, We Do, You Do" - the same idea).
+来源说明：“记录／示范／复现”的3D 表述与 Hormozi 的培训内容一致。其他框架可能使用略有差异的说法，例如“我做、一起做、你做”，意思相近。
 
-**Test:** If you vanished tomorrow, could a stranger get your results following only your checklist?
+**测试：** 如果你明天不在，一个陌生人只靠清单，能取得你的结果吗？
 
-### Compensation Structures for Lead-Gen Employees
+<a id="compensation-structures-for-lead-gen-employees"></a>
+### 获客岗位的薪酬结构
 
-| Structure | Use When |
+| 结构 | 适用情况 |
 |-----------|----------|
-| Salary | New hire learning the playbook |
-| Salary + bonus per qualified lead | Volume-driven roles |
-| Commission only | Experienced sales, high-ticket |
-| Salary + commission | Most common balance |
+| 固定工资 | 新员工学习手册时 |
+| 固定工资＋每条合格线索奖金 | 以数量驱动的岗位 |
+| 纯佣金 | 经验丰富的销售、高客单价业务 |
+| 固定工资＋佣金 | 最常见的平衡方案 |
 
-The closer their compensation tracks the metric you want, the better they'll perform on that metric.
+薪酬越贴近你希望改善的指标，员工越会在该指标上投入。
 
-## Type 3: Agencies
+<a id="type-3-agencies"></a>
+## 类型3：代理机构
 
-Pay specialists for results.
+付钱请专业人士取得结果。
 
-### When Agencies Make Sense
-- You have a profitable channel but lack time/expertise to scale
-- You need a specific platform skill you don't have in-house
-- The unit economics support agency margin
+<a id="when-agencies-make-sense"></a>
+### 何时适合使用代理机构
 
-### Agency Selection Filters
+- 已有盈利渠道，但没有时间或能力放大。
+- 需要内部没有的某个平台专长。
+- 单位经济模型足以覆盖代理机构的利润空间。
 
-| Filter | Question |
+<a id="agency-selection-filters"></a>
+### 代理机构筛选标准
+
+| 标准 | 问题 |
 |--------|----------|
-| Specific results | Show me 3 case studies in my exact vertical |
-| Tenure | How long have you worked with your longest client? |
-| Communication | What's the response time SLA? |
-| Reporting | What does monthly reporting look like? |
-| Skin in the game | Are you willing to tie payment to performance? |
+| 具体结果 | 请给我看3个与我完全相同细分行业的案例。 |
+| 合作时长 | 与合作最久的客户合作了多久？ |
+| 沟通 | 响应时间的服务水平约定（SLA）是什么？ |
+| 报告 | 月报长什么样？ |
+| 共担结果 | 愿意将费用与效果挂钩吗？ |
 
-### Common Agency Failure Patterns
+<a id="common-agency-failure-patterns"></a>
+### 代理机构常见失败模式
 
-| Pattern | Mitigation |
+| 模式 | 应对 |
 |---------|-----------|
-| Set up well, then go quiet | Monthly performance review meetings |
-| Black-box reporting | Demand access to ad accounts |
-| Scope creep | Clear scope of work, change orders for additions |
-| One person doing the work, billed at agency rate | Ask who specifically is on your account |
-| Won't share what they're doing | Walk away |
+| 前期设置不错，之后没动静 | 每月开效果复盘会 |
+| 黑箱式报告 | 要求获得广告账户访问权限 |
+| 工作范围不断扩大 | 明确范围，新增事项通过变更单处理 |
+| 实际只有一人工作，却按机构收费 | 问清具体由谁服务账户 |
+| 不愿分享在做什么 | 结束合作 |
 
-### Pay Structures
+<a id="pay-structures"></a>
+### 付费结构
 
-| Structure | Pros | Cons |
+| 结构 | 优点 | 缺点 |
 |-----------|------|------|
-| Flat retainer | Predictable | No upside for results |
-| % of ad spend | Aligns with budget | Incentive to spend, not perform |
-| % of revenue | Aligns with results | Hard to verify, attribution fights |
-| Performance-based | Best alignment | Few agencies accept |
+| 固定服务费 | 可预测 | 结果提升没有额外激励 |
+| 按广告支出比例收费 | 与预算挂钩 | 鼓励多花钱，而非提高效果 |
+| 按收入比例收费 | 与结果挂钩 | 难核实，容易争论归因 |
+| 按效果收费 | 利益最一致 | 愿意接受的机构少 |
 
-Hybrid (small retainer + performance bonus) is often the workable middle ground.
+较低固定服务费加效果奖金，通常是可行的折中。
 
-## Type 4: Affiliates
+<a id="type-4-affiliates"></a>
+## 类型4：联盟伙伴
 
-Partners with audiences who refer customers for commission.
+有受众的合作方通过推荐客户获得佣金。
 
-### Where Affiliates Differ from Customers
+<a id="where-affiliates-differ-from-customers"></a>
+### 联盟伙伴与普通客户的区别
 
-| Aspect | Customers | Affiliates |
+| 方面 | 客户 | 联盟伙伴 |
 |--------|-----------|------------|
-| Motivation | Help friend, get reward | Income |
-| Volume | Low per person | Can be very high |
-| Quality | High (pre-qualified) | Variable (audience match dependent) |
-| Effort to manage | Low | Moderate to high |
+| 动机 | 帮朋友、获得奖励 | 收入 |
+| 数量 | 每人通常较少 | 可能非常大 |
+| 质量 | 高，已预先筛选 | 取决于受众匹配程度 |
+| 管理投入 | 低 | 中到高 |
 
-### Affiliate Program Essentials
+<a id="affiliate-program-essentials"></a>
+### 联盟计划的必要组成
 
-| Element | Detail |
+| 要素 | 细节 |
 |---------|--------|
-| Commission rate | Usually 20-40% for digital products; lower for physical |
-| Cookie window | 30-90 days typical |
-| Tracking | Must be reliable; fights happen over attribution |
-| Materials | Provide swipe copy, banners, landing pages |
-| Reporting | Real-time dashboards |
-| Payout terms | Net 30 typical; faster wins more affiliates |
+| 佣金率 | 数字产品通常20%—40%，实物产品较低 |
+| Cookie 归因窗口 | 通常30—90天 |
+| 追踪 | 必须可靠，归因容易引发争议 |
+| 素材 | 提供可套用文案、横幅、落地页 |
+| 报告 | 实时仪表盘 |
+| 付款条件 | 通常按 Net 30，即约定起算点后30天付款；更快付款更能吸引伙伴 |
 
-### Affiliate Recruitment
+<a id="affiliate-recruitment"></a>
+### 招募联盟伙伴
 
-| Source | How |
+| 来源 | 做法 |
 |--------|-----|
-| Existing customers | "Refer a friend" upgrade to affiliate program |
-| Industry creators | Direct outreach to creators in your space |
-| Affiliate networks | ShareASale, Impact, etc. |
-| Strategic partners | Complementary (non-competing) businesses |
-| Past customers turned superfan | Often best converters |
+| 现有客户 | 将“推荐朋友”升级为联盟计划 |
+| 行业创作者 | 主动联系所在领域的创作者 |
+| 联盟网络 | ShareASale、Impact 等 |
+| 战略伙伴 | 互补且不竞争的企业 |
+| 成为忠实粉丝的老客户 | 往往转化最好 |
 
-### Common Affiliate Failures
+<a id="common-affiliate-failures"></a>
+### 联盟计划常见失败原因
 
-- No materials = no participation (creators won't write copy from scratch)
-- Slow payouts = dead program (affiliates tell each other)
-- Bad attribution = fights and churn
-- Wrong audience match = low conversion regardless of effort
-- Brand reputation issues = good affiliates won't promote
+- 没有素材，就没人参与：创作者不愿从零写文案。
+- 付款慢，计划就会失去活力：伙伴会互相交流。
+- 归因差，导致争议和流失。
+- 人群不匹配，再努力也难以提高转化。
+- 品牌声誉有问题，优质伙伴不愿推广。
 
-## Lead-Getter Layering
+<a id="lead-getter-layering"></a>
+## 分层建立获客伙伴体系
 
-The full stack:
+完整结构：
 
 ```
-You (Core Four mastery)
+你自己（掌握核心四渠道）
    ↓
-Employees (run Core Four for you)
+员工（替你运行核心四渠道）
    ↓
-Customers (refer)
+客户（转介绍）
    ↓
-Affiliates (promote)
+联盟伙伴（推广）
    ↓
-Agencies (specialist scale)
+代理机构（用专长放大规模）
 ```
 
-Each layer compounds. The mature business has all five generating leads simultaneously.
+每一层都会积累效应。成熟企业中，这五层会同时贡献线索。
 
-## When NOT to Add Lead Getters
+<a id="when-not-to-add-lead-getters"></a>
+## 何时不应增加获客伙伴
 
-- You haven't mastered the channel yourself
-- Unit economics don't support paying others
-- No tracking infrastructure to measure their work
-- Customer experience is poor (referrals will burn out fast)
-- The offer doesn't convert
+- 自己尚未掌握渠道。
+- 单位经济模型不足以支付他人报酬。
+- 没有追踪系统衡量他们的工作。
+- 客户体验差，转介绍很快会耗尽。
+- 方案本身无法转化。

@@ -1,436 +1,484 @@
 ---
 name: traction
-description: "Applies the Bullseye Framework from Traction by Gabriel Weinberg and Justin Mares. Use when choosing growth channels, testing customer acquisition strategies, or deciding where to spend marketing effort. Covers all 19 traction channels with selection methodology, testing protocol, and phase-matched channel advice. Triggers include 'how do we get customers', 'which marketing channel should we use', 'we have a product but no users', 'our growth has stalled', 'should we do content marketing or paid ads', 'how do we test traction channels', 'what channels work at our stage'. NOT for product development (use Lean Startup), not for positioning/messaging (use Obviously Awesome), not for pricing (use Monetizing Innovation), not for enterprise sales methodology (use SPIN Selling)."
+description: "应用 Gabriel Weinberg 与 Justin Mares 所著 Traction 的靶心框架。适用于选择增长渠道、测试获客策略、决定营销精力投向。覆盖全部 19 种增长渠道及其选择方法、测试流程和阶段匹配建议。触发情境包括‘如何获得客户’‘该用哪个营销渠道’‘有产品但没用户’‘增长停滞’‘做内容还是投广告’‘如何测试增长渠道’‘当前阶段什么渠道有效’。不用于产品开发（用 Lean Startup）、定位与信息表达（用 Obviously Awesome）、定价（用 Monetizing Innovation）或企业销售方法（用 SPIN Selling）。"
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/traction/SKILL.md)。原项目整理：AgentSeal；书籍来源：《Traction》— Gabriel Weinberg 与 Justin Mares；AI辅助翻译。
 
+> **说明：** 本技能是独立分析与评论，并非原书文本的复制。它将书中核心思想与当代创业实践结合，指出框架过时或不完整之处，并融合相邻学科视角。完整论证与背景请阅读原书。
 
-# Traction
+<a id="traction"></a>
+# Traction（增长牵引力）
 
-> "Almost every failed startup has a product. What failed startups don't have is enough customers." - Gabriel Weinberg
+> “几乎每一家失败的初创企业都有产品。它们缺少的是足够多的客户。”——Gabriel Weinberg
 
-## Should You Use This Skill?
-
-```
-Do you have a product (or MVP) but not enough customers?
-|-- YES --> Do you know which acquisition channel works?
-|   |-- NO  --> THIS SKILL. Run the Bullseye Framework.
-|   +-- YES --> Is that channel still working?
-|               |-- YES --> Keep going. Re-run Bullseye when it saturates.
-|               +-- NO  --> THIS SKILL. All channels saturate eventually.
-+-- NO  --> Do you have a product at all?
-            |-- NO  --> Use Lean Startup first. But read the 50% Rule below.
-            +-- YES, but nobody wants it --> Use Lean Startup / Four Steps first.
-```
-
----
-
-## The Core Insight
-
-**Poor distribution - not product - is the number one cause of startup failure.** Most founders are product people who neglect traction. They assume that if they build something great, customers will come. They won't.
-
-### The 50% Rule
-
-> "Spend 50% of your time on product and 50% on traction."
-
-This is not "build first, then market." It is: pursue product development and traction **in parallel from day one.** Traction work informs product decisions. Product decisions constrain traction options.
-
-Marketo built SEO and a blog before the product existed. By launch, they had a 14,000-buyer pipeline waiting.
-
-### Why Founders Get This Wrong
+<a id="should-you-use-this-skill"></a>
+## 你应该使用本技能吗？
 
 ```
-FOUNDER BIAS:                          REALITY:
-"We just need a better product"        You need customers, not features
-"Marketing is for later"               Traction takes as long as product
-"We'll figure it out after launch"     Post-launch is too late to start
-"Our product will sell itself"          No product sells itself at zero users
-"We tried ads, they didn't work"       You tried ONE of 19 channels
+已有产品或 MVP，却没有足够客户？
+├─ 是 → 知道哪个获客渠道有效吗？
+│       ├─ 不知道 → 使用本技能，运行靶心框架
+│       └─ 知道 → 该渠道仍有效吗？
+│                 ├─ 是 → 继续，饱和时再运行靶心框架
+│                 └─ 否 → 使用本技能，所有渠道最终都会饱和
+└─ 否 → 到底有没有产品？
+        ├─ 没有 → 先用 Lean Startup，但请读下文 50% 规则
+        └─ 有，但没人想要 → 先用 Lean Startup／Four Steps
 ```
 
 ---
 
-## The 19 Traction Channels
+<a id="the-core-insight"></a>
+## 核心洞见
 
-Every startup's growth comes from one or more of these channels. **Most founders only consider 3-4 of them.** The rest are invisible - and that's where the opportunity is.
+**分销不力，而非产品本身，是初创企业失败的头号原因。** 多数创始人擅长产品，却忽视增长。他们以为做出好东西，客户就会来，实际上不会。
 
-| # | Channel | Best For |
-|---|---------|----------|
-| 1 | **Viral Marketing** | Products with inherent sharing loops |
-| 2 | **Public Relations** | Launches, story-driven products |
-| 3 | **Unconventional PR** | Stunts, customer appreciation, standing out |
-| 4 | **Search Engine Marketing (SEM)** | Existing demand, measurable ROI |
-| 5 | **Social & Display Ads** | Demand generation, audience targeting |
-| 6 | **Offline Ads** | Mass market, local businesses, older demographics |
-| 7 | **Search Engine Optimization (SEO)** | Long-tail demand, content-rich products |
-| 8 | **Content Marketing** | Thought leadership, inbound leads |
-| 9 | **Email Marketing** | Activation, retention, upsell |
-| 10 | **Engineering as Marketing** | Free tools that attract your audience |
-| 11 | **Targeting Blogs** | Phase I startups, niche audiences |
-| 12 | **Business Development** | Partnerships, distribution deals |
-| 13 | **Sales** | High-value, enterprise products |
-| 14 | **Affiliate Programs** | High-CAC verticals (finance, hosting, dating) |
-| 15 | **Existing Platforms** | App stores, social platforms, marketplaces |
-| 16 | **Trade Shows** | B2B, compressed relationship-building |
-| 17 | **Offline Events** | Community-driven products, long sales cycles |
-| 18 | **Speaking Engagements** | B2B, thought leadership, enterprise |
-| 19 | **Community Building** | Developer tools, marketplaces, passion products |
+<a id="the-50-rule"></a>
+### 50% 规则
 
-> "Founders tend to use traction channels they're already familiar with. This is a mistake. The channel that will work for your startup is probably one you haven't considered."
+> “50% 时间用于产品，50% 用于增长。”
 
----
+不是“先开发再营销”，而是从第一天起，产品开发与增长**并行**。增长工作为产品决策提供依据，产品决策又约束增长选择。
 
-## The Bullseye Framework
+Marketo 在产品存在前就建设 SEO 和博客。发布时，已有 14,000 位潜在买家在销售管道中等待。
 
-Five steps to find the ONE channel that moves the needle right now.
-
-### Step 1: Brainstorm
-
-Generate **at least one concrete idea** for every one of the 19 channels. Not "we could try SEO" but "we could write comparison pages for every competitor and rank for '[competitor] alternative'."
-
-**Audit your biases:**
-- Which channels are you ignoring because they seem "unsexy"?
-- Which channels would your competitors never try?
-- Which channels feel like too much work? (That's where the opportunity is.)
-
-### Step 2: Rank
-
-Sort all 19 into three columns:
-
-| Column A: Inner Circle | Column B: Potential | Column C: Long-shot |
-|---|---|---|
-| Most promising 3 channels | Could work, less confident | Unlikely, but possible |
-| Test these first | Test if A fails | Revisit later |
-
-### Step 3: Prioritize
-
-Narrow Column A to **exactly 3 channels.** Not 5. Not 1. Three.
-
-For each, answer four questions:
-1. **Cost to acquire a customer** through this channel?
-2. **How many customers** are available through this channel?
-3. **Are the customers the RIGHT customers** (quality)?
-4. **What's the time to acquire** (cycle time)?
-
-### Step 4: Test
-
-Run cheap, parallel tests on all three inner-circle channels.
-
-**Testing rules:**
-- Spend ~$250 per channel to get a signal (not $25,000)
-- Run 2-4 ads, not 40
-- Test whether the channel CAN work, not whether it's optimized
-- Time-box: 1-2 weeks per test
-- Measure: cost per acquisition, volume, quality, cycle time
-
-> "The goal of testing is not to get traction. It is to determine whether a channel could work."
-
-### Step 5: Focus
-
-At any given time, **one channel dominates your customer acquisition.** Once you find it through testing, pour all traction effort into it. Optimize aggressively. Wring it dry.
-
-When the channel saturates (rising costs, diminishing returns), re-run the Bullseye Framework from Step 1.
+<a id="why-founders-get-this-wrong"></a>
+### 创始人为何容易判断错
 
 ```
-BULLSEYE FLOW:
-  Brainstorm (all 19) --> Rank (A/B/C) --> Prioritize (top 3)
-       --> Test (cheap, parallel) --> Focus (one channel)
-                                         |
-                                         v
-                                    Channel saturates?
-                                    |-- NO --> Keep optimizing
-                                    +-- YES --> Re-run Bullseye
+创始人偏见：                       现实：
+“只需要更好的产品”                 需要客户，不是更多功能
+“营销以后再做”                     增长需要的时间与产品一样长
+“发布以后再想”                     发布后才开始太晚
+“产品会自己卖出去”                 用户为零时，没有产品会自己卖
+“试过广告，没用”                   你只试了 19 个渠道中的一个
 ```
 
 ---
 
-## Three Product Phases
+<a id="the-19-traction-channels"></a>
+## 19 种增长渠道
 
-Different things "move the needle" at each phase:
+每家初创企业的增长都来自其中一个或多个。**多数创始人只考虑 3—4 个。** 其余渠道看不见，而机会往往在那里。
 
-| Phase | Goal | What Works |
-|---|---|---|
-| **Phase I** | Making something people want | Unscalable things: manual recruiting, guest posts, talks, direct outreach, targeting blogs |
-| **Phase II** | Marketing something people want | The leaky bucket is plugged. Pour traction in. SEO, SEM, content marketing, email, ads |
-| **Phase III** | Scaling growth | Optimize and scale what's working. Layer on additional channels. |
+| 序号 | 渠道 | 最适合 |
+|------|------|--------|
+| 1 | **病毒营销** | 自带分享循环的产品 |
+| 2 | **公共关系** | 产品发布、故事驱动产品 |
+| 3 | **非常规公关** | 吸睛事件、感谢客户、脱颖而出 |
+| 4 | **搜索引擎营销，SEM** | 已有需求、可测量投资回报 |
+| 5 | **社交与展示广告** | 创造需求、精准受众定位 |
+| 6 | **线下广告** | 大众市场、本地企业、年长人群 |
+| 7 | **搜索引擎优化，SEO** | 长尾需求、内容丰富的产品 |
+| 8 | **内容营销** | 思想领导力、主动上门线索 |
+| 9 | **邮件营销** | 激活、留存、增售 |
+| 10 | **以工程做营销** | 吸引目标受众的免费工具 |
+| 11 | **定向接触博客** | 第一阶段初创企业、利基受众 |
+| 12 | **商务拓展，BD** | 合作关系、分销协议 |
+| 13 | **销售** | 高价值、企业级产品 |
+| 14 | **联盟营销计划** | 获客成本高的行业，如金融、主机托管、交友 |
+| 15 | **现有平台** | 应用商店、社交平台、交易市场 |
+| 16 | **行业展会** | B2B、集中建立关系 |
+| 17 | **线下活动** | 社群驱动产品、长销售周期 |
+| 18 | **演讲** | B2B、思想领导力、企业市场 |
+| 19 | **社群建设** | 开发者工具、交易市场、热爱驱动的产品 |
 
-### Phase-Channel Map
-
-```
-PHASE I (finding product/market fit):
-  Best: Targeting Blogs, Speaking, Community Building,
-        Unconventional PR, Offline Events, Sales (direct)
-  Why: unscalable, high-touch, feedback-rich
-
-PHASE II (growth with product/market fit):
-  Best: SEO, SEM, Content Marketing, Email Marketing,
-        Viral Marketing, Engineering as Marketing
-  Why: scalable, measurable, compounding
-
-PHASE III (scaling):
-  Best: Offline Ads, Affiliate Programs, Business Development,
-        Existing Platforms, Trade Shows
-  Why: volume, partnerships, broad reach
-```
-
----
-
-## Critical Path
-
-A single **Traction Goal** (e.g., "1% search market share" or "$100K MRR"), then an ordered list of absolutely necessary milestones with dependencies.
-
-Every activity is judged against the critical path: **"If it is not on the path, don't do it."**
-
-```
-TRACTION GOAL: _________________________
-
-CRITICAL PATH:
-  Milestone 1: _____________ (dependency: none)
-  Milestone 2: _____________ (dependency: Milestone 1)
-  Milestone 3: _____________ (dependency: Milestone 1)
-  Milestone 4: _____________ (dependency: Milestones 2+3)
-  ...
-  TRACTION GOAL
-
-Everything not on this path is a distraction.
-```
+> “创始人倾向于使用熟悉的增长渠道，这是错误的。真正适合你的渠道，很可能是你从未考虑过的。”
 
 ---
 
-## Channel Summaries
+<a id="the-bullseye-framework"></a>
+## 靶心框架
 
-### 1. Viral Marketing
+五步找到当前真正推动增长的一个渠道。
 
-Six loop types: word of mouth, inherent (product usage exposes non-users), collaboration (multi-user features), embedded (signatures, badges), incentivized (referral rewards), social broadcasts (auto-sharing).
+<a id="step-1-brainstorm"></a>
+### 第一步：头脑风暴
 
-**Math:** Viral coefficient K = invites sent per user x conversion rate. K > 1 = exponential growth. Even K > 0.5 significantly amplifies other channels.
+为 19 个渠道中的每一个生成**至少一个具体想法**。不是“可以试试 SEO”，而是“为每个竞品写对比页，争取排到‘[竞品]替代方案’搜索结果前列”。
 
-**Critical insight:** Viral cycle TIME matters more than K. YouTube's cycle time is minutes (watch, share, watch). If your cycle time is weeks, even K > 1 is slow.
+**审查偏见：**
+- 哪些渠道因为看起来“不够酷”而被忽略？
+- 哪些渠道竞争者绝不会尝试？
+- 哪些渠道感觉太费力？机会往往在那里。
 
-### 2. Public Relations
+<a id="step-2-rank"></a>
+### 第二步：排序
 
-**The filter-up media chain:** Small forums (HN, reddit) --> mid-tier blogs (TechCrunch, Lifehacker) --> major outlets (NYT, CNN). Don't pitch the top. Pitch the small site that the top reads.
+将全部 19 个渠道分成三列：
 
-Use HARO (Help A Reporter Out) to respond to journalist queries. Build reporter relationships before you need them.
+| A 列：内圈 | B 列：有潜力 | C 列：希望较小 |
+|------------|--------------|----------------|
+| 最有希望的 3 个渠道 | 可能有效，信心较低 | 不太可能，但仍有机会 |
+| 先测试 | A 失败后测试 | 以后重新考虑 |
 
-### 3. Unconventional PR
+<a id="step-3-prioritize"></a>
+### 第三步：确定优先级
 
-Two types: publicity stunts (engineered spectacles) and customer appreciation (small, scalable acts of kindness).
+A 列缩减为**恰好三个渠道**，不是五个，也不是一个。
 
-WePay dropped a 600-pound block of ice with frozen money at PayPal's dev conference. Dollar Shave Club's $5K video got 12K customers in 2 days - the same reach as Gillette's $60M annual budget.
+对每个渠道回答：
+1. **获客成本**是多少？
+2. **能获得多少客户**？
+3. **客户是否正确**，质量如何？
+4. **获客需要多久**，周期多长？
 
-### 4. Search Engine Marketing (SEM)
+<a id="step-4-test"></a>
+### 第四步：测试
 
-Only works when existing search demand exists. Long-tail keywords + negative keywords. Quality Score is primarily driven by CTR.
+对内圈三个渠道并行开展低成本测试。
 
-**Benchmark:** ~$250 spend gives a rough channel read. Average AdWords CTR ~2%.
+**测试规则：**
+- 每渠道投入约 250 美元获取信号，而非 25,000 美元。
+- 跑 2—4 个广告，不是 40 个。
+- 测试渠道能否有效，而非是否已优化到最好。
+- 限时：每项测试 1—2 周。
+- 衡量获客成本、数量、质量、周期。
 
-### 5. Social & Display Ads
+> “测试的目标不是直接获得增长，而是判断一个渠道是否可能有效。”
 
-Demand generation (creating awareness) vs. demand harvesting (capturing existing intent). Social ads work best when you amplify what's already getting organic traction.
+<a id="step-5-focus"></a>
+### 第五步：聚焦
 
-### 6. Offline Ads
+在任一时刻，**一个渠道会主导获客**。测试找到后，把全部增长精力投入其中，积极优化，充分挖掘。
 
-Remnant inventory (unsold ad space) can be negotiated up to 90% off rate card. DuckDuckGo's $7K/month San Francisco privacy billboard doubled their userbase that month.
-
-### 7. Search Engine Optimization (SEO)
-
-Two strategies: Fat-head (top 18.5% of search volume, direct category terms) and Long-tail (70% of volume, specific multi-word queries). Validate fat-head terms with AdWords first. Content + links. Stay white-hat.
-
-### 8. Content Marketing
-
-Takes ~6 months minimum to gain traction. Feeds 8 other channels. HubSpot gets 70-80% of leads from content vs. 10% industry average. Inbound leads cost half as much and close 100% better.
-
-### 9. Email Marketing
-
-For acquisition, engagement, retention, revenue, AND referrals. Lifecycle emails keyed to drop-off points. Patrick McKenzie: email subscribers were 70x more likely to buy than other leads.
-
-### 10. Engineering as Marketing
-
-Build free tools as permanent marketing assets. HubSpot's Marketing Grader: 3M+ sites used. Codecademy's Code Year: 450K signups, nearly doubled userbase. Host on its own SEO-friendly domain.
-
-### 11. Targeting Blogs
-
-Best Phase I channel. Find niche blogs your audience reads. Mint acquired 20K pre-launch signups through blog outreach, 1M users in 6 months.
-
-### 12. Business Development
-
-BD trades value through partnerships; sales trades dollars for product. Five types: standard, joint ventures, licensing, distribution, supply. Pipeline of 50-100 active prospects.
-
-### 13. Sales
-
-For high-priced products. SPIN Selling framework: Situation, Problem, Implication, Need-payoff. Funnel: Generate --> Qualify --> Close. Every drop-off is a blockage to remove.
-
-### 14. Affiliate Programs
-
-$2B+ retail affiliate market. Best for high-CAC verticals: financial services, insurance, dating, hosting. Advertiser bears no click risk - commission only on clean conversions.
-
-### 15. Existing Platforms
-
-App stores, browser extensions, social platforms, marketplaces. Be early on emerging platforms. AirBnB's Craigslist integration. Evernote's multi-platform day-one strategy.
-
-### 16. Trade Shows
-
-Best for B2B in compressed time. Outbound (walking the floor) is 3-4x more valuable than inbound (waiting at your booth). Visit as a guest the year before exhibiting.
-
-### 17. Offline Events
-
-Conferences, meetups, parties. Twitter's SXSW 2007: $11K on flat-panel screens, tweets jumped 20K/day to 60K/day. "Just about the only money Twitter's ever spent on marketing."
-
-### 18. Speaking Engagements
-
-Best for B2B/enterprise. Two-talk doctrine: build two solid talks, reuse with light tweaks. Each slide should be a complete story so a 60-min talk compresses to 20 by removing slides.
-
-### 19. Community Building
-
-Five pillars: establish mission, foster cross-connections (member-to-member, not just member-to-company), communicate personally, be transparent, ensure quality. DuckDuckGo: every employee was a community member first.
-
----
-
-## Testing Principles
-
-### Test vs. Optimize
-
-**Testing** answers: "Could this channel work at all?" (2 ads + 2 landing pages, ~$250)
-
-**Optimizing** answers: "How do we maximize this channel?" (A/B tests, landing page iterations, copy refinement)
-
-Don't optimize a channel before you've proven it can work. Don't test 40 variations when 4 will give you a signal.
-
-### The Law of Shitty Click-Throughs
-
-> All marketing strategies decay over time. - Andrew Chen
-
-Every channel saturates. Banner ads once had 78% CTR. Now: 0.1%. This means:
-- No channel works forever
-- Early movers in a channel have an advantage
-- You must constantly re-evaluate (re-run Bullseye)
-
-### Measurement
-
-Four things to measure per channel test:
-1. **Cost per acquisition (CPA)** - what does one customer cost?
-2. **Volume** - how many customers are available?
-3. **Quality** - are these the RIGHT customers?
-4. **Time** - how long from first touch to customer?
-
-Tools: Mixpanel, Clicky, Optimizely, Unbounce
-
----
-
-## Decision Trees
-
-### "Which channel should we try first?"
+当成本上升、回报递减、渠道饱和时，从第一步重新运行靶心框架。
 
 ```
-What phase are you in?
-|-- Phase I (pre-product/market fit)
-|   --> Do you have a niche audience?
-|       |-- YES --> Targeting Blogs + Community Building + Speaking
-|       +-- NO  --> Unconventional PR + Offline Events + Direct Sales
-|
-|-- Phase II (product works, need growth)
-|   --> Is there existing search demand for your category?
-|       |-- YES --> SEO + SEM + Content Marketing
-|       +-- NO  --> Is your product inherently shareable?
-|                   |-- YES --> Viral Marketing + Social Ads
-|                   +-- NO  --> Email Marketing + Engineering as Marketing
-|
-+-- Phase III (scaling what works)
-    --> What's your price point?
-        |-- High (enterprise) --> BD + Trade Shows + Sales
-        |-- Medium (SaaS) --> Affiliate + Existing Platforms + SEO
-        +-- Low (consumer) --> Offline Ads + Viral + Social Ads
-```
-
-### "Our current channel stopped working"
-
-```
-Has CPA risen above LTV?
-|-- YES --> Is this channel-wide (competitors too)?
-|   |-- YES --> Channel is saturating. Re-run Bullseye.
-|   +-- NO  --> Your creative/targeting is stale. Refresh before abandoning.
-+-- NO  --> Has volume plateaued?
-            |-- YES --> You've captured available demand. Layer a second channel
-            |           or re-run Bullseye for new primary.
-            +-- NO  --> Keep optimizing. You haven't maxed it yet.
+靶心流程：
+  头脑风暴，全部 19 个 → 排序，A/B/C → 优先级，前三
+       → 低成本并行测试 → 聚焦一个渠道
+                             │
+                             ↓
+                         渠道饱和了吗？
+                         ├─ 否 → 继续优化
+                         └─ 是 → 重新运行靶心框架
 ```
 
 ---
 
-## Critical Numbers & Rules of Thumb
+<a id="three-product-phases"></a>
+## 产品的三个阶段
 
-| Number | Rule |
-|--------|------|
-| **50%** | Time to spend on traction (vs product) |
-| **19** | Total traction channels to brainstorm across |
-| **3** | Inner-circle channels to test simultaneously |
-| **1** | Channel that dominates acquisition at any given time |
-| **~$250** | Minimum spend to test whether an SEM channel can work |
-| **2-4** | Ads to run per test (not 40) |
-| **1-2 weeks** | Time-box per channel test |
-| **6 months** | Minimum for content marketing to gain traction |
-| **78% --> 0.1%** | Banner ad CTR decay (Law of Shitty Click-Throughs) |
-| **K > 1** | Viral coefficient needed for exponential growth |
-| **70x** | Email subscribers vs. other leads in purchase likelihood (McKenzie) |
+每个阶段，真正推动增长的事情不同：
 
----
+| 阶段 | 目标 | 有效方法 |
+|------|------|----------|
+| **第一阶段** | 做出人们想要的东西 | 不可规模化行动：手工招募、客座文章、演讲、直接触达、接触博客 |
+| **第二阶段** | 营销人们想要的东西 | 漏桶已经补好，注入增长：SEO、SEM、内容、邮件、广告 |
+| **第三阶段** | 扩大增长 | 优化并放大有效方法，增加其他渠道 |
 
-## Common Failure Patterns
+<a id="phase-channel-map"></a>
+### 阶段与渠道映射
 
-| Pattern | Mechanism | Cure |
-|---------|-----------|------|
-| **"Build it and they will come"** | 100% product, 0% traction | 50% rule from day one |
-| **Channel bias** | Only trying channels you know (usually content + social) | Brainstorm all 19; the overlooked channel is often the winner |
-| **Optimizing before testing** | Running 40 ad variations before proving the channel works | Test with 2-4 ads first; optimize only after proof |
-| **Spreading too thin** | Trying 8 channels simultaneously | Focus on one at a time after testing top 3 |
-| **Premature scaling** | Pouring money into a channel before product/market fit | Phase I channels first; scalable channels after PMF |
-| **Ignoring "schlep" channels** | Avoiding trade shows, sales, BD because they're hard | Competitors avoid them too - that's the opportunity |
-| **Not re-running Bullseye** | Sticking with a saturating channel | All channels decay; re-evaluate when growth stalls |
+```
+第一阶段：寻找产品市场匹配
+  最佳：接触博客、演讲、社群建设、非常规公关、线下活动、直销
+  原因：不可规模化、深度接触、反馈丰富
+
+第二阶段：有产品市场匹配后的增长
+  最佳：SEO、SEM、内容营销、邮件营销、病毒营销、以工程做营销
+  原因：可规模化、可衡量、可积累复利
+
+第三阶段：扩大规模
+  最佳：线下广告、联盟计划、商务拓展、现有平台、行业展会
+  原因：数量、合作关系、广覆盖
+```
 
 ---
 
-## Modern Relevance (2014 --> 2026)
+<a id="critical-path"></a>
+## 关键路径
 
-### Where Traction Still Applies
-- The 19-channel taxonomy is comprehensive and still valid
-- Bullseye Framework is timeless - systematic channel testing works in any era
-- The 50% rule is still the most common founder mistake to violate
-- "Do things that don't scale" remains the best Phase I advice
+设定一个**增长目标**，例如“搜索市场份额 1%”或“月度经常性收入 10 万美元”，再列出带依赖关系、绝对必要且有顺序的里程碑。
 
-### Where It Shows Its Age
-- **AI-native distribution** - LLM recommendations, AI agents, and chatbot integrations are a new channel not covered
-- **Creator economy** - influencer marketing has matured into its own channel beyond "targeting blogs"
-- **Product-led growth (PLG)** - free tiers and self-serve onboarding blur the line between product and traction
-- **Short-form video** - TikTok/Reels/Shorts didn't exist; social ads chapter is pre-TikTok
-- **Privacy changes** - iOS 14.5 ATT, cookie deprecation, and GDPR have materially changed paid acquisition
-- **Tool recommendations** - many specific tools mentioned are defunct or superseded
+每项活动都对照关键路径判断：**“不在路径上，就不要做。”**
 
-### What Weinberg Got Permanently Right
-- Systematic channel testing beats intuition
-- Most founders only consider 3-4 of 19 available channels
-- One channel dominates at any given time
-- All channels saturate - constant re-evaluation required
-- Traction and product development should run in parallel
-- The overlooked, "unsexy" channel is often the winner
+```
+增长目标：_________________________
+
+关键路径：
+  里程碑 1：_____________（无依赖）
+  里程碑 2：_____________（依赖里程碑 1）
+  里程碑 3：_____________（依赖里程碑 1）
+  里程碑 4：_____________（依赖里程碑 2 和 3）
+  ……
+  增长目标
+
+路径之外的一切都是干扰。
+```
 
 ---
 
-## Supporting Files
+<a id="channel-summaries"></a>
+## 渠道概览
 
-- **[frameworks.md](frameworks.md)** - Bullseye Framework deep dive, critical path methodology, channel testing protocol, each of the 19 channels with detailed tactics and mechanics, phase-channel matching, Law of Shitty Click-Throughs
-- **[cases.md](cases.md)** - Mint ($170M acquisition via blog targeting), Half.com (unconventional PR), DuckDuckGo (billboard + community), Dollar Shave Club ($5K video), JBoss ($350M acquisition via sales funnel), HubSpot (content + engineering as marketing), Dropbox (viral), Twitter SXSW (offline events), Evernote (existing platforms), WePay (publicity stunt)
-- **[examples.md](examples.md)** - Bullseye brainstorm worksheet, channel test template, critical path planner, CPA/LTV calculator, channel scoring matrix, viral coefficient calculator, end-to-end example startup
-- **[integration.md](integration.md)** - Relationship to Lean Startup (traction testing IS Build-Measure-Learn for growth), relationship to Four Steps (Customer Creation = Traction), relationship to $100M Leads (tactical overlap), relationship to Crossing the Chasm (beachhead channel selection), master sequence
+<a id="1-viral-marketing"></a>
+### 1. 病毒营销
+
+六种循环：口碑、产品内生传播（使用时让非用户接触产品）、协作（多人功能）、嵌入传播（签名、徽章）、激励传播（推荐奖励）、社交广播（自动分享）。
+
+**计算：** 病毒系数 K＝每用户发出邀请数 × 转化率。K＞1 带来指数增长；即使 K＞0.5，也能显著放大其他渠道。
+
+**关键洞见：** 病毒循环时间比 K 更重要。YouTube 的循环以分钟计：观看、分享、观看。如果循环长达数周，即使 K＞1 也很慢。
+
+<a id="2-public-relations"></a>
+### 2. 公共关系
+
+**媒体逐级上行链：** 小论坛 HN、Reddit → 中型博客 TechCrunch、Lifehacker → 大型媒体 NYT、CNN。不要直接推介给顶级媒体，先找它们会读的小站。
+
+用 HARO（Help A Reporter Out）回应记者需求。在需要记者之前，先建立关系。
+
+<a id="3-unconventional-pr"></a>
+### 3. 非常规公关
+
+两类：精心设计的宣传事件，以及感谢客户的小型、可扩展善意行动。
+
+WePay 在 PayPal 开发者大会上放了一块重 600 磅、冻着现金的冰。Dollar Shave Club 的 5,000 美元视频，两天获得 12,000 名客户，达到 Gillette 每年 6,000 万美元预算的传播覆盖。
+
+<a id="4-search-engine-marketing-sem"></a>
+### 4. 搜索引擎营销：SEM
+
+只在已有搜索需求时有效。使用长尾关键词与否定关键词，质量得分主要受点击率驱动。
+
+**基准：** 约 250 美元可粗略判断渠道。AdWords 平均点击率约 2%。
+
+<a id="5-social--display-ads"></a>
+### 5. 社交与展示广告
+
+区分创造需求，即建立认知，与收割需求，即捕获已有意图。放大已经获得自然传播的内容时，社交广告效果最好。
+
+<a id="6-offline-ads"></a>
+### 6. 线下广告
+
+剩余库存，即未售广告位，可以谈到刊例价以下最多 90% 的折扣。DuckDuckGo 在旧金山每月 7,000 美元的隐私广告牌，使当月用户数翻倍。
+
+<a id="7-search-engine-optimization-seo"></a>
+### 7. 搜索引擎优化：SEO
+
+两种策略：头部词，占搜索量前 18.5%，是直接品类词；长尾词，占 70%，是具体多词查询。先用 AdWords 验证头部词，再做内容与外链，坚持白帽。
+
+<a id="8-content-marketing"></a>
+### 8. 内容营销
+
+至少约六个月才能形成增长，能支持另外八个渠道。HubSpot 的 70%—80% 线索来自内容，行业平均仅 10%。主动上门线索成本低一半，成交效果好 100%。
+
+<a id="9-email-marketing"></a>
+### 9. 邮件营销
+
+用于获客、互动、留存、收入与推荐。生命周期邮件围绕流失节点设计。Patrick McKenzie 的邮件订阅者，比其他线索购买概率高 70 倍。
+
+<a id="10-engineering-as-marketing"></a>
+### 10. 以工程做营销
+
+把免费工具建成长期营销资产。HubSpot 的 Marketing Grader 被超过 300 万网站使用。Codecademy 的 Code Year 获得 45 万注册，用户数几乎翻倍。用独立、利于 SEO 的域名承载。
+
+<a id="11-targeting-blogs"></a>
+### 11. 定向接触博客
+
+第一阶段的最佳渠道。寻找受众阅读的利基博客。Mint 通过博客触达获得 20,000 个发布前注册，六个月达到 100 万用户。
+
+<a id="12-business-development"></a>
+### 12. 商务拓展：BD
+
+BD 通过伙伴关系交换价值；销售用产品换金钱。五类：标准合作、合资、授权、分销、供应。保持 50—100 个活跃潜在伙伴的管道。
+
+<a id="13-sales"></a>
+### 13. 销售
+
+适合高价产品。SPIN 框架：背景、问题、影响、需求收益。漏斗：生成线索 → 资格筛选 → 成交。每处流失都是待清除的阻塞。
+
+<a id="14-affiliate-programs"></a>
+### 14. 联盟营销计划
+
+零售联盟市场超过 20 亿美元。适合获客成本高的金融服务、保险、交友、主机托管。广告主不承担点击风险，只对有效转化支付佣金。
+
+<a id="15-existing-platforms"></a>
+### 15. 现有平台
+
+应用商店、浏览器扩展、社交平台、交易市场。尽早进入新兴平台。案例包括 Airbnb 的 Craigslist 集成，以及 Evernote 从第一天起覆盖多平台的策略。
+
+<a id="16-trade-shows"></a>
+### 16. 行业展会
+
+适合在集中时间内开展 B2B。主动逛展的价值，是守着展位等待客户的 3—4 倍。参展前一年，先作为观众体验。
+
+<a id="17-offline-events"></a>
+### 17. 线下活动
+
+会议、聚会、派对。Twitter 在 2007 年 SXSW 花 11,000 美元购置平板屏幕，推文从每日 20,000 条增至 60,000 条。“几乎是 Twitter 唯一花过的营销费。”
+
+<a id="18-speaking-engagements"></a>
+### 18. 演讲
+
+最适合 B2B／企业市场。两套演讲原则：准备两套扎实演讲，略作调整反复使用。每页幻灯片应是完整故事，这样删掉部分页面，就能把 60 分钟压缩为 20 分钟。
+
+<a id="19-community-building"></a>
+### 19. 社群建设
+
+五根支柱：确立使命、促进成员间而非仅成员与公司间联系、个性化沟通、透明、保障质量。DuckDuckGo 每位员工最初都是社群成员。
 
 ---
 
-## Honest Scope of the Book
+<a id="testing-principles"></a>
+## 测试原则
 
-- **Published:** 2014 (Second Edition: 2015)
-- **Examples:** Mostly 2008-2014 startups. Some are now household names (Dropbox, Twitter, Evernote); others are defunct or acquired.
-- **Empirical base:** Author interviews with 40+ founders and growth experts. Practical advice, not academic research.
-- **Where it shines:** Channel selection and testing methodology. The Bullseye Framework is the most systematic approach to growth channel selection available.
-- **Where it's weak:** Light on retention and engagement (focuses on acquisition). Doesn't address pricing or positioning. Channel descriptions are tactical snapshots that age quickly. No framework for when to STOP a channel beyond "it saturates."
-- **Author's context:** Gabriel Weinberg is the founder/CEO of DuckDuckGo. Justin Mares is a serial entrepreneur. Both have direct experience with many of the channels described.
+<a id="test-vs-optimize"></a>
+### 测试与优化
+
+**测试**回答：“这个渠道到底可能有效吗？”用 2 个广告、2 个落地页、约 250 美元。
+
+**优化**回答：“如何把这个渠道发挥到最大？”用 A/B 测试、落地页迭代、文案打磨。
+
+证明渠道有效前不要优化。四种变化足以获得信号时，不要测试四十种。
+
+<a id="the-law-of-shitty-click-throughs"></a>
+### 点击率衰减定律
+
+> 所有营销策略都会随时间衰减。——Andrew Chen
+
+每个渠道都会饱和。横幅广告曾有 78% 点击率，如今为 0.1%。这意味着：
+- 没有渠道永远有效。
+- 先进入渠道的人有优势。
+- 必须持续重评，重新运行靶心框架。
+
+<a id="measurement"></a>
+### 衡量
+
+每次渠道测试测四项：
+1. **获客成本，CPA**：获得一个客户花多少钱？
+2. **数量**：能获得多少客户？
+3. **质量**：是不是正确客户？
+4. **时间**：从首次接触到成为客户多久？
+
+工具：Mixpanel、Clicky、Optimizely、Unbounce。
+
+---
+
+<a id="decision-trees"></a>
+## 决策树
+
+<a id="which-channel-should-we-try-first"></a>
+### “先试哪个渠道？”
+
+```
+处于哪个阶段？
+├─ 第一阶段，产品市场匹配之前
+│   → 有利基受众吗？
+│      ├─ 有 → 接触博客 + 社群建设 + 演讲
+│      └─ 无 → 非常规公关 + 线下活动 + 直销
+│
+├─ 第二阶段，产品有效，需要增长
+│   → 品类已有搜索需求吗？
+│      ├─ 有 → SEO + SEM + 内容营销
+│      └─ 无 → 产品天然适合分享吗？
+│              ├─ 是 → 病毒营销 + 社交广告
+│              └─ 否 → 邮件营销 + 以工程做营销
+│
+└─ 第三阶段，放大有效方法
+    → 什么价位？
+       ├─ 高，企业级 → BD + 行业展会 + 销售
+       ├─ 中，SaaS → 联盟 + 现有平台 + SEO
+       └─ 低，消费类 → 线下广告 + 病毒营销 + 社交广告
+```
+
+<a id="our-current-channel-stopped-working"></a>
+### “当前渠道失效了”
+
+```
+CPA 已超过客户终身价值 LTV 吗？
+├─ 是 → 整个渠道都如此，竞争者也一样吗？
+│       ├─ 是 → 渠道饱和，重新运行靶心框架
+│       └─ 否 → 创意／定向陈旧，放弃之前先更新
+└─ 否 → 数量进入平台期了吗？
+        ├─ 是 → 已获取可用需求，叠加第二渠道，
+        │        或重新运行靶心框架，找新主渠道
+        └─ 否 → 继续优化，还未触顶
+```
+
+---
+
+<a id="critical-numbers--rules-of-thumb"></a>
+## 关键数字与经验法则
+
+| 数字 | 含义 |
+|------|------|
+| **50%** | 分给增长的时间，相对于产品 |
+| **19** | 头脑风暴覆盖的渠道总数 |
+| **3** | 同时测试的内圈渠道数 |
+| **1** | 任一时刻主导获客的渠道数 |
+| **约 250 美元** | 测试 SEM 渠道可行性的最低投入 |
+| **2—4** | 每次测试的广告数，而非 40 |
+| **1—2 周** | 每个渠道测试的时间框 |
+| **6 个月** | 内容营销形成增长的最低时间 |
+| **78% → 0.1%** | 横幅点击率衰减 |
+| **K＞1** | 指数增长所需病毒系数 |
+| **70 倍** | McKenzie 邮件订阅者相对其他线索的购买概率 |
+
+---
+
+<a id="common-failure-patterns"></a>
+## 常见失败模式
+
+| 模式 | 机制 | 补救 |
+|------|------|------|
+| **“做出来，客户自然来”** | 100% 产品，0% 增长 | 第一天起遵循 50% 规则 |
+| **渠道偏见** | 只试熟悉渠道，通常是内容和社交 | 对全部 19 个头脑风暴，被忽略的常胜出 |
+| **先优化后测试** | 未证明有效就做 40 个广告版本 | 先测 2—4 个，有证据再优化 |
+| **力量太分散** | 同时尝试 8 个渠道 | 测试前三后，一次聚焦一个 |
+| **过早扩张** | 尚无产品市场匹配就大量投钱 | 先用第一阶段渠道，匹配后再规模化 |
+| **忽视“麻烦”渠道** | 因为难，避开展会、销售、BD | 竞品也回避，机会正在这里 |
+| **不重新运行靶心框架** | 坚守正在饱和的渠道 | 所有渠道衰减，增长停滞就重评 |
+
+---
+
+<a id="modern-relevance-2014----2026"></a>
+## 现代适用性：2014 → 2026
+
+<a id="where-traction-still-applies"></a>
+### Traction 仍适用的部分
+- 19 渠道分类全面，仍有效。
+- 靶心框架经久有效，系统测试渠道适用于任何时代。
+- 违反 50% 规则仍是创始人最常见错误。
+- “做不可规模化的事”仍是第一阶段最佳建议。
+
+<a id="where-it-shows-its-age"></a>
+### 显得过时的部分
+- **AI 原生分发**——大模型推荐、AI 智能体、聊天机器人集成是书中未覆盖的新渠道。
+- **创作者经济**——影响者营销已成熟为独立渠道，超越“接触博客”。
+- **产品驱动增长，PLG**——免费层与自助上手模糊了产品与增长的界线。
+- **短视频**——当时没有 TikTok／Reels／Shorts，社交广告章节写于 TikTok 之前。
+- **隐私变化**——iOS 14.5 ATT、Cookie 淘汰、GDPR 显著改变付费获客。
+- **工具建议**——许多具体工具已经停用或被替代。
+
+<a id="what-weinberg-got-permanently-right"></a>
+### Weinberg 始终正确的判断
+- 系统测试优于直觉。
+- 多数创始人只考虑 19 个渠道中的 3—4 个。
+- 任一时刻一个渠道主导。
+- 所有渠道都会饱和，必须不断重评。
+- 增长与产品开发应并行。
+- 被忽略、不够酷的渠道往往胜出。
+
+---
+
+<a id="supporting-files"></a>
+## 配套文件
+
+- **[frameworks.md](frameworks.md)**——靶心框架深入说明、关键路径、渠道测试流程、19 个渠道的详细战术与机制、阶段匹配、点击率衰减定律。
+- **[cases.md](cases.md)**——Mint 通过博客营销获 1.7 亿美元收购、Half.com 非常规公关、DuckDuckGo 广告牌与社群、Dollar Shave Club 的 5,000 美元视频、JBoss 销售漏斗与 3.5 亿美元收购、HubSpot 内容与工程营销、Dropbox 病毒传播、Twitter SXSW 线下活动、Evernote 现有平台、WePay 宣传事件。
+- **[examples.md](examples.md)**——靶心头脑风暴表、渠道测试模板、关键路径规划、CPA／LTV 计算、渠道评分矩阵、病毒系数计算、初创企业完整示例。
+- **[integration.md](integration.md)**——与 Lean Startup 的关系，增长测试就是增长版构建—衡量—学习；与 Four Steps 的关系，客户创造就是增长；与 $100M Leads 的战术重叠；与 Crossing the Chasm 的滩头渠道选择；总体顺序。
+
+---
+
+<a id="honest-scope-of-the-book"></a>
+## 如实说明本书范围
+
+- **出版：** 2014 年，第二版 2015 年。
+- **案例：** 主要是 2008—2014 年初创企业；部分已家喻户晓，如 Dropbox、Twitter、Evernote，其他已停业或被收购。
+- **实证基础：** 作者访谈 40 多位创始人和增长专家，是实践建议，不是学术研究。
+- **优势：** 渠道选择与测试方法。靶心框架是现有最系统的增长渠道选择方法。
+- **不足：** 对留存与互动着墨少，主要关注获客；不讨论定价或定位；渠道描述是容易过时的战术快照；除“饱和”外，没有何时停止某渠道的框架。
+- **作者背景：** Gabriel Weinberg 是 DuckDuckGo 创始人兼 CEO，Justin Mares 是连续创业者，两人都直接实践过所述的许多渠道。

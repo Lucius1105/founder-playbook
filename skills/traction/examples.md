@@ -1,503 +1,524 @@
-# Examples - Traction
+> 中文译文｜[英文对照](examples.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/traction/examples.md)。原项目整理：AgentSeal；书籍来源：《Traction》— Gabriel Weinberg 与 Justin Mares；AI辅助翻译。
 
-## Bullseye Brainstorm Worksheet
+<a id="examples---traction"></a>
+# Traction——示例
 
-Generate at least one SPECIFIC idea for each channel. Not "try SEO" but a concrete action.
+<a id="bullseye-brainstorm-worksheet"></a>
+## 靶心头脑风暴工作表
+
+为每个渠道生成至少一个具体想法，不是“试 SEO”，而是具体行动。
 
 ```
-1. VIRAL MARKETING
-   Idea: _________________________
-   Why it might work: _________________________
-   Why it might not: _________________________
+1. 病毒营销
+   想法：_________________________
+   可能有效的原因：_________________________
+   可能无效的原因：_________________________
 
-2. PUBLIC RELATIONS
-   Idea: _________________________
-   Why it might work: _________________________
-   Why it might not: _________________________
+2. 公共关系
+   想法：_________________________
+   可能有效的原因：_________________________
+   可能无效的原因：_________________________
 
-3. UNCONVENTIONAL PR
-   Idea: _________________________
-   Why it might work: _________________________
-   Why it might not: _________________________
+3. 非常规公关
+   想法：_________________________
+   可能有效的原因：_________________________
+   可能无效的原因：_________________________
 
-4. SEARCH ENGINE MARKETING (SEM)
-   Idea: _________________________
-   Why it might work: _________________________
-   Why it might not: _________________________
+4. 搜索引擎营销，SEM
+   想法：_________________________
+   可能有效的原因：_________________________
+   可能无效的原因：_________________________
 
-5. SOCIAL & DISPLAY ADS
-   Idea: _________________________
-   Why it might work: _________________________
-   Why it might not: _________________________
+5. 社交与展示广告
+   想法：_________________________
+   可能有效的原因：_________________________
+   可能无效的原因：_________________________
 
-6. OFFLINE ADS
-   Idea: _________________________
-   Why it might work: _________________________
-   Why it might not: _________________________
+6. 线下广告
+   想法：_________________________
+   可能有效的原因：_________________________
+   可能无效的原因：_________________________
 
-7. SEO
-   Idea: _________________________
-   Why it might work: _________________________
-   Why it might not: _________________________
+7. 搜索引擎优化，SEO
+   想法：_________________________
+   可能有效的原因：_________________________
+   可能无效的原因：_________________________
 
-8. CONTENT MARKETING
-   Idea: _________________________
-   Why it might work: _________________________
-   Why it might not: _________________________
+8. 内容营销
+   想法：_________________________
+   可能有效的原因：_________________________
+   可能无效的原因：_________________________
 
-9. EMAIL MARKETING
-   Idea: _________________________
-   Why it might work: _________________________
-   Why it might not: _________________________
+9. 邮件营销
+   想法：_________________________
+   可能有效的原因：_________________________
+   可能无效的原因：_________________________
 
-10. ENGINEERING AS MARKETING
-    Idea: _________________________
-    Why it might work: _________________________
-    Why it might not: _________________________
+10. 以工程做营销
+    想法：_________________________
+    可能有效的原因：_________________________
+    可能无效的原因：_________________________
 
-11. TARGETING BLOGS
-    Idea: _________________________
-    Why it might work: _________________________
-    Why it might not: _________________________
+11. 定向接触博客
+    想法：_________________________
+    可能有效的原因：_________________________
+    可能无效的原因：_________________________
 
-12. BUSINESS DEVELOPMENT
-    Idea: _________________________
-    Why it might work: _________________________
-    Why it might not: _________________________
+12. 商务拓展
+    想法：_________________________
+    可能有效的原因：_________________________
+    可能无效的原因：_________________________
 
-13. SALES
-    Idea: _________________________
-    Why it might work: _________________________
-    Why it might not: _________________________
+13. 销售
+    想法：_________________________
+    可能有效的原因：_________________________
+    可能无效的原因：_________________________
 
-14. AFFILIATE PROGRAMS
-    Idea: _________________________
-    Why it might work: _________________________
-    Why it might not: _________________________
+14. 联盟营销计划
+    想法：_________________________
+    可能有效的原因：_________________________
+    可能无效的原因：_________________________
 
-15. EXISTING PLATFORMS
-    Idea: _________________________
-    Why it might work: _________________________
-    Why it might not: _________________________
+15. 现有平台
+    想法：_________________________
+    可能有效的原因：_________________________
+    可能无效的原因：_________________________
 
-16. TRADE SHOWS
-    Idea: _________________________
-    Why it might work: _________________________
-    Why it might not: _________________________
+16. 行业展会
+    想法：_________________________
+    可能有效的原因：_________________________
+    可能无效的原因：_________________________
 
-17. OFFLINE EVENTS
-    Idea: _________________________
-    Why it might work: _________________________
-    Why it might not: _________________________
+17. 线下活动
+    想法：_________________________
+    可能有效的原因：_________________________
+    可能无效的原因：_________________________
 
-18. SPEAKING ENGAGEMENTS
-    Idea: _________________________
-    Why it might work: _________________________
-    Why it might not: _________________________
+18. 演讲
+    想法：_________________________
+    可能有效的原因：_________________________
+    可能无效的原因：_________________________
 
-19. COMMUNITY BUILDING
-    Idea: _________________________
-    Why it might work: _________________________
-    Why it might not: _________________________
+19. 社群建设
+    想法：_________________________
+    可能有效的原因：_________________________
+    可能无效的原因：_________________________
 
-BIAS CHECK (answer honestly):
-[ ] Did I skip or phone in any channels above?
-[ ] Are all my best ideas in channels I've used before?
-[ ] Did I dismiss any channel as "not for us" without evidence?
-[ ] Would my competitor ever try the channels I dismissed?
+偏见检查，请诚实回答：
+[ ] 是否跳过或敷衍了某个渠道？
+[ ] 最佳想法是否都在曾用过的渠道？
+[ ] 是否无证据就把某渠道排除为“不适合我们”？
+[ ] 竞争者会不会尝试我排除的渠道？
 ```
 
 ---
 
-## Channel Ranking Matrix
+<a id="channel-ranking-matrix"></a>
+## 渠道排序矩阵
 
-After brainstorming, score each channel and sort into A/B/C:
+头脑风暴后，为每个渠道评分，归入 A/B/C：
 
 ```
-CHANNEL                    CPA     VOLUME   QUALITY  TIME    TOTAL   RANK
-                          (1-5)    (1-5)    (1-5)    (1-5)   (/20)   (A/B/C)
-─────────────────────────────────────────────────────────────────────────────
-1.  Viral Marketing        ___      ___      ___      ___     ___     ___
-2.  Public Relations       ___      ___      ___      ___     ___     ___
-3.  Unconventional PR      ___      ___      ___      ___     ___     ___
-4.  SEM                    ___      ___      ___      ___     ___     ___
-5.  Social & Display Ads   ___      ___      ___      ___     ___     ___
-6.  Offline Ads            ___      ___      ___      ___     ___     ___
-7.  SEO                    ___      ___      ___      ___     ___     ___
-8.  Content Marketing      ___      ___      ___      ___     ___     ___
-9.  Email Marketing        ___      ___      ___      ___     ___     ___
-10. Eng as Marketing       ___      ___      ___      ___     ___     ___
-11. Targeting Blogs        ___      ___      ___      ___     ___     ___
-12. Business Development   ___      ___      ___      ___     ___     ___
-13. Sales                  ___      ___      ___      ___     ___     ___
-14. Affiliate Programs     ___      ___      ___      ___     ___     ___
-15. Existing Platforms     ___      ___      ___      ___     ___     ___
-16. Trade Shows            ___      ___      ___      ___     ___     ___
-17. Offline Events         ___      ___      ___      ___     ___     ___
-18. Speaking Engagements   ___      ___      ___      ___     ___     ___
-19. Community Building     ___      ___      ___      ___     ___     ___
+渠道                 CPA    数量    质量    时间    总分    排名
+                     1—5    1—5     1—5     1—5     /20     A/B/C
+─────────────────────────────────────────────────────────────────
+1. 病毒营销          ___    ___     ___     ___     ___     ___
+2. 公共关系          ___    ___     ___     ___     ___     ___
+3. 非常规公关        ___    ___     ___     ___     ___     ___
+4. SEM               ___    ___     ___     ___     ___     ___
+5. 社交与展示广告    ___    ___     ___     ___     ___     ___
+6. 线下广告          ___    ___     ___     ___     ___     ___
+7. SEO               ___    ___     ___     ___     ___     ___
+8. 内容营销          ___    ___     ___     ___     ___     ___
+9. 邮件营销          ___    ___     ___     ___     ___     ___
+10. 工程营销         ___    ___     ___     ___     ___     ___
+11. 博客触达         ___    ___     ___     ___     ___     ___
+12. 商务拓展         ___    ___     ___     ___     ___     ___
+13. 销售             ___    ___     ___     ___     ___     ___
+14. 联盟计划         ___    ___     ___     ___     ___     ___
+15. 现有平台         ___    ___     ___     ___     ___     ___
+16. 行业展会         ___    ___     ___     ___     ___     ___
+17. 线下活动         ___    ___     ___     ___     ___     ___
+18. 演讲             ___    ___     ___     ___     ___     ___
+19. 社群建设         ___    ___     ___     ___     ___     ___
 
-Scoring guide:
-  CPA:     1 = expensive, 5 = cheap
-  Volume:  1 = tiny audience, 5 = massive
-  Quality: 1 = wrong customers, 5 = ideal customers
-  Time:    1 = months to first customer, 5 = days
+评分说明：
+  CPA：1＝昂贵，5＝便宜。
+  数量：1＝受众很小，5＝巨大。
+  质量：1＝错误客户，5＝理想客户。
+  时间：1＝数月获得首客，5＝数天。
 
-COLUMN A (Inner Circle - test first, max 3):
+A 列，内圈，先测试，最多 3 个：
   1. _________________________
   2. _________________________
   3. _________________________
 
-COLUMN B (Potential - test if A fails):
+B 列，有潜力，A 失败后测：
   _________________________
   _________________________
   _________________________
 
-COLUMN C (Long-shot - revisit later):
-  Everything else
+C 列，希望较小，以后重看：
+  其余全部
 ```
 
 ---
 
-## Channel Test Template
+<a id="channel-test-template"></a>
+## 渠道测试模板
 
-Run this for each of your 3 inner-circle channels:
+为三个内圈渠道分别运行：
 
 ```
-CHANNEL: _________________________
-TEST START DATE: _________________________
-TEST END DATE: _________________________
-TEST BUDGET: $_______ (recommend ~$250 for paid channels)
+渠道：_________________________
+开始日期：_________________________
+结束日期：_________________________
+预算：_______ 美元，付费渠道建议约 250 美元
 
-HYPOTHESIS:
-"We believe [channel] can acquire [customer type] at a CPA
-of $_______ or less, with a volume of _______ per month."
+假设：
+“我们认为 [渠道] 能以不超过 _______ 美元的 CPA，
+每月获得 _______ 名 [客户类型] 客户。”
 
-WHAT WE'RE TESTING:
-(Not "does this channel work perfectly" but "could this channel work at all")
+测试内容：
+不是“这个渠道是否完美”，而是“它是否可能有效”。
 
-SETUP:
-  Creative/content prepared: _________________________
-  Tracking in place: [ ] Unique URL  [ ] UTM params  [ ] Promo code
-  Landing page ready: [ ] Yes  [ ] No
-  Success criteria defined: [ ] Yes (CPA < $_____)  [ ] Yes (volume > _____)
+准备：
+  已备素材／内容：_________________________
+  追踪：[ ] 独立 URL  [ ] UTM 参数  [ ] 优惠码
+  落地页就绪：[ ] 是  [ ] 否
+  成功标准已定：[ ] 是，CPA＜_____ 美元  [ ] 是，数量＞_____
 
-DAILY LOG:
-  Day 1: Impressions _____ Clicks _____ Conversions _____ CPA $_____
-  Day 2: Impressions _____ Clicks _____ Conversions _____ CPA $_____
-  Day 3: Impressions _____ Clicks _____ Conversions _____ CPA $_____
-  Day 4: Impressions _____ Clicks _____ Conversions _____ CPA $_____
-  Day 5: Impressions _____ Clicks _____ Conversions _____ CPA $_____
-  Day 6: Impressions _____ Clicks _____ Conversions _____ CPA $_____
-  Day 7: Impressions _____ Clicks _____ Conversions _____ CPA $_____
+每日记录：
+  第 1 天：曝光 _____ 点击 _____ 转化 _____ CPA _____ 美元
+  第 2 天：曝光 _____ 点击 _____ 转化 _____ CPA _____ 美元
+  第 3 天：曝光 _____ 点击 _____ 转化 _____ CPA _____ 美元
+  第 4 天：曝光 _____ 点击 _____ 转化 _____ CPA _____ 美元
+  第 5 天：曝光 _____ 点击 _____ 转化 _____ CPA _____ 美元
+  第 6 天：曝光 _____ 点击 _____ 转化 _____ CPA _____ 美元
+  第 7 天：曝光 _____ 点击 _____ 转化 _____ CPA _____ 美元
 
-RESULTS:
-  Total spend: $_____
-  Total conversions: _____
-  CPA: $_____
-  Estimated monthly volume at this CPA: _____
-  Customer quality (right ICP?): [ ] Yes  [ ] Mixed  [ ] No
+结果：
+  总花费：_____ 美元
+  总转化：_____
+  CPA：_____ 美元
+  此 CPA 下预计月数量：_____
+  客户质量，是否匹配理想画像：[ ] 是  [ ] 混合  [ ] 否
 
-VERDICT:
-  [ ] FOCUS - This is our channel. Double down and optimize.
-  [ ] OPTIMIZE - Promising but needs work. Run 2 more weeks.
-  [ ] KILL - Doesn't meet criteria. Move to next channel.
-  [ ] INCONCLUSIVE - Need more data. Extend test with $_____ more.
+判断：
+  [ ] 聚焦：就是它，加大投入并优化。
+  [ ] 优化：有希望但要改进，再测两周。
+  [ ] 停止：不达标准，转下一个渠道。
+  [ ] 无法判断：需要更多数据，追加 _____ 美元延长测试。
 
-NOTES:
+备注：
   _________________________
 ```
 
 ---
 
-## Critical Path Planner
+<a id="critical-path-planner"></a>
+## 关键路径规划表
 
 ```
-TRACTION GOAL: _________________________
-TARGET DATE: _________________________
+增长目标：_________________________
+目标日期：_________________________
 
-MILESTONES (in dependency order):
+按依赖排序的里程碑：
 
-#   Milestone                    Depends On    Owner       Due Date
-──────────────────────────────────────────────────────────────────────
-1   _________________________    None          _________   _________
-2   _________________________    #___          _________   _________
-3   _________________________    #___          _________   _________
-4   _________________________    #___          _________   _________
-5   _________________________    #___          _________   _________
-6   _________________________    #___          _________   _________
-7   _________________________    #___          _________   _________
-8   TRACTION GOAL                #___          _________   _________
+序号  里程碑                  依赖      负责人      截止日期
+────────────────────────────────────────────────────────────
+1     _____________________   无        _________   _________
+2     _____________________   第___项   _________   _________
+3     _____________________   第___项   _________   _________
+4     _____________________   第___项   _________   _________
+5     _____________________   第___项   _________   _________
+6     _____________________   第___项   _________   _________
+7     _____________________   第___项   _________   _________
+8     增长目标                第___项   _________   _________
 
-CRITICAL PATH (longest dependency chain):
-  #___ --> #___ --> #___ --> #___ --> TRACTION GOAL
+关键路径，最长依赖链：
+  第___项 → 第___项 → 第___项 → 第___项 → 增长目标
 
-THINGS I'M CURRENTLY DOING THAT ARE NOT ON THIS PATH:
-  1. _________________________ --> STOP or DEFER
-  2. _________________________ --> STOP or DEFER
-  3. _________________________ --> STOP or DEFER
-```
-
----
-
-## CPA / LTV Calculator
-
-```
-REVENUE MODEL:
-  Average revenue per customer per month: $_____
-  Average customer lifetime (months): _____
-  Gross margin: _____%
-
-  LTV = revenue × lifetime × margin
-  LTV = $_____ × _____ × _____% = $_____
-
-ACQUISITION COST:
-  Channel: _________________________
-  Total spend on channel: $_____
-  Total customers acquired: _____
-
-  CPA = total spend / customers
-  CPA = $_____ / _____ = $_____
-
-HEALTH CHECK:
-  LTV / CPA ratio: _____ (target: >3x)
-
-  [ ] LTV / CPA > 3x --> Channel is working. Scale it.
-  [ ] LTV / CPA 1-3x --> Channel works but margins are thin. Optimize.
-  [ ] LTV / CPA < 1x --> Channel is unprofitable. Fix or kill.
-
-PAYBACK PERIOD:
-  CPA / (monthly revenue × margin) = _____ months to payback
-  [ ] < 3 months --> Great. Can grow aggressively.
-  [ ] 3-12 months --> OK. Monitor cash flow.
-  [ ] > 12 months --> Dangerous. Long payback = slow growth + cash risk.
+目前在做、却不在路径上的事情：
+  1. _________________________ → 停止或推迟
+  2. _________________________ → 停止或推迟
+  3. _________________________ → 停止或推迟
 ```
 
 ---
 
-## Viral Coefficient Calculator
+<a id="cpa--ltv-calculator"></a>
+## CPA／LTV 计算器
 
 ```
-STEP 1: Measure the loop
-  Total users who saw the invite/share prompt: _____
-  Users who actually invited/shared: _____
-  Invite rate = _____ / _____ = _____%
+收入模型：
+  每客户平均月收入：_____ 美元
+  平均客户生命周期：_____ 月
+  毛利率：_____%
 
-  Total invites/shares sent: _____
-  Recipients who converted to users: _____
-  Conversion rate = _____ / _____ = _____%
+  LTV＝收入 × 生命周期 × 毛利率
+  LTV＝_____ 美元 × _____ × _____%＝_____ 美元
 
-STEP 2: Calculate K
-  K = invite rate × conversion rate
-  K = _____% × _____% = _____
+获客成本：
+  渠道：_________________________
+  渠道总花费：_____ 美元
+  获得客户数：_____
 
-STEP 3: Interpret
-  [ ] K > 1.0 --> Exponential viral growth. Extremely rare. Optimize cycle time.
-  [ ] K = 0.5 - 1.0 --> Strong viral amplifier. Won't sustain alone but
-                         significantly multiplies other acquisition channels.
-  [ ] K = 0.1 - 0.5 --> Mild viral effect. Helps but won't be primary channel.
-  [ ] K < 0.1 --> Negligible. Viral is not your channel.
+  CPA＝总花费 ÷ 客户数
+  CPA＝_____ 美元 ÷ _____＝_____ 美元
 
-STEP 4: Optimize (if K is promising)
-  Which step is leakiest?
-  [ ] Users don't see the invite prompt --> increase visibility
-  [ ] Users see it but don't invite --> improve incentive or reduce friction
-  [ ] Invitees see the invite but don't convert --> improve landing/onboarding
+健康检查：
+  LTV／CPA：_____，目标大于 3 倍
 
-  What is the cycle time?
-  Average time from user signup to their invitee signing up: _____ hours/days
-  (Shorter is dramatically better. A loop that cycles in hours beats one
-   that cycles in weeks, even with lower K.)
-```
+  [ ] 大于 3 倍 → 渠道有效，扩大。
+  [ ] 1—3 倍 → 有效但利润薄，优化。
+  [ ] 小于 1 倍 → 不盈利，修复或停止。
 
----
-
-## BD Partnership Pipeline Template
-
-```
-PARTNERSHIP GOAL: _________________________
-
-PIPELINE (maintain 50-100 active prospects):
-
-Company          Type           Contact        Size    Relevance  Ease  Priority
-──────────────────────────────────────────────────────────────────────────────
-_____________    ___________    ___________    _____    ____/5    ____/5  A/B/C
-_____________    ___________    ___________    _____    ____/5    ____/5  A/B/C
-_____________    ___________    ___________    _____    ____/5    ____/5  A/B/C
-_____________    ___________    ___________    _____    ____/5    ____/5  A/B/C
-_____________    ___________    ___________    _____    ____/5    ____/5  A/B/C
-
-Type = Standard / JV / Licensing / Distribution / Supply
-Size = estimated impact (users, revenue, reach)
-Priority: A = pursue now, B = next quarter, C = later
-
-CURRENT ACTIVE (top 10-20 by priority):
-  1. _____________ Status: _____________ Next step: _____________
-  2. _____________ Status: _____________ Next step: _____________
-  3. _____________ Status: _____________ Next step: _____________
-
-CLOSED DEALS:
-  Post-close memo: "How the deal was done"
-  1. _____________ Key insight: _____________
-  2. _____________ Key insight: _____________
+回本期：
+  CPA ÷（月收入 × 毛利率）＝_____ 个月
+  [ ] 小于 3 个月 → 很好，可以积极增长。
+  [ ] 3—12 个月 → 尚可，监控现金流。
+  [ ] 大于 12 个月 → 危险，长回本期意味着增长慢、现金风险高。
 ```
 
 ---
 
-## Content Marketing 6-Month Plan
+<a id="viral-coefficient-calculator"></a>
+## 病毒系数计算器
 
 ```
-MONTH 1-2: Foundation
-  [ ] Define content themes (3-5 topics your audience cares about)
-  [ ] Set up blog/publishing platform
-  [ ] Add email capture to every page
-  [ ] Write 4-8 posts (2 per week minimum)
-  [ ] Identify 20 blogs in your space for guest posting
-  [ ] Pitch 5 guest posts
+第一步：测量循环
+  看到邀请／分享提示的总用户数：_____
+  实际邀请／分享的用户数：_____
+  邀请率＝_____ ÷ _____＝_____%
 
-MONTH 3-4: Amplification
-  [ ] Continue publishing 2+ posts per week
-  [ ] Guest post on 3-5 external blogs
-  [ ] Create one "pillar" piece (comprehensive guide, data study, infographic)
-  [ ] Begin outreach to Twitter/social influencers who share similar content
-  [ ] Set up social sharing on all posts
-  [ ] Monitor which topics get the most engagement
+  发出的邀请／分享总数：_____
+  转化为用户的接收者数：_____
+  转化率＝_____ ÷ _____＝_____%
 
-MONTH 5-6: Compounding
-  [ ] Double down on topics that perform
-  [ ] Submit pillar content to link-sharing communities (HN, reddit, etc.)
-  [ ] Build email sequences for new subscribers
-  [ ] Track: organic traffic trend, email list growth, leads from content
-  [ ] Assess: is content marketing moving toward being a primary channel?
+第二步：计算 K
+  K＝邀请率 × 转化率
+  K＝_____% × _____%＝_____
 
-METRICS TO TRACK:
-  Monthly organic visitors: _____
-  Email list size: _____
-  Leads from content (per month): _____
-  Content-attributed revenue: $_____
-  Most shared post: _________________________
-  Most converting post: _________________________
+第三步：解释
+  [ ] K＞1.0 → 指数病毒增长，极少见。优化循环时间。
+  [ ] K＝0.5—1.0 → 强放大作用，不能独自维持，
+                   但能显著放大其他获客渠道。
+  [ ] K＝0.1—0.5 → 轻微作用，有帮助但不会成为主渠道。
+  [ ] K＜0.1 → 可以忽略，病毒传播不适合你。
+
+第四步：若 K 有希望，进行优化
+  哪一步流失最多？
+  [ ] 用户没看到邀请提示 → 提高可见度。
+  [ ] 看到但不邀请 → 改进激励或减少阻力。
+  [ ] 被邀请者看到但不转化 → 改进落地页／上手。
+
+  循环时间是多少？
+  从用户注册到其邀请的用户注册，平均：_____ 小时／天。
+  越短越好；小时级循环胜过周级，即使 K 更低。
+```
+
+（译注：上面照译原文公式；原文将“邀请率 × 转化率”写作 K，与本技能其他文件的“每用户发出邀请数 × 转化率”定义不一致，未计入每位邀请者发出的邀请数量，实际使用前需核对。）
+
+---
+
+<a id="bd-partnership-pipeline-template"></a>
+## BD 合作管道模板
+
+```
+合作目标：_________________________
+
+管道，保持 50—100 个活跃潜在伙伴：
+
+公司          类型          联系人        规模   相关性  难易度  优先级
+──────────────────────────────────────────────────────────────────
+____________  __________    __________    ____   ___/5   ___/5   A/B/C
+____________  __________    __________    ____   ___/5   ___/5   A/B/C
+____________  __________    __________    ____   ___/5   ___/5   A/B/C
+____________  __________    __________    ____   ___/5   ___/5   A/B/C
+____________  __________    __________    ____   ___/5   ___/5   A/B/C
+
+类型＝标准合作／合资／授权／分销／供应。
+规模＝预计影响，用户、收入、覆盖。
+优先级：A＝现在推进，B＝下季度，C＝以后。
+
+当前活跃，优先级前 10—20：
+  1. _____________ 状态：_____________ 下一步：_____________
+  2. _____________ 状态：_____________ 下一步：_____________
+  3. _____________ 状态：_____________ 下一步：_____________
+
+已成交合作：
+  成交后备忘录：“这笔合作如何达成。”
+  1. _____________ 关键洞见：_____________
+  2. _____________ 关键洞见：_____________
 ```
 
 ---
 
-## End-to-End Example: TaskForge (Fictional Startup)
-
-### Background
-
-TaskForge is a project management tool for construction companies. They have a working product (MVP) used by 12 early customers. They need to grow from 12 to 500 paying customers within 12 months. Price: $200/month per team.
-
-### Step 1: Brainstorm (abbreviated - showing strongest ideas per channel)
+<a id="content-marketing-6-month-plan"></a>
+## 内容营销六个月计划
 
 ```
-1.  Viral: Construction teams share project links with subs --> low K expected
-2.  PR: "Construction industry loses $X billion to bad project management"
-3.  Unconventional PR: Build a miniature house in 24 hours using only TaskForge
-4.  SEM: "construction project management software" - existing search demand
-5.  Social ads: LinkedIn targeting construction PMs and superintendents
-6.  Offline ads: Ad in ENR (Engineering News-Record) magazine
-7.  SEO: Comparison pages: "Procore alternative for small contractors"
-8.  Content: Weekly blog on construction project management best practices
-9.  Email: Lifecycle emails for trial users showing value per project stage
-10. Eng as marketing: Free "project cost estimator" tool
-11. Targeting blogs: Outreach to construction management blogs and forums
-12. BD: Integration partnership with construction accounting software
-13. Sales: Direct outreach to construction company owners
-14. Affiliate: Partner with construction consultants who recommend tools
-15. Existing platforms: List on construction software marketplaces
-16. Trade shows: Booth at World of Concrete or CONEXPO-CON/AGG
-17. Offline events: Host "Construction Tech Meetup" in target cities
-18. Speaking: Speak at regional construction association events
-19. Community: Create "Construction Tech Leaders" online community
+第 1—2 月：打基础
+  [ ] 定内容主题，受众在意的 3—5 个话题。
+  [ ] 建博客／发布平台。
+  [ ] 每页增加邮件订阅入口。
+  [ ] 写 4—8 篇文章，每周至少 2 篇。
+  [ ] 找到领域内 20 个可投稿博客。
+  [ ] 推介 5 篇客座文章。
+
+第 3—4 月：放大
+  [ ] 每周继续发至少 2 篇。
+  [ ] 在 3—5 个外部博客投稿。
+  [ ] 制作一份支柱内容，全面指南、数据研究或信息图。
+  [ ] 开始接触分享类似内容的 Twitter／社交影响者。
+  [ ] 所有文章设置社交分享。
+  [ ] 监测哪些主题互动最多。
+
+第 5—6 月：复利
+  [ ] 加倍投入表现好的主题。
+  [ ] 向 HN、Reddit 等链接分享社群提交支柱内容。
+  [ ] 为新订阅者构建邮件序列。
+  [ ] 追踪自然流量趋势、名单增长、内容线索。
+  [ ] 评估内容营销是否正在成为主渠道。
+
+追踪指标：
+  月自然访客：_____
+  邮件名单规模：_____
+  月内容线索：_____
+  归因于内容的收入：_____ 美元
+  分享最多文章：_________________________
+  转化最高文章：_________________________
 ```
 
-### Step 2: Rank
+---
 
-**Column A (Inner Circle):**
-1. Trade Shows - construction is a trade-show-heavy industry
-2. Sales (direct) - high-value, relationship-driven sales
-3. Targeting Blogs - niche construction management blogs exist
+<a id="end-to-end-example-taskforge-fictional-startup"></a>
+## 完整示例：TaskForge，虚构初创企业
 
-**Column B (Potential):**
-- SEM, Content Marketing, Speaking, BD (integrations)
+<a id="background"></a>
+### 背景
 
-**Column C (Long-shot):**
-- Everything else (viral, social ads, offline ads, etc.)
+TaskForge 是面向建筑公司的项目管理工具，有可用 MVP 和 12 个早期客户。目标是在 12 个月内从 12 个发展到 500 个付费客户。价格每团队每月 200 美元。
 
-### Step 3: Prioritize (Top 3)
-
-| Channel | CPA (est.) | Volume | Quality | Time |
-|---|---|---|---|---|
-| Trade Shows | $500/lead | 50-100 leads per show | High - decision-makers attend | 1-3 months to close |
-| Direct Sales | $300/lead | Unlimited (outbound) | High - hand-picked targets | 2-4 weeks to close |
-| Targeting Blogs | $50/lead | Medium - niche audience | Medium-High - readers are practitioners | 1-2 weeks to signup |
-
-### Step 4: Test (2-week sprint)
-
-**Trade Shows:**
-- Attended a regional construction trade show as a guest ($200 registration)
-- Walked the floor, demoed on a laptop, collected 15 business cards
-- Follow-up: 4 of 15 scheduled demos, 1 started a trial
-- Signal: Positive. Construction PMs are receptive. Need a booth next time.
-
-**Direct Sales:**
-- Cold emailed 50 construction company owners (used LinkedIn Sales Navigator)
-- Subject: "How [Similar Company] cut project delays by 30%"
-- Results: 8 replies (16%), 4 demos, 2 started trials
-- Signal: Strong. 16% reply rate is well above average.
-
-**Targeting Blogs:**
-- Found 10 construction management blogs
-- Guest-posted on one (took 3 days to write + get published)
-- Results: 120 visitors, 8 signups, 1 trial
-- Signal: Moderate. Works but slower and lower volume.
-
-### Step 5: Focus
-
-**Winner: Direct Sales** (highest conversion, fastest cycle, most scalable for this phase)
-
-**Immediate actions:**
-- Founder dedicates 4 hours/day to outbound sales
-- Build a SPIN-based sales script for construction PMs
-- Create a case study from the existing 12 customers
-- Set up CRM to track pipeline
-
-**Secondary: Trade Shows** (invest in a booth for the next major show)
-
-**Park for later:** Targeting Blogs (good for content seeding but too slow for now)
-
-### Critical Path
+<a id="step-1-brainstorm-abbreviated---showing-strongest-ideas-per-channel"></a>
+### 第一步：头脑风暴，简版展示各渠道最强想法
 
 ```
-TRACTION GOAL: 500 paying customers in 12 months
-
-CRITICAL PATH:
-  1. Build sales process (SPIN + CRM) -----> [Week 1-2]
-  2. Create case study from existing 12 ----> [Week 2-3]
-  3. Founder sells to first 50 customers ---> [Month 1-4]
-  4. Document repeatable sales roadmap -----> [Month 4-5]
-  5. Hire first salesperson ----------------> [Month 5]
-  6. Sales + trade show pipeline -----------> [Month 5-12]
-  7. 500 customers -----------------------> [Month 12]
-
-NOT ON THE PATH (defer):
-  - Blog/content marketing (defer to Month 6)
-  - Product redesign (not needed for sales)
-  - Mobile app (customers haven't asked for it)
+1. 病毒：建筑团队与分包商分享项目链接 → 预计 K 低。
+2. 公关：“建筑业因项目管理不善每年损失 X 十亿美元。”
+3. 非常规公关：仅靠 TaskForge，24 小时建一座微型房屋。
+4. SEM：“建筑项目管理软件”，已有搜索需求。
+5. 社交广告：LinkedIn 定向建筑项目经理与现场主管。
+6. 线下广告：ENR，Engineering News-Record 杂志广告。
+7. SEO：对比页“小型承包商的 Procore 替代方案”。
+8. 内容：每周发布建筑项目管理最佳实践。
+9. 邮件：按项目阶段向试用用户展示价值的生命周期邮件。
+10. 工程营销：免费“项目成本估算器”。
+11. 博客触达：联系建筑管理博客与论坛。
+12. BD：与建筑会计软件进行集成合作。
+13. 销售：直接触达建筑公司老板。
+14. 联盟：与推荐工具的建筑顾问合作。
+15. 现有平台：上架建筑软件市场。
+16. 展会：在 World of Concrete 或 CONEXPO-CON/AGG 设展位。
+17. 线下活动：在目标城市办“建筑科技聚会”。
+18. 演讲：在地区建筑协会活动演讲。
+19. 社群：创建“建筑科技领导者”线上社群。
 ```
 
-### Re-Running Bullseye (Month 8)
+<a id="step-2-rank"></a>
+### 第二步：排序
 
-Direct sales is working but approaching capacity. Founder is stretched. Two salespeople are on-boarded but CPA is rising.
+**A 列，内圈：**
+1. 展会：建筑行业高度依赖展会。
+2. 直销：高价值、关系驱动。
+3. 博客触达：存在利基建筑管理博客。
 
-**New Bullseye brainstorm:**
-- Trade shows now have data: 3 shows attended, 35 customers closed
-- Content marketing has 6 months of posts building SEO traction
-- Integration partnership with ProEst (estimating software) is in discussion
+**B 列，有潜力：**
+- SEM、内容、演讲、集成 BD。
 
-**New inner circle:**
-1. Trade Shows (scale up: 6 shows/year instead of 3)
-2. BD (ProEst integration deal = access to their 5,000 customers)
-3. Content Marketing (now has enough SEO authority to compound)
+**C 列，希望较小：**
+- 其余全部：病毒、社交广告、线下广告等。
 
-**New focus: BD partnership with ProEst** - single partnership could deliver more customers than months of outbound sales.
+<a id="step-3-prioritize-top-3"></a>
+### 第三步：前三优先级
+
+| 渠道 | 预计 CPA | 数量 | 质量 | 时间 |
+|------|----------|------|------|------|
+| 展会 | 每线索 500 美元 | 每展 50—100 线索 | 高，决策者参加 | 1—3 个月成交 |
+| 直销 | 每线索 300 美元 | 主动开发，数量不限 | 高，手工挑选目标 | 2—4 周成交 |
+| 博客触达 | 每线索 50 美元 | 中，利基受众 | 中高，读者是实践者 | 1—2 周注册 |
+
+<a id="step-4-test-2-week-sprint"></a>
+### 第四步：两周冲刺测试
+
+**展会：**
+- 以观众身份参加地区建筑展，注册费 200 美元。
+- 逛展，用笔记本演示，收集 15 张名片。
+- 跟进：15 人中 4 人预约演示，1 人开始试用。
+- 信号积极，建筑项目经理接受度好，下次需要展位。
+
+**直销：**
+- 用 LinkedIn Sales Navigator 找到并冷邮件触达 50 位建筑公司老板。
+- 主题：“[类似公司] 如何将项目延迟减少 30%”。
+- 结果：8 个回复，16%；4 次演示；2 人开始试用。
+- 信号强，16% 回复率远高于平均。
+
+**博客触达：**
+- 找到 10 个建筑管理博客。
+- 在其中一个投稿，从写作到发布共三天。
+- 结果：120 访客、8 注册、1 试用。
+- 信号中等，有效但较慢、数量较低。
+
+<a id="step-5-focus"></a>
+### 第五步：聚焦
+
+**赢家：直销**，转化最高、周期最快、当前阶段最可扩展。
+
+**立即行动：**
+- 创始人每天四小时主动销售。
+- 为建筑项目经理构建 SPIN 脚本。
+- 从现有 12 客户中制作案例。
+- 建 CRM 追踪管道。
+
+**辅助：展会**，为下次大型展会投资展位。
+
+**暂缓：博客触达**，适合播种内容，但目前太慢。
+
+<a id="critical-path"></a>
+### 关键路径
+
+```
+增长目标：12 个月内 500 名付费客户。
+
+关键路径：
+  1. 建销售流程，SPIN + CRM ---------> 第 1—2 周
+  2. 从现有 12 客户制作案例 ---------> 第 2—3 周
+  3. 创始人卖到前 50 客户 -----------> 第 1—4 月
+  4. 记录可重复销售路线 -------------> 第 4—5 月
+  5. 招首位销售 ---------------------> 第 5 月
+  6. 销售 + 展会管道 ----------------> 第 5—12 月
+  7. 500 客户 -----------------------> 第 12 月
+
+不在路径上，推迟：
+  - 博客／内容营销，推迟至第 6 月。
+  - 产品重设计，销售不需要。
+  - 移动应用，客户没要求。
+```
+
+<a id="re-running-bullseye-month-8"></a>
+### 第八个月重新运行靶心框架
+
+直销有效但接近产能上限，创始人精力吃紧。两名销售已入职，CPA 却上升。
+
+**新一轮头脑风暴：**
+- 展会已有数据：参加三场，成交 35 客户。
+- 内容营销已有六个月文章，正在积累 SEO 增长。
+- 正讨论与估算软件 ProEst 的集成合作。
+
+**新内圈：**
+1. 展会：从每年三场扩大到六场。
+2. BD：ProEst 集成可触达其 5,000 客户。
+3. 内容营销：现有 SEO 权重已足够产生复利。
+
+**新聚焦：与 ProEst 的 BD 合作**——单个伙伴可能带来比数月主动销售更多的客户。

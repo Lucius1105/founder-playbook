@@ -1,411 +1,413 @@
-# Frameworks - Made to Stick
+> 中文译文｜[英文对照](frameworks.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/made-to-stick/frameworks.md)。原项目整理：AgentSeal；书籍来源：《Made to Stick》— Chip Heath 与 Dan Heath；AI 辅助翻译。
 
-## Principle 1: Simple - Deep Dive
+# 框架——Made to Stick
 
-### Commander's Intent (CI)
+## 原则一：简单——深入解析
 
-Military concept that solves the "plans don't survive contact with the enemy" problem.
+### 指挥官意图（CI）
 
-**Structure:**
-```
-WRONG: Detailed plan with 50 steps
-"Attack at 0600 from the northwest flank using Delta company as lead element..."
-(Falls apart when Delta company encounters unexpected terrain)
+解决“计划一接敌就失效”问题的军事概念。
 
-RIGHT: Commander's Intent
-"Break the will of the enemy in this region"
-(Every soldier can improvise toward this intent regardless of what happens)
-```
+**结构：**
+```text
+错误：五十步详细计划。
+“0600 时从西北侧翼进攻，以 Delta 连为先头……”
+Delta 连遇到意外地形，计划便崩溃。
 
-**For founders/leaders:** Your CI is the decision filter for the entire organization. Southwest Airlines' CI: "THE low-fare airline." Every employee, from gate agents to marketers, can resolve any ambiguity by asking: "Does this help us be THE low-fare airline?"
-
-**CI exercise for your message:**
-1. Write everything you want to say
-2. Cut it by 50%
-3. Cut it by another 50%
-4. What remains? That's your core
-5. Test: Can someone who's never met you make a correct decision using only this core?
-
-### Forced Prioritization
-
-"If you say three things, you say nothing."
-
-**The newspaper test:** Editors use forced prioritization every day. The inverted pyramid puts the most important information first. If the story gets cut for space, the essential message survives.
-
-**Application to pitches:**
-```
-LEAD:     The one thing they must know (sentence 1)
-CONTEXT:  Why it matters (sentences 2-3)
-DETAILS:  Supporting evidence (only if they're still reading)
+正确：指挥官意图。
+“瓦解敌人在本地区的战斗意志。”
+无论发生什么，每个士兵都能围绕意图应变。
 ```
 
-### Generative Analogies
+**对创始人／领导者：**CI 是整个组织的决策筛选器。Southwest 的意图是“那家低票价航空公司”。从登机口工作人员到营销人员，都可问“这有助于我们成为低票价航空公司吗”，来消除歧义。
 
-Some analogies are more useful than others. A generative analogy is one that produces NEW correct inferences on its own.
+**练习：**
+1. 写下所有想说的话。
+2. 删掉一半。
+3. 再删掉一半。
+4. 剩下的就是核心。
+5. 测试：从没见过你的人，能否只靠这个核心作出正确决定？
 
-| Type | Example | Generative? |
+### 强制排序
+
+“说三件事，就等于什么也没说。”
+
+**报纸测试：**编辑每天都在强制排序。倒金字塔把最重要信息放前面，即使因版面不足被截短，核心仍能存活。
+
+**用于推介：**
+```text
+导语：对方必须知道的一件事，第一句。
+背景：为什么重要，第二至第三句。
+细节：支持证据，只有对方仍在读时才补充。
+```
+
+### 生成性类比
+
+类比有优劣。生成性类比能自行产生新的、正确的推论。
+
+| 类型 | 例子 | 是否具有生成性 |
 |------|---------|-------------|
-| **Generative** | Disney "cast members" | YES - guides behavior across thousands of novel situations (keep character, perform for guests, stay "on stage") |
-| **Decorative** | Subway "sandwich artists" | NO - doesn't actually change how anyone makes a sandwich |
+| **生成性** | Disney 的“演职人员” | 是，在数千种新情境中引导行为：保持角色、为游客演出、始终“在台上” |
+| **装饰性** | Subway 的“三明治艺术家” | 否，并不真正改变制作三明治的方式 |
 
-**Test for generative analogy:** Does the analogy help someone make CORRECT decisions in situations you never explicitly described? If yes, it's generative.
+**测试：**类比能否帮助人们在你从未明确描述的情境中作出正确决定？能，就是生成性类比。
 
-### High-Concept Pitches
+### 高概念推介
 
-**Formula:** "[Known thing] meets [known thing]" or "[Known thing] for [new context]"
+**公式：**“［熟悉事物］遇见［熟悉事物］”，或“用于［新情境］的［熟悉事物］”。
 
-| Pitch | Product |
+| 推介 | 产品 |
 |-------|---------|
-| "Jaws on a spaceship" | Alien |
-| "Die Hard on a bus" | Speed |
-| "Flickr for video" | YouTube (early) |
+| “太空船上的《大白鲨》” | 《异形》 |
+| “公交车上的《虎胆龙威》” | 《生死时速》 |
+| “视频版 Flickr” | 早期 YouTube |
 
-**When to use:** When your product is genuinely novel and people have no existing category for it. The pitch gives them an instant schema.
+**何时使用：**产品确实新颖，大家没有现成品类理解它时。推介能立刻提供认知图式。
 
-**When NOT to use:** When the reference points are wrong or misleading - bad schemas are worse than no schemas.
+**何时不用：**参照物错误或误导时。错误图式比没有更糟。
 
 ---
 
-## Principle 2: Unexpected - Deep Dive
+## 原则二：意外——深入解析
 
-### Schema Violation Theory
+### 图式违背理论
 
-The brain builds schemas (predictive models) of how the world works. Surprise happens when a schema is violated.
+大脑会建立世界如何运作的图式，即预测模型。图式被打破，就产生惊讶。
 
-**The surprise sequence:**
+**顺序：**
+```text
+1. 已有图式：“会议演讲都是无聊摘要。”
+2. 违背图式：演讲者却讲一个扣人心弦的谜团。
+3. 惊讶反射：注意力陡增，“什么？”
+4. 更新图式：“哦，这次不一样。”
+5. 回到信息：趁注意力高，传达核心内容。
 ```
-1. Schema exists:        "Conference presentations are boring abstracts"
-2. Schema violated:      Presenter tells a gripping mystery story instead
-3. Surprise reflex:      Audience attention spikes ("What?")
-4. Schema updated:       "Oh, this is going to be different"
-5. Return to message:    Presenter delivers core message while attention is high
-```
 
-**Warning:** The surprise must connect to the core message. If the audience says "that was surprising" but can't remember what the point was, you failed.
+**提醒：**惊讶必须关联核心。如果受众只说“真惊讶”，却不记得重点，就失败了。
 
-### Gap Theory of Curiosity (Loewenstein, 1994)
+### 好奇心缺口理论（Loewenstein，1994）
 
-Curiosity is not a trait - it's a response to a knowledge gap.
+好奇不是一种特质，而是对知识缺口的反应。
 
-**How to create a gap:**
-1. Highlight what they THINK they know
-2. Show them what they DON'T know
-3. Make them want to close the gap
+**如何造出缺口：**
+1. 突出他们以为知道的事。
+2. 展示他们不知道的事。
+3. 让他们想填上缺口。
 
-**Common mistake:** Assuming the audience already cares enough to be curious. You must FIRST make them aware of the gap.
+**常见错误：**以为受众已经足够在意，自然会好奇。必须先让他们意识到缺口。
 
-**Gap creation techniques:**
+**制造缺口的技巧：**
 
-| Technique | Example |
+| 技巧 | 例子 |
 |-----------|---------|
-| **The question** | "Which kills more: sharks or deer?" (answer: deer, by 300x) |
-| **The prediction challenge** | "Guess how many nuclear warheads exist" (then demonstrate with BBs) |
-| **The mystery** | "Why did Nordstrom accept a tire return when they don't sell tires?" |
-| **The puzzle** | "Why do Asian students outperform American students in math?" (answer: concrete teaching vs. abstract) |
+| **提问** | “鲨鱼和鹿，哪个致死更多？”答案是鹿，为前者的 300 倍 |
+| **预测挑战** | “猜猜有多少核弹头？”随后用 BB 弹演示 |
+| **谜团** | “Nordstrom 不卖轮胎，为什么接受轮胎退货？” |
+| **难题** | “亚洲学生数学为什么优于美国学生？”答案：具体教学对比抽象教学 |
 
-### Roone Arledge's Approach
+### Roone Arledge 的方法
 
-ABC Sports producer who transformed Monday Night Football by asking: "Why would someone who doesn't care about football watch this?"
+这位 ABC Sports 制片人通过一个问题改变了《周一橄榄球之夜》：“不关心橄榄球的人，为什么会看？”
 
-**Application:** Before crafting any message, ask: "Why would someone who doesn't already care about this topic pay attention?" That's where your hook lives.
+**应用：**写任何信息前，问“原本不关心此话题的人为什么要注意”。钩子就藏在那里。
 
 ---
 
-## Principle 3: Concrete - Deep Dive
+## 原则三：具体——深入解析
 
-### The Velcro Theory of Memory
+### 记忆魔术贴理论
 
-Memory works like Velcro: the more hooks, the more an idea sticks.
+记忆像魔术贴，挂钩越多，概念越牢。
 
-```
-Abstract idea:   Few hooks, slides off memory
-                 "Improve organizational effectiveness"
-                 (What does that even look like?)
+```text
+抽象概念：挂钩少，从记忆中滑走。
+          “提高组织效能。”
+          这究竟是什么样？
 
-Concrete idea:   Many hooks, sticks in memory
-                 "Only 4 of 11 players know which goal is theirs"
-                 (You can SEE this. You can PICTURE the confused soccer team.)
-```
-
-### The Blueprint vs. Machine Problem
-
-When communication breaks down between groups, the solution is always to go concrete.
-
-**Pattern:**
-```
-Expert thinks:        "I'll make the BLUEPRINT more detailed" (more abstract)
-Audience thinks:      "Just show me the MACHINE" (more concrete)
-Expert response:      Makes blueprint even MORE elaborate
-(Like Americans abroad speaking English more slowly and loudly)
+具体概念：挂钩多，粘在记忆里。
+          “十一名球员只有四人知道自家球门在哪。”
+          你能看见，能想象那支困惑的球队。
 ```
 
-**Resolution:** Find the "universal language" - the level of concreteness everyone shares. For engineers and manufacturers, it was the physical machine. For executives and employees, it's customer stories. For teachers and students, it's demonstrations and simulations.
+### 图纸与机器的问题
 
-### Concrete Targets for Coordination
+群体之间沟通失败时，解决办法总是走向具体。
 
-Abstract goals produce misalignment. Concrete goals produce coordination.
+**模式：**
+```text
+专家想：“我把图纸再画详细点。”越来越抽象。
+受众想：“直接让我看机器。”要更具体。
+专家却：把图纸画得更加复杂。
+就像美国人在国外，用更慢、更大声的英语说话。
+```
 
-| Abstract (Bad) | Concrete (Good) |
+**处理方式：**找到人人共享的具体层次，即“通用语言”。工程师与制造人员之间是实物机器；高管与员工之间是客户故事；老师与学生之间是演示和模拟。
+
+### 用具体目标协调
+
+抽象目标让人错位，具体目标带来协调。
+
+| 差：抽象 | 好：具体 |
 |----------------|-----------------|
-| "Build the best passenger plane" | "Seat 131, fly nonstop Miami to NYC, land on Runway 4-22 at La Guardia" (Boeing 727) |
-| "Build a more portable computer" | [Tosses leather portfolio on table] "This is the future of computing" (Kaplan at Kleiner Perkins) |
-| "Fight poverty in developing nations" | [Holds up packet of salt and sugar] "This costs less than tea and saves hundreds of thousands" (James Grant, UNICEF) |
-| "Make a small radio" | "Pocketable radio" (Sony) |
+| “造最好的客机” | “坐 131 人，迈阿密直飞纽约，在拉瓜迪亚 4-22 跑道降落”，Boeing 727 |
+| “做更便携的电脑” | 把皮革文件夹扔上桌：“这就是计算的未来”，Kaplan 向 Kleiner Perkins 推介 |
+| “对抗发展中国家的贫困” | 举起一包盐糖：“比茶便宜，却能救几十万人”，UNICEF 的 James Grant |
+| “做小收音机” | “可放入口袋的收音机”，Sony |
 
-### The "Fingertips" Principle
+### “Fingertips”原则
 
-Get out of the "death binders" (data abstractions) and into the real world.
+离开“死亡文件夹”，即抽象数据，进入真实世界。
 
-**Process:**
-1. Send your team into actual customer environments
-2. Observe real behavior, not reported behavior
-3. Create concrete personas (like "Saddleback Sam") that everyone in the organization can reference
-4. Use these personas as decision filters: "What would Sam think of this?"
+**过程：**
+1. 让团队进入真实客户环境。
+2. 观察实际行为，而非自述行为。
+3. 创建具体画像，如“Saddleback Sam”，让组织人人都能引用。
+4. 用画像作决策筛选器：“Sam 会怎么看？”
 
-**Result:** General Mills' Hamburger Helper team did this and increased sales 11% after a decade-long slump.
+**结果：**General Mills 的 Hamburger Helper 团队这样做后，在十年低迷之后实现销售增长 11%。
 
 ---
 
-## Principle 4: Credible - Deep Dive
+## 原则四：可信——深入解析
 
-### External Credibility Sources
+### 外部可信度来源
 
-**Authorities:**
-- Experts with framed credentials (professors, doctors, researchers)
-- Celebrities/aspirational figures (effectiveness comes from wanting to be like them, not from expertise)
-- Anti-authorities (real people whose lived experience creates trust)
+**权威：**
+- 有资历证明的专家，如教授、医生、研究者。
+- 名人或令人向往的人物，有效源于想成为他们，而非其专业能力。
+- 非传统权威，即亲身经历带来信任的真实普通人。
 
-**When anti-authorities beat authorities:**
-- When the audience is skeptical of institutions
-- When the message is about personal experience (health, lifestyle, survival)
-- When the "expert" position feels like a sales pitch
-- When authenticity matters more than credentials
+**非传统权威何时更强：**
+- 受众怀疑机构时。
+- 信息涉及健康、生活方式、生存等亲身经历时。
+- “专家”立场像推销时。
+- 真实性比资历更重要时。
 
-### Internal Credibility Sources
+### 内部可信度来源
 
-**Vivid Details:**
+**生动细节：**
 
-The Darth Vader toothbrush effect: irrelevant but vivid details boost the credibility of the entire argument.
+“Darth Vader 牙刷效应”：看似无关却生动的细节，会提高整段论证的可信度。
 
-**Mechanism:** A person's knowledge of details is a proxy for their overall knowledge. When you provide specific, vivid details, the audience unconsciously infers that you know what you're talking about.
+**机制：**对细节的掌握被当作整体知识水平的替代指标。具体生动的细节，使受众无意识地推断你确实懂行。
 
-**Rules for selecting details:**
-- Details must be truthful
-- Details should be "core" (support the central message, not distract from it)
-- Vivid, human-scale details > accurate, abstract details
-- One perfect detail > ten mediocre ones
+**选择规则：**
+- 细节必须真实。
+- 应是“核心”细节，支持中心，而非分散注意。
+- 生动、人类尺度的细节，胜过准确却抽象的细节。
+- 一个完美细节胜过十个平庸细节。
 
-**Statistics - The Relationship Rule:**
+**统计：关系规则。**
 
-| Wrong Way | Right Way |
+| 错误方式 | 正确方式 |
 |-----------|-----------|
-| "5,000 nuclear warheads" | 1 BB (Hiroshima) → 10 BBs (one submarine) → 5,000 BBs poured in (the roar goes on and on) |
-| "37 grams of saturated fat" | "A whole day's worth of unhealthy eating: bacon and eggs, Big Mac, steak dinner - in a single bag of popcorn" |
-| "23,000 employees surveyed" | "If a soccer team had these scores, only 4 of 11 would know which goal is theirs" |
+| “5,000 枚核弹头” | 一颗 BB 弹代表广岛 → 十颗代表一艘核潜艇 → 倒入 5,000 颗，轰响不断 |
+| “37 克饱和脂肪” | “一天不健康饮食：培根鸡蛋、巨无霸、牛排晚餐，全在一袋爆米花里” |
+| “调查了 23,000 名员工” | “若足球队也是这表现，十一人只有四人知道自家球门在哪” |
 
-**The Human-Scale Principle:**
-- Both elements of a comparison must be in human scale
-- "Sun to Earth within 1/3 mile" = hard to grasp (58% said impressive)
-- "New York to LA within 2/3 inch" = tangible (83% said impressive)
-- If you shrink the distance too far (football field), the accuracy becomes intangible (3.4 microns)
+**人类尺度原则：**
+- 对比双方都须处于人能理解的尺度。
+- “太阳到地球，误差三分之一英里”，难理解；58% 觉得惊人。
+- “纽约到洛杉矶，误差三分之二英寸”，可感知；83% 觉得惊人。
+- 距离缩得太小，例如足球场，精度又变得难理解：3.4 微米。
 
-**The Sinatra Test:**
+**辛纳屈测试：**
 
-One example that alone establishes credibility for an entire domain.
+一个例子，就能建立整个领域的可信度。
 
-**Pattern:** "If we can do [impressive thing in hard context], we can do [the thing you need]."
+**模式：**“若能在［困难情境］中完成［惊人成果］，就能完成［你需要的事］。”
 
-**How to find your Sinatra Test credential:**
-1. List your most impressive client/project/result
-2. Identify what made it HARD (time pressure, complexity, stakes)
-3. Frame it: "We delivered X under Y conditions"
-4. Connect it: "Your challenge is similar because..."
+**怎样寻找自己的证据：**
+1. 列出最出色的客户、项目或成果。
+2. 找出难在哪里：时间压力、复杂度、风险。
+3. 表述：“我们在 Y 条件下交付了 X。”
+4. 连接：“你的挑战类似，因为……”
 
-### Audience Credibility: Testable Credentials
+### 受众提供可信度：可验证证据
 
-**Pattern:** Don't tell them. Let them discover it.
+**模式：**不要只告诉他们，让他们自己发现。
 
-| Tell (Weak) | Test (Strong) |
+| 告诉，较弱 | 测试，较强 |
 |-------------|---------------|
-| "Our burgers are bigger" | "Where's the beef?" (go look for yourself) |
-| "The economy is bad" | "Are you better off than four years ago?" (Reagan) |
-| "Your intuition is flawed" | "Which kills more: homicide or suicide?" (you just proved it wrong) |
-| "AIDS is a real risk for you" | NBA rookies flirted with women who turned out to be HIV positive (you just experienced the risk) |
+| “我们的汉堡更大” | “牛肉在哪里？”亲自比较 |
+| “经济不好” | Reagan：“你比四年前过得好吗？” |
+| “你的直觉有偏差” | “他杀和自杀哪个致死更多？”刚好证明你猜错 |
+| “艾滋病与你有真实关系” | NBA 新秀曾与一些后来被告知 HIV 阳性的女性调情，让他们亲身感受风险 |
 
-**Testable credentials are the most powerful because they make the audience the authority.** When someone discovers truth for themselves, they believe it at a deeper level than when told by any expert.
+**可验证证据最有力，因为受众自己成了权威。**亲自发现真相，比听任何专家说更深刻。
 
 ---
 
-## Principle 5: Emotional - Deep Dive
+## 原则五：情感——深入解析
 
-### The Rokia Effect
+### Rokia 效应
 
-Individual stories > statistics for driving action. Statistics > individual stories for establishing credibility. **Never combine them carelessly** - adding statistics to an emotional appeal REDUCES donations (from $2.38 to $1.43 in the Rokia study).
+推动行动，个人故事强于统计；建立可信度，统计强于个人故事。**绝不要随意混合：**情感诉求加统计会减少捐赠，Rokia 研究中从 2.38 美元降至 1.43 美元。
 
-**The analytical hat problem:** Priming people to think analytically suppresses emotional response. Even a simple math problem before a charity appeal reduced giving by 46%.
+**“分析帽子”问题：**先激活分析思维会压抑情绪反应。即便只是慈善诉求前做一道简单数学题，也使捐赠减少 46%。
 
-**Implication for founders:** When you want people to ACT (buy, donate, sign up), lead with story and emotion. Save statistics for the credibility section that supports the already-motivated person.
+**对创始人的含义：**要人购买、捐款、注册，就先讲故事与情感。统计留在后面的可信度部分，支持已被激励的人。
 
-### Three Strategies for Making People Care
+### 让人在意的三种策略
 
-**Strategy 1: Association**
+**策略一：关联。**
 
-Link your idea to something people already care about.
+把理念与人们已经在意的事物连接。
 
-| Don't Link To | Link To |
+| 不要连接到 | 应连接到 |
 |---------------|---------|
-| Abstract environmental duty | "Don't Mess with Texas" (state pride) |
-| "Support the arts" (generic) | "A 73-year-old retired government worker dances in our company" (specific, human) |
-| "Eat healthier" (abstract) | "Your popcorn has more fat than bacon-eggs-and-Big-Mac-and-steak combined" (visceral) |
+| 抽象环保义务 | “别惹德州”，州的自豪感 |
+| 泛泛“支持艺术” | “一位 73 岁退休政府职员在我们的舞团跳舞”，具体有人性 |
+| 抽象“吃得健康” | “爆米花脂肪比培根、鸡蛋、巨无霸、牛排加起来还多”，有切身感受 |
 
-**Strategy 2: Self-Interest (WIIFY - What's In It For You)**
+**策略二：个人利益，WIIFY——这对你有什么好处。**
 
-Most appeals stay in Maslow's basement (save money, save time, stay safe). Often the real motivator is higher up.
+多数诉求停在马斯洛地下室：省钱、省时、安全。真正动机常在更高层。
 
-**Maslow's Hierarchy applied to messaging:**
+**马斯洛层次用于表达：**
 
-| Level | Appeal | Example |
+| 层次 | 诉求 | 例子 |
 |-------|--------|---------|
-| **Self-actualization** | "Become who you could be" | "Learn piano in 30 days" |
-| **Esteem** | "Earn respect, status, mastery" | "Don't Mess with Texas" |
-| **Belonging** | "Join a community of people like you" | "Think Different" (Apple) |
-| **Safety** | "Protect yourself and your family" | Insurance messaging |
-| **Physiological** | "Save money, save time" | Discount/efficiency messaging |
+| **自我实现** | “成为你有潜力成为的人” | “三十天学会钢琴” |
+| **尊重** | “获得尊重、地位、精通感” | “别惹德州” |
+| **归属** | “加入与你相似的人的社群” | Apple：“不同凡想” |
+| **安全** | “保护自己与家庭” | 保险表达 |
+| **生理** | “省钱、省时间” | 折扣与效率表达 |
 
-**Rule:** Test whether a higher-level appeal resonates before defaulting to the basement. People don't always admit to caring about esteem or self-actualization, but these motivators often drive behavior more powerfully than money.
+**规则：**别默认从地下室出发，先测试更高层诉求是否共鸣。人们不一定承认在意尊重与自我实现，但这些常比金钱更能驱动行为。
 
-**Strategy 3: Identity (James March's Decision Model)**
+**策略三：身份，James March 决策模型。**
 
-People make decisions by asking: "What would a person like me do in this situation?"
+人们决策时会问：“像我这样的人，在这种情境中会怎样做？”
 
-Three components:
-1. **Who am I?** (identity)
-2. **What kind of situation is this?** (recognition)
-3. **What would someone like me do?** (rule application)
+三个组成部分：
+1. **我是谁？**身份。
+2. **这是什么情境？**识别。
+3. **像我这样的人会怎么做？**规则应用。
 
-**"Don't Mess with Texas" worked because it appealed to identity:**
-- Who am I? A Texan.
-- What kind of situation is this? Someone's trashing my state.
-- What would a Texan do? Not litter. That's not who we are.
+**“别惹德州”有效，因为它诉诸身份：**
+- 我是谁？德州人。
+- 什么情境？有人在糟蹋我的州。
+- 德州人会怎么做？不乱扔垃圾，我们不是那样的人。
 
-### Semantic Stretch
+### 语义拉伸
 
-When a word is used for everything, it means nothing.
+一个词什么都能形容，就等于什么也没说。
 
-**Dead words:** unique, quality, innovative, cutting-edge, best-in-class, synergy, world-class, solution, leverage, optimize
+**失效词：**独特、品质、创新、前沿、同类最佳、协同效应、世界级、解决方案、利用、优化。
 
-**Test:** If your competitor could use the exact same word truthfully, it's dead. Find a concrete replacement.
-
----
-
-## Principle 6: Stories - Deep Dive
-
-### Mental Simulation Research
-
-Imagining an event activates the same brain regions as experiencing it. Stories aren't entertainment - they're rehearsal.
-
-**Implication:** After hearing a story about how someone solved a problem, the listener has mentally practiced solving that problem. They're more prepared and more likely to act.
-
-### Three Inspirational Plot Types
-
-**Challenge Plot:**
-- Pattern: Underdog → obstacles → perseverance → triumph
-- Emotional response: Inspiration, courage to persist
-- Examples: David vs. Goliath, startup garage stories, Jared/Subway
-- Use when: You need to inspire effort, courage, persistence, or risk-taking
-
-**Connection Plot:**
-- Pattern: Two people → divide (race, class, belief) → bridge → understanding
-- Emotional response: Empathy, warmth, desire to help others
-- Examples: Good Samaritan, unlikely friendships, cross-cultural collaboration
-- Use when: You need to inspire teamwork, tolerance, empathy, or community
-
-**Creativity Plot:**
-- Pattern: Problem → stuck → mental breakthrough → elegant solution
-- Emotional response: "Aha!" moment, desire to innovate
-- Examples: MacGyver, Apple/Newton, scientific discoveries
-- Use when: You need to inspire new thinking, innovation, or creative problem-solving
-
-### Springboard Stories (Stephen Denning)
-
-**Definition:** A short story that communicates a complex change idea by helping the audience visualize the transformation.
-
-**Origin:** Stephen Denning at the World Bank. He spent months trying to convince the organization to embrace knowledge management using data, analysis, and argument. Failed completely. Then he told a single story: a health worker in Zambia, in a small town, logged onto the CDC website and found the answer to a malaria treatment question. That one story launched the World Bank's knowledge management transformation.
-
-**Why springboard stories work:**
-1. They're concrete (specific person, specific place, specific problem)
-2. They let the audience project themselves into the scenario
-3. They demonstrate the POSSIBILITY of change (not the mandate for it)
-4. They bypass resistance because they don't argue - they show
-
-**How to tell a springboard story:**
-1. Find a real example of the change already happening (even small-scale)
-2. Tell it in specific, concrete, human terms
-3. Let the audience imagine how it could work in their context
-4. Do NOT explain the moral - let them draw the conclusion
-
-### Spotting vs. Creating Stories
-
-**You don't create sticky stories. You spot them.**
-
-**Where to find them:**
-- Customer support tickets (Challenge plots)
-- Sales conversations (the moment someone "gets it")
-- Team retrospectives (Creativity plots)
-- Cross-department collaborations (Connection plots)
-- Customer testimonials (all three)
-
-**Interview prompt for extracting stories:**
-1. "Tell me about a specific moment when [the problem] was really painful"
-2. "What happened next? Walk me through it step by step"
-3. "What was the turning point?"
-4. "What's different now?"
-
-### The Speakers vs. Stickers Experiment
-
-After a round of one-minute speeches:
-- Average speaker used 2.5 statistics
-- Only 1 in 10 told a story
-- When tested afterward: **63% of listeners remembered stories. Only 5% remembered any statistic.**
-
-**Implication:** If you have 60 seconds and you fill it with data, 95% of your message will be lost. If you fill it with one story, 63% retention. Stories are 12x more memorable than statistics.
+**测试：**竞品也能真实使用同一个词，它就失效了。寻找具体替代。
 
 ---
 
-## The Message Clinic Framework
+## 原则六：故事——深入解析
 
-A diagnostic format for improving any message:
+### 心理模拟研究
 
+想象事件与亲身体验，会激活相同脑区。故事不只是娱乐，也是排练。
+
+**含义：**听过别人如何解决问题，听者就已在脑中练过一次，因此准备更充分，也更可能行动。
+
+### 三种励志情节
+
+**挑战情节：**
+- 模式：弱者 → 障碍 → 坚持 → 胜利。
+- 情绪反应：受到鼓舞，获得坚持勇气。
+- 例子：David 对 Goliath、车库创业、Jared／Subway。
+- 用于激励努力、勇气、坚持、冒险。
+
+**连接情节：**
+- 模式：两个人 → 种族、阶层、信念鸿沟 → 搭桥 → 理解。
+- 情绪反应：共情、温暖、想帮助别人。
+- 例子：好撒玛利亚人、意外友谊、跨文化合作。
+- 用于激励团队合作、包容、共情、社群。
+
+**创造情节：**
+- 模式：问题 → 卡住 → 思维突破 → 巧妙方案。
+- 情绪反应：“啊哈”，想创新。
+- 例子：MacGyver、苹果与牛顿、科学发现。
+- 用于激发新思维、创新、创造性解题。
+
+### 跳板故事（Stephen Denning）
+
+**定义：**通过帮助受众想象转变，传达复杂变革理念的短故事。
+
+**起源：**世界银行的 Stephen Denning 用数据、分析、论证，花数月劝组织采用知识管理，彻底失败。后来他讲赞比亚小镇一名卫生工作者，登录 CDC 网站找到疟疾治疗答案的故事。这个故事启动了世界银行知识管理转型。
+
+**为什么有效：**
+1. 具体：特定人、地点、问题。
+2. 受众能把自己投射其中。
+3. 展示改变的可能性，而非下达改变命令。
+4. 不争辩，只展示，因此绕开抵抗。
+
+**如何讲：**
+1. 找到变革已经发生的真实例子，哪怕规模小。
+2. 用具体、人性的语言讲。
+3. 让受众想象在自己的情境中如何运行。
+4. 不解释寓意，让他们自己得出结论。
+
+### 发现故事，而非创造故事
+
+**有黏性的故事不是编出来的，是发现的。**
+
+**在哪里找：**
+- 客服工单：挑战情节。
+- 销售对话：某人突然理解的时刻。
+- 团队复盘：创造情节。
+- 跨部门合作：连接情节。
+- 客户证言：三类都有。
+
+**提取故事的访谈问题：**
+1. “讲一个［问题］真的让人痛苦的具体时刻。”
+2. “之后发生什么？按步骤讲讲。”
+3. “转折点是什么？”
+4. “现在有什么不同？”
+
+### 演讲者与记忆实验
+
+一轮一分钟演讲后：
+- 平均演讲者使用 2.5 个统计数字。
+- 只有十分之一讲故事。
+- 后测：**63% 的听者记得故事，仅 5% 记得任何统计。**
+
+**含义：**若有 60 秒却塞满数据，95% 信息会丢失；若讲一个故事，记忆率为 63%。故事约比统计好记十二倍。
+
+---
+
+## 信息诊所框架
+
+改进任意信息的诊断格式：
+
+```text
+第一步：说明沟通挑战。
+        “我们需要［受众］去［理解／相信／在意／行动］。”
+
+第二步：写版本一，即当前做法。
+
+第三步：按 SUCCESs 评分。
+        [ ] 简单：核心清楚吗，明天还记得吗？
+        [ ] 意外：有钩子吗，有待填补缺口吗？
+        [ ] 具体：能想象吗，有感官细节吗？
+        [ ] 可信：为什么该相信？
+        [ ] 情感：他们在意吗，而不只是同意？
+        [ ] 故事：有模拟行动的叙事吗？
+
+第四步：找最弱的一至两项。
+
+第五步：围绕弱项改写。
+
+第六步：重新评分，迭代。
 ```
-STEP 1: State the communication challenge
-        "We need [audience] to [understand/believe/care/act]"
-
-STEP 2: Write Message Version 1 (your current approach)
-
-STEP 3: Score against SUCCESs
-        [ ] Simple - Is the core clear? Would they remember it tomorrow?
-        [ ] Unexpected - Is there a hook? A gap to fill?
-        [ ] Concrete - Can they picture it? Sensory details?
-        [ ] Credible - Why should they believe it?
-        [ ] Emotional - Do they CARE, not just agree?
-        [ ] Stories - Is there a narrative that simulates action?
-
-STEP 4: Identify the 1-2 weakest principles
-
-STEP 5: Rewrite focusing on those principles
-
-STEP 6: Re-score. Iterate.
-```
 
 ---
 
-## The Villain Lineup (Curse of Knowledge Variants)
+## 反派阵容：知识诅咒的变体
 
-| Villain | How It Manifests | Antidote |
+| 反派 | 表现 | 解药 |
 |---------|-----------------|----------|
-| **Burying the lead** | Important info is on page 3 | Simple (inverted pyramid) |
-| **Abstract-speak** | "Leverage synergies across verticals" | Concrete (show the machine) |
-| **The expert's blind spot** | Assuming shared context | Concrete + Unexpected (violate their assumption about what you'll say) |
-| **Death by PowerPoint** | 47 bullet points, zero stories | Stories (one good one beats 47 bullets) |
-| **The analytical frame** | Leading with data when you need emotion | Emotional (lead with one person, not statistics) |
-| **Credibility by volume** | 20 mediocre testimonials | Credible (one Sinatra Test example) |
+| **埋藏主旨** | 重要信息在第三页 | 简单，倒金字塔 |
+| **抽象话** | “利用跨垂直领域的协同效应” | 具体，直接展示机器 |
+| **专家盲点** | 假定双方有共同背景 | 具体 + 意外，打破受众对你将说什么的预期 |
+| **被 PowerPoint 淹没** | 47 个要点，零故事 | 故事，一个好故事胜过 47 个要点 |
+| **分析框架** | 需要情感时却先讲数据 | 情感，先讲一个人而非统计 |
+| **靠数量建立可信度** | 二十条平庸证言 | 可信，一个辛纳屈测试案例 |

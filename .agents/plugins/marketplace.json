@@ -1,15 +1,15 @@
 {
   "name": "founder-playbook",
   "interface": {
-    "displayName": "Founder Playbook"
+    "displayName": "创业者实战手册"
   },
   "plugins": [
     {
       "name": "founder-playbook",
       "source": {
         "source": "url",
-        "url": "https://github.com/getagentseal/founder-playbook.git",
-        "ref": "main"
+        "url": "https://github.com/Lucius1105/founder-playbook.git",
+        "ref": "docs/chinese-readme-20261015"
       },
       "policy": {
         "installation": "AVAILABLE",

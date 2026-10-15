@@ -1,430 +1,454 @@
-# Cases - Traction
+> 中文译文｜[英文对照](cases.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/traction/cases.md)。原项目整理：AgentSeal；书籍来源：《Traction》— Gabriel Weinberg 与 Justin Mares；AI辅助翻译。
 
-## Mint - Blog Targeting to $170M Acquisition
+<a id="cases---traction"></a>
+# Traction——案例
 
-**Setup:** Personal finance management tool. Pre-launch, competing against established players (Quicken, Microsoft Money).
+<a id="mint---blog-targeting-to-170m-acquisition"></a>
+## Mint——从博客触达到 1.7 亿美元收购
 
-**Traction strategy (Noah Kagan):**
-- Targeted 600 personal finance blogs with outreach
-- Created "I want Mint" badges for bloggers to display --> contributed to 20K signups before launch
-- Outreach subject line: "Can I send you $500?" (genuine offer for sponsored content)
-- Sponsored Suze Orman and small financial bloggers
-- Partnered with Motley Fool (3M readers)
+**背景：** 个人财务管理工具，发布前面对 Quicken、Microsoft Money 等成熟对手。
 
-**Results:**
-- 20K pre-launch signups
-- 1M users within 6 months of launch
-- Acquired by Intuit for $170M
+**Noah Kagan 的增长策略：**
+- 联系 600 个个人理财博客。
+- 制作供博主展示的“我想要 Mint”徽章，促成发布前 20,000 个注册。
+- 触达邮件主题：“我能寄给你 500 美元吗？”确实是赞助内容的报价。
+- 赞助 Suze Orman 和小型理财博主。
+- 与拥有 300 万读者的 Motley Fool 合作。
 
-**Channel used:** Targeting Blogs (Channel 11)
+**结果：**
+- 发布前 20,000 个注册。
+- 发布六个月内 100 万用户。
+- 被 Intuit 以 1.7 亿美元收购。
 
-**Key lesson:** Blog targeting is the best Phase I channel for products with identifiable niche audiences. Mint didn't use SEO, SEM, or social ads at launch. They went directly to the blogs their target audience already read.
+**渠道：** 第十一渠道，定向接触博客。
 
----
-
-## Half.com - Unconventional PR to Major Acquisition
-
-**Setup:** Online marketplace for used goods (books, CDs, movies).
-
-**Traction strategy:**
-- Convinced the town of Halfway, Oregon to rename itself "Half.com, Oregon" for one year
-- Timed the announcement for the Today Show launch
-- Total spend: ~$70K
-- Generated 40M+ media impressions
-
-**Additional BD:**
-- Distribution deals with Yahoo, About.com, LookSmart
-- These partnerships drove sustained traffic after the PR burst
-
-**Result:** Acquired by eBay.
-
-**Channels used:** Unconventional PR (Channel 3), Business Development (Channel 12)
-
-**Key lesson:** A well-executed publicity stunt can generate massive awareness for a fraction of traditional advertising costs. But stunts are one-shot - they need to be paired with sustainable channels (Half.com used BD partnerships for ongoing traffic).
+**关键启示：** 对利基受众可识别的产品，博客触达是第一阶段最佳渠道。Mint 发布时没用 SEO、SEM 或社交广告，而是直接进入目标受众已经阅读的博客。
 
 ---
 
-## Dollar Shave Club - $5K Video to Market Disruption
+<a id="halfcom---unconventional-pr-to-major-acquisition"></a>
+## Half.com——从非常规公关到重大收购
 
-**Setup:** Subscription razor delivery. Competing against Gillette ($60M annual ad budget).
+**背景：** 二手书、CD、电影等商品的在线市场。
 
-**Traction strategy:**
-- Produced a single video for ~$5,000
-- Founder Mike Dubin starred in it: funny, irreverent, direct
-- Posted on YouTube
+**增长策略：**
+- 说服俄勒冈州 Halfway 镇，将名字改为“Half.com，俄勒冈州”，持续一年。
+- 配合 Today Show 的发布报道宣布。
+- 总花费约 70,000 美元。
+- 获得超过 4,000 万次媒体曝光。
 
-**Results:**
-- 12,000 customers in 2 days
-- Equivalent reach to Gillette's $60M annual budget
-- Eventually acquired by Unilever for $1 billion
+**补充 BD：**
+- 与 Yahoo、About.com、LookSmart 签分销协议。
+- 公关热潮后，这些伙伴持续带来流量。
 
-**Channel used:** Unconventional PR / Viral Marketing (Channels 3, 1)
+**结果：** 被 eBay 收购。
 
-**Key lesson:** Creative quality matters more than budget. A $5K video with genuine personality outperformed a $60M ad campaign. But this only works when the product solves a real pain point (overpriced razors) and the creative resonates with the target audience.
+**渠道：** 第三渠道非常规公关，第十二渠道商务拓展。
 
----
-
-## DuckDuckGo - Billboard + Community
-
-**Setup:** Privacy-focused search engine. Competing against Google (>90% market share).
-
-**Traction strategy:**
-- Placed a single billboard in San Francisco: privacy-focused messaging, $7K/month
-- Built community from the ground up: every DuckDuckGo employee was a community member first
-- Created DontTrack.us: an engineering-as-marketing site educating users about online tracking
-
-**Results:**
-- Billboard doubled userbase during its run
-- Community became primary source of product feedback, feature ideas, and hiring
-- DontTrack.us drove ongoing SEO traffic and press coverage
-
-**Channels used:** Offline Ads (Channel 6), Community Building (Channel 19), Engineering as Marketing (Channel 10)
-
-**Key lesson:** Even against a monopolist (Google at 90%+), traction is possible by targeting underserved needs (privacy) through unexpected channels (billboard for a tech product). Community building provided sustainable growth; the billboard provided the initial awareness spike.
+**关键启示：** 执行良好的宣传事件，能以传统广告的一小部分成本获得巨大认知。但事件是一次性的，需要可持续渠道配合；Half.com 用 BD 合作保持流量。
 
 ---
 
-## WePay - Publicity Stunt at Competitor's Conference
+<a id="dollar-shave-club---5k-video-to-market-disruption"></a>
+## Dollar Shave Club——5,000 美元视频撼动市场
 
-**Setup:** Payment processing company. Competing against PayPal.
+**背景：** 剃须刀订阅配送，与年广告预算 6,000 万美元的 Gillette 竞争。
 
-**Traction strategy:**
-- Dropped a 600-pound block of ice with frozen money in front of PayPal's developer conference
-- The stunt symbolized PayPal's practice of "freezing" customer funds
-- Media covered it extensively
+**增长策略：**
+- 花约 5,000 美元制作一条视频。
+- 创始人 Mike Dubin 出镜，幽默、不循规蹈矩、直接。
+- 发布到 YouTube。
 
-**Result:** Massive press coverage and brand awareness. Positioned WePay as the anti-PayPal alternative.
+**结果：**
+- 两天获得 12,000 名客户。
+- 覆盖相当于 Gillette 6,000 万美元年预算。
+- 最终被 Unilever 以 10 亿美元收购。
 
-**Channel used:** Unconventional PR (Channel 3)
+**渠道：** 第三与第一渠道，非常规公关／病毒营销。
 
-**Key lesson:** Stunts work best when they tell a specific, relevant story. The frozen-money block wasn't random - it directly addressed PayPal's most hated policy (account freezes). The stunt was the message.
-
----
-
-## Blendtec - "Will It Blend?"
-
-**Setup:** Commercial and consumer blender manufacturer.
-
-**Traction strategy:**
-- Created "Will It Blend?" YouTube video series
-- Blended iPhones, golf balls, marbles, and other unlikely objects
-- Low production cost, high entertainment value
-
-**Results:**
-- Individual videos hit 8M+ views
-- 500% increase in blender sales
-- Brand went from unknown to household name
-
-**Channel used:** Unconventional PR / Content Marketing (Channels 3, 8)
-
-**Key lesson:** The viral content directly demonstrated the product's core value proposition (power). Entertainment and product demonstration were the same thing.
+**关键启示：** 创意质量比预算重要。个性鲜明的 5,000 美元视频胜过 6,000 万美元广告。但前提是产品解决真实痛点，即剃须刀过贵，且创意与目标受众共鸣。
 
 ---
 
-## Grasshopper.com - Chocolate-Covered Grasshoppers
+<a id="duckduckgo---billboard--community"></a>
+## DuckDuckGo——广告牌与社群
 
-**Setup:** Virtual phone system for entrepreneurs.
+**背景：** 重视隐私的搜索引擎，与份额超过 90% 的 Google 竞争。
 
-**Traction strategy:**
-- Sent chocolate-covered grasshoppers (actual edible insects) to 5,000 influencers
-- Each package included a note about the "Grasshopper 5000" product
-- Total cost: ~$65K
-- Included a link to a video
+**增长策略：**
+- 在旧金山放一个强调隐私的广告牌，每月 7,000 美元。
+- 从零建设社群，每位 DuckDuckGo 员工最初都是成员。
+- 创建 DontTrack.us，以工程营销网站教育用户了解在线追踪。
 
-**Results:**
-- 200K+ video views
-- Significant brand awareness among the entrepreneurial audience
-- PR coverage across tech blogs
+**结果：**
+- 广告牌投放期间用户数翻倍。
+- 社群成为产品反馈、功能想法、招聘的主要来源。
+- DontTrack.us 持续带来 SEO 流量与报道。
 
-**Channel used:** Unconventional PR (Channel 3)
+**渠道：** 第六线下广告、第十九社群建设、第十工程营销。
 
-**Key lesson:** Physical, memorable gifts cut through digital noise. The chocolate grasshoppers were impossible to ignore and perfectly on-brand (company name = Grasshopper).
-
----
-
-## HubSpot - Content + Engineering as Marketing
-
-**Setup:** Inbound marketing platform.
-
-**Traction strategy (content marketing):**
-- Hired dedicated content team early
-- Published educational marketing content consistently
-- Coined and owned the term "inbound marketing"
-
-**Results:**
-- 70-80% of leads from content (vs. 10% industry average)
-- 45,000-50,000 leads per month
-- Inbound leads cost half as much and close 100% better than outbound
-
-**Traction strategy (engineering as marketing):**
-- Built Marketing Grader: free tool that scores any website's marketing
-- Users enter their URL, get a report, and are exposed to HubSpot's product
-
-**Results:**
-- 3M+ sites analyzed through Marketing Grader
-- Permanent marketing asset that generates leads indefinitely
-
-**Channels used:** Content Marketing (Channel 8), Engineering as Marketing (Channel 10)
-
-**Key lesson:** Content marketing is slow (6+ months to gain traction) but compounds over time. Paired with engineering as marketing (free tools), it creates a self-reinforcing lead generation machine. HubSpot's combination of educational content + free tools became the template for inbound marketing.
+**关键启示：** 即使面对份额 90% 以上的垄断者，也能通过意外渠道，例如科技产品投广告牌，满足未被充分服务的隐私需求，获得增长。社群提供可持续增长，广告牌带来初始认知高峰。
 
 ---
 
-## Unbounce - Pre-Launch Blog Strategy
+<a id="wepay---publicity-stunt-at-competitors-conference"></a>
+## WePay——竞争者大会上的宣传事件
 
-**Setup:** Landing page builder for marketers.
+**背景：** 与 PayPal 竞争的支付处理公司。
 
-**Traction strategy:**
-- Hired a full-time blogger as their **first hire** (before engineers beyond the founders)
-- Blogged for a full year before launching the product
-- Created the "Noob Guide to Online Marketing" infographic
+**增长策略：**
+- 在 PayPal 开发者大会门前放置一块重 600 磅、冻着现金的冰。
+- 象征 PayPal“冻结”客户资金的做法。
+- 媒体广泛报道。
 
-**Results:**
-- Launched with 20K monthly visitors and 5K email list
-- The infographic generated tens of thousands of downloads, still shared hourly a year after publication
-- Product had a waiting audience on day one
+**结果：** 大量媒体报道与品牌认知，将 WePay 定位成反 PayPal 的替代方案。
 
-**Channel used:** Content Marketing (Channel 8), Targeting Blogs (Channel 11)
+**渠道：** 第三渠道，非常规公关。
 
-**Key lesson:** The 50% rule in action. Unbounce invested in traction before the product existed. When they launched, they had an audience waiting. The "Noob Guide" became an evergreen marketing asset - one piece of content that kept working indefinitely.
+**关键启示：** 事件讲述具体、相关故事时最有效。冻现金不是随机噱头，而是直接针对 PayPal 最不受欢迎的账户冻结政策。事件本身就是信息。
 
 ---
 
-## JBoss - Open Source to $350M Acquisition
+<a id="blendtec---will-it-blend"></a>
+## Blendtec——“能搅碎吗？”
 
-**Setup:** Open-source enterprise application server.
+**背景：** 商用与家用搅拌机制造商。
 
-**Traction strategy (sales funnel):**
-- Free product on SourceForge (open-source download)
-- Gated documentation behind registration
-- Registration generated 10K+ leads per month
-- Sales team qualified and closed enterprise support deals
+**增长策略：**
+- 创建 YouTube 系列“Will It Blend?”。
+- 搅碎 iPhone、高尔夫球、弹珠等意想不到的物品。
+- 制作成本低，娱乐价值高。
 
-**Results:**
-- $65M revenue within 2 years of founding
-- ~25% close rate (industry average: 7-10%)
-- Acquired by Red Hat for $350M
+**结果：**
+- 单条视频超过 800 万播放。
+- 搅拌机销售增加 500%。
+- 品牌从默默无闻变为家喻户晓。
 
-**Channel used:** Sales (Channel 13), supplemented by existing platforms (SourceForge)
+**渠道：** 第三与第八，非常规公关／内容营销。
 
-**Key lesson:** The free product was the lead generation engine. JBoss didn't need content marketing or SEO - the product itself, distributed through an existing platform (SourceForge), generated leads. Gated docs converted free users into qualified sales leads.
-
----
-
-## Twitter - SXSW 2007
-
-**Setup:** Micro-blogging platform, still very early stage.
-
-**Traction strategy:**
-- Rented flat-panel screens for the hallways at SXSW: $11K
-- Displayed live Twitter streams on the screens
-- Promoted "text 'join sxsw' to 40404" for instant signup
-- Conference attendees could see their tweets appear on the big screens in real-time
-
-**Results:**
-- Tweets jumped from 20K/day to 60K/day during the conference
-- Won the SXSW Web Award
-- Breakout moment that launched Twitter into mainstream awareness
-
-**Evan Williams:** "Just about the only money Twitter's ever spent on marketing."
-
-**Channel used:** Offline Events (Channel 17)
-
-**Key lesson:** The right event + the right audience + the right activation = disproportionate impact. Twitter didn't just sponsor SXSW; they made Twitter the communication layer of the conference. The flat-panel screens turned every attendee into a visible user.
+**关键启示：** 病毒内容直接演示核心价值——强劲动力。娱乐与产品演示合为一体。
 
 ---
 
-## Evernote - Multi-Platform Strategy
+<a id="grasshoppercom---chocolate-covered-grasshoppers"></a>
+## Grasshopper.com——巧克力裹蚱蜢
 
-**Setup:** Note-taking and organization app.
+**背景：** 面向创业者的虚拟电话系统。
 
-**Traction strategy (three plays):**
-1. **Build early:** Be on every new platform from day one. When Verizon launched Android phones, Evernote was there and got a carrier promotion.
-2. **Multiple apps:** Created Evernote Food, Evernote Hello, and other spinoffs. Each occupied a different category in app stores, increasing discovery.
-3. **Special features for editors:** Built Evernote Peek specifically for iPad's Smart Cover (a hardware feature). Apple featured it prominently.
+**增长策略：**
+- 给 5,000 位影响者寄送裹巧克力的真实可食用蚱蜢。
+- 每包附上介绍“Grasshopper 5000”产品的便条。
+- 总成本约 65,000 美元。
+- 包含视频链接。
 
-**Results:**
-- Evernote Peek: #1 in Education for a month, 500K+ users
-- Multi-platform presence drove compounding growth across every platform launch
+**结果：**
+- 超过 20 万视频播放。
+- 在创业者受众中显著提升品牌认知。
+- 获得科技博客报道。
 
-**Channel used:** Existing Platforms (Channel 15)
+**渠道：** 第三，非常规公关。
 
-**Key lesson:** Being early on emerging platforms is a massive advantage. The first quality app in a new platform category gets disproportionate attention from platform owners who want to showcase what their platform can do.
-
----
-
-## Codecademy - Code Year
-
-**Setup:** Interactive programming education platform.
-
-**Traction strategy:**
-- Created "Code Year" - a New Year's resolution to learn programming in 2012
-- One interactive programming lesson per week via email
-- Free, no strings attached
-
-**Results:**
-- 450K signups for Code Year
-- Nearly doubled Codecademy's userbase
-- Massive press coverage (NYT, CNN, tech blogs)
-
-**Channel used:** Engineering as Marketing (Channel 10)
-
-**Key lesson:** Free tools/programs that provide genuine value and are newsworthy can function as both marketing and PR simultaneously. Code Year was a marketing asset (drove signups), a PR hook (the "learn to code" narrative), and a product demo (taught via Codecademy's platform).
+**关键启示：** 可触摸、令人难忘的礼物能穿透数字噪音。巧克力蚱蜢难以忽略，且完全符合品牌名 Grasshopper。
 
 ---
 
-## Inflection/Archives.com - SEM to $100M Acquisition
+<a id="hubspot---content--engineering-as-marketing"></a>
+## HubSpot——内容与工程营销
 
-**Setup:** Genealogy service. Competing in a space with high search demand.
+**背景：** 入站营销平台。
 
-**Traction strategy:**
-- Tested product concepts via AdWords before building features
-- Ran extensive keyword campaigns targeting genealogy searches
-- Started with ~100K keywords, pruned to ~50K profitable ones
-- Peak spend: six figures per month
+**内容增长策略：**
+- 早期就聘专门内容团队。
+- 持续发布营销教育内容。
+- 创造并占据“入站营销”一词。
 
-**Results:**
-- Built a $100M business primarily on SEM
-- Acquired by Ancestry.com
+**结果：**
+- 70%—80% 线索来自内容，行业平均 10%。
+- 每月 45,000—50,000 条线索。
+- 入站线索成本是主动开发的一半，成交效果好 100%。
 
-**Channel used:** Search Engine Marketing (Channel 4)
+**工程营销策略：**
+- 构建免费 Marketing Grader，为任何网站的营销打分。
+- 用户输入 URL、获得报告，同时接触 HubSpot 产品。
 
-**Key lesson:** SEM can be a startup's entire growth engine when there's existing search demand. Archives.com used AdWords as both a traction channel AND a product validation tool - they tested which features people wanted by measuring which ad copy and landing pages converted best.
+**结果：**
+- 分析超过 300 万网站。
+- 成为持续无限期产生线索的长期资产。
 
----
+**渠道：** 第八内容营销、第十工程营销。
 
-## OkCupid - Blog as Traction Engine
-
-**Setup:** Free online dating site.
-
-**Traction strategy:**
-- Published data analysis blog posts using their proprietary dating data
-- Posts like "How Your Race Affects the Messages You Get" went viral
-- Content was genuinely interesting, shareable, and often controversial
-
-**Results:**
-- Blog posts routinely reached front pages of reddit and HN
-- Reached #1 organic ranking for "online dating" within ~1 year
-- Blog became the primary discovery mechanism for the product
-
-**Channel used:** Content Marketing (Channel 8)
-
-**Key lesson:** Proprietary data is a content marketing superpower. OkCupid had data nobody else had (millions of dating interactions). Publishing analysis of that data created content that was both unique and irresistible to share.
+**关键启示：** 内容营销慢，需要六个月以上起量，但会复利积累。配合免费工具，形成自我强化的线索生成机制。HubSpot 的教育内容加免费工具，成为入站营销模板。
 
 ---
 
-## Enservio - Mini-Conference for Enterprise Sales
+<a id="unbounce---pre-launch-blog-strategy"></a>
+## Unbounce——发布前博客策略
 
-**Setup:** Insurance industry software. Tried BD, SEO, and direct sales to reach top insurance executives. All failed.
+**背景：** 面向营销人员的落地页构建工具。
 
-**Traction strategy:**
-- Created the "Claims Innovation Summit" at the Ritz Carlton
-- Invited top insurance executives to a one-day industry conference
-- Positioned themselves as thought leaders, not vendors
+**增长策略：**
+- **首位员工**是全职博主，先于创始人之外的工程师。
+- 产品发布前，整整写了一年博客。
+- 制作“网络营销新手指南”信息图。
 
-**Results:**
-- Reached executive decision-makers that BD, SEO, and cold sales couldn't
-- Generated enterprise pipeline from a single event
-- Repeated annually with growing attendance
+**结果：**
+- 发布时已有每月 20,000 访客、5,000 人邮件名单。
+- 信息图获得数万下载，一年后仍每小时被分享。
+- 产品第一天就有等待的受众。
 
-**Channel used:** Offline Events (Channel 17)
+**渠道：** 第八内容营销、第十一博客触达。
 
-**Key lesson:** When your buyers are C-suite executives who don't respond to cold outreach, create an event worth their time. A conference positions you as an industry leader, not a vendor. The selling happens through relationship-building, not pitching.
-
----
-
-## SlidePad - Trade Show as Primary Channel
-
-**Setup:** iPad accessory product.
-
-**Traction strategy:**
-- Exhibited at a major consumer electronics trade show
-- Focused on outbound engagement (walking the floor, demonstrating to buyers)
-- Landed partnership with Jamis (bicycle manufacturer) through trade show networking
-
-**Results:**
-- 20,000+ unit sales directly from one trade show
-- The Jamis partnership opened retail distribution channels
-
-**Channel used:** Trade Shows (Channel 16)
-
-**Key lesson:** For physical products, trade shows compress months of sales cycles into days. SlidePad's entire go-to-market strategy centered on one well-executed trade show appearance.
+**关键启示：** 这是 50% 规则的实践。产品尚不存在就投资增长，发布时已有受众等待。“新手指南”成为常青营销资产，一份内容长期发挥作用。
 
 ---
 
-## Startup Digest - Community to 250K Members
+<a id="jboss---open-source-to-350m-acquisition"></a>
+## JBoss——从开源到 3.5 亿美元收购
 
-**Setup:** Curated newsletter of startup events, started by Chris McCann.
+**背景：** 开源企业应用服务器。
 
-**Traction strategy:**
-- Started by emailing 22 friends about local startup events
-- Curated personally, maintaining quality
-- Expanded city by city, recruiting local curators
-- Community-driven growth: each city's curator was a community member first
+**销售漏斗策略：**
+- 在 SourceForge 免费提供开源下载。
+- 文档需要注册才能访问。
+- 注册每月产生超过 10,000 条线索。
+- 销售团队筛选并成交企业支持服务。
 
-**Results:**
-- Grew from 22 friends to 250K subscribers
-- Expanded to 100+ cities globally
-- Became a go-to resource for startup community events
+**结果：**
+- 创业两年内收入达 6,500 万美元。
+- 成交率约 25%，行业平均 7%—10%。
+- 被 Red Hat 以 3.5 亿美元收购。
 
-**Channel used:** Community Building (Channel 19), Email Marketing (Channel 9)
+**渠道：** 第十三销售，辅以 SourceForge 等现有平台。
 
-**Key lesson:** Community building starts impossibly small. 22 friends. The key is maintaining quality and fostering cross-connections (member-to-member, not just member-to-company). Scale by replicating the model, not by abandoning the personal touch.
-
----
-
-## Dropbox - Viral Referral Loop
-
-**Setup:** File synchronization service.
-
-**Traction strategy:**
-- Built an incentivized viral loop: invite a friend, both get extra storage space
-- The incentive was product-native (storage space, not cash or gift cards)
-- Made sharing frictionless (one-click invite)
-
-**Results:**
-- Referral program drove explosive growth
-- Waiting list went from 5K to 75K from the video MVP alone (pre-product)
-- Viral loop sustained growth post-launch
-
-**Channel used:** Viral Marketing (Channel 1)
-
-**Key lesson:** The best viral loops reward with product value, not external incentives. Dropbox's extra storage space was more motivating than cash because it directly improved the user's experience.
+**关键启示：** 免费产品就是线索引擎。JBoss 无须内容营销或 SEO，产品通过既有平台分发即可产生线索。注册门槛文档把免费用户转成合格销售线索。
 
 ---
 
-## Reddit - Founder-Led Community Seeding
+<a id="twitter---sxsw-2007"></a>
+## Twitter——2007 年 SXSW
 
-**Setup:** Social news and discussion platform.
+**背景：** 仍处于极早期的微博客平台。
 
-**Traction strategy (Alexis Ohanian):**
-- Personally emailed early content submitters to thank them and encourage more
-- Sent reddit stickers to users who requested them (through the mail)
-- Designed the karma system to reward quality contributions
-- Maintained quality standards from day one
+**增长策略：**
+- 花 11,000 美元在 SXSW 走廊租用平板屏幕。
+- 展示实时 Twitter 信息流。
+- 宣传发送“join sxsw”到 40404，即可立刻注册。
+- 与会者能实时看到自己的推文出现在大屏幕。
 
-**Results:**
-- Early personal attention built a core of dedicated contributors
-- Karma system created self-sustaining quality incentives
-- Grew into one of the most-visited sites on the internet
+**结果：**
+- 大会期间，推文从每日 20,000 条增至 60,000 条。
+- 获得 SXSW Web Award。
+- 成为 Twitter 进入主流认知的突破时刻。
 
-**Channel used:** Community Building (Channel 19)
+**Evan Williams：** “几乎是 Twitter 唯一花过的营销费。”
 
-**Key lesson:** Community quality is established in the first 100 users, not the first 100,000. Alexis's personal emails and stickers seem absurdly unscalable, but they set the cultural tone that scaled.
+**渠道：** 第十七，线下活动。
+
+**关键启示：** 正确活动、受众、激活方式结合，会产生超额影响。Twitter 不只是赞助 SXSW，而是成为会议沟通层。屏幕让每位与会者成为可见用户。
 
 ---
 
-## Filepicker.io - One HN Post
+<a id="evernote---multi-platform-strategy"></a>
+## Evernote——多平台策略
 
-**Setup:** File upload API for developers.
+**背景：** 笔记与信息整理应用。
 
-**Traction strategy:**
-- Posted a "Show HN" on Hacker News demonstrating the product
+**三种增长打法：**
+1. **早做：** 每个新平台第一天就上线。Verizon 推出 Android 手机时，Evernote 已在场并获得运营商推广。
+2. **多个应用：** Evernote Food、Evernote Hello 等衍生应用，各占应用商店不同品类，提高被发现机会。
+3. **面向编辑的特色功能：** 专为 iPad Smart Cover 硬件特性打造 Evernote Peek，Apple 大力推荐。
 
-**Results:**
-- Front-page placement
-- 12K demo users in a single day
+**结果：**
+- Evernote Peek 连续一个月教育榜第一，超过 50 万用户。
+- 多平台布局在每次平台发布时带来复利增长。
 
-**Channel used:** Targeting Blogs / Link-sharing communities (Channel 11)
+**渠道：** 第十五，现有平台。
 
-**Key lesson:** One well-placed post on the right platform can deliver more users in a day than months of other marketing. But it only works if the product resonates with that specific audience. Filepicker.io was a developer tool posted to a developer community - perfect audience-channel fit.
+**关键启示：** 早进入新平台有巨大优势。新平台品类里的第一个优质应用，会获得平台方超额关注，因为平台方想展示自身能力。
+
+---
+
+<a id="codecademy---code-year"></a>
+## Codecademy——Code Year
+
+**背景：** 交互式编程教育平台。
+
+**增长策略：**
+- 创建“Code Year”，倡导 2012 年新年决心：学习编程。
+- 每周邮件发送一节交互式编程课。
+- 免费，无附加条件。
+
+**结果：**
+- Code Year 获 45 万注册。
+- Codecademy 用户几乎翻倍。
+- NYT、CNN、科技博客大量报道。
+
+**渠道：** 第十，工程营销。
+
+**关键启示：** 真有价值且有新闻性的免费工具／项目，能够同时做营销与公关。Code Year 既是促注册的营销资产，也是“学编程”叙事的公关抓手，还是通过 Codecademy 平台授课的产品演示。
+
+---
+
+<a id="inflectionarchivescom---sem-to-100m-acquisition"></a>
+## Inflection／Archives.com——SEM 带来 1 亿美元收购
+
+**背景：** 家谱服务，所在领域搜索需求很高。
+
+**增长策略：**
+- 开发功能前，用 AdWords 测试产品概念。
+- 大量投放家谱相关关键词。
+- 从约 10 万个关键词缩减到约 5 万个盈利词。
+- 高峰期每月花费六位数美元。
+
+**结果：**
+- 主要靠 SEM 建成价值 1 亿美元业务。
+- 被 Ancestry.com 收购。
+
+**渠道：** 第四，搜索引擎营销。
+
+**关键启示：** 已有搜索需求时，SEM 可以独自承担增长引擎。Archives.com 把 AdWords 同时作为增长与产品验证工具，通过广告文案和落地页的转化表现，测试客户想要哪些功能。
+
+---
+
+<a id="okcupid---blog-as-traction-engine"></a>
+## OkCupid——博客成为增长引擎
+
+**背景：** 免费在线交友网站。
+
+**增长策略：**
+- 使用专有交友数据发布分析文章。
+- “种族如何影响你收到的信息”等文章病毒传播。
+- 内容确实有趣、值得分享，且常有争议。
+
+**结果：**
+- 文章经常登上 Reddit 和 HN 首页。
+- 约一年内在“online dating”关键词自然搜索排名第一。
+- 博客成为发现产品的主要方式。
+
+**渠道：** 第八，内容营销。
+
+**关键启示：** 专有数据是内容营销的强大优势。OkCupid 拥有别人没有的数百万交友互动数据，公开分析让内容既独特，又令人忍不住分享。
+
+---
+
+<a id="enservio---mini-conference-for-enterprise-sales"></a>
+## Enservio——小型会议推动企业销售
+
+**背景：** 保险行业软件。尝试 BD、SEO、直销接触顶级保险高管，全部失败。
+
+**增长策略：**
+- 在 Ritz Carlton 举办“理赔创新峰会”。
+- 邀请顶级保险高管参加一天的行业会议。
+- 将自己定位为思想领导者，而非供应商。
+
+**结果：**
+- 接触到 BD、SEO、冷销售无法触达的高管决策者。
+- 单场活动产生企业销售管道。
+- 每年重复，参会人数增长。
+
+**渠道：** 第十七，线下活动。
+
+**关键启示：** 买家是对冷触达无反应的高管时，创造值得他们花时间的活动。会议让你成为行业领导者，而非供应商，销售通过关系建设而非推销发生。
+
+---
+
+<a id="slidepad---trade-show-as-primary-channel"></a>
+## SlidePad——以行业展会为主渠道
+
+**背景：** iPad 配件产品。
+
+**增长策略：**
+- 在大型消费电子展参展。
+- 聚焦主动互动，逛展、向买家演示。
+- 通过展会人脉与自行车制造商 Jamis 达成合作。
+
+**结果：**
+- 一场展会直接售出超过 20,000 件。
+- Jamis 合作打开零售分销渠道。
+
+**渠道：** 第十六，行业展会。
+
+**关键启示：** 实体产品可通过展会把数月销售周期压成数天。SlidePad 整套市场进入策略，都围绕一次执行良好的参展展开。
+
+---
+
+<a id="startup-digest---community-to-250k-members"></a>
+## Startup Digest——社群发展到 25 万成员
+
+**背景：** Chris McCann 创建的创业活动精选邮件通讯。
+
+**增长策略：**
+- 最初给 22 位朋友发本地创业活动邮件。
+- 亲自精选，保持质量。
+- 逐城扩展，招募本地编辑。
+- 社群驱动增长，每城编辑最初都是社群成员。
+
+**结果：**
+- 从 22 位朋友增至 25 万订阅者。
+- 扩展到全球 100 多座城市。
+- 成为创业社群活动的首选资源。
+
+**渠道：** 第十九社群建设、第九邮件营销。
+
+**关键启示：** 社群起点可以小得不可思议，只有 22 位朋友。关键是保持质量、促进成员间联系，而非只与公司联系。通过复制模式扩大，不要放弃个人化接触。
+
+---
+
+<a id="dropbox---viral-referral-loop"></a>
+## Dropbox——病毒推荐循环
+
+**背景：** 文件同步服务。
+
+**增长策略：**
+- 激励循环：邀请朋友，双方获得额外存储空间。
+- 激励来自产品自身，不是现金或礼品卡。
+- 一键邀请，分享无阻力。
+
+**结果：**
+- 推荐计划推动爆发增长。
+- 仅靠产品开发前的视频 MVP，等候名单从 5,000 增至 75,000。
+- 发布后由病毒循环持续增长。
+
+**渠道：** 第一，病毒营销。
+
+**关键启示：** 最佳病毒循环奖励产品价值，而非外部激励。额外空间直接改善使用体验，比现金更能激励 Dropbox 用户。
+
+---
+
+<a id="reddit---founder-led-community-seeding"></a>
+## Reddit——创始人亲自播种社群
+
+**背景：** 社交新闻与讨论平台。
+
+**Alexis Ohanian 的增长策略：**
+- 亲自给早期投稿者发邮件，感谢并鼓励继续贡献。
+- 给提出请求的用户邮寄 Reddit 贴纸。
+- 设计 karma 积分，奖励优质贡献。
+- 第一天起维护质量标准。
+
+**结果：**
+- 早期个人关照建立忠诚贡献者核心。
+- karma 系统形成自我维持的质量激励。
+- 成长为互联网上访问量最高的网站之一。
+
+**渠道：** 第十九，社群建设。
+
+**关键启示：** 社群质量由前 100 人奠定，不是前 100,000 人。Alexis 的邮件和贴纸看似荒唐地无法规模化，却定下了后来扩展的文化基调。
+
+---
+
+<a id="filepickerio---one-hn-post"></a>
+## Filepicker.io——一条 HN 帖子
+
+**背景：** 面向开发者的文件上传 API。
+
+**增长策略：**
+- 在 Hacker News 发布“Show HN”演示产品。
+
+**结果：**
+- 登上首页。
+- 一天获得 12,000 名演示用户。
+
+**渠道：** 第十一，博客触达／链接分享社群。
+
+**关键启示：** 在正确平台精准发布一条帖子，一天获得的用户可能超过其他营销数月总和。但前提是产品与该受众共鸣。开发者工具 Filepicker.io 进入开发者社群，受众与渠道完美匹配。

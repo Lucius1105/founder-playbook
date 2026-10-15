@@ -1,223 +1,262 @@
 ---
 name: "100m-leads"
-description: Builds lead generation systems using Alex Hormozi's Core Four framework (warm outreach, content, cold outreach, paid ads), lead magnets, and Rule of 100. Use when designing customer acquisition, scaling advertising, choosing marketing channels for revenue stage, building referral programs, or fixing low lead flow. Covers lead magnets, LTGP:CAC math, More Better New scaling, and Lead Getters (referrals, employees, agencies, affiliates).
+description: "运用 Alex Hormozi 的核心四法——熟人触达、内容、陌生触达、付费广告——以及引流品和100法则，建立获客线索系统。适用于设计客户获取、扩大广告投放、按收入阶段选择营销渠道、建立推荐计划或解决线索不足。涵盖引流品、客户终身毛利与获客成本（LTGP:CAC）计算、更多/更好/更新扩张法，以及客户推荐、员工、代理商、联盟伙伴等获客协作者。"
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/100m-leads/SKILL.md)。原项目整理：AgentSeal；原书：Alex Hormozi 的《$100M Leads》；AI 辅助翻译。
 
+> **说明：**本技能是独立分析与评论，并非对原著的复制。它将书中核心思想与当代创业实践结合，指出过时或不完整之处，并整合相邻领域的观点。完整论证与背景请阅读原书。
 
-# $100M Leads
+<a id="100m-leads"></a>
+# 亿美元线索（$100M Leads）
 
-> "How to get strangers to want to buy your stuff" - Alex Hormozi
+> “如何让陌生人想买你的东西。”——Alex Hormozi
 
-## The Core Four Framework
+<a id="the-core-four-framework"></a>
+## 核心四法框架
 
-All advertising falls into 4 categories on two axes:
+所有广告与获客活动都可以按两个维度归为四类：
 
-| | Warm Audience (knows you) | Cold Audience (strangers) |
+| | 熟悉你的受众 | 陌生受众 |
 |---|---|---|
-| **1-to-1** | Warm Outreach | Cold Outreach |
-| **1-to-Many** | Post Free Content | Run Paid Ads |
+| **一对一** | 熟人触达 | 陌生触达 |
+| **一对多** | 发布免费内容 | 投放付费广告 |
 
-**Rule:** Master ONE before adding another. Don't spread thin across all four.
+**规则：**精通一种后再加下一种，不要同时在四种方式上分散精力。
 
-## Decision Tree
-
-```
-Do you have 10 paying customers?
-├─ NO → Warm outreach until you do
-└─ YES → Pick based on resources:
-         ├─ Have time, no money → Cold outreach or Content
-         ├─ Have money, no time → Paid ads
-         └─ Have both → Cold outreach + Content
-```
+<a id="decision-tree"></a>
+## 决策树
 
 ```
-Already running channels?
-├─ Spreading across 4 → Cut to 1, master it
-├─ One channel profitable → More Better New
-├─ Hit personal capacity → Hire someone to run it
-└─ Multiple channels profitable → Add lead getters (referrals/affiliates)
+你有10位付费客户吗？
+├─ 没有 → 持续熟人触达，直到拥有10位
+└─ 有 → 按资源选择：
+        ├─ 有时间没钱 → 陌生触达或内容
+        ├─ 有钱没时间 → 付费广告
+        └─ 两者都有 → 陌生触达+内容
 ```
 
-## Lead Definitions
+```
+已经在运行渠道？
+├─ 同时分散在4种 → 减到1种，先精通
+├─ 一个渠道盈利 → 更多、更好、更新
+├─ 个人产能到顶 → 招人负责
+└─ 多个渠道盈利 → 加入推荐、联盟等获客协作者
+```
 
-| Term | Definition |
-|------|------------|
-| **Lead** | A person you can contact |
-| **Engaged Lead** | A person who has shown interest |
-| **Qualified Lead** | A person who can afford and is likely to buy |
+<a id="lead-definitions"></a>
+## 线索的定义
 
-Quality > volume. An engaged lead is worth many cold names.
+| 术语 | 定义 |
+|---|---|
+| **线索** | 你能够联系到的人 |
+| **已互动线索** | 已表达兴趣的人 |
+| **合格线索** | 有支付能力且可能购买的人 |
 
-## Lead Magnets
+质量优于数量。一条已互动线索，胜过许多冰冷姓名。
 
-A lead magnet is a complete solution to a narrow problem. Free or low-cost. Reveals a bigger problem your core offer solves.
+<a id="lead-magnets"></a>
+## 引流品
 
-### 7 Steps to Create
+引流品是针对一个狭窄问题的完整解决方案，可以免费或低价。它会显露一个更大的问题，而你的核心方案能解决后者。
 
-1. **Pick the problem** - Narrow, meaningful, leads to your core offer
-2. **Figure out the solution** - One of three types below
-3. **Choose delivery method** - PDF, video, tool, trial
-4. **Test the name** - Name matters more than content
-5. **Make it easy to consume** - Under 10 minutes ideally
-6. **Make it darn good** - Good enough to charge for
-7. **Make it easy to ask for more** - Clear next step to your offer
+<a id="7-steps-to-create"></a>
+### 创建引流品的七步
 
-### 3 Types of Lead Magnets
+1. **选问题**：范围小、有意义，并通向核心方案。
+2. **确定解法**：从下列三类中选择。
+3. **选择交付方式**：PDF、视频、工具、试用。
+4. **测试名称**：名称比内容更重要。
+5. **便于使用**：理想情况下10分钟内即可消化。
+6. **做到足够好**：好到值得收费。
+7. **让客户容易继续索取更多**：明确通向核心方案的下一步。
 
-| Type | How It Works | Example |
-|------|--------------|---------|
-| **Reveal Problems** | Diagnosis showing problem they didn't know they had | Website speed test, posture analysis |
-| **Samples/Trials** | Limited access to your core offer | Free month, 3 free uses, demo |
-| **One Step of Multi-Step** | Solve step 1 of a 5-step process | Free template, calculator, checklist |
+<a id="3-types-of-lead-magnets"></a>
+### 三种引流品
 
-The lead magnet solves one problem, which reveals the NEXT problem your core offer solves.
+| 类型 | 运作方式 | 示例 |
+|---|---|---|
+| **揭示问题** | 诊断出客户之前不知道的问题 | 网站速度测试、体态分析 |
+| **样品或试用** | 有限体验核心方案 | 免费一个月、免费3次、演示 |
+| **多步骤中的一步** | 解决五步流程中的第一步 | 免费模板、计算器、清单 |
 
-## The Core Four Channels (Summary)
+引流品解决一个问题，继而揭示核心方案要解决的下一个问题。
 
-Detailed playbooks in **[frameworks.md](frameworks.md)**.
+<a id="the-core-four-channels-summary"></a>
+## 核心四类渠道概览
 
-### 1. Warm Outreach (Free, 1-to-1)
-Start here. Phone contacts, email, social media followers = your warm list. Personalize. Use ACA framework (Acknowledge, Compliment, Ask). Ask for referrals.
+详细操作见 [frameworks.md](frameworks.md)。
 
-### 2. Post Free Content (Free, 1-to-Many)
-Build an audience. Hook-Retain-Reward. Give-Give-Give-Ask pattern. Don't pitch until they reach out.
+<a id="1-warm-outreach-free-1-to-1"></a>
+### 1. 熟人触达：免费、一对一
 
-### 3. Cold Outreach (Free/Cheap, 1-to-1)
-Reach strangers. Personalization + Big Fast Value. Volume + multi-channel follow-up. List of 1000+ to start.
+从这里开始。手机联系人、邮件名单、社交媒体关注者都是熟人名单。个性化联系，运用 ACA：回应、赞赏、提问，并请求推荐。
 
-### 4. Run Paid Ads (Paid, 1-to-Many)
-Trade money for attention at scale. Three phases: Track Money → Lose Money → Print Money. Use lookalike + factor targeting. Detailed math in **[paid-ads.md](paid-ads.md)**.
+<a id="2-post-free-content-free-1-to-many"></a>
+### 2. 发布免费内容：免费、一对多
 
-## The Money Math: LTGP:CAC
+积累受众。使用“吸引—留住—回报”，以及“给—给—给—请求”的节奏。在对方主动联系之前，不急于推销。
 
-**LTGP** = Lifetime Gross Profit (total customer revenue minus delivery cost)
-**CAC** = Cost to Acquire Customer
+<a id="3-cold-outreach-freecheap-1-to-1"></a>
+### 3. 陌生触达：免费或低成本、一对一
 
-| Ratio | Meaning |
-|-------|---------|
-| <3:1 | Struggling to scale |
-| 3:1 | Minimum viable |
-| >3:1 | Ready to scale |
+接触陌生人。结合个性化与迅速提供显著价值；靠数量与跨渠道跟进。起步准备1,000人以上名单。
 
-**Note:** Hormozi uses LTGP (Lifetime Gross Profit) specifically, not LTV. The distinction matters - LTGP excludes delivery cost.
+<a id="4-run-paid-ads-paid-1-to-many"></a>
+### 4. 付费广告：付费、一对多
 
-If CAC is above 3x industry average, fix ads. If below, fix the business model (increase LTGP).
+用钱大规模换取注意。三阶段：追踪资金→测试亏损→盈利放大。使用相似受众与特征定向，详细计算见 [paid-ads.md](paid-ads.md)。
 
-### Client Financed Acquisition
+<a id="the-money-math-ltgpcac"></a>
+## 经济账：LTGP:CAC
 
-Break even on acquisition cost in ~30 days = unlimited scaling. If a customer pays you back in 30 days, you can fund acquisition with a credit card and reinvest infinitely.
+**LTGP**是客户终身毛利，即总收入减交付成本。
 
-How: upsells, order bumps, higher upfront pricing - anything to collect more cash faster.
+**CAC**是获得一位客户的成本。
 
-## Rule of 100
+| 比率 | 含义 |
+|---|---|
+| 低于3:1 | 难以扩张 |
+| 3:1 | 最低可行水平 |
+| 高于3:1 | 准备扩张 |
 
-Every day, do ONE of:
-- 100 cold outreach attempts (calls, emails, DMs)
-- 100 minutes creating content
-- 100 minutes of paid ad work
-- $100 spent on ads
+**注意：**Hormozi 特指客户终身毛利 LTGP，而非 LTV。区别在于，LTGP已经扣除了交付成本。
 
-Minimum viable daily advertising. Do this for 100 days before concluding "it doesn't work."
+如果 CAC 高于行业平均的3倍，先修广告；低于这一门槛，则修业务模式，提高 LTGP。
 
-### Open to Goal (Advanced)
-Work until you hit a specific OUTCOME, not a number of inputs.
+<a id="client-financed-acquisition"></a>
+### 客户出资获客
 
-| Stage | Use |
-|-------|-----|
-| Starting | Rule of 100 (effort-based) |
-| Scaling | Open to Goal (outcome-based) |
+约30天内收回获客成本，意味着可以不受资金限制地扩张。如果客户30天内回本，就可用信用卡为获客融资，再持续投入。
 
-## More Better New (Scaling)
+做法包括升级销售、结账加购、提高前期收费，以及任何能更快收取更多现金的方式。
 
-Framework for scaling what works:
+<a id="rule-of-100"></a>
+## 100法则
 
-1. **MORE** - Do 10x what you're currently doing. What's stopping you?
-2. **BETTER** - Find the constraint, fix it, do more again
-3. **NEW** - Only after exhausting more+better:
-   - New placements on same platform
-   - Same placements on new platform
-   - New placements on new platform
-   - Add another Core Four activity
+每天选择一项：
 
-"More" and "better" work together. Do more until it breaks, then make it better, then do more again.
+- 100次陌生触达，例如电话、邮件、私信。
+- 100分钟内容创作。
+- 100分钟广告工作。
+- 投放100美元广告。
 
-## Lead Getters (Others Get Leads For You)
+这是每日获客活动的最低可行量。持续100天，再判断“有没有用”。
 
-Once YOU can get leads, get others to do it.
+<a id="open-to-goal-advanced"></a>
+### 达标才收工：进阶方式
 
-### 4 Types
+工作到达成具体结果，而不只是完成投入次数。
 
-| Type | Who | How |
-|------|-----|-----|
-| **Customers** | Existing buyers | Referral program |
-| **Employees** | Your team | Train + incentivize |
-| **Agencies** | Marketing firms | Pay for results |
-| **Affiliates** | Partners with audiences | Commission structure |
+| 阶段 | 使用方式 |
+|---|---|
+| 起步 | 100法则，以努力投入为基础 |
+| 扩张 | 达标才收工，以结果为基础 |
 
-Detailed playbook in **[lead-getters.md](lead-getters.md)**.
+<a id="more-better-new-scaling"></a>
+## 更多、更好、更新：扩张
 
-## Warning Signs
+用于放大已有效的做法：
 
-### Spreading Too Thin
-- Running ads + cold outreach + posting content simultaneously
-- None of the channels are profitable
-- Can't answer "what's your best lead source?"
-- "Testing" multiple channels for 6+ months
+1. **更多**：把现在的量做大10倍，是什么阻止了你？
+2. **更好**：找到瓶颈、修复，再增加数量。
+3. **更新**：只有更多与更好都充分挖掘后，才尝试：
+   - 同一平台的新位置。
+   - 新平台的同类位置。
+   - 新平台的新位置。
+   - 增加另一种核心四法活动。
 
-### Outreach Is Broken
-- Response rate below ~1% (actual rates vary heavily by list quality, channel, market - this is a directional warning sign)
-- No replies to follow-ups
-- Frequent "unsubscribe" or "stop"
-- Can't get past the first reply
+更多与更好相互配合：加量直到出问题，再改好，然后继续加量。
 
-### Content Isn't Working
-- 3+ months posting with no leads
-- Engagement but no DMs or comments
-- Followers but no buyers
-- Content gets no shares
+<a id="lead-getters-others-get-leads-for-you"></a>
+## 获客协作者：让别人替你获得线索
 
-## Rules of Thumb
+自己能够获客之后，再让别人来做。
 
-1. **Warm before cold.** Your network is worth more than you think.
-2. **One channel mastery beats four channel dabbling.** Depth > breadth.
-3. **Volume solves most problems.** Not enough leads? Do more outreach.
-4. **Follow up until they buy or tell you to stop.** Most quit too early.
-5. **Track everything.** If you can't measure it, you can't improve it.
-6. **Give first.** Value before ask, always.
-7. **Speed wins.** Respond to leads in minutes, not hours.
-8. **The best ad is a happy customer.** Referrals typically convert better than cold traffic.
+<a id="4-types"></a>
+### 四种类型
 
-## The Order
+| 类型 | 是谁 | 方式 |
+|---|---|---|
+| **客户** | 现有购买者 | 推荐计划 |
+| **员工** | 你的团队 | 培训与激励 |
+| **代理商** | 营销公司 | 按结果付费 |
+| **联盟伙伴** | 有受众的合作伙伴 | 佣金机制 |
 
-1. Warm outreach (free, start here)
-2. Pick ONE: content OR cold OR paid
-3. Master it until profitable
-4. Hire someone to run it
-5. Add next channel
-6. Add lead getters (referrals, affiliates)
+详细操作见 [lead-getters.md](lead-getters.md)。
 
-**Test:** If someone asks "how do you get customers?" and you can't give a clear, specific answer - you haven't mastered your channel yet.
+<a id="warning-signs"></a>
+## 警示信号
 
-## When This Doesn't Apply
+<a id="spreading-too-thin"></a>
+### 精力过度分散
 
-| Context | Why |
-|---------|-----|
-| **Pre-product** | Don't generate leads until you have something to sell |
-| **Capacity constrained** | Don't get more leads than you can handle |
-| **Retention problems** | Fix churn before adding more leads |
-| **Offer problems** | A bad offer won't convert no matter how many leads (use 100m-offers) |
+- 同时做广告、陌生触达和内容。
+- 没有任何渠道盈利。
+- 回答不出“最好的线索来源是什么”。
+- 多渠道“测试”持续6个月以上。
 
-## The Mindset (Many-Sided Die)
+<a id="outreach-is-broken"></a>
+### 触达失效
 
-You have a die with unknown sides - one green, the rest red. Roll green and a red turns green; roll red and nothing happens. The only way to lose is to stop rolling. More rolls, more greens; persistence is mathematically guaranteed to work. Full breakdown with the advertising application in **[cases.md → The Many-Sided Die](cases.md)**.
+- 回复率低于约1%；真实比例高度依赖名单、渠道与市场，这只是方向性警报。
+- 跟进没有回复。
+- 经常收到“退订”或“别再联系”。
+- 对话停留在第一轮回复，无法继续。
 
-## Supporting Files
+<a id="content-isnt-working"></a>
+### 内容无效
 
-- **[frameworks.md](frameworks.md)** - Detailed Core Four channel playbooks (warm, content, cold)
-- **[paid-ads.md](paid-ads.md)** - Paid advertising deep dive (targeting, callouts, budgets, metrics, three phases)
-- **[lead-getters.md](lead-getters.md)** - Referral programs, hiring, agencies, affiliates, the 3Ds training framework
-- **[cases.md](cases.md)** - Roadmap from $0 to $100M (7 levels), case-style examples, decade-in-a-page
-- **[examples.md](examples.md)** - Email templates, ad scripts, content hooks, checklists
-- **[integration.md](integration.md)** - How leads connects to mom-test, 100m-offers, influence; conflicts with crossing-the-chasm channel choice; money model sets the affordable CAC
+- 连续发布3个月以上，没有线索。
+- 有互动，却没有私信或评论。
+- 有关注者，没有购买者。
+- 内容无人分享。
+
+<a id="rules-of-thumb"></a>
+## 经验法则
+
+1. **先熟后生。**你的人脉比你想象的值钱。
+2. **精通一个渠道，胜过浅尝四个。**深度优于广度。
+3. **数量解决多数问题。**线索不够，就增加触达。
+4. **跟进到客户购买或明确要求停止。**多数人放弃太早。
+5. **追踪一切。**无法衡量，就无法改进。
+6. **先给予。**始终先给价值，再提请求。
+7. **速度取胜。**以分钟而非小时为单位响应线索。
+8. **最好的广告是满意客户。**推荐转化通常优于陌生流量。
+
+<a id="the-order"></a>
+## 执行顺序
+
+1. 熟人触达，免费，从这里开始。
+2. 内容、陌生触达、付费广告中选一个。
+3. 精通它，直到盈利。
+4. 招人负责。
+5. 增加下一个渠道。
+6. 加入推荐、联盟等获客协作者。
+
+**检验：**如果有人问“你怎么获得客户”，你却给不出清晰具体的答案，就还没掌握自己的渠道。
+
+<a id="when-this-doesnt-apply"></a>
+## 不适用的情况
+
+| 场景 | 原因 |
+|---|---|
+| **产品出现之前** | 还没东西可卖，不要先批量获取销售线索 |
+| **产能受限** | 不要获取超过承接能力的线索 |
+| **留存有问题** | 先解决流失，再加线索 |
+| **方案有问题** | 坏方案不会因为线索多就转化，先用100m-offers |
+
+<a id="the-mindset-many-sided-die"></a>
+## 心态：多面骰子
+
+你有一颗面数未知的骰子，一面绿，其余红。掷到绿，一面红变绿；掷到红，什么也不发生。唯一的失败方式是停止投掷。投得越多，绿面越多；原文将坚持描述为在数学上保证奏效。完整拆解与广告应用见 [cases.md中的多面骰子](cases.md)。
+
+<a id="supporting-files"></a>
+## 配套文件
+
+- **[frameworks.md](frameworks.md)**：熟人、内容、陌生触达的详细操作。
+- **[paid-ads.md](paid-ads.md)**：付费广告深度说明，含定向、点名式开场、预算、指标、三阶段。
+- **[lead-getters.md](lead-getters.md)**：推荐计划、招聘、代理商、联盟伙伴与3D培训框架。
+- **[cases.md](cases.md)**：从0到1亿美元的七级路线、案例式说明与一页十年总结。
+- **[examples.md](examples.md)**：邮件模板、广告话术、内容钩子、检查清单。
+- **[integration.md](integration.md)**：与mom-test、100m-offers、influence的结合；与crossing-the-chasm的渠道选择冲突；收入模式如何决定可承担的获客成本。

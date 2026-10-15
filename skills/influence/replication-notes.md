@@ -1,146 +1,148 @@
-# Influence - Replication Notes and Factual Corrections
+> 中文译文｜[英文对照](replication-notes.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/influence/replication-notes.md)。原项目整理：AgentSeal；书籍来源：《Influence》及《Pre-Suasion》— Robert Cialdini；AI 辅助翻译。
 
-This skill is unusually honest about replication issues in Cialdini's source material. The book draws on 1960s-80s social psychology, much of which has been challenged by the post-2010 replication crisis.
+# 影响力——重复研究说明与事实纠正
 
-## P0: Bickman Parking-Meter Compliance
+本技能对西奥迪尼所引用材料的可重复性问题，采取了少见的坦诚态度。本书引用了 20 世纪 60—80 年代的社会心理学研究，其中不少受到 2010 年后“可重复性危机”的挑战。
 
-Cialdini's source says (verifiable in Cialdini 1984/2007 text and the original Bickman 1974 paper):
+## P0：Bickman 停车计时器实验中的服从率
 
-- **Street clothes:** 42% complied with the parking-meter dime request
-- **Security guard uniform:** 92% complied
-- College students later asked to predict the outcome estimated street-clothes compliance at 50% (close to actual 42%) but **underestimated** uniform compliance at 63% (actual 92%)
+西奥迪尼的来源材料指出如下结果，可在其 1984／2007 年版著作及 Bickman 1974 年的原始论文中核查：
 
-**Some popularized accounts cite "19%" for the street-clothes condition. This is unverified and likely wrong.** When citing Bickman, use **42% / 92%** for the parking-meter task.
+- **便装：**42% 的人服从了向停车计时器投入一枚 10 美分硬币的请求。
+- **保安制服：**92% 的人服从。
+- 后来请大学生预测结果时，他们估计便装条件下的服从率为 50%，接近实际的 42%；但对制服条件下的服从率**估计偏低**，认为是 63%，实际为 92%。
 
-The broader Bickman series included other "odd request" tasks (pick up a discarded paper bag, stand on the other side of a bus-stop sign), but the headline 92% compliance figure refers specifically to the parking-meter task.
+**一些通俗转述把便装条件下的比例写成“19%”。这个数字未经验证，很可能是错的。**引用 Bickman 的停车计时器任务时，请使用 **42%／92%**。
 
-## P0: Kitty Genovese Myth
+Bickman 更广泛的研究系列还包括其他“奇怪请求”任务，如捡起被丢弃的纸袋、站到公交站牌的另一侧，但常被引用的 92% 服从率，特指停车计时器任务。
 
-Manning, Levine & Collins (2007), *American Psychologist*, "The Kitty Genovese Murder and the Social Psychology of Helping: The Parable of the 38 Witnesses."
+## P0：Kitty Genovese 的传说
 
-The myth:
-- 38 witnesses watched a 30-min attack and did nothing
-- "Bystander apathy" emerged as a concept
+Manning、Levine 与 Collins（2007），发表于 *American Psychologist* 的论文：“The Kitty Genovese Murder and the Social Psychology of Helping: The Parable of the 38 Witnesses”（《Kitty Genovese 谋杀案与助人社会心理学：38 名目击者的寓言》）。
 
-Reality:
-- Most "witnesses" couldn't see/hear the attack
-- Several DID call police
-- One neighbor came to her aid
-- The "38 witnesses" framing was constructed by *NYT* editor Abe Rosenthal, partly fabricated
+流行叙事：
+- 38 名目击者目睹了一场持续 30 分钟的袭击，却毫无作为。
+- “旁观者冷漠”由此成为一个概念。
 
-**Cialdini's 1984 book repeats the myth.** Modern editions retain the framing.
+实际情况：
+- 大多数“目击者”无法看见或听见袭击过程。
+- 确实有几个人报了警。
+- 一位邻居前去救助了她。
+- “38 名目击者”的叙事由《纽约时报》编辑 Abe Rosenthal 塑造，其中部分内容是编造的。
 
-**This skill takes a clean stance:** We do NOT use Genovese as evidence. We use the Latane & Darley lab studies (smoke-in-the-room, etc.) which DO replicate. The underlying psychology (pluralistic ignorance, bystander diffusion) is real - just not as extreme as Genovese suggested. Modern updates (Fischer et al. 2011) show the bystander effect REVERSES in clear-emergency dangerous situations.
+**西奥迪尼 1984 年的书重复了这个传说。**现代版本仍保留这一叙事框架。
 
-## P1: Hofling 95% Original vs Modern Replications
+**本技能的立场明确：**不把 Genovese 案当作证据。我们采用 Latane 与 Darley 的实验室研究，如房间冒烟实验等，这些研究能够重复验证。其背后的心理机制——多元无知与旁观者责任分散——确实存在，只是没有 Genovese 叙事所暗示的那么极端。后续研究（Fischer 等，2011）显示，在明确且危险的紧急情况下，旁观者效应会**反转**。
 
-Original Hofling 1966 study: 95% of nurses prepared to administer an unauthorized drug dose ordered by an unknown "doctor" over the phone.
+## P1：Hofling 原始研究的 95% 与现代重复研究
 
-Modern replications (post-1980s, post-explicit-refusal training): **16-30%** compliance.
+Hofling 1966 年的原始研究：95% 的护士准备按照一位陌生“医生”的电话指令，给予未经授权的药物剂量。
 
-Why the change:
-- Nurses now have explicit institutional refusal training
-- "Phone order from unknown physician" protocols are standardized
-- Nursing education includes professional autonomy emphasis
+现代重复研究——20 世纪 80 年代以后、明确拒绝指令的培训实施之后——服从率为 **16%—30%**。
 
-When citing Hofling, **always note this is the 1966 figure and that modern replications are much lower.** The principle (authority erodes professional judgment) is real; the specific 95% number is historical.
+变化原因：
+- 如今护士会接受明确的机构性拒绝指令培训。
+- “陌生医生通过电话下医嘱”的处理规程已标准化。
+- 护理教育强调专业自主性。
 
-## P1: Drive Carefully 76% Condition Disambiguation
+引用 Hofling 时，**必须说明这是 1966 年的数据，现代重复研究的比例低得多。**权威可能削弱专业判断这一原则是成立的；具体的 95% 是历史数据。
 
-Freedman & Fraser's "DRIVE CAREFULLY" billboard study had two prior-commitment conditions:
+## P1：“小心驾驶”实验中 76% 所对应的条件
 
-| Prior commitment | Compliance with billboard request |
+Freedman 与 Fraser 的“DRIVE CAREFULLY”（小心驾驶）大型告示牌研究，包含两种事先承诺条件：
+
+| 事先承诺 | 接受放置大型告示牌请求的比例 |
 |------------------|------------------------------------|
-| None (control) | 17% |
-| Small "BE A SAFE DRIVER" sign (same topic) | **76%** |
-| "Keep California Beautiful" petition (different topic) | **~50%** |
+| 无（对照组） | 17% |
+| 放置“BE A SAFE DRIVER”（做安全驾驶者）小标牌，同一主题 | **76%** |
+| 签署“Keep California Beautiful”（让加利福尼亚保持美丽）请愿书，不同主题 | **约 50%** |
 
-**The 76% figure is ONLY for the small-sign condition.** Many summaries (including some quick-reads of Cialdini) conflate the two prior-commitment conditions. Specify which one when citing.
+**76% 仅适用于小标牌条件。**很多摘要，包括对西奥迪尼著作的一些快速解读，都混淆了这两种事先承诺条件。引用时必须说明是哪一种。
 
-The lesson: same-topic small commitments produce stronger carryover (76%) than cross-topic small commitments (~50%), but BOTH are dramatically higher than direct ask (17%).
+启示：同主题的小承诺产生的后续影响更强，达到 76%；跨主题的小承诺约为 50%。但两者都显著高于直接提出请求时的 17%。
 
-## P1: Milgram 65% From One of 24 Conditions
+## P1：Milgram 的 65% 仅来自 24 种条件中的一种
 
-Milgram ran 24 different experimental conditions. Compliance ranged from **0% to 92%** depending on:
-- Distance of authority
-- Distance of victim
-- Authority's ambiguity
-- Two authorities disagreeing
-- Subject's gender (less variation than expected)
+Milgram 做过 24 种不同实验条件。服从率因下列因素而异，范围为 **0%—92%**：
+- 与权威人物的距离。
+- 与受害者的距离。
+- 权威身份的模糊程度。
+- 两名权威人物是否意见不一致。
+- 被试性别，但差异小于预期。
 
-The famous "65% went to 450V" figure is from ONE specific condition (Yale-affiliation, voice feedback victim, single experimenter present in room). When the experimenter left the room, compliance plummeted. When two experimenters disagreed, compliance went to zero.
+著名的“65% 的人一直施加到 450V 电击”来自**一种**特定条件：实验与耶鲁大学关联、受害者有声音反馈、房间里有一名实验者。实验者离开房间后，服从率骤降；两位实验者意见不一致时，服从率降为零。
 
-**Citing "65%" without context misrepresents the research.** The correct framing: "65% in a specific condition; range 0-92% across 24 conditions."
+**脱离情境引用“65%”，会曲解研究。**准确表达是：“在特定条件下为 65%；24 种条件的范围是 0%—92%。”
 
-### Burger 2009 Partial Replication
+### Burger 2009 年的部分重复研究
 
-Jerry Burger conducted a partial replication, capping shocks at 150V due to ethics review (the point at which the "learner" first protests). Compliance: ~70% of subjects continued past 150V. Suggests the original Milgram effect is real, though the absolute numbers and ethical extension to 450V are unverified.
+Jerry Burger 开展过部分重复研究。由于伦理审查，电击上限设为 150V，也就是“学习者”首次抗议的节点。约 70% 的被试在达到 150V 后仍愿意继续。这提示原始 Milgram 效应确实存在，但绝对比例，以及能否合乎伦理地将结果外推到 450V，尚未验证。
 
-### Perry 2012 Archival Critique
+### Perry 2012 年的档案批评
 
-Gina Perry's *Behind the Shock Machine* used Milgram's archive to challenge his data integrity:
-- Some subjects later reported they suspected the shocks were fake
-- Milgram's data presentation may have selectively emphasized obedience
-- Some "obedient" subjects had been pressured beyond the four prods
+Gina Perry 的 *Behind the Shock Machine*（《电击机器背后》）利用 Milgram 的档案，质疑其数据完整性：
+- 一些被试事后表示，自己当时怀疑电击是假的。
+- Milgram 对数据的呈现可能有选择地强调了服从。
+- 一些“服从”的被试所受施压，超过了规定的四次催促。
 
-The Milgram effect probably exists but is smaller and more conditional than the 1963 paper suggested.
+Milgram 效应很可能存在，但其程度更小、对条件的依赖更强，并不像 1963 年论文暗示的那样普遍。
 
-## P1: Bargh Priming and Ego Depletion
+## P1：Bargh 式启动效应与自我损耗
 
-**Bargh-style priming** (e.g., reading words like "elderly" causing slower walking) largely failed to replicate post-2010. Specific Bargh-style priming experiments cited in Cialdini's "click-whirr" framework should be treated as suggestive, not foundational.
+**Bargh 式启动效应**，例如读到“年老”等词后走路变慢，在 2010 年后的重复研究中大多未能再现。西奥迪尼“咔哒—嗡”框架所引用的具体 Bargh 式实验，应视为启发性线索，而非基础性证据。
 
-**Ego depletion** (Baumeister) failed multiple major replication attempts. The "willpower as muscle" framing is contested.
+**自我损耗**理论（Baumeister）在多项大型重复研究中未能获得支持。“意志力像肌肉一样”的说法仍有争议。
 
-These don't eliminate the click-whirr concept but require humility about specific magnitudes.
+这些问题没有推翻“咔哒—嗡”的概念，但要求我们对具体效应大小保持谨慎。
 
-## P2: Romeo and Juliet Effect
+## P2：罗密欧与朱丽叶效应
 
-Driscoll's 1972 Colorado study (140 couples, parental opposition correlated with relationship intensity) was contested by Sinclair (2014) and others. The effect, if real, is smaller and more conditional than the original report.
+Driscoll 于 1972 年在科罗拉多进行的研究，涉及 140 对伴侣，发现父母反对与恋爱强度相关。Sinclair（2014）等人质疑了这一结果。即便效应存在，它也比原始报告所称的更小、更依赖具体条件。
 
-## P2: "Because" Experiment Boundary Conditions
+## P2：“因为”实验的适用边界
 
-Langer's Xerox-line experiment (94% with "because I'm in a rush" vs 60% without "because"). Effect collapses for higher-cost requests (e.g., when the line-cutter wants to make 20 pages, not 5). The placebic-information effect works only at low cost; once stakes are real, listeners process the reason content. **Don't use "because" as a magic word for high-stakes asks.**
+Langer 的复印机排队实验中，说“因为我赶时间”时成功率为 94%，不说“因为”时为 60%。当请求成本升高时，例如插队者要复印 20 页而不是 5 页，这个效应就会消失。安慰剂式理由的效果只适用于低成本请求；一旦事情有实际分量，听者就会处理理由的具体内容。**高风险请求中，不要把“因为”当作魔法词。**
 
-## P2: DITF Backfire Condition
+## P2：先大后小技巧的反噬条件
 
-Door-in-the-Face works when the first request is large but plausible. **Backfire condition not flagged in Cialdini:** if first request is too extreme (sociologically implausible), you appear unreasonable and people refuse the second request too. Calibrate the anchor.
+“先大后小”（Door-in-the-Face）在第一个请求很大、但仍然合理时有效。**西奥迪尼没有特别提示的反噬条件是：**如果第一个请求极端到不符合社会常理，你会显得不讲道理，对方连第二个请求也会拒绝。应校准锚点。
 
-## P2: Halo-Effect Numbers Shrunken
+## P2：光环效应的数值缩小
 
-Original halo-effect numbers (e.g., "attractive defendants get sentences 2.5x lighter") have generally shrunk on replication. The direction of effect persists; the magnitude is smaller than originally reported.
+最初报告的光环效应数字，例如“外貌有吸引力的被告判刑轻 2.5 倍”，在重复研究中普遍缩小。效应方向仍然存在，但程度低于最初报告。
 
-## P2: Phillips Suicide-Spike Numbers Contested
+## P2：Phillips 关于自杀数量激增的数字存在争议
 
-David Phillips' 1974 paper claiming front-page suicide stories cause 2-week suicide spikes has been re-analyzed by subsequent statisticians. The directional effect (media coverage of suicide influences subsequent suicides) is supported by aggregate evidence; specific magnitude claims are contested.
+David Phillips 在 1974 年的论文中声称，头版自杀报道会导致随后两周的自杀数量激增。后来的统计学家对其进行了重新分析。汇总证据支持其方向性效应，即媒体对自杀的报道会影响随后发生的自杀；但具体幅度的说法存在争议。
 
-## P2: Festinger Doomsday Cult
+## P2：Festinger 的末日教派案例
 
-Leon Festinger's *When Prophecy Fails* (1956) is contested by historians as overdramatized. The cognitive-dissonance principle is supported by other research; the specific cult narrative is not pristine evidence.
+Leon Festinger 的 *When Prophecy Fails*（《当预言失败时》，1956）被历史学家质疑有过度戏剧化的问题。认知失调原则有其他研究支持，但这个具体的教派故事并非无瑕疵的证据。
 
-## P2: Stanford Prison Experiment
+## P2：斯坦福监狱实验
 
-Not used in Cialdini's authority section directly, but relevant: subsequent research has substantially undermined Zimbardo's 1971 study. Several "guards" reported being coached to act cruel; the spontaneous-emergence-of-evil narrative is largely disputed.
+西奥迪尼的权威章节没有直接使用这个实验，但它与本议题相关：后续研究大幅削弱了 Zimbardo 于 1971 年开展的实验的可信度。几名“狱警”表示，他们被指导表现得残酷；“邪恶自发涌现”的叙事受到广泛质疑。
 
-## WEIRD Bias
+## WEIRD 样本偏差
 
-Most experiments cited used Western, Educated, Industrialized, Rich, Democratic college students - mostly 1960s-80s Americans. "Universal across cultures" overclaims:
+所引用实验多数使用了西方、受过教育、工业化、富裕、民主社会的大学生样本，即 WEIRD 群体，而且主要是 20 世纪 60—80 年代的美国人。声称这些结论“跨文化普遍适用”，属于过度推论：
 
-- East Asian collectivist cultures often show different social-proof and authority dynamics
-- Family-oriented cultures show stronger Unity-style triggers, weaker individual-Liking triggers
-- Honor cultures show different reciprocity patterns
+- 东亚集体主义文化中的社会认同和权威机制，常有不同表现。
+- 重视家庭的文化中，共同体式触发更强，个人喜好式触发更弱。
+- 荣誉文化有不同的互惠模式。
 
-When applying outside US/Western contexts, use cultural skepticism.
+应用于美国或西方以外的情境时，要保留对文化适用性的审慎态度。
 
-## What's Robust
+## 哪些结论较为稳健
 
-The following findings DO replicate well and are foundational to the framework:
+以下发现能够较好地重复验证，也是本框架的基础：
 
-- **Reciprocity** as a near-universal social rule (cross-cultural anthropology)
-- **Foot-in-the-door** (multiple replications, though magnitude varies)
-- **Latane & Darley bystander lab studies** (smoke-in-the-room, etc.)
-- **Mere exposure effect** (massive replication base)
-- **Loss aversion / scarcity arousal** (Kahneman & Tversky's broader research is robust)
-- **Anchoring effects** (well-replicated even after the crisis)
-- **Source credibility / authority effects** (broadly replicated)
+- **互惠：**近乎普遍的社会规则，有跨文化人类学证据。
+- **登门槛效应：**有多次重复验证，尽管程度不一。
+- **Latane 与 Darley 的旁观者实验室研究：**如房间冒烟实验等。
+- **单纯接触效应：**有大量重复研究基础。
+- **损失厌恶／稀缺引起的唤起：**Kahneman 与 Tversky 更广泛的研究较为稳健。
+- **锚定效应：**即使经历可重复性危机，仍得到了良好重复验证。
+- **来源可信度／权威效应：**已被广泛重复验证。
 
-The framework's PRINCIPLES are robust. SPECIFIC EFFECT SIZES from individual cited studies are unreliable. Use as tactical recognition, not as precise math.
+框架的**原则**是稳健的；个别研究所报告的**具体效应大小**并不可靠。把它用于识别策略，不要把它当作精确数学。

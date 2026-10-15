@@ -1,254 +1,275 @@
 ---
 name: "money-models"
-description: Designs a deliberate sequence of offers (attraction, upsell, downsell, continuity) so a new customer generates enough cash within ~30 days to fund acquiring the next one - Alex Hormozi's client-financed acquisition. Use when customers buy once and never again, when CAC eats all the profit, when you can't afford to advertise profitably, when the business grows but cash shrinks, when you sell one product at one price, when deciding what to sell first or next, or when structuring upsells, downsells, payment plans, trials, and continuity. Covers the 30-day payback rule, attraction/upsell/downsell/continuity offer types, and cash-flow sequencing for validated markets.
+description: "有意识地安排获客、升级销售、降档销售和持续订阅等销售方案的顺序，让新客户在约30天内产生足够现金，支持获取下一位客户，即 Alex Hormozi 的客户出资获客模式。适用于客户只买一次不再复购、获客成本吞噬利润、无力承担盈利广告投放、业务增长而现金减少、只有一个产品一个价格、决定先卖什么和接着卖什么，或设计升级、降档、分期、试用与持续订阅时。涵盖30天回本规则、四类销售方案，以及已验证市场中的现金流顺序设计。"
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/money-models/SKILL.md)。原项目整理：AgentSeal；原书：Alex Hormozi 的《$100M Money Models》；AI 辅助翻译。
 
+> **说明：**本技能是独立分析和评论，并非对原著的复制。它将书中核心思想与当代创业实践结合，指出框架过时或不完整之处，并整合相关领域的观点。完整论证与背景请阅读原书。
 
-# $100M Money Models
+<a id="100m-money-models"></a>
+# 亿美元收入模式（$100M Money Models）
 
-> "A Money Model is a sequence of offers." - Alex Hormozi
+> “收入模式，就是一系列销售方案的顺序。”——Alex Hormozi
 
-## The Core Insight
+<a id="the-core-insight"></a>
+## 核心洞察
 
-**A money model is not a single offer - it's a deliberate SEQUENCE of offers, timed so a new customer produces enough cash in the first ~30 days to pay for acquiring and serving the next one.**
+**收入模式不是单个销售方案，而是有意识地安排一系列方案及其时机，让新客户在最初约30天内产生足够现金，支付获取和服务下一位客户的成本。**
 
-Most businesses have one product at one price. They spend money to get a customer, then wait months or years to earn it back. That works only if you already have deep cash reserves or investors. Everyone else runs out of money first. The money model fixes the *speed* of payback, not just the total profit.
+多数企业只有一个产品、一个价格。花钱获得客户后，要等几个月甚至几年才能收回。这只适用于已经有充足现金储备或投资人的企业，其他企业会先把钱耗尽。收入模式解决的不只是总利润，还包括回本速度。
 
-This is the third book in Hormozi's sequence: **100m-offers** answers "what do I sell?", **100m-leads** answers "how do I get attention?", and this one answers "how do I get them to buy - and buy fast enough that cash stops being the constraint?"
+这是 Hormozi 系列的第三本：**100m-offers**回答“卖什么”，**100m-leads**回答“如何获得注意”，本技能回答“如何让客户购买，而且买得足够快，使现金不再成为限制”。
 
-### Client-Financed Acquisition (the 30-Day Rule)
+<a id="client-financed-acquisition-the-30-day-rule"></a>
+### 客户出资获客：30天规则
 
-> Recover the full cost to acquire AND serve a customer within 30 days.
+> 在30天内收回获取并服务一位客户的全部成本。
 
-The mechanism is a credit card's ~30-day interest-free float:
-
-```
-Put ad spend on the card
-   → acquire a customer
-   → collect enough cash from them within 30 days
-   → pay off the card before the statement is due
-   → repeat with the next customer
-```
-
-If first-30-day profit per customer exceeds acquisition + delivery cost, growth self-funds. You never wait on the money.
-
-| Grade | Definition |
-|-------|------------|
-| **Bad money model** | Costs more to acquire + serve a customer than they pay in 30 days (the death spiral) |
-| **Good money model** | 30-day profit from one customer > cost to acquire + serve that one customer |
-| **$100M money model** | 30-day profit from ONE customer > cost to acquire + serve MANY customers - cash is no longer a limit on growth |
-
-### The Bad Money Model (Death Spiral)
-
-The failure this skill exists to prevent. It's a payback-*speed* problem disguised as a profit problem:
+其机制利用信用卡约30天的免息周转期：
 
 ```
-Spend to get customers
-   → end of month: spent more than you made
-   → cut back on ads
-   → get fewer customers than you could handle
-   → cut ads entirely
-   → float the business on personal cash / loans / credit
-   → sell equity just to keep the lights on
-   → wait months or years to recoup, if ever
-   → fall further behind → lose it all
+用信用卡支付广告费
+  → 获得一位客户
+  → 30天内从客户处收取足够现金
+  → 账单到期前还清信用卡
+  → 对下一位客户重复这一过程
 ```
 
-Root cause: it costs more to acquire a customer than they profit you *fast enough*. The two options:
+如果每位客户前30天的利润超过获客与交付成本，增长就能够自我供血，无需等待资金。
 
-| Option | Outcome |
-|--------|---------|
-| **1** Wait ~2 years to collect the profit | Only works if you already have deep reserves; otherwise you run out of cash first |
-| **2** Get paid fast (within 30 days) and reinvest | Grow as much as you want - **this is a good money model** |
+| 等级 | 定义 |
+|---|---|
+| **糟糕的收入模式** | 获取和服务客户的成本，高于客户30天内支付的金额，形成死亡螺旋 |
+| **好的收入模式** | 一位客户30天的利润，大于获取和服务这一位客户的成本 |
+| **亿美元收入模式** | 一位客户30天的利润，大于获取和服务多位客户的成本，现金不再限制增长 |
 
-Spending $100 to earn $500 is a great deal *and* a broke business if the $500 takes two years. Fix velocity, not just margin.
+<a id="the-bad-money-model-death-spiral"></a>
+### 糟糕收入模式：死亡螺旋
 
-### Why Speed Compounds
-
-Total profit isn't the lever - velocity is. Spending $100 to earn $500 is a great deal, but if it takes 2 years to collect the $500, you'll be broke before it arrives.
-
-Hormozi's compounding claim: make each customer 2x more valuable, acquire 2x as many, 2x as fast → roughly **8x growth** (2×2×2). Do it at 3x → **27x** (3×3×3). Value × volume × velocity, each multiplied independently. (Treat these as directional illustrations of compounding, not a measured law.)
-
-### A Money Model Is a Sequence (Illustration)
-
-Every solved problem surfaces a new problem, and each new problem is a legitimate opening for an offer. A rental-car counter turned a **$19/day reservation into a $100/day rental (5x)** with a sequence: vehicle upgrade → late-return option → premium insurance (anchor) → minimum insurance (downsell) → prepaid gas. The customer was "happy to pay" because each offer solved a *specific* problem at the moment it appeared. That's the whole game: not selling harder, but naming the next real problem and offering to solve it. If you offer the right thing when a customer realizes they need it, you can make as many offers as you like.
-
-## The Three Stages
-
-| Stage | Goal | Offer types |
-|-------|------|-------------|
-| **I - Get Cash** | Turn strangers into paying customers, fund acquisition | Attraction |
-| **II - Get More Cash** | Extract more from those same customers, faster | Upsell + Downsell |
-| **III - Get The Most Cash** | Maximize lifetime spend, add recurring revenue | Continuity |
-
-Stage II bundles two offer types; the 4-step build in **[frameworks.md](frameworks.md)** treats them as separate steps - same model, finer grain.
-
-Build them **one at a time, in order**. Never bootstrap a finished four-stage model from zero - it collapses on top of the business. Get customers reliably first, then make them pay for themselves, then pay for the next customer, then maximize their lifetime value.
-
-## The Four Offer Types
-
-An offer is the unit; the money model is the sequence of units. Each type has named plays (full mechanics in **[frameworks.md](frameworks.md)**).
-
-| Type | Job | Named plays | Use each when... |
-|------|-----|-------------|------------------|
-| **Attraction** | Turn eyeballs into customers, front-load cash | **Win Your Money Back** | People start-and-quit (fitness, skills, new habits) |
-| | | **Giveaway** | You want a flood of leads pre-qualified on your priciest product |
-| | | **Decoy** | You need cheap leads but want most to self-select the premium tier |
-| | | **Buy X Get Y Free** | "Free" framing will out-pull a plain discount for the same math |
-| | | **Pay Less Now or Pay More Later** | You want to advertise "free" and capture card-on-file with a built-in guarantee |
-| **Upsell** | Get them to spend more, right now | **Classic** | A solved problem immediately creates the next problem ("can't have X without Y") |
-| | | **Menu** | You have several products and want to prescribe, not ask |
-| | | **Anchor** | Showing an expensive option first makes the real offer look cheap |
-| | | **Rollover** | You want to credit prior spend toward a bigger next offer (or win back / poach) |
-| **Downsell** | Turn a "no" into a "yes" | **Payment Plan** | They want it but can't pay the full amount up front today |
-| | | **Trial With Penalty** | Recurring service; charge only if they *don't* do the work |
-| | | **Feature Downsell** | Lower the price by removing what they get, never by discounting the same thing |
-| **Continuity** | Keep them paying, month after month | **Bonus** | A valuable free bonus (worth more than month 1) drives the signup |
-| | | **Discount** | Give free time now/later in exchange for a paid commitment |
-| | | **Waived Fee** | A big setup fee is waived for a term commitment; leaving early triggers it |
-
-## Decision Tree: Which Offer Do I Need Next?
-
-Diagnose where cash is leaking, then reach for the matching type.
+这是本技能希望避免的失败。本质上是回本速度问题，却伪装成利润问题：
 
 ```
-Where does the money model break?
+花钱获客
+  → 月末发现支出大于收入
+  → 缩减广告
+  → 客户数量低于现有承接能力
+  → 完全停掉广告
+  → 靠个人现金、贷款或信用额度维持业务
+  → 为了维持运营而出让股权
+  → 等几个月或几年才能回本，甚至永远无法回本
+  → 越落越后 → 失去一切
+```
+
+根因：客户带来的利润，无法足够快地覆盖获客成本。两种选择：
+
+| 选择 | 结果 |
+|---|---|
+| **1：**等约2年才收齐利润 | 只有现金储备很厚才行，否则先耗尽现金 |
+| **2：**30天内迅速收款并再投入 | 想增长多少就能增长多少，这是好的收入模式 |
+
+花100美元赚500美元可以是一笔好交易，但如果500美元要两年才收到，企业仍可能破产。要修复周转速度，不只修复利润率。
+
+<a id="why-speed-compounds"></a>
+### 为什么速度具有复利效应
+
+关键杠杆不是总利润，而是速度。花100美元赚500美元很好，但如果要等2年，钱到之前你可能已经破产。
+
+Hormozi 的复利主张是：每位客户价值提高2倍、客户数量提高2倍、获取速度提高2倍，约等于**8倍增长**，即2×2×2；各提升3倍，则为**27倍**，即3×3×3。价值×数量×速度，各自独立相乘。应把它当作复利的方向性示意，而非经过测量的定律。
+
+<a id="a-money-model-is-a-sequence-illustration"></a>
+### 收入模式是一系列方案：示例
+
+每解决一个问题，就会出现下一个问题；新问题也是合理提出新方案的机会。租车柜台把**每天19美元的预订，变成每天100美元的租车，约5倍**：车型升级 → 延迟还车 → 高级保险作为锚点 → 基础保险作为降档 → 预付燃油。客户“乐于付钱”，因为每项方案都在具体问题出现时解决了它。核心不是更用力推销，而是指出下一个真实问题并提供解决办法。只要在客户意识到需要时提供正确方案，就可以继续提出更多方案。
+
+<a id="the-three-stages"></a>
+## 三个阶段
+
+| 阶段 | 目标 | 方案类型 |
+|---|---|---|
+| **第一阶段：获得现金** | 将陌生人变成付费客户，为获客提供资金 | 获客方案 |
+| **第二阶段：获得更多现金** | 更快地从同一批客户获得更多收入 | 升级销售+降档销售 |
+| **第三阶段：获得最多现金** | 最大化客户终身支出，增加经常性收入 | 持续订阅 |
+
+第二阶段包含两种方案；[frameworks.md](frameworks.md) 的四步构建法将它们拆开，模型相同，只是粒度更细。
+
+**按顺序，一次建立一个阶段。**不要从零一次性搭出完整四环节模型，那会压垮企业。先稳定获得客户，再让客户支付自己的成本，再让其支付下一位客户的成本，最后最大化终身价值。
+
+<a id="the-four-offer-types"></a>
+## 四类销售方案
+
+单个方案是基本单元，收入模式是这些单元的顺序。每类都有具体打法，完整机制见 [frameworks.md](frameworks.md)。
+
+| 类型 | 任务 | 具体打法 | 适用时机 |
+|---|---|---|---|
+| **获客** | 将关注变成客户，提前获得现金 | **达标返款** | 人们容易开始又放弃，例如健身、技能、新习惯 |
+| | | **赠奖活动** | 想获得大量已按最高价产品筛选过的线索 |
+| | | **诱饵方案** | 需要便宜的线索，但希望多数人主动选择高端档 |
+| | | **买X送Y** | 相同算式下，“免费”表达比普通折扣更有吸引力 |
+| | | **现在少付或以后多付** | 想宣传“免费”，登记付款卡，并内置保障 |
+| **升级销售** | 让客户立即多消费 | **经典升级** | 刚解决的问题立即带来下一个问题，“没有Y就无法拥有X” |
+| | | **菜单式推荐** | 有多个产品，希望给出专业推荐，而非让客户盲选 |
+| | | **锚点升级** | 先展示昂贵选项，让真实方案显得便宜 |
+| | | **消费额抵扣升级** | 将以往消费抵扣更大的后续方案，或挽回、争取客户 |
+| **降档销售** | 把“不”变成“是” | **分期计划** | 客户想买，但今天无法一次付清 |
+| | | **带违约费用的试用** | 经常性服务，只有客户不完成规定动作时收费 |
+| | | **删减功能降档** | 通过减少所得降低价格，而非同样的东西直接打折 |
+| **持续订阅** | 让客户月复一月付款 | **赠品** | 高于首月价格的高价值免费赠品推动注册 |
+| | | **折扣** | 用现在或以后免费的一段时间换取付费承诺 |
+| | | **免除费用** | 承诺固定期限就免大额启动费，提前退出才收取 |
+
+<a id="decision-tree-which-offer-do-i-need-next"></a>
+## 决策树：下一步需要哪种方案？
+
+先诊断现金在哪里流失，再选对应类型。
+
+```
+收入模式在哪里断裂？
 │
-├─ Not enough customers / can't afford ads
-│     → You lack an ATTRACTION offer. Build Stage I first.
+├─ 客户不足／无力投广告
+│   → 缺少获客方案，先建立第一阶段。
 │
-├─ Customers, but each one pays too little (low ticket)
-│     → You lack UPSELLS. Add "whatever you offer next."
+├─ 有客户，但每个人支付太少，客单价低
+│   → 缺少升级销售，补上下一项可提供的方案。
 │
-├─ Lots of "no" at checkout / declined upsells
-│     → You lack DOWNSELLS. Change HOW they pay or WHAT they get.
+├─ 结账时大量拒绝／升级被拒绝
+│   → 缺少降档销售，调整付款方式或所得内容。
 │
-├─ Revenue resets to zero every month / no repeat purchase
-│     → You lack CONTINUITY. Add recurring value for recurring pay.
+├─ 每月收入归零／没有复购
+│   → 缺少持续订阅，用持续价值换持续付款。
 │
-└─ You have all four but growth is capped by cash-on-hand
-      → Re-sequence for SPEED: pull more cash into the first 30 days
-        (prepay discounts, paycheck-aligned billing, bulk blocks).
+└─ 四类都有，但手头现金限制增长
+    → 为速度重新排序：将更多现金提前至前30天，
+      例如预付折扣、按发薪日收费、批量购买。
 ```
 
 ```
-Building from scratch?
-├─ No offer that converts yet    → Use 100m-offers FIRST (this assumes one)
-├─ No traffic / leads            → Use 100m-leads (this assumes traffic)
-├─ Have both, monetizing poorly  → THIS skill: sequence the offers
-└─ Pricing model strategy (tiers, WTP) → See monetizing-innovation
+从零开始？
+├─ 还没有能转化的方案 → 先用100m-offers，本技能假设已有方案
+├─ 没有流量或线索 → 用100m-leads，本技能假设已有流量
+├─ 两者都有，但变现差 → 用本技能安排销售顺序
+└─ 需要档位、支付意愿等定价战略 → 参见monetizing-innovation
 ```
 
-## Key Rules Distilled
+<a id="key-rules-distilled"></a>
+## 核心规则提炼
 
-1. **Perfect one offer at a time.** Run one offer at your current stage until it's reliable and automatic, then add the next. Measure progress in quarters.
-2. **Raise price in stages.** Launch cheap for volume and feedback; raise until the nos you gain outweigh the yeses you keep - stop where raising further would make *less* money.
-3. **Downsells change how they pay or what they get - never just the price.** Dropping the price on the *same* thing is discounting, and it poisons trust for every future price you ever quote.
-4. **BAMFAM - Book A Meeting From A Meeting.** End every touchpoint by scheduling the next one (and why). More touchpoints = more offer moments.
-5. **More free than paid.** "Buy 1 get 2 free" beats "buy 10 get 2 free." Raise the base price *before* giving anything away.
-6. **Anchor, then reveal.** Show the 5-10x premium option first; the gasp is a good sign; then present the real offer as the obvious deal.
-7. **Watch the diagnostics.** >10% Pay-Later cancellations, >5% early cancels on a fee offer, or a refund rate above ~5% before running Win Your Money Back = the product/promise/price is wrong. Fix the substance, not the offer.
-8. **Continuity is a Stage III finisher, not a front end.** Selling continuity alone starves cash today - attract with a trial/bonus, then convert.
+1. **一次完善一个方案。**把当前阶段的方案跑到可靠且自动化，再加下一个；按季度衡量进度。
+2. **分阶段提价。**以低价启动，获得数量与反馈；持续提价，直到新增拒绝带来的损失超过保留成交的收益，也就是再涨会少赚钱时停下。
+3. **降档改变付款方式或所得，不只是价格。**同样的东西直接降价是打折，会损害客户对你此后所有报价的信任。
+4. **BAMFAM：在一次会面中约定下一次会面。**每次接触结束时，约好下次及其理由。接触点越多，提出新方案的时机越多。
+5. **送的数量多于买的数量。**“买1送2”优于“买10送2”；赠送前先提高基础价格。
+6. **先锚定，再揭示。**先展示贵5—10倍的高端选项，客户惊讶是好信号；再呈现真正方案，让它显得划算。
+7. **盯住诊断信号。**延后付款取消率超过10%、带费用方案提前取消率超过5%，或达标返款活动前退款率已超过约5%，说明产品、承诺或价格不对。修复实质，而非包装。
+8. **持续订阅是第三阶段的收尾，而非获客前端。**只卖持续订阅会让当前现金不足；先靠试用或赠品获客，再转化。
 
-## Critical Warnings and Honest Commentary
+<a id="critical-warnings-and-honest-commentary"></a>
+## 关键提醒与坦诚评论
 
-- **This book assumes the two before it are done.** It presumes an offer that already converts (**100m-offers**) and a working traffic source (**100m-leads**). A perfect money model on top of an offer nobody wants just loses money faster. If leads aren't converting warm, fix the offer before sequencing it.
-- **The examples skew high-margin.** Nearly every case is a gym, an info product, a coaching/licensing business, or a service with fat margins and active-engagement delivery. The mechanics generalize, but the *numbers* do not. Flag for adaptation:
+- **本书假设前两本的基础已完成。**它预设已有能转化的方案（100m-offers）与有效流量来源（100m-leads）。没人想要的方案配上完美收入模式，只会更快亏钱。熟悉你的线索都不转化时，先修方案，再排顺序。
+- **案例偏向高毛利业务。**几乎都是健身房、知识产品、教练、授权或高毛利且需要客户积极参与交付的服务。机制可以迁移，数字不能照搬。需要调整的情况如下：
 
-| Context | What breaks | Adapt by |
-|---------|-------------|----------|
-| **SaaS / subscription** | 30-day payback is fantasy; real payback is 6-12+ months | Use the *sequencing* logic; treat 30 days as a north star, not a gate. Annual prepay + onboarding upsell pull cash forward. |
-| **Low-margin physical goods** | Can't fund "free month + $127 upsells" on thin margins | Free/discount attraction only works if the follow-on stack has margin. Model the whole basket, not the hook. |
-| **Regulated industries** | Guarantees, "free" claims, penalties, sweepstakes are constrained | Legal review before *any* offer. Hormozi says this repeatedly himself. |
+| 场景 | 哪些假设失效 | 如何调整 |
+|---|---|---|
+| **SaaS / 订阅** | 30天回本不现实，真实周期常为6—12个月以上 | 使用顺序逻辑，将30天视为方向而非门槛；年付预付与上手服务升级可提前现金 |
+| **低毛利实物商品** | 薄利无法支撑“免费一个月+127美元升级” | 只有后续组合有足够利润时，免费或折扣获客才成立；计算整个购物篮，而非只看钩子 |
+| **受监管行业** | 保证、“免费”主张、罚款与抽奖受约束 | 任何方案前先做法律审查；Hormozi 自己也反复强调 |
 
-- **Aggressive tactics carry consumer-law and trust risk.** Trial-with-penalty, cancellation fees, "$1 then auto-bill," and negative-option continuity brush against **EU/UK cooling-off rights** (14-day right to cancel distance sales), auto-renewal disclosure laws (e.g. US state ARL statutes, FTC negative-option rules), and dark-pattern enforcement. Card-on-file-then-charge and "make cancellation findable but discourage it" are exactly the patterns regulators now police. Legal beats clever.
-- **"Blood money" is the ethical floor Hormozi himself draws.** Refund anyone who doesn't want you to have their money; hard selling is for weak products; be transparent. These aren't softeners - they're what keeps the aggressive tactics from becoming fraud.
+- **激进手段具有消费者法律和信任风险。**带处罚的试用、取消费、“1美元后自动扣款”、默认续费，都可能涉及欧盟和英国远程销售14天撤销权、自动续费披露法规，例如美国各州 ARL 法规、FTC 默认续费规则，以及针对暗黑模式的执法。登记卡片后扣款、让取消入口可找到却刻意劝阻，正是监管关注的模式。法律优先于巧思。
+- **“不该赚的钱”是 Hormozi 自己划出的伦理底线。**谁不愿让你留着他的钱，就退款；强卖是弱产品的表现；保持透明。这些不是柔化措辞，而是防止激进策略变成欺诈的保障。
 
-## The Build Order
+> 译注：以上法律名称与监管描述按原文保留，未在本次翻译中核验当前各地适用规则。
 
-Money models evolve; they aren't built finished. Hormozi's own businesses all started at Stage I. The reliability chain:
+<a id="the-build-order"></a>
+## 构建顺序
 
-```
-1. Get customers reliably          (Attraction works)
-2. Make them pay for themselves     (30-day payback per customer)
-3. Make them pay for the NEXT one   (client-financed acquisition)
-4. Maximize long-term value         (Continuity compounds)
-5. Spend as much ad budget as       (cash is no longer the limit)
-   possible to print money
-```
-
-Each stage funds the next. As the model starts working, the *business* starts breaking - operational strain is the expected sign you've won; the fix is a strong operator, not a slower model. Detailed 4-step build in **[frameworks.md](frameworks.md)**.
-
-## Rules of Thumb
-
-1. **Speed beats size.** A slow $500 profit loses to a fast $200 one.
-2. **One offer at a time.** Reliable, then automatic, then next stage.
-3. **First transaction is the only thing you discount.** Never the core price.
-4. **Downsell, don't discount.** Change how they pay or what they get.
-5. **More free than paid** - and raise the base price before giving anything away.
-6. **Anchor high (5-10x), then reveal the real offer.**
-7. **Bill every 4 weeks, not monthly** (+8.3% for free), and pull cash into the first 30 days (prepay, bulk blocks).
-8. **Watch the thresholds** (>5-10% refunds/cancels = fix the product, not the offer).
-9. **Simple scales, fancy fails** - 100 ways to offer one product, not 100 products.
-10. **The ethical floor is load-bearing:** refund freely, sell honestly, make cancellation easy - it's what keeps aggressive tactics legal.
-
-## Common Mistakes
-
-| Mistake | Fix |
-|---------|-----|
-| One product, one price ("you have a front end, not a business") | Add a single Classic Upsell - often the fastest revenue lever |
-| Building all four stages at once | Perfect one offer, then the next stage |
-| Discounting the same product to close | Downsell (change pay terms or features), never naked discount |
-| Leading with continuity to acquire | Attract + upsell for cash today; continuity compounds later |
-| Giving winnings/credit as a lump free period | Spread it (e.g. $600 → $50/mo for 12mo) to keep skin in the game |
-| Faking the anchor | If you'd never sell it, customers feel it - present it for real |
-| Ignoring cancellation/refund thresholds | >5-10% is a product signal, not a cost of doing business |
-| Copy-pasting Hormozi's numbers into a SaaS/low-margin model | Keep the structure, re-derive the math for your margins |
-
-## Success Signals
-
-You have a working money model when:
-
-1. **Ad spend pays for itself inside 30 days** - you can scale spend without a cash crunch.
-2. **Average revenue per customer is a multiple of the front-end price** - upsells and continuity are doing the work.
-3. **"No" at checkout converts to a smaller "yes"** - downsells are catching would-be walk-aways.
-4. **Monthly revenue no longer resets to zero** - continuity carries a base forward.
-5. **The bottleneck moves from cash to operations** - you're growing faster than you can deliver (Hormozi's stated sign you've won).
-
-## When This Doesn't Apply
-
-| Context | Why |
-|---------|-----|
-| **No validated offer yet** | Sequencing amplifies a converting offer; it can't create one. Use **100m-offers**, or **mom-test** if pre-validation. |
-| **No traffic source** | A money model needs a stream of leads to run on. Use **traction** / **100m-leads**. |
-| **Pure enterprise / long sales cycles** | 30-day payback and rapid downsell laddering don't fit 9-month committee deals. See **spin-selling**. |
-| **Deep-tech / hardware with long build** | Cash timing is dominated by COGS and lead times, not offer sequencing. |
-| **Trust-first / regulated categories** | Penalty and auto-renew mechanics create legal and reputational risk that outweighs the cash gain. |
-| **One-time, genuinely non-repeatable purchase** | No continuity to add; maximize the single basket (see Boot Factory in **[cases.md](cases.md)**). |
-
-## The Test
-
-Trace one new customer through their first 30 days and add up the cash:
+收入模式逐步演化，不能一次建成。Hormozi 自己的企业也都从第一阶段开始。可靠性链条如下：
 
 ```
-Attraction offer collects:        $ ____
-+ Upsell(s):                       $ ____
-+ Downsell recovery (the "no"s):   $ ____
-+ Continuity month 1 + prepay:     $ ____
-= 30-day cash per customer:        $ ____
-- Cost to acquire + serve:         $ ____
-= 30-day profit per customer:      $ ____
+1. 稳定获得客户              获客方案有效
+2. 让客户支付自己的成本      每位客户30天回本
+3. 让客户支付下一位的成本    客户出资获客
+4. 最大化长期价值            持续订阅产生复利
+5. 尽可能扩大广告预算        现金不再是限制
+   持续创造利润
 ```
 
-- If that profit is **negative**, you have a bad money model - fix Stage I before spending another dollar on ads.
-- If it's **positive and covers one more customer**, you have a good money model - scale.
-- If it covers **many** more customers, cash has stopped limiting growth - your only remaining problem is operations.
+每个阶段为下一个阶段提供资金。模式开始有效时，企业运营会开始承压；运营压力是原文所说的成功信号，解决办法是强有力的运营者，而不是放慢模式。完整四步法见 [frameworks.md](frameworks.md)。
 
-## Supporting Files
+<a id="rules-of-thumb"></a>
+## 经验法则
 
-- **[frameworks.md](frameworks.md)** - Every named offer play with its steps, formulas, and worked math: the 4-step build, the 7-step payment-plan ladder, giveaway 6-step, decoy, anchor 5-step, rollover 4x rule, trial-with-penalty 5-step, Profitwell churn data, continuity pricing multiples.
-- **[cases.md](cases.md)** - The book's case studies with real numbers (storage unit, gym launch, Boot Factory, suit shop, Gym Launch full model) and honest verification notes.
-- **[examples.md](examples.md)** - Fill-in worksheet, scripts, a modern worked example (AI SaaS / agency), payment-plan ladder template, continuity pricing calculator.
-- **[integration.md](integration.md)** - Where money-models sits in the Hormozi sequence and how it combines with (and conflicts with) offers, leads, monetizing-innovation, influence, spin-selling, and lean-startup.
+1. **速度胜过规模。**慢慢获得500美元利润，不如快速获得200美元。
+2. **一次一个方案。**先可靠，再自动化，再进入下一阶段。
+3. **只给首次交易折扣。**不打折核心价格。
+4. **降档，不直接打折。**改变付款方式或所得。
+5. **送得比买得多**，赠送前先提高基础价格。
+6. **先用5—10倍高价锚定，再展示真实方案。**
+7. **每4周收费，而非每月**，原文称可多8.3%；用预付和批量购买将现金提前到前30天。
+8. **留意阈值**：退款或取消超过5—10%，先修产品，而非销售方案。
+9. **简单才容易规模化，花哨容易失败**：用100种方式提供一个产品，而非做100个产品。
+10. **伦理底线是承重结构**：爽快退款、诚实销售、容易取消，才能避免激进策略违法。
+
+<a id="common-mistakes"></a>
+## 常见错误
+
+| 错误 | 修正 |
+|---|---|
+| 一个产品一个价格，“你只有获客前端，还没有完整生意” | 加一个经典升级方案，往往是最快的收入杠杆 |
+| 同时建设四个阶段 | 一次完善一个方案，再进下一阶段 |
+| 为成交给同一产品降价 | 通过付款条款或功能降档，不做裸折扣 |
+| 用持续订阅直接获客 | 获客+升级先带来现金，持续订阅随后复利 |
+| 把奖金或抵扣一次性转成免费期 | 分摊使用，例如600美元分12个月每月抵扣50美元，让客户持续投入 |
+| 假造锚点 | 如果你根本不会卖，客户能感觉到；必须真实提供 |
+| 忽略取消、退款阈值 | 超过5—10%是产品信号，不是正常经营成本 |
+| 照搬 Hormozi 数字到 SaaS 或低毛利业务 | 保留结构，按自己的毛利重算 |
+
+<a id="success-signals"></a>
+## 成功信号
+
+出现以下情况，说明收入模式开始运作：
+
+1. **广告费30天内回本**，扩大投放不会引发现金危机。
+2. **每客平均收入是前端价格的数倍**，升级与持续订阅正在发挥作用。
+3. **结账时的“不”，变成金额更小的“是”**，降档挽回了原本会离开的客户。
+4. **每月收入不再归零**，持续订阅留下稳定基础。
+5. **瓶颈从现金转向运营**，增长超过交付能力，这是 Hormozi 宣称的成功信号。
+
+<a id="when-this-doesnt-apply"></a>
+## 不适用的情况
+
+| 场景 | 原因 |
+|---|---|
+| **尚无验证过的销售方案** | 顺序设计能放大已转化的方案，不能凭空创造；先用100m-offers，验证前用mom-test |
+| **没有流量来源** | 收入模式需要持续线索，用traction或100m-leads |
+| **纯企业级或长销售周期** | 30天回本与快速降档阶梯，不适合9个月的委员会采购；参见spin-selling |
+| **深科技或长开发硬件** | 现金时机主要由销售成本与交付周期决定，而非方案顺序 |
+| **信任优先或受监管类别** | 处罚、自动续费的法律与声誉风险可能大于现金收益 |
+| **真正一次性、无法复购的购买** | 没有持续订阅可加；最大化单次购物篮，参见[cases.md](cases.md)的Boot Factory案例 |
+
+<a id="the-test"></a>
+## 检验方法
+
+追踪一位新客户的前30天，把现金加起来：
+
+```
+获客方案收款：              ____美元
++ 升级销售：                ____美元
++ 降档挽回的收款：          ____美元
++ 持续订阅首月与预付：      ____美元
+= 每客30天现金：            ____美元
+- 获客与服务成本：          ____美元
+= 每客30天利润：            ____美元
+```
+
+- 利润为**负**：收入模式不好，追加广告前先修第一阶段。
+- 利润为**正，且能覆盖另一位客户**：收入模式良好，可以扩大。
+- 能覆盖**多位客户**：现金已不再限制增长，剩下的是运营问题。
+
+<a id="supporting-files"></a>
+## 配套文件
+
+- **[frameworks.md](frameworks.md)**：每种方案的步骤、公式与计算，包括四步构建、七级分期阶梯、六步赠奖、诱饵、五步锚定、抵扣升级4倍规则、五步带处罚条件的试用、ProfitWell流失数据、持续订阅定价倍数。
+- **[cases.md](cases.md)**：包含真实数字的书中案例，如仓储单元、健身房开业、Boot Factory、西装店、Gym Launch完整模式，以及坦诚的核验说明。
+- **[examples.md](examples.md)**：填空工作表、话术、AI SaaS或代理服务的现代示例、分期阶梯模板、持续订阅定价计算器。
+- **[integration.md](integration.md)**：本技能在Hormozi系列中的位置，以及与offers、leads、monetizing-innovation、influence、spin-selling、lean-startup的结合与冲突。

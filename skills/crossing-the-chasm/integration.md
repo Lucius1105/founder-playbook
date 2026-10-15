@@ -1,346 +1,386 @@
-# Crossing the Chasm - Beyond, Modern Relevance, Conflicts
+> 中文译文｜[英文对照](integration.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/crossing-the-chasm/integration.md)。原项目整理：AgentSeal；书籍来源：《Crossing the Chasm》— Geoffrey Moore；AI辅助翻译。
 
-After-chasm strategy, modern adaptations, and cross-skill conflict resolution. Referenced from [SKILL.md](SKILL.md).
+<a id="crossing-the-chasm---beyond-modern-relevance-conflicts"></a>
+# Crossing the Chasm——鸿沟之后、现代适用性与冲突
 
----
-
-## After the Chasm: The Three Post-Chasm Stages
-
-Once you've crossed and established a beachhead, you enter a different phase Moore covers in the sequel **Inside the Tornado**. There are three distinct stages, each with different dynamics, different winning moves, and different revenue profiles.
-
-| Stage | Revenue Profile | Winning Move | Failure Mode |
-|-------|----------------|--------------|--------------|
-| **Bowling Alley** | Predictable but slow | Niche-by-niche whole-product commitment | Skipping niches, spreading thin |
-| **Tornado** | Explosive | Ship volume, ignore customization, grab share | Staying vertical, over-customizing |
-| **Main Street** | Incremental | Price/service competition, +1 features | Trying to restart the tornado |
+本文件讨论鸿沟后的战略、现代调整与跨技能冲突处理，由 [SKILL.md](SKILL.md) 引用。
 
 ---
 
-### Bowling Alley
+<a id="after-the-chasm-the-three-post-chasm-stages"></a>
+## 跨越之后：三个阶段
 
-You've won your beachhead. Now you roll the bowling pin strategy niche by niche.
+跨越鸿沟、建立滩头后，你进入 Moore 在续作 **Inside the Tornado（龙卷风暴）** 中讨论的新阶段。共有三个不同阶段，各有不同机制、制胜行动和收入形态。
 
-Each new niche is a **whole-product commitment** - not just a sales motion. You build or assemble the complete solution for that vertical's specific broken process before moving in. Pragmatists in a new niche won't reference your beachhead wins unless the verticals are closely adjacent. They trust their own community.
-
-Revenue is predictable because you're executing a repeatable playbook: identify a niche with a broken process, assemble the whole product, win enough accounts to be the de facto standard in that niche, repeat. Growth is slow because each cycle takes 6-18 months. Cash flow is positive if you've maintained pricing discipline.
-
-The temptation to skip ahead to the next niche before fully winning the current one is fatal. Half-won niches produce neither revenue nor references.
-
-**Observable signals you are in the Bowling Alley:**
-- New customers ask "is this proven in [my specific industry]?" before buying
-- Sales cycles still require consultative selling and references
-- Each deal requires significant customization or professional services
-- Word-of-mouth operates within verticals, not across them
+| 阶段 | 收入形态 | 制胜行动 | 失败模式 |
+|------|----------|----------|----------|
+| **保龄球道** | 可预测但缓慢 | 逐个利基投入完整产品 | 跳过利基、分散力量 |
+| **龙卷风** | 爆发式 | 大量交付、忽略定制、抢份额 | 停留垂直领域、过度定制 |
+| **主街** | 渐进增长 | 价格／服务竞争，增加小功能 | 试图重启龙卷风 |
 
 ---
 
-### Tornado
+<a id="bowling-alley"></a>
+### 保龄球道
 
-At some point, pragmatist pent-up demand ignites across the whole market simultaneously. Customers stop asking for proof and start asking for delivery dates. This is the tornado.
+你已赢得滩头，接下来逐个利基推进保龄球瓶战略。
 
-The tornado rewards **horizontal expansion at all costs.** Whoever gets to market leadership first locks in the standard. Second place loses most of the market; there is no graceful third.
+每个新利基都是一项**完整产品承诺**，不只是销售动作。进入前，要为该垂直行业具体的失效流程构建或整合完整方案。新利基的实用主义者不会参考你的滩头成果，除非两个行业非常相邻。他们信任自己的社群。
 
-The playbook inverts from chasm-crossing: do not customize, do not build deep whole products for individual niches, do not take on complex professional services. Ship. Standardize. Push volume through every channel available.
+收入可预测，因为打法可重复：找出流程失效的利基，整合完整产品，赢得足够客户，成为该利基的事实标准，然后重复。增长较慢，因为每轮需要 6—18 个月。若保持定价纪律，现金流为正。
 
-Ignore individual customer requests. The tornado customer is not asking for a perfect fit - they are asking for a solution they can buy today. Your job is to remove friction from the purchase, not to perfect the product.
+尚未完全拿下当前利基就急于进入下一块，是致命诱惑。半拿下的市场，既不产生足够收入，也无法提供参考客户。
 
-Revenue is explosive during the tornado, often the fastest growth the company will ever see. This masks internal fragility: debt accumulates (technical, organizational, customer-expectation), which will have to be serviced during Main Street.
-
-**Observable signals you are in the Tornado:**
-- Inbound demand is outpacing your ability to close or deliver
-- Competitors you've never heard of are winning deals
-- Customers stop asking for references; they assume the market is validated
-- New verticals adopt without prior reference checking
-- Sales cycles compress dramatically without you changing your pitch
-- Partners are approaching you rather than the reverse
-
-**The critical mistake:** Applying chasm-crossing tactics (narrow focus, vertical attack) during the tornado. This killed Wang, Lotus Notes, Macintosh, Silicon Graphics. They stayed vertical while platform competitors went horizontal and grabbed the mainstream.
+**身处保龄球道的可观察信号：**
+- 新客户购买前会问：“在我这个具体行业里已经验证了吗？”
+- 销售仍需要顾问式过程和参考客户。
+- 每笔交易都需要大量定制或专业服务。
+- 口碑在垂直行业内传播，不跨行业。
 
 ---
 
-### Main Street
+<a id="tornado"></a>
+### 龙卷风
 
-The tornado ends when the market saturates. Pragmatists have bought. Conservatives are buying. The category is a known quantity.
+某一时刻，实用主义者积压的需求会在整个市场同时点燃。客户不再要证明，开始问交付日期，这就是龙卷风。
 
-Growth becomes incremental. Compete on price, service quality, and ecosystem. The winning move is **+1 features** - small, high-value additions that justify renewal or upsell to existing customers - not discontinuous innovation, which would require re-crossing a chasm.
+龙卷风奖励**不惜代价的横向扩张**。谁先取得市场领导地位，谁就锁定标准。第二名失去大部分市场，第三名没有体面的位置。
 
-Revenue is stable if you've maintained market leadership. Margin pressure increases as competitors commoditize the generic product layer. The answer is to move up the whole-product stack - add services, integrations, and extensions that justify premium pricing.
+打法与跨越鸿沟时相反：不要定制，不要为单一利基深建完整产品，不要承接复杂专业服务。交付、标准化，通过所有可用渠道扩大销量。
 
-Do not try to restart the tornado by launching a major new product. That product will face its own chasm with none of your installed-base advantage. Treat it as a separate venture.
+忽略个别客户的要求。龙卷风客户不要求完美适配，而要今天就能买到的方案。你的工作是减少购买阻力，不是把产品磨到完美。
 
-**Observable signals you are in Main Street:**
-- Deals are primarily renewals and upsells, not new logos
-- Customers negotiate on price more than on capability
-- Competitors differentiate on service, support, and ecosystem, not features
-- Your growth rate has normalized; no quarter dramatically outperforms the prior
-- Analysts cover the category as mature
+此时收入爆发，往往是公司一生最快的增长，却会掩盖内部脆弱性：技术、组织、客户预期等债务不断累积，主街阶段必须偿还。
+
+**身处龙卷风的可观察信号：**
+- 主动上门需求超过成交或交付能力。
+- 从未听说过的竞争者也在赢单。
+- 客户不再要参考客户，默认市场已验证。
+- 新垂直行业不经参考核查就采用。
+- 没改销售介绍，周期却大幅缩短。
+- 伙伴主动找你，而不是你找伙伴。
+
+**关键错误：** 在龙卷风阶段仍采用狭窄聚焦、垂直进攻等跨鸿沟战术。这毁掉了 Wang、Lotus Notes、Macintosh、Silicon Graphics。它们停留垂直市场，平台竞争者却横向扩张并拿下主流。
 
 ---
 
-### "Which post-chasm stage am I in?" Decision Tree
+<a id="main-street"></a>
+### 主街
+
+市场饱和时，龙卷风结束。实用主义者已经买了，保守者正在购买，品类已为人熟知。
+
+增长变得渐进，竞争转向价格、服务品质和生态。制胜行动是 **“+1 功能”**：小而高价值的新增内容，支持续费或向现有客户增售；不是非连续创新，因为那需要再次跨越鸿沟。
+
+如果保持市场领导地位，收入会稳定。竞争者让通用产品层同质化，利润率压力增加。应向完整产品的更高层移动，增加服务、集成和扩展，以支持溢价。
+
+不要试图靠推出重大新品重启龙卷风。新品会面对自己的鸿沟，无法享有你原有安装客户群的优势，应作为独立新业务对待。
+
+**身处主街的可观察信号：**
+- 交易主要来自续约与增售，而非新客户。
+- 客户谈价格多于谈能力。
+- 竞争者靠服务、支持、生态差异化，而非功能。
+- 增长率常态化，没有哪个季度大幅超越前季。
+- 分析师把该品类视为成熟市场。
+
+---
+
+<a id="which-post-chasm-stage-am-i-in-decision-tree"></a>
+### “我处于鸿沟后的哪个阶段？”决策树
 
 ```
-Are new customers asking for proof ("is this proven in my industry?")
-or asking for availability ("can you ship this week?")?
-├─ Asking for PROOF → You are in the Bowling Alley
-│   └─ Action: Commit to current niche before moving to the next.
-│            Build whole product. Win ≥50% share in this niche first.
+新客户要证明“在我的行业验证了吗”，还是要供货“这周能交付吗”？
+├─ 要证明 → 保龄球道
+│   └─ 行动：拿下当前利基再转向下一块。
+│            构建完整产品，先取得该利基至少 50% 的份额。
 │
-└─ Asking for AVAILABILITY → Are competitors winning deals you've never
-                             heard of? Is inbound demand outpacing delivery?
-   ├─ YES → You are in the Tornado
-   │   └─ Action: Stop customizing. Standardize. Ship volume.
-   │            Grab market share at all costs.
-   │
-   └─ NO  → Is your growth primarily from renewals/upsells
-            rather than new logos?
-            ├─ YES → You are on Main Street
-            │   └─ Action: Compete on price/service/ecosystem.
-            │            Add +1 features. Do not restart the tornado.
+└─ 要供货 → 是否有陌生竞争者赢单？主动需求是否超过交付？
+    ├─ 是 → 龙卷风
+    │   └─ 行动：停止定制，标准化，大量交付，
+    │            不惜代价争取市场份额。
+    │
+    └─ 否 → 增长是否主要来自续费／增售，而非新客户？
+            ├─ 是 → 主街
+            │   └─ 行动：靠价格／服务／生态竞争，
+            │            增加“+1 功能”，不要重启龙卷风。
             │
-            └─ NO  → Check whether you've actually crossed the chasm yet.
-                     If new logos still require heavy references and
-                     consultative selling, you may still be chasm-crossing.
+            └─ 否 → 检查是否真的跨过鸿沟。
+                     如果新客户仍需要大量参考证明与顾问式销售，
+                     你可能还在跨越过程中。
 ```
 
 ---
 
-## Beyond the Chasm: Implications for Finance, Org, R&D
+<a id="beyond-the-chasm-implications-for-finance-org-rd"></a>
+## 鸿沟之后：对财务、组织、研发的影响
 
-### The Hockey Stick Problem
+<a id="the-hockey-stick-problem"></a>
+### 曲棍球杆问题
 
-Most business plans show a hockey stick: flat, then sudden inflection. **It's a fiction created by spreadsheets.** Real growth is a staircase. See [examples.md](examples.md#staircase-vs-hockey-stick-forecast).
+多数商业计划先平坦，再突然上升。**这是电子表格制造的虚构。** 真实增长是阶梯，见 [examples.md](examples.md#staircase-vs-hockey-stick-forecast)。
 
-### The Profitability Discipline
+<a id="the-profitability-discipline"></a>
+### 盈利纪律
 
-> "Until profitability is achieved, nothing is secure, and your destiny is not under your own control."
+> “没有实现盈利之前，一切都不稳固，命运也不掌握在自己手中。”
 
-Strong case for profitability from day 1, especially software with low capitalization:
-- Visionary customers will prepay royalties
-- Cash-flow positive from day 1
-- Avoids "welfare state" mentality
-- Forces drastic focus
-- Strongest evidence for high valuation when raising
+从第一天就盈利有充分理由，尤其是资本需求低的软件：
+- 愿景型客户愿预付许可费。
+- 第一天即可实现正现金流。
+- 避免“靠救济生活”的心态。
+- 迫使极度聚焦。
+- 融资时支持高估值的最强证据。
 
-### Pioneers vs Settlers
+<a id="pioneers-vs-settlers"></a>
+### 先驱者与定居者
 
-The transition requires people changes:
+转型需要人员变化：
 
-| Phase | Who Wins | Compensation |
-|-------|----------|--------------|
-| **Pre-chasm (Pioneers)** | Account penetration | Front-loaded bonuses, NO equity |
-| **Post-chasm (Settlers)** | Account development | MBO + slow equity vest |
+| 阶段 | 制胜工作 | 薪酬 |
+|------|----------|------|
+| **鸿沟前，先驱者** | 打开新客户 | 前置奖金，不给股权 |
+| **鸿沟后，定居者** | 发展现有客户 | 目标管理 + 缓慢归属的股权 |
 
-**Pioneer technologists** and **pioneer salespeople** often become postchasm liabilities. The molting process is real and painful.
+**先驱型技术人员**与**先驱型销售人员**常在跨越后成为负担，蜕变真实而痛苦。
 
-### Two New Roles for Chasm Crossing
+<a id="two-new-roles-for-chasm-crossing"></a>
+### 跨越鸿沟的两个新角色
 
-1. **Target Market Segment Manager** → becomes Industry Marketing Manager
-2. **Whole Product Manager** → becomes Product Marketing Manager
+1. **目标细分市场经理** → 行业营销经理。
+2. **完整产品经理** → 产品营销经理。
 
-**Critical principle:** Product manager and product marketing manager must be SEPARATE roles.
+**关键原则：** 产品经理与产品营销经理必须是独立角色。
 
-### The R&D Shift
+<a id="the-rd-shift"></a>
+### 研发重心转移
 
-Pre-chasm R&D focuses on the product. Post-chasm R&D focuses on:
-- Whole product (everything customer needs to succeed)
-- Designing out service issues (Conservatives don't pay for service)
-- "The best service is no service at all"
-
----
-
-## Modern Relevance (1991 → 2026)
-
-The framework's core ideas are durable. Specific tactics, channels, and case studies are not. Major shifts since the book:
-
-### When Crossing the Chasm Still Applies
-
-- Enterprise software with committee buying ($50K+ deals)
-- Infrastructure plays where IT must approve
-- Categories with high switching costs and risk
-- Disruptive innovations requiring behavior change in conservative industries
-- Hardware and physical products
-
-### Where the Framework BREAKS in 2026
-
-#### Product-Led Growth (PLG)
-
-Slack, Figma, Notion, Cursor, Linear cross the chasm WITHOUT visionary executive sponsorship. Users adopt bottoms-up, often paying with credit cards before IT/procurement know. This breaks Moore's visionary→pragmatist sequence entirely.
-
-**Override:** For PLG products, the "chasm" sits between individual user adoption and team/org adoption. Different problem, different tactics. Use product-onboarding/expansion playbooks, not D-Day.
-
-#### Open Source as a Chasm-Crossing Tactic
-
-MongoDB, HashiCorp, Hugging Face. Free distribution gets you into Fortune 500s before any sales conversation. The chasm becomes monetization, not adoption.
-
-**Override:** The open-core model creates a different sequence: free user → enterprise buyer. Chasm-crossing tactics need adaptation. The "beachhead" is the conversion path, not the segment.
-
-#### Network-Effects Products
-
-Slack, Zoom, Discord. These leap chasms via virality, not via niche dominance. One team using it pulls others in.
-
-**Override:** Network effects can substitute for whole product. If your product gets more valuable with more users, "complete whole product" matters less. Optimize for viral coefficient, not whole-product completeness.
-
-#### Marketplaces
-
-Airbnb, Uber, DoorDash. Two-sided dynamics don't map to TALC. Chicken-and-egg problems dominate. Don't use this skill.
-
-#### AI / Foundation Models
-
-Cursor, Claude, ChatGPT. Adoption pattern is unprecedented. Mass adoption preceded enterprise sales. Categories form in months, not years.
-
-**Partial fit:** Some chasm-crossing principles still apply (whole product, positioning, alliances), but timing assumptions don't.
-
-#### Pure Consumer Apps
-
-TikTok, Instagram. No "early adopter to majority" gap because there's no buyer/payer/user separation.
-
-### What Moore Got Wrong (Now Visible)
-
-- **Internet as "not a chasm-crossing channel"** - it now IS the chasm-crossing channel for many products
-- **Software-only deals at <$10K** - now standard SaaS pricing, no longer No-Man's Land
-- **Sales cycle assumptions** don't match modern velocity (PLG can compress months to days)
-- **VARs are largely obsolete** - replaced by partners, MSPs, integrators, cloud marketplaces
-- **Direct sales force always preferred for chasm** - now often a worse choice than self-serve PLG
-- **TALC bell curve assumes a single market** - modern products cross multiple sub-chasms simultaneously
-
-### When NOT to Use This Skill
-
-- Pure consumer products (TikTok, Instagram, gaming)
-- PLG SaaS where users self-onboard (apply differently or use alternative frameworks)
-- Two-sided marketplaces (different dynamics)
-- Rapid-cycle products where 7-year strategies don't apply
-- AI products where adoption is happening at unprecedented speed
-- Products with strong network effects (network effect substitutes for whole product)
+鸿沟前研发聚焦产品，鸿沟后聚焦：
+- 完整产品，即客户成功所需的一切。
+- 从设计上消除服务问题，因为保守者不愿为服务付费。
+- “最好的服务，就是根本不需要服务。”
 
 ---
 
-## Integration with Other Skills
+<a id="modern-relevance-1991--2026"></a>
+## 现代适用性：1991 → 2026
 
-| Skill | Relationship to Chasm |
-|-------|----------------------|
-| **Mom Test** | Use BEFORE picking beachhead - validate which segment has real pain |
-| **Monetizing Innovation** | Pricing strategy aligns with chasm pricing (market leader + channel reward) |
-| **$100M Offers** | Frame the whole-product offer for the beachhead irresistibly |
-| **$100M Leads** | Drive traffic to your beachhead-specific positioning |
-| **SPIN Selling** | The discovery framework for your chasm-crossing direct sales |
-| **Obviously Awesome** | Positioning methodology that operationalizes Moore's positioning advice for 2026 |
-| **Blue Ocean Strategy** | Alternative path: instead of crossing, create a chasm-less category |
+核心思想经久有效，具体战术、渠道、案例则不是。出版以来的主要变化如下。
 
----
+<a id="when-crossing-the-chasm-still-applies"></a>
+### Crossing the Chasm 仍适用的情境
 
-## Honest Conflicts (Cross-Skill Resolution)
+- 委员会采购的企业软件，5 万美元以上交易。
+- 必须经 IT 批准的基础设施业务。
+- 转换成本高、风险高的品类。
+- 保守行业中需要改变行为的颠覆性创新。
+- 硬件与实体产品。
 
-These tools come from different authors with partly conflicting philosophies. Don't expect clean handoffs - synthesize.
+<a id="where-the-framework-breaks-in-2026"></a>
+### 2026 年框架失效的情境
 
-### Mom Test "earlyvangelists" ARE Moore's "visionaries" - this creates a real conflict
+<a id="product-led-growth-plg"></a>
+#### 产品驱动增长：PLG
 
-Mom Test tells you to FIND earlyvangelists - emotional, will commit before it makes sense, will fight for you. That's literally Moore's visionary description.
+Slack、Figma、Notion、Cursor、Linear 无须愿景型高管赞助就能跨越鸿沟。用户自下而上采用，常在 IT／采购知情前就刷信用卡付款，完全打破 Moore 的愿景者 → 实用主义者顺序。
 
-But Moore says these visionaries become a TRAP - they're terrible references for pragmatists, they alienate the mainstream, you have to cross the chasm AWAY from them.
+**替代用法：** PLG 的“鸿沟”在个人采用与团队／组织采用之间。问题不同，战术也不同。采用产品上手与扩展打法，而非诺曼底登陆。
 
-**Reconciliation:**
-- **Mom Test phase:** Find visionaries, get to first revenue (correct)
-- **After visionary success:** Don't let them set your trajectory. Cross the chasm by targeting pragmatists who don't reference visionaries at all
-- The pragmatist's reference base is OTHER PRAGMATISTS, not the visionaries Mom Test taught you to celebrate
+<a id="open-source-as-a-chasm-crossing-tactic"></a>
+#### 开源作为跨越鸿沟手段
 
-### Monetizing Innovation says price by WTP. Crossing the Chasm says price at market-leader level.
+MongoDB、HashiCorp、Hugging Face 通过免费分发，在任何销售对话之前就进入财富 500 强。鸿沟变为变现，而非采用。
 
-These conflict when leader's price ≠ what your customer will pay.
+**替代用法：** 开放核心模式形成不同顺序：免费用户 → 企业买家。跨鸿沟战术必须调整。“滩头”是转化路径，而非细分市场。
 
-**Reconciliation:**
-- WTP wins for early market (visionaries pay value-based)
-- Market-leader pricing wins for chasm-crossing (pragmatists need to see leader-equivalent pricing)
-- After chasm: pricing converges as the market becomes more rational
+<a id="network-effects-products"></a>
+#### 网络效应产品
 
-### $100M Leads' Core Four are demand-FULFILLMENT channels. Moore says you need demand-CREATION for chasm-crossing.
+Slack、Zoom、Discord 通过病毒传播跃过鸿沟，而非主导利基。一个团队使用，就会拉入其他团队。
 
-- $100M Leads (cold outreach, content, paid ads) assumes a defined offer pulling responses
-- Chasm-crossing requires direct sales evangelizing a new category
+**替代用法：** 网络效应可以替代完整产品。用户越多、价值越大时，“完整产品完备度”就没那么重要。应优化病毒传播系数，而非完整产品完备度。
 
-**Reconciliation:**
-- Use $100M Leads tactics POST-chasm or for early market top-of-funnel
-- During chasm-crossing itself, direct sales remains the answer
+<a id="marketplaces"></a>
+#### 平台市场
 
-### $100M Offers says stack value. Crossing the Chasm says strip to one positioning attribute.
+Airbnb、Uber、DoorDash 的双边机制不适配 TALC，鸡生蛋问题占主导，不要用本技能。
 
-Different things at different abstraction levels:
-- Hormozi's stack = how you describe your offer to a buyer (within a meeting)
-- Moore's single attribute = how you occupy mind-space across the market (positioning)
+<a id="ai--foundation-models"></a>
+#### AI／基础模型
 
-**Reconciliation:** These can coexist. Stack the offer for the buyer, but own one positioning word in the market.
+Cursor、Claude、ChatGPT 的采用模式前所未有，大众采用先于企业销售，品类以月而非年形成。
 
-### SPIN Selling assumes meeting agreed. Crossing the Chasm earlier gets the meeting.
+**部分适配：** 完整产品、定位、联盟等原则仍适用，但时间假设不适用。
 
-- Use Crossing the Chasm to identify and target beachhead
-- Use SPIN within the meeting to convert
+<a id="pure-consumer-apps"></a>
+#### 纯消费应用
 
-These are complementary, not in conflict.
+TikTok、Instagram 没有买家／付款者／用户分离，因此没有“早期采用者到大众”的鸿沟。
 
-### Obviously Awesome (April Dunford) competes with Moore's positioning
+<a id="what-moore-got-wrong-now-visible"></a>
+### 如今可见的 Moore 判断失误
 
-- Obviously Awesome is a more practical 2024 update of positioning methodology
-- Moore's two-sentence formula remains foundational; Dunford's framework operationalizes it for modern SaaS
-- **Use Dunford for positioning execution, Moore for chasm strategy.** They cooperate.
+- **互联网“不是跨越鸿沟的渠道”**——如今对许多产品，它就是该渠道。
+- **低于 1 万美元的纯软件交易**——如今是标准 SaaS 定价，不再是无人地带。
+- **销售周期假设**不符合现代速度，PLG 可将数月缩为数天。
+- **VAR 大多过时**——被伙伴、MSP、集成商、云市场取代。
+- **跨鸿沟总应优先直销团队**——如今常不如自助式 PLG。
+- **TALC 钟形曲线假设单一市场**——现代产品同时跨越多个小鸿沟。
 
-### Blue Ocean Strategy (Kim & Mauborgne) offers an alternative
+<a id="when-not-to-use-this-skill"></a>
+### 何时不使用本技能
 
-- BOS says: don't cross a chasm; create a market with no chasm
-- Moore says: you can't always do that; sometimes the chasm is real and must be crossed
-- **Use BOS first as a question:** can we make this category chasm-less?
-- **If no:** use Crossing the Chasm
-
----
-
-## Honest Scope of the Book (Detailed)
-
-### Published
-
-1991, revised 1998. The world has changed substantially.
-
-### Examples
-
-Mostly 1990s tech (Lotus 1-2-3, Oracle, AutoCAD, Documentum, Wang, Silicon Graphics). Some are still useful as patterns; many are no longer relevant as products.
-
-### Empirical Base
-
-Anecdotes and case studies from Moore's consulting practice. **No statistical validation - this is a strategy framework, not a research study.** Treat all numerical claims (the 30% premium, the 2x revenue heuristic, the 80-90%/100% threshold) as Moore's heuristics from worked examples, not measured rules.
-
-### Where It Shines
-
-- B2B enterprise software
-- Infrastructure plays
-- Complex platforms with committee buying
-
-### Where It's Weak
-
-- Pure consumer apps
-- Low-friction SaaS (PLG works differently)
-- Free/freemium products
-- Network-effect dominated products
-- AI-native products with unprecedented adoption velocity
-
-### Author's Commercial Interest
-
-Moore founded The Chasm Group consulting firm. The book is partly marketing for that practice. This doesn't invalidate the framework but suggests:
-- Some examples may be cherry-picked
-- The framework's claimed universality is overstated
-- Updated thinking exists in subsequent books (Inside the Tornado, Living on the Fault Line, Escape Velocity)
-
-### What to Take Forward
-
-The framework is **durable** for B2B enterprise software. The specific examples are dated. The numerical heuristics are heuristics, not laws.
-
-**Use chasm-crossing thinking for B2B enterprise products with committee buying.** For everything else, use complementary skills (PLG playbooks, marketplace tactics, network-effect strategy, AI-native go-to-market).
+- 纯消费产品，例如 TikTok、Instagram、游戏。
+- 用户自行上手的 PLG SaaS，应调整用法或采用其他框架。
+- 双边市场，机制不同。
+- 七年战略不适用的快速迭代产品。
+- 以前所未有速度被采用的 AI 产品。
+- 强网络效应产品，网络效应替代完整产品。
 
 ---
 
-## Final Mindset
+<a id="integration-with-other-skills"></a>
+## 与其他技能结合
 
-The opposite of crossing the chasm isn't "moving fast." It's **focus.**
+| 技能 | 与鸿沟的关系 |
+|------|--------------|
+| **Mom Test** | 选滩头前使用，验证哪个细分市场有真实痛点 |
+| **Monetizing Innovation** | 定价与鸿沟定价一致：市场领导者价格 + 渠道回报 |
+| **$100M Offers** | 将滩头的完整产品包装成难以拒绝的报价方案 |
+| **$100M Leads** | 为滩头专属定位获取流量 |
+| **SPIN Selling** | 跨鸿沟直销的需求发现框架 |
+| **Obviously Awesome** | 将 Moore 的定位建议转化为 2026 年可操作的方法 |
+| **Blue Ocean Strategy** | 另一条路：不跨越，而是创造没有鸿沟的品类 |
 
-Most chasm failures are not failures of execution. They are failures of focus - the team tried to win 3 niches at once instead of dominating one.
+---
 
-> "You start the fire. You spread the fire."
+<a id="honest-conflicts-cross-skill-resolution"></a>
+## 需要正视的冲突：跨技能处理
 
-Pick the spot. Pour the gasoline. Light it. Spread.
+这些工具来自不同作者，理念部分冲突。不要期待完美交接，需要综合判断。
+
+<a id="mom-test-earlyvangelists-are-moores-visionaries---this-creates-a-real-conflict"></a>
+### Mom Test 的“早期布道者”就是 Moore 的“愿景者”，这构成真实冲突
+
+Mom Test 让你寻找情绪投入强、在逻辑尚未完全成立前承诺、愿为你争取的早期布道者，这正是 Moore 对愿景者的描述。
+
+但 Moore 认为，这些愿景者会成为陷阱：他们无法为实用主义者有效背书，会疏远主流。你必须离开他们，跨越鸿沟。
+
+**协调方法：**
+- **Mom Test 阶段：** 找愿景者，获得首笔收入，这是对的。
+- **愿景者阶段成功后：** 别让他们决定后续轨迹。转向完全不参考愿景者的实用主义者，跨越鸿沟。
+- 实用主义者的参考对象是其他实用主义者，而非 Mom Test 教你珍惜的愿景者。
+
+<a id="monetizing-innovation-says-price-by-wtp-crossing-the-chasm-says-price-at-market-leader-level"></a>
+### Monetizing Innovation 主张按支付意愿定价；Crossing the Chasm 主张按市场领导者水平定价
+
+当领导者价格不等于客户愿付价格时，两者冲突。
+
+**协调方法：**
+- 早期市场以支付意愿为主，愿景者按价值付费。
+- 跨鸿沟阶段以领导者定价为主，实用主义者需要看到相当于领导者的价格。
+- 鸿沟后，市场更理性，定价逐渐收敛。
+
+<a id="100m-leads-core-four-are-demand-fulfillment-channels-moore-says-you-need-demand-creation-for-chasm-crossing"></a>
+### $100M Leads 的四大核心渠道满足需求；Moore 认为跨鸿沟需要创造需求
+
+- $100M Leads 的冷触达、内容、付费广告，假设已有明确报价方案吸引回应。
+- 跨鸿沟需要直销去传播新品类。
+
+**协调方法：**
+- 鸿沟后，或早期市场漏斗顶部，使用 $100M Leads 战术。
+- 真正跨鸿沟期间，直销仍是答案。
+
+<a id="100m-offers-says-stack-value-crossing-the-chasm-says-strip-to-one-positioning-attribute"></a>
+### $100M Offers 主张叠加价值；Crossing the Chasm 主张收敛为一个定位属性
+
+两者位于不同抽象层：
+- Hormozi 的价值叠加，是会议中向买家描述方案的方法。
+- Moore 的单一属性，是在整个市场占据心智空间的方法，即定位。
+
+**协调方法：** 可以并存。面向买家叠加报价价值，在市场中占据一个定位词。
+
+<a id="spin-selling-assumes-meeting-agreed-crossing-the-chasm-earlier-gets-the-meeting"></a>
+### SPIN Selling 假设会面已获同意；Crossing the Chasm 在更早阶段帮你获得会面
+
+- 用 Crossing the Chasm 识别、瞄准滩头。
+- 用 SPIN 在会面中转化。
+
+两者互补，并无冲突。
+
+<a id="obviously-awesome-april-dunford-competes-with-moores-positioning"></a>
+### April Dunford 的 Obviously Awesome 与 Moore 的定位方法存在竞争
+
+- Obviously Awesome 是在 2024 年看来更实用的定位方法更新。
+- Moore 的两句话公式仍是基础，Dunford 框架让其适用于现代 SaaS 的实际操作。
+- **定位执行用 Dunford，鸿沟战略用 Moore。** 两者协作。
+
+<a id="blue-ocean-strategy-kim--mauborgne-offers-an-alternative"></a>
+### Kim 与 Mauborgne 的 Blue Ocean Strategy 提供替代路径
+
+- BOS 说：不要跨越鸿沟，创造没有鸿沟的市场。
+- Moore 说：不总能如此，有时鸿沟真实存在，必须跨越。
+- **先用 BOS 提问：** 能否让这个品类没有鸿沟？
+- **如果不能：** 用 Crossing the Chasm。
+
+---
+
+<a id="honest-scope-of-the-book-detailed"></a>
+## 如实说明本书范围：详版
+
+<a id="published"></a>
+### 出版
+
+1991 年，1998 年修订。世界已发生巨大变化。
+
+<a id="examples"></a>
+### 案例
+
+多为 1990 年代科技企业：Lotus 1-2-3、Oracle、AutoCAD、Documentum、Wang、Silicon Graphics。某些模式仍有用，但许多具体产品已无现实相关性。
+
+<a id="empirical-base"></a>
+### 实证基础
+
+来自 Moore 咨询实践的轶事与案例。**没有统计验证，这是战略框架，不是研究报告。** 所有数字，包括 30% 溢价、2 倍收入经验法则、80%—90%／100% 阈值，都应视为 Moore 从案例归纳的经验判断，而非测量规律。
+
+<a id="where-it-shines"></a>
+### 优势领域
+
+- B2B 企业软件。
+- 基础设施业务。
+- 委员会采购的复杂平台。
+
+<a id="where-its-weak"></a>
+### 薄弱领域
+
+- 纯消费应用。
+- 低摩擦 SaaS，PLG 的机制不同。
+- 免费／免费增值产品。
+- 网络效应占主导的产品。
+- 采用速度前所未有的 AI 原生产品。
+
+<a id="authors-commercial-interest"></a>
+### 作者商业利益
+
+Moore 创立了 The Chasm Group 咨询公司，本书部分也是该业务的营销。这不使框架失效，但意味着：
+- 某些案例可能被选择性挑选。
+- 框架所宣称的普适性可能夸大。
+- 更新思路见后续著作 Inside the Tornado、Living on the Fault Line、Escape Velocity。
+
+<a id="what-to-take-forward"></a>
+### 应保留什么
+
+对于 B2B 企业软件，框架**经久有效**。具体案例陈旧，数字只是经验法则，不是定律。
+
+**面向委员会采购的 B2B 企业产品，使用跨鸿沟思维。** 其他情况使用互补技能，例如 PLG 打法、平台市场战术、网络效应战略、AI 原生市场进入方法。
+
+---
+
+<a id="final-mindset"></a>
+## 最后的心态
+
+“跨越鸿沟”的反面不是“快速行动”，而是**聚焦**。（译注：原文逻辑表述如此，照译保留。）
+
+多数鸿沟失败并非执行失败，而是聚焦失败：团队试图同时赢得三个利基，而非主导一个。
+
+> “你来点火，你来传播火势。”
+
+选定地点，倒下汽油，点燃，扩散。
