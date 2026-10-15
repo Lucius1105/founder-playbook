@@ -61,7 +61,7 @@ Founder Playbook 是一个面向创业者的商业方法参考库，包含 **15 
 npx skills add Lucius1105/founder-playbook
 ```
 
-这是本中文仓库的地址，按安装器提示选择目标工具和技能即可。**安装命令默认读取仓库主分支；完整中文版合并到主分支后，才会通过该命令安装到。** 当前可先按下方预览分支命令手动安装。
+这是本中文正式版仓库的地址，按安装器提示选择 Codex 或其他目标工具，再选择所需技能。默认主分支 `main` 提供中文版，英文对照保留在各目录的 `*.en.md`。
 
 如果希望安装 AgentSeal 维护的上游版本，可使用原命令：
 
@@ -75,7 +75,7 @@ npx skills add getagentseal/founder-playbook
 
 ```bash
 # 克隆本仓库
-git clone --branch docs/chinese-readme-20261015 https://github.com/Lucius1105/founder-playbook.git
+git clone https://github.com/Lucius1105/founder-playbook.git
 
 # 准备 Claude Code 的个人技能目录
 mkdir -p "$HOME/.claude/skills"
@@ -94,7 +94,7 @@ for skill in "$PWD"/founder-playbook/skills/*/SKILL.md; do
 done
 ```
 
-上面的命令指向本次完整中文预览分支。合并到主分支后，可以去掉 `--branch docs/chinese-readme-20261015`。上述命令应在同一个终端中依次运行；若克隆失败，先处理错误。链接依赖克隆目录，请保留该目录及路径。
+上述命令应在同一个终端中依次运行；若克隆失败，先处理错误。链接依赖克隆目录，请保留该目录及路径。
 
 安装后，可以直接用自然语言描述问题。Claude 会参考技能描述，按需要加载相关内容。例如：
 
@@ -251,7 +251,7 @@ skill-name/
 
 - **原始开源项目与整理者**：[Founder Playbook](https://github.com/getagentseal/founder-playbook)，由 [AgentSeal](https://github.com/getagentseal) 维护。
 - **本中文整理仓库**：[Lucius1105/founder-playbook](https://github.com/Lucius1105/founder-playbook)。仓库文档根据上游对应文件翻译整理，中文翻译由 AI 辅助完成；每份技能及实验译文都注明原出处。
-- **本轮改动范围**：完整中文化 README、78 份技能文档、1 份实验记录和插件的用户可见说明；保留对应英文原稿，另附许可证中文参考。安装示例与插件仓库地址指向本中文分支；保留上游作者署名与正式许可证。
+- **本轮改动范围**：完整中文化 README、78 份技能文档、1 份实验记录和插件的用户可见说明；保留对应英文原稿，另附许可证中文参考。安装示例与插件仓库地址指向本中文正式版主分支；保留上游作者署名与正式许可证。
 - **书籍来源**：上述 15 本书及其作者。AgentSeal 是开源项目整理者，书籍中的原创思想与内容应追溯到各自原作者。本中文整理版不是书籍全文翻译。
 - **开源许可证**：[MIT License](LICENSE)。保留原版权声明：`Copyright (c) 2026 AgentSeal`。书籍与封面等第三方材料的权利仍归相应权利人；仓库的 MIT 许可不表示这些原著与图片也被重新授予 MIT 许可。
 

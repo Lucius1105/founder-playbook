@@ -9,7 +9,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Lucius1105/founder-playbook.git",
-        "ref": "docs/chinese-readme-20261015"
+        "ref": "main"
       },
       "policy": {
         "installation": "AVAILABLE",
