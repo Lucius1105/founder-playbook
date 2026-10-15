@@ -1,256 +1,287 @@
 ---
 name: "100m-offers"
-description: Designs irresistible Grand Slam Offers using Alex Hormozi's value equation, obstacle-solution mapping, value-cost trim/stack, and offer-naming patterns. Use when fixing low conversion rates, packaging products, pricing services, designing high-converting offers, or when prospects browse but don't buy. Covers value stacking, guarantees, scarcity, urgency, and pricing psychology for validated markets.
+description: 运用 Alex Hormozi 的价值方程、障碍与方案映射、价值成本删减叠加法及命名模式，设计令人难以拒绝的大满贯销售方案。适用于改善低转化率、包装产品、为服务定价、设计高转化销售方案，或解决潜在客户只看不买的问题。涵盖已验证市场中的价值叠加、保障、稀缺性、紧迫感和定价心理。
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/100m-offers/SKILL.md)。原项目整理：AgentSeal；书籍来源：《$100M Offers》— Alex Hormozi；AI辅助翻译。
 
+> **说明：**本技能是独立分析与评论，并非原书的复制品。它结合现代创业实践梳理书中核心思想，指出框架中过时或不完整的部分，并融入相邻领域的观点。如需完整论证与背景，请阅读原书。
 
-# $100M Offers
+<a id="100m-offers"></a>
+# $100M Offers（亿级销售方案）
 
-> "Make offers so good people feel stupid saying NO" - Alex Hormozi
+> “把销售方案做到好得让人觉得拒绝它很傻。”——Alex Hormozi
 
-## The Core Insight
+<a id="the-core-insight"></a>
+## 核心洞见
 
-**"You don't have a sales problem or a marketing problem. You have an offer problem."**
+**“你的问题不在销售，也不在营销，而在你提供的销售方案。”**
 
-If qualified leads aren't buying, it's not your traffic - it's what you're offering them.
+如果合格的潜在客户不购买，问题就不在流量，而在你提供给他们的东西。
 
-## Decision Tree
+<a id="decision-tree"></a>
+## 决策树
 
-```
-Are you getting qualified leads?
-├─ NO → Use 100m-leads
-└─ YES → Are leads converting?
-         ├─ NO → You have an offer problem (this skill)
-         └─ YES → Are you charging premium?
-                  ├─ NO → Stack value, raise prices
-                  └─ YES → Scale ad spend
-```
-
-```
-Building an offer?
-├─ Pre-validation → Use mom-test FIRST
-├─ Validated market → Use this skill
-├─ Pricing question only → See monetizing-innovation
-└─ Positioning unclear → See obviously-awesome
+```text
+能获得合格的潜在客户吗？
+├─ 不能 → 使用 100m-leads
+└─ 能 → 这些客户会成交吗？
+         ├─ 不会 → 你的销售方案有问题（本技能）
+         └─ 会 → 你收取高价吗？
+                  ├─ 不 → 叠加价值，提高价格
+                  └─ 是 → 扩大广告投入
 ```
 
-## Step 0: Pick a Starving Crowd
+```text
+正在设计销售方案？
+├─ 尚未验证 → 先使用 mom-test
+├─ 市场已经验证 → 使用本技能
+├─ 只有定价问题 → 参见 monetizing-innovation
+└─ 定位不清 → 参见 obviously-awesome
+```
 
-Before any offer work: a great offer in a dead market fails. A mediocre offer in a ravenous market can still win.
+<a id="step-0-pick-a-starving-crowd"></a>
+## 第 0 步：选择一群迫切需要的人
 
-**The core principle:** You want a market that is already hungry - people actively searching for a solution and willing to pay for it. Market selection is the multiplier on everything that follows.
+设计任何销售方案前，先记住：在没有需求的市场里，再好的方案也会失败；在需求旺盛的市场里，平庸的方案也可能成功。
 
-**3 criteria to test any market:**
+**核心原则：**选择已经饥渴的市场——人们正在主动寻找方案，也愿意付费。市场选择是后续一切工作的乘数。
 
-| Criterion | Question to ask | Red flag |
+**检验市场的三个标准：**
+
+| 标准 | 要问的问题 | 危险信号 |
 |-----------|-----------------|----------|
-| **Pain** | Do they have an urgent, specific problem? | Vague dissatisfaction, not a burning need |
-| **Purchasing power** | Can they actually pay for a solution? | Market with desire but no budget |
-| **Targetability** | Can you reach them efficiently? | Audience that is scattered or hard to identify |
+| **痛苦** | 他们是否有紧迫、具体的问题？ | 只有模糊不满，没有迫切需求 |
+| **购买力** | 他们实际付得起解决方案吗？ | 有愿望，却没有预算 |
+| **可触达性** | 能否高效接触他们？ | 人群分散，或难以识别 |
 
-All three must be true. Two out of three is not enough.
+三项必须全部成立，只有两项不够。
 
-**How to pick:**
-1. List markets where you have access or credibility.
-2. Run each through the 3-criteria test above.
-3. Pick the one with the highest pain score and a clear place to find them.
+**如何选择：**
 
-A growing market also covers execution mistakes. A shrinking market punishes even excellent offers.
+1. 列出你能接触到、或已经具备信誉的市场。
+2. 用上述三个标准逐一检验。
+3. 选择痛苦程度最高、且明确知道去哪里找人的市场。
 
-**Rule:** Niche selection is a prerequisite, not a step inside offer-building. Don't start the value equation until you know exactly who you are selling to and why they are desperate to buy.
+增长中的市场也能弥补执行错误；萎缩中的市场甚至会惩罚优秀方案。
 
-## The Value Equation
+**规则：**选择细分市场是前提，不是设计销售方案内部的一步。在确切知道卖给谁、以及对方为什么迫切想买之前，不要开始套价值方程。
 
+<a id="the-value-equation"></a>
+## 价值方程
+
+```text
+                 理想结果 × 感知到的成功可能性
+   价值  =  ──────────────────────────────
+                       时间延迟 × 努力与牺牲
 ```
-              Dream Outcome × Perceived Likelihood
-   Value  =  ─────────────────────────────────────
-                  Time Delay × Effort & Sacrifice
-```
 
-Four levers. Pull any of them; both directions work.
+共有四个杠杆。任选一个调整，上调分子或下调分母都有效。
 
-| Lever | Direction | How |
+| 杠杆 | 方向 | 做法 |
 |-------|-----------|-----|
-| Dream Outcome | ↑ Bigger | Make the outcome more compelling, specific, emotional |
-| Perceived Likelihood | ↑ Higher | Add proof, guarantees, testimonials, credentials |
-| Time Delay | ↓ Faster | Show results sooner, deliver quicker |
-| Effort & Sacrifice | ↓ Easier | Remove steps, do it for them, automate |
+| 理想结果 | ↑ 更大 | 让结果更有吸引力、更具体、更能激发情绪 |
+| 感知到的成功可能性 | ↑ 更高 | 增加证据、保障、客户证言、资历证明 |
+| 时间延迟 | ↓ 更快 | 更早看到成果，更快交付 |
+| 努力与牺牲 | ↓ 更轻松 | 减少步骤，替客户完成，自动化 |
 
-**Rule:** If you can't increase the top, decrease the bottom.
+**规则：**如果无法增加分子，就减小分母。
 
-## What Makes a Grand Slam Offer
+<a id="what-makes-a-grand-slam-offer"></a>
+## 大满贯销售方案由什么构成
 
-A Grand Slam Offer is **incomparable to competitors** because it combines:
+大满贯销售方案组合了以下要素，因此**无法与竞争对手直接比较**：
 
-1. **Attractive promotion** - The hook
-2. **Unmatchable value proposition** - The stack
-3. **Premium price** - Price implies value
-4. **Unbeatable guarantee** - Removes risk
+1. **有吸引力的推广**：吸引注意的切入点。
+2. **无法匹敌的价值主张**：价值叠加。
+3. **高价**：价格暗示价值。
+4. **难以超越的保障**：消除风险。
 
-If anyone can compare your offer to a competitor's, you don't have a Grand Slam Offer yet.
+如果别人还能把你的方案与竞品直接比较，你就还没有形成大满贯销售方案。
 
-## The 6-Step Process
+<a id="the-6-step-process"></a>
+## 六步流程
 
-| Step | Action | Output |
+| 步骤 | 行动 | 产出 |
 |------|--------|--------|
-| 1 | Define dream outcome | Specific result + timeframe + emotional benefit |
-| 2 | List ALL obstacles | 15+ minimum, across 4 categories |
-| 3 | Reverse obstacles to "How to..." solutions | Solution statement per obstacle |
-| 4 | Design delivery vehicles | Format, frequency, intensity per solution |
-| 5 | Trim and stack (value-cost matrix) | 6-10 strong components |
-| 6 | Add enhancements | Guarantees, scarcity, urgency, bonuses |
+| 1 | 定义理想结果 | 具体成果＋时间范围＋情感收益 |
+| 2 | 列出所有障碍 | 至少 15 个，覆盖四个类别 |
+| 3 | 将障碍反转成“如何……”的方案 | 每个障碍对应一个方案陈述 |
+| 4 | 设计交付方式 | 每个方案的形式、频次、强度 |
+| 5 | 删减与叠加（价值成本矩阵） | 6—10 个有力的组成部分 |
+| 6 | 增加增强要素 | 保障、稀缺性、紧迫感、赠品 |
 
-Detail in **[frameworks.md](frameworks.md)**.
+详见 **[frameworks.md](frameworks.md)**。
 
-### Step 1: Dream Outcome Format
+<a id="step-1-dream-outcome-format"></a>
+### 第 1 步：理想结果的表达格式
 
-`[Specific result] in [timeframe] so that [emotional benefit/status change]`
+`在[时间范围]内获得[具体成果]，从而[情感收益／身份变化]。`
 
-| Bad | Good |
+| 不好的表达 | 好的表达 |
 |-----|------|
-| Lose weight | Lose 20 lbs in 8 weeks so you can wear that dress at your reunion |
-| Make more money | Add $30K/mo in 90 days so you can quit your day job |
-| Get more leads | Book 10 sales calls per week without cold calling |
+| 减肥 | 八周减掉 20 磅，让你能穿着那条裙子参加同学聚会 |
+| 多赚钱 | 90 天内每月多赚 30,000 美元，让你能够辞掉日常工作 |
+| 获取更多线索 | 不用陌生电话，每周约到十次销售会谈 |
 
-### Step 2: 4 Obstacle Categories
+<a id="step-2-4-obstacle-categories"></a>
+### 第 2 步：四类障碍
 
-| Category | What It Blocks | Example |
+| 类别 | 阻碍什么 | 示例 |
 |----------|----------------|---------|
-| **Knowledge Gaps** | What they don't KNOW | "I don't know what to eat" |
-| **Skill Deficiencies** | What they can't DO | "I can't cook healthy meals" |
-| **Environmental Barriers** | External factors | "My family won't eat this food" |
-| **Psychological Blocks** | Mindset issues | "I always quit after 2 weeks" |
+| **知识缺口** | 不知道什么 | “我不知道该吃什么。” |
+| **技能不足** | 不会做什么 | “我不会做健康餐。” |
+| **环境障碍** | 外部因素 | “家人不愿吃这些食物。” |
+| **心理阻碍** | 心态问题 | “我总是坚持两周就放弃。” |
 
-Hormozi's wording for environmental is "External" - same concept.
+Hormozi 对环境障碍使用的词是“External（外部）”，概念相同。
 
-### Step 5: Value-Cost Decision Matrix
+<a id="step-5-value-cost-decision-matrix"></a>
+### 第 5 步：价值成本决策矩阵
 
-Score each component on Value to customer (1-10) and Cost to deliver (1-10). High-value, low-cost components stay in the core offer; mid-value components move to bonuses; low-value or high-cost components get cut. Target 6-10 strong components total.
+按客户获得的价值（1—10 分）与交付成本（1—10 分）为每个组成部分打分。高价值、低成本的内容保留为核心方案；中等价值的内容转为赠品；低价值或高成本的内容删掉。目标是总共保留 6—10 个有力的组成部分。
 
-Full value-cost matrix and scoring: see [frameworks.md](frameworks.md#step-5-trim--stack-value-cost-matrix).
+完整矩阵及评分方法，参见 [frameworks.md](frameworks.md#step-5-trim--stack-value-cost-matrix)。
 
-## The Stacking Principle
+<a id="the-stacking-principle"></a>
+## 叠加原则
 
-> "A single offer is less valuable than the same offer broken into its component parts and stacked as bonuses."
+> “同一个销售方案，拆成若干组成部分并作为赠品叠加呈现，会比作为单一方案呈现更有价值。”
 
-### Bad Presentation
-"$2,000 weight loss program"
+<a id="bad-presentation"></a>
+### 不好的呈现
 
-### Good Presentation
-- Personal nutrition orientation ($500 value)
-- Recorded grocery store tour ($200 value)
-- Weekly meal plans ($600 value)
-- Accountability buddy system ($400 value)
-- Restaurant eating system ($300 value)
-- Travel workout plans ($250 value)
-- 20-pound guarantee (PRICELESS)
-- **Total Value: $2,250+**
-- **Your Investment: $599**
+“2,000 美元的减重计划。”
 
-Same product. Substantially higher perceived value.
+<a id="good-presentation"></a>
+### 好的呈现
 
-## Pricing Psychology
+- 个性化营养入门指导（价值 500 美元）。
+- 录制好的超市选购导览（价值 200 美元）。
+- 每周膳食计划（价值 600 美元）。
+- 伙伴监督系统（价值 400 美元）。
+- 外出就餐系统（价值 300 美元）。
+- 旅行健身计划（价值 250 美元）。
+- 减重 20 磅保障（无价）。
+- **总价值：2,250 美元以上。**
+- **你的投入：599 美元。**
 
-### Charge More, Not Less
+产品相同，感知价值却大幅提高。
 
-| High Price | Low Price |
+<a id="pricing-psychology"></a>
+## 定价心理
+
+<a id="charge-more-not-less"></a>
+### 收得更多，而不是更少
+
+| 高价 | 低价 |
 |------------|-----------|
-| Signals high value | Signals low value |
-| Forces you to deliver high value | Lets you cut corners |
-| Premium customers complain less | Cheap customers most demanding |
+| 传递高价值信号 | 传递低价值信号 |
+| 迫使你交付高价值 | 容易让你偷工减料 |
+| 高端客户抱怨较少 | 低价客户要求最多 |
 
-### Price Anchoring (Always Show Three Numbers)
+<a id="price-anchoring-always-show-three-numbers"></a>
+### 价格锚定（始终展示三个数字）
 
-1. **Total Value:** $X (sum of all components)
-2. **Your Investment:** $Y (the price)
-3. **You Save:** $Z = $X - $Y
+1. **总价值：**X 美元，各组成部分价值之和。
+2. **你的投入：**Y 美元，即实际价格。
+3. **节省金额：**Z 美元＝X－Y。
 
-The bigger the gap between value and investment, the more "no-brainer" the offer feels.
+价值与投入的差距越大，方案越让人觉得“不用想就该买”。
 
-### Value-to-Price Rule
+<a id="value-to-price-rule"></a>
+### 价值与价格的比例规则
 
-Hormozi's directional guidance is to make total stated value substantially higher than the price - he tends to use 10x or "incomparable" framings rather than a precise multiplier. Aim for stacked value that makes the price feel small in comparison. If your offer's stated value is only ~2x the price, it's not yet a Grand Slam Offer.
+Hormozi 的方向性建议是，让标示总价值远高于价格；他更常用“十倍”或“无法比较”的说法，而不是规定一个精确倍数。目标是让叠加后的价值显得足够大，相比之下价格很小。如果宣称价值只有价格的约两倍，它还称不上大满贯方案。
 
-## Critical Warning: Validate Market First
+<a id="critical-warning-validate-market-first"></a>
+## 关键提醒：先验证市场
 
-Hormozi's framework assumes you have product-market fit. The book doesn't tell you this.
+Hormozi 的框架默认你已经实现产品与市场匹配，但书里没有明确告诉你这一点。
 
-If you build a Grand Slam Offer for a market that doesn't want your thing, the offer will fail no matter how good.
+如果市场根本不想要你的东西，无论大满贯方案设计得多好，都会失败。
 
-**Before building the offer:**
-1. Have 5-10 customer interview transcripts (use mom-test)
-2. Validate dream outcome with actual customer language
-3. Confirm target market has budget
-4. Survey data with specific responses
+**设计方案之前：**
 
-**The framework is for VALIDATED markets.** If you're pre-validation, use mom-test first.
+1. 准备 5—10 份客户访谈记录（使用 mom-test）。
+2. 用客户真实语言验证理想结果。
+3. 确认目标市场有预算。
+4. 收集包含具体回答的调查数据。
 
-## Common Mistakes
+**这个框架用于已经验证的市场。**尚未验证时，请先使用 mom-test。
 
-| Mistake | Fix |
+<a id="common-mistakes"></a>
+## 常见错误
+
+| 错误 | 修正方法 |
 |---------|-----|
-| Vague solutions ("Coaching") | Specific delivery ("Weekly 30-min strategy calls + custom action plans") |
-| Including everything | Trim aggressively. 6-10 strong > 20 mediocre |
-| Building on assumptions | Use mom-test customer language |
-| Underpricing | If incomparable, premium is mandatory |
-| Generic names | Specific transformation names sell |
+| 方案含糊，例如“教练服务” | 具体交付，例如“每周 30 分钟策略会谈＋定制行动计划” |
+| 什么都放进去 | 大胆删减，6—10 个强项优于 20 个平庸项 |
+| 建立在假设上 | 使用 mom-test 获得的客户语言 |
+| 定价过低 | 既然无法比较，就必须收取高价 |
+| 名字泛泛 | 描述具体转变的名称才有销售力 |
 
-## Success Signals
+<a id="success-signals"></a>
+## 成功信号
 
-You have a Grand Slam Offer when:
+出现以下情况，说明你形成了大满贯方案：
 
-1. **Prospects stop comparing you to competitors** (you're incomparable)
-2. **Conversion rates improve materially** (Hormozi typically reports 2-3x lift; specific numbers vary by business)
-3. **You can raise prices and customers still say yes**
-4. **People feel stupid saying no**
+1. **潜在客户不再拿你与竞争对手比较**，因为无法直接比较。
+2. **转化率显著提高**，Hormozi 通常报告提高 2—3 倍，具体数字因业务而异。
+3. **提高价格后，客户仍愿意购买。**
+4. **人们觉得拒绝很傻。**
 
-## Rules of Thumb
+<a id="rules-of-thumb"></a>
+## 经验法则
 
-1. **Solve every obstacle.** Not most. Every. One.
-2. **Premium price = premium product.** People judge value by price.
-3. **Trim ruthlessly.** Cut anything below 8/10 value.
-4. **Stack, don't simplify.** Break the offer into named components.
-5. **Validate market first.** Don't build for a fantasy.
-6. **Names sell.** Generic = invisible. Specific = irresistible.
-7. **Guarantees remove risk.** Bigger guarantee = bigger price you can charge.
-8. **Show the math.** Total value, price, savings. Always.
+1. **解决每一个障碍。**不是大部分，是每一个。
+2. **高价＝高端产品。**人们通过价格判断价值。
+3. **果断删减。**删掉价值低于 8／10 分的内容。
+4. **叠加，不要简化。**把方案拆成有名称的组成部分。
+5. **先验证市场。**不要为幻想中的市场开发。
+6. **名字能卖货。**泛泛就看不见，具体才难拒绝。
+7. **保障消除风险。**保障越大，能够收取的价格越高。
+8. **展示计算。**总价值、价格、节省金额，永远都要有。
 
-## When This Doesn't Apply
+<a id="when-this-doesnt-apply"></a>
+## 不适用的情况
 
-| Context | Why |
+| 情境 | 原因 |
 |---------|-----|
-| **Pre-validation** | Get product-market fit first (use mom-test) |
-| **Commodity products** | Hard to differentiate sugar or coffee beans |
-| **Low-ticket impulse buys** | Below ~$50, simpler offers work better |
-| **Regulated industries** | Compliance may limit stacking and guarantees |
-| **Pure SaaS subscriptions** | Stacking applies less; focus on outcomes per seat |
+| **尚未验证** | 先实现产品与市场匹配，使用 mom-test |
+| **标准化商品** | 糖或咖啡豆很难差异化 |
+| **低客单价冲动消费** | 约 50 美元以下，更简单的方案通常更有效 |
+| **受监管行业** | 合规要求可能限制叠加和保障 |
+| **纯 SaaS 订阅** | 叠加法适用程度较低，应聚焦每个席位产生的成果 |
 
-## The Order
+<a id="the-order"></a>
+## 使用顺序
 
-1. Find dream outcome (in their words from mom-test interviews)
-2. List 15+ obstacles (4 categories)
-3. Reverse each into "How to..." solution
-4. Design delivery for each
-5. Score value vs cost
-6. Trim and stack
-7. Name with offer-naming formula
-8. Add guarantees / scarcity / urgency
-9. Present with value-price-savings math
+1. 找到理想结果，采用 mom-test 访谈中的客户原话。
+2. 列出至少 15 个障碍，覆盖四类。
+3. 将每个障碍反转成“如何……”的方案。
+4. 为每个方案设计交付方式。
+5. 对价值与成本评分。
+6. 删减与叠加。
+7. 用销售方案命名公式取名。
+8. 加上保障、稀缺性和紧迫感。
+9. 展示价值、价格与节省金额的计算。
 
-## The Test
+<a id="the-test"></a>
+## 检验标准
 
-When prospects see your offer, they should feel:
-- "This solves every problem I have"
-- "There's no way this is only $X"
-- "I'd be stupid to say no"
+潜在客户看到方案时，应当感觉：
 
-If they don't, the offer needs more work.
+- “这解决了我的所有问题。”
+- “不可能只卖 X 美元吧？”
+- “拒绝就太傻了。”
 
-## Supporting Files
+如果没有这些感觉，方案还需要继续打磨。
 
-- **[frameworks.md](frameworks.md)** - Detailed step-by-step processes, delivery vehicle dimensions, naming formula (MAGIC), enhancements (guarantees, scarcity, urgency, bonuses)
-- **[cases.md](cases.md)** - Hormozi's gym case study with verification notes, before/after examples
-- **[examples.md](examples.md)** - Bundle naming patterns, one-page offer template, real offer examples
-- **[integration.md](integration.md)** - How offers connect to mom-test (input) and 100m-leads (output); conflicts with monetizing-innovation pricing approaches and how the offer feeds money-models (offer sequencing)
+<a id="supporting-files"></a>
+## 配套文件
+
+- **[frameworks.md](frameworks.md)**：详细步骤、交付方式的维度、MAGIC 命名公式，以及保障、稀缺性、紧迫感、赠品等增强要素。
+- **[cases.md](cases.md)**：Hormozi 的健身房案例及核验说明、调整前后对比。
+- **[examples.md](examples.md)**：组合方案命名模式、一页式方案模板、真实销售方案示例。
+- **[integration.md](integration.md)**：销售方案如何连接 mom-test（输入）与 100m-leads（输出）；与 monetizing-innovation 定价方法的冲突；以及如何为 money-models 的销售顺序设计提供输入。

@@ -1,203 +1,205 @@
-# Cases - StoryBrand
+> 中文译文｜[英文对照](cases.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/storybrand/cases.md)。原项目整理：AgentSeal；书籍来源：《Building a StoryBrand》— Donald Miller；AI 辅助翻译。
 
-## Fitzii - 118% Revenue Increase from BrandScript
+# 案例——StoryBrand
 
-**Setup:** HR tech company offering hiring solutions. Had a functional product but confusing messaging. Prospects didn't understand the offering quickly enough.
+## Fitzii——BrandScript 带来 118% 的收入增长
 
-**Before StoryBrand:**
-- Website led with company history and product features
-- Multiple CTAs competing for attention
-- No clear villain or problem statement
-- Tagline was internally meaningful but externally confusing
+**背景：**提供招聘解决方案的人力资源科技公司。产品能用，但表达混乱，潜在客户无法足够快地理解它提供什么。
 
-**StoryBrand application:**
-- Identified customer desire: hire the right people without the pain of a broken process
-- Named the villain: bad hiring decisions that cost time and money
-- Repositioned from "HR tool" to "guide that makes hiring easy"
-- Simplified website to the 5-element framework
-- Created clear process plan: 3 steps
+**使用 StoryBrand 前：**
+- 网站先讲公司历史与产品功能。
+- 多个行动号召争夺注意力。
+- 没有明确的反派，也没有清晰的问题陈述。
+- 标语内部人觉得有意义，外部人却看不懂。
 
-**Results:**
-- 118% increase in revenue
-- Dramatic improvement in website conversion
-- Sales conversations shortened because prospects arrived pre-educated
+**StoryBrand 的应用：**
+- 明确客户愿望：不再忍受糟糕流程，顺利招到合适的人。
+- 界定反派：浪费时间与金钱的错误招聘决策。
+- 从“人力资源工具”重新定位为“让招聘变简单的向导”。
+- 按五元素框架简化网站。
+- 制定清晰的三步流程计划。
 
-**Key lesson:** The product didn't change. The pricing didn't change. Only the messaging changed. When customers can understand your offer in seconds instead of minutes, everything downstream improves.
+**结果：**
+- 收入增长 118%。
+- 网站转化显著改善。
+- 潜在客户来访前已理解产品，销售对话因此缩短。
 
----
-
-## Reed's Dairy - $3K Email to $52K Revenue
-
-**Setup:** Small family dairy in Idaho. Limited marketing budget, traditional customer base. Needed to increase revenue without major capital investment.
-
-**StoryBrand application:**
-- Created a BrandScript positioning the customer as someone who cares about family health and local food
-- Built a simple email campaign using the nurture + sales sequence
-- Email addressed the internal problem: "You want to feel good about what your family eats"
-- Single email campaign with clear CTA
-
-**Results:**
-- One email campaign generated $52,000 in revenue
-- Cost to create and send: approximately $3,000
-- ROI: ~17x
-
-**Key lesson:** You don't need a massive marketing budget. A single, well-crafted message that follows the SB7 structure can generate outsized returns. The email worked because it spoke to the customer's internal problem (feeling good about family food), not just the external product (dairy delivery).
+**核心启示：**产品和价格都没变，变化的只有表达。客户用几秒而不是几分钟就能理解价值时，之后的每个环节都会改善。
 
 ---
 
-## Kyle Shultz (Financial Advisor) - $25K to $103K Monthly Revenue
+## Reed's Dairy——3,000 美元邮件活动带来 52,000 美元收入
 
-**Setup:** Independent financial advisor. Revenue had plateaued at approximately $25,000/month despite being competent and experienced.
+**背景：**爱达荷州的小型家庭乳品企业。营销预算有限，客户群传统，需要在不大量追加资本投入的情况下增收。
 
-**StoryBrand application:**
-- Rewrote all client-facing messaging using BrandScript
-- Website redesigned around the 5-second test (offer above fold, obvious CTA, images of success)
-- Positioned himself as the guide: "We understand the anxiety of planning for retirement"
-- Created a process plan: "Step 1: Schedule a call. Step 2: We build your custom plan. Step 3: Retire with confidence."
-- Built a lead generator (free retirement readiness assessment)
-- Implemented email nurture campaign
+**StoryBrand 的应用：**
+- 建立 BrandScript，把客户描述为关心家庭健康和本地食品的人。
+- 用“培育 + 销售”序列建立简单邮件活动。
+- 邮件回应内在问题：“你希望对家人吃的东西感到安心。”
+- 一次邮件活动，配上清晰的行动号召。
 
-**Results:**
-- Revenue grew from $25K/month to $103K/month
-- More than 4x increase
-- Client quality improved (better-fit prospects self-selected)
+**结果：**
+- 一次邮件活动创造 52,000 美元收入。
+- 制作和发送成本约为 3,000 美元。
+- 投资回报约 17 倍。
 
-**Key lesson:** Financial services are particularly prone to the "confusing expert" trap. Advisors lead with credentials and jargon. The SB7 reframe - putting the client's anxiety first and positioning as a guide - cut through the noise.
+**核心启示：**无需庞大的营销预算。一条按 SB7 结构精心设计的信息，就可能带来超额回报。这封邮件奏效，是因为它回应了客户的内在问题——对家庭饮食安心——而不只是谈外在产品，即乳品配送。
 
 ---
 
-## Jenny Shih (Business Coach) - $6-9K to $40K Monthly Revenue
+## Kyle Shultz（理财顾问）——月收入从 25,000 美元到 103,000 美元
 
-**Setup:** Online business coach helping entrepreneurs grow. Revenue fluctuated between $6,000 and $9,000 per month. Struggled to differentiate from thousands of other business coaches.
+**背景：**独立理财顾问，能力与经验都不错，但月收入停留在约 25,000 美元。
 
-**StoryBrand application:**
-- Clarified the one desire: entrepreneurs want confidence that their business will work
-- Named the villain: the overwhelm of conflicting advice
-- Internal problem: "I feel like I'm guessing and it's exhausting"
-- Created a clear plan with named steps
-- Redesigned website and email sequences
+**StoryBrand 的应用：**
+- 用 BrandScript 重写所有面向客户的表达。
+- 按五秒测试重做网站：首屏说明价值、明显行动号召、成功状态图片。
+- 把自己定位为向导：“我们理解规划退休时的焦虑。”
+- 制定流程计划：“第一步，预约通话；第二步，我们为你定制规划；第三步，自信退休。”
+- 制作引流资料：免费的退休准备度评估。
+- 实施邮件培育活动。
 
-**Results:**
-- Revenue stabilized at $40K/month
-- More consistent revenue (less feast-or-famine)
-- Attracted higher-quality clients who resonated with the messaging
+**结果：**
+- 月收入从 25,000 美元增至 103,000 美元。
+- 达到原来的四倍以上。
+- 客户质量提高，更匹配的潜在客户会自行选择进入。
 
-**Key lesson:** In crowded markets (coaching, consulting), everyone sounds the same. StoryBrand differentiates by being specific about the internal problem. "We help entrepreneurs" is generic. "We help entrepreneurs who are exhausted from guessing what to do next" is specific and emotionally resonant.
-
----
-
-## Mavuno Church - Tripled Annual Revenue in Q4
-
-**Setup:** Church in Nairobi, Kenya. Had a growing congregation but giving was lagging behind growth. End-of-year giving campaign needed a new approach.
-
-**StoryBrand application:**
-- Applied SB7 to the church's year-end giving campaign
-- Positioned donors as heroes on a mission (not the church as the hero needing money)
-- Named what donors wanted: to make a tangible difference in their community
-- Named the villain: problems in the community that persist without action
-- Created a clear plan: "Give here, we do this, community transforms"
-- Painted specific success pictures (not vague "supporting ministry")
-
-**Results:**
-- Tripled annual revenue in Q4 alone
-- Congregation giving increased dramatically
-- Year-over-year giving growth continued
-
-**Key lesson:** Even nonprofits benefit from making the donor the hero. The traditional approach ("Our church needs your money") makes the organization the hero. The StoryBrand approach ("You can be the one who changes this community") makes the donor the hero. People give more when they see themselves in the story.
+**核心启示：**金融服务尤其容易掉入“让人困惑的专家”陷阱：顾问先谈资历和术语。SB7 将客户焦虑放在前面，并把顾问定位为向导，从而穿透噪声。
 
 ---
 
-## Marie Mae Company - 20x Revenue Growth
+## Jenny Shih（商业教练）——月收入从 6,000—9,000 美元到 40,000 美元
 
-**Setup:** Retail/e-commerce company. Had a product line but was struggling to grow beyond early customers.
+**背景：**帮助创业者成长的线上商业教练。月收入在 6,000—9,000 美元之间波动，难以与成千上万其他商业教练区分。
 
-**StoryBrand application:**
-- Complete BrandScript implementation across all channels
-- Website redesign, email sequences, social media messaging
-- All messaging unified around a single customer story
+**StoryBrand 的应用：**
+- 明确唯一愿望：创业者希望相信自己的生意能做成。
+- 定义反派：互相矛盾的建议让人不堪重负。
+- 内在问题：“我觉得自己一直在猜，累极了。”
+- 制定清晰计划，为步骤命名。
+- 重做网站与邮件序列。
 
-**Results:**
-- 20x revenue growth
-- Brand became recognizable in their category
+**结果：**
+- 月收入稳定在 40,000 美元。
+- 收入更稳定，不再时好时坏。
+- 吸引了与表达产生共鸣的更优质客户。
 
-**Key lesson:** The multiplier effect of unified messaging. When website, email, social, and sales conversations all tell the same story with the same structure, every channel reinforces the others.
-
----
-
-## Tidal (Failure Case) - What Happens Without a Clear Guide
-
-**Setup:** Jay-Z's music streaming service launched in 2015 with a press conference featuring some of the biggest names in music: Beyoncé, Rihanna, Kanye West, Madonna, Nicki Minaj, and more.
-
-**What went wrong (StoryBrand analysis):**
-- The launch positioned ARTISTS as the heroes, not listeners
-- The press conference was about artist ownership and artist compensation
-- The customer's desire was never articulated (what does Tidal do for ME?)
-- No villain was named from the customer's perspective
-- No empathy shown for what music listeners actually struggle with
-- The "guide" qualities were missing: no empathy, authority was "we're famous" (arrogance, not guidance)
-- No plan, no clear CTA, no success picture for the listener
-
-**The brand-as-hero problem in action:**
-- Customers saw millionaire musicians asking for more money
-- No story gap was opened for the listener
-- The internal problem of music listeners was never addressed
-
-**Result:** Tidal struggled to gain market share against Spotify and Apple Music despite massive star power.
-
-**Key lesson:** Fame and budget cannot overcome bad positioning. When you make yourself the hero (even if "yourself" includes Beyoncé), customers don't see themselves in the story. Spotify won because it positioned the listener as the hero: "Music for everyone."
+**核心启示：**在教练、咨询等拥挤市场，大家听起来都一样。StoryBrand 通过具体描述内在问题形成区分。“我们帮助创业者”很泛；“我们帮助那些因不断猜测下一步该做什么而疲惫的创业者”，则具体且能触动情感。
 
 ---
 
-## CarMax - Guide Positioning in Car Sales
+## Mavuno Church——第四季度使全年收入达到三倍
 
-**Setup:** Used car retail chain operating in an industry notorious for distrust.
+**背景：**肯尼亚内罗毕的一家教会。会众人数增长，但捐赠落后于增长，年底捐赠活动需要新方法。
 
-**StoryBrand analysis:**
-- **Villain:** The sleazy car dealer experience (haggling, hidden fees, pressure tactics)
-- **Internal problem:** "I feel anxious and distrustful every time I walk onto a car lot"
-- **Guide positioning:** "We understand car buying shouldn't be stressful"
-- **Plan:** No-haggle pricing, transparent process, money-back guarantee (agreement plan)
-- **Success:** A car buying experience you actually enjoy
+**StoryBrand 的应用：**
+- 将 SB7 用于年底捐赠活动。
+- 把捐赠者设为肩负使命的英雄，而不是把教会设为需要钱的英雄。
+- 明确捐赠者所求：对社区作出看得见的改变。
+- 定义反派：如果不行动，社区问题会持续存在。
+- 制定清晰计划：“你在这里捐赠，我们开展这些工作，社区因此改变。”
+- 描绘具体成功图景，不泛泛说“支持事工”。
 
-**Key lesson:** In industries with strong villains (car sales, contractors, lawyers), naming the villain explicitly and positioning as the opposite is powerful. CarMax didn't just sell cars; they sold relief from the car-buying villain.
+**结果：**
+- 仅第四季度就使全年收入达到三倍。
+- 会众捐赠显著增加。
+- 捐赠的同比增长持续。
 
----
-
-## Starbucks - The Third Place
-
-**StoryBrand analysis:**
-- **Customer desire:** A place that's not home and not work (the "third place")
-- **Internal problem:** "I need a space where I can just be"
-- **Guide:** Warm baristas, personalized drinks, consistent environment
-- **Success:** A daily ritual of comfort and belonging
-
-Starbucks doesn't sell coffee. They sell the feeling of having a personal oasis. This is classic identity transformation: from "exhausted person rushing through life" to "someone who takes time for themselves."
+**核心启示：**非营利组织也能从“让捐赠者成为英雄”中获益。传统表达“我们的教会需要你的钱”，让组织成为英雄；StoryBrand 表达“你可以成为改变社区的人”，让捐赠者成为英雄。人们看见自己在故事中，就会捐得更多。
 
 ---
 
-## Apple - The Anti-Hero Brand
+## Marie Mae Company——收入增长至 20 倍
 
-**StoryBrand analysis:**
-- **Customer desire:** Create, express, be different
-- **Villain:** Complexity, conformity, "the man" (IBM in the 1984 ad)
-- **Internal problem:** "Technology makes me feel stupid"
-- **Guide positioning:** Empathy ("We know technology should be simple") + Authority (design excellence, innovation track record)
-- **Identity transformation:** From "confused user" to "creative professional"
+**背景：**一家零售／电商公司，已有产品线，却难以突破早期客户群继续增长。
 
-**Key lesson:** Apple is the most successful application of the "customer as hero" principle in business history. Every product launch, every ad, every store is designed around making the CUSTOMER feel heroic, creative, and different.
+**StoryBrand 的应用：**
+- 在所有渠道完整实施 BrandScript。
+- 改造网站、邮件序列、社交媒体表达。
+- 所有信息统一围绕同一个客户故事。
+
+**结果：**
+- 收入增长至 20 倍。
+- 品牌在所属品类中形成辨识度。
+
+**核心启示：**统一表达有乘数效应。网站、邮件、社交媒体和销售对话，以相同结构讲同一个故事时，每个渠道都会强化其他渠道。
 
 ---
 
-## Dave Ramsey - Financial Peace
+## Tidal（失败案例）——缺少清晰向导会怎样
 
-**StoryBrand analysis (his entire business model follows SB7):**
-- **Character:** Person drowning in debt
-- **Problem:** Villain = debt culture and financial ignorance. External = too much debt. Internal = shame and anxiety. Philosophical = "People shouldn't have to live paycheck to paycheck."
-- **Guide:** Dave (empathy: "I went bankrupt myself" + authority: "I've helped millions")
-- **Plan:** "7 Baby Steps" (a named, numbered process plan)
-- **CTA:** "Start Financial Peace University"
-- **Failure:** "If you don't act, you'll be in this same place next year"
-- **Success:** "Debt-free!" (the debt-free scream on his show)
-- **Transformation:** From "drowning in debt" to "financially at peace"
+**背景：**Jay-Z 的音乐流媒体服务于 2015 年发布，新闻发布会聚集了 Beyoncé、Rihanna、Kanye West、Madonna、Nicki Minaj 等乐坛巨星。
 
-**Key lesson:** Ramsey's entire empire is a BrandScript in action. The "7 Baby Steps" is a textbook process plan. The debt-free scream is a textbook transformation testimonial. Every element reinforces the same story.
+**问题出在哪里（StoryBrand 分析）：**
+- 发布把音乐人设为英雄，而非听众。
+- 发布会讨论的是音乐人的所有权与收入。
+- 从未讲清客户愿望：Tidal 对我有什么好处？
+- 没有从客户视角定义反派。
+- 没有对音乐听众真正面临的困难表现出共情。
+- 缺乏向导品质：没有共情；权威仅是“我们很有名”，体现的是傲慢而非引导。
+- 没有计划，没有清晰行动号召，没有听众的成功图景。
+
+**品牌当英雄的实际后果：**
+- 客户看见的是百万富翁音乐人要求更多钱。
+- 没有为听众打开故事缺口。
+- 音乐听众的内在问题从未被回应。
+
+**结果：**尽管明星阵容强大，Tidal 仍难以从 Spotify 和 Apple Music 手中争取市场份额。
+
+**核心启示：**名气和预算无法弥补糟糕定位。把自己设为英雄，即便“自己”包括 Beyoncé，客户仍无法在故事中看见自己。Spotify 赢在把听众设为英雄：“人人都能享受音乐。”
+
+---
+
+## CarMax——汽车销售中的向导定位
+
+**背景：**二手车零售连锁，所在行业因缺乏信任而臭名昭著。
+
+**StoryBrand 分析：**
+- **反派：**糟糕的汽车销售体验，包括讨价还价、隐藏收费和施压技巧。
+- **内在问题：**“每次走进车行，我都焦虑且不信任他们。”
+- **向导定位：**“我们理解，买车不该让人紧张。”
+- **计划：**无需议价、流程透明、退款保证，即承诺计划。
+- **成功：**你真正享受的一次买车体验。
+
+**核心启示：**汽车销售、装修承包、法律服务等行业存在鲜明的反派，直接点名它，并把自己定位在相反一边，很有力量。CarMax 不只是卖车，还出售摆脱买车困扰的轻松感。
+
+---
+
+## Starbucks——第三空间
+
+**StoryBrand 分析：**
+- **客户愿望：**一个既非家、也非工作场所的地方，即“第三空间”。
+- **内在问题：**“我需要一处可以自在待着的空间。”
+- **向导：**温暖的咖啡师、个性化饮品、一致的环境。
+- **成功：**每天获得舒适与归属感的仪式。
+
+Starbucks 出售的不只是咖啡，而是拥有个人绿洲的感觉。这是典型身份转变：从“匆忙生活的疲惫者”，到“愿意为自己留时间的人”。
+
+---
+
+## Apple——反英雄式品牌
+
+**StoryBrand 分析：**
+- **客户愿望：**创造、表达、与众不同。
+- **反派：**复杂、从众、体制权威；1984 年广告中是 IBM。
+- **内在问题：**“技术让我觉得自己很笨。”
+- **向导定位：**共情：“我们知道技术应该简单”；权威：卓越设计与创新记录。
+- **身份转变：**从“困惑的用户”到“创意专业人士”。
+
+**核心启示：**Apple 是商业史上“客户是英雄”原则最成功的应用。每次产品发布、每支广告、每家门店，都围绕让客户感到自己有英雄气质、有创造力、与众不同来设计。
+
+---
+
+## Dave Ramsey——财务安宁
+
+**StoryBrand 分析：其整个商业模式遵循 SB7。**
+- **角色：**深陷债务的人。
+- **问题：**反派是债务文化与财务无知；外在问题是债务过多；内在问题是羞耻和焦虑；理念问题是“人不该只能靠每月工资勉强维生”。
+- **向导：**Dave。共情：“我自己也破产过”；权威：“我已帮助数百万人。”
+- **计划：**“7 Baby Steps”（七个小步骤），一个有名称、有编号的流程计划。
+- **行动号召：**“开始 Financial Peace University（财务安宁大学）课程。”
+- **失败：**“如果不行动，明年你还会困在原地。”
+- **成功：**“无债一身轻！”即节目里的“无债欢呼”。
+- **转变：**从“深陷债务”到“财务安宁”。
+
+**核心启示：**Ramsey 的整个商业版图，就是运转中的 BrandScript。“七个小步骤”是典型流程计划，“无债欢呼”是典型转变证言。每个元素都强化同一个故事。

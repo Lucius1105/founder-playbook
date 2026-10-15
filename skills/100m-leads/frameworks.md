@@ -1,217 +1,250 @@
-# 100m-leads - Detailed Channel Playbooks
+> 中文译文｜[英文对照](frameworks.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/100m-leads/frameworks.md)。原项目整理：AgentSeal；原书：Alex Hormozi《$100M Leads》；AI 辅助翻译。
 
-## Lead Magnet Naming
+<a id="100m-leads---detailed-channel-playbooks"></a>
+# 100m-leads — 渠道详细实操手册
 
-The name matters more than the content. A great name on a mediocre lead magnet outperforms a weak name on a great one. People decide whether to opt in based on the name alone - they haven't seen the content yet.
+<a id="lead-magnet-naming"></a>
+## 引流品命名
 
-**Naming formula:** Promise a specific outcome in a specific timeframe for a specific audience.
+名称比内容更重要。名称出色、内容平平的引流品，表现可能超过名称乏力、内容优秀的引流品。人们决定是否留下联系方式时，还没看过内容，只能根据名称判断。
 
-| Bad Name | Good Name | Why |
+**命名公式：** 向特定人群承诺，在特定时间内获得一个具体结果。
+
+| 不好的名称 | 好的名称 | 原因 |
 |----------|-----------|-----|
-| "Marketing Guide" | "The 5-Day Cold Email Playbook for Freelancers" | Specific audience, specific outcome, specific timeframe |
-| "Free Checklist" | "The 10-Point Pre-Launch Checklist for SaaS Founders" | Tells them exactly what they get and who it's for |
-| "Weight Loss Tips" | "Lose 10 Pounds in 30 Days Without Cutting Carbs" | Outcome + timeframe + objection handled |
-| "Sales Training" | "Close 3 New Clients This Week Using Warm Outreach" | Specific result, specific timeframe, specific method |
+| “营销指南” | “自由职业者的5天陌生邮件开发手册” | 人群、结果、时间都具体 |
+| “免费清单” | “SaaS 创始人上线前必查的10项清单” | 明确告诉读者能得到什么、适合谁 |
+| “减重技巧” | “不戒碳水，30天减掉10磅” | 结果＋时间＋回应顾虑 |
+| “销售培训” | “用熟人触达，本周签下3位新客户” | 具体结果、具体时间、具体方法 |
 
-**Distribution rule:** Don't gate it behind one channel. Put the lead magnet everywhere - every email signature, every content post CTA, every cold outreach follow-up, your bio on every platform, at the bottom of every blog post. The bottleneck is almost always distribution, not quality.
+**分发规则：** 不要只通过一个渠道提供。把引流品放在各个入口：邮件签名、每篇内容的行动号召、陌生开发后的跟进、各平台个人简介、每篇博客底部。瓶颈几乎总是分发，而非质量。
 
-## 1. Warm Outreach (Free, 1-to-1)
+<a id="1-warm-outreach-free-1-to-1"></a>
+## 1. 熟人触达（免费，一对一）
 
-Your first and most reliable method. Start here.
+这是你最先使用、也最可靠的方法。从这里开始。
 
-### 10 Steps
+<a id="10-steps"></a>
+### 10个步骤
 
-1. **Get your list** - Phone contacts, email, social media followers
-2. **Pick a platform** - Start where you have the most contacts
-3. **Personalize your message** - Reference something specific
-4. **Reach out** - One by one, not mass blast
-5. **Warm them up** - Give value before asking
-6. **Invite their friends** - "Know anyone who might need X?"
-7. **Make the easiest offer possible** - Free, low-risk first step
-8. **Start at the top** - Begin with closest relationships
-9. **Start charging** - After results, transition to paid
-10. **Keep your list warm** - Continue providing value
+1. **整理名单**——手机联系人、邮件联系人、社交媒体关注者。
+2. **选择平台**——从联系人最多的平台开始。
+3. **个性化消息**——提及与对方有关的一件具体事情。
+4. **逐一联系**——一对一触达，不群发轰炸。
+5. **先建立温度**——提出请求前先提供价值。
+6. **请他们介绍朋友**——“你认识可能需要 X 的人吗？”
+7. **给出最容易接受的方案**——第一步免费、风险低。
+8. **从关系最密切的人开始**——先联系最熟的人。
+9. **开始收费**——取得结果后，转为付费服务。
+10. **持续维护名单**——继续提供价值。
 
-### The ACA Framework
+<a id="the-aca-framework"></a>
+### ACA 框架
 
-**A**cknowledge - **C**ompliment - **A**sk
+**Acknowledge（关注对方）— Compliment（真诚赞赏）— Ask（提出请求）**
 
 ```
-Hey [Name], 
+你好，[姓名]：
 
-[Acknowledge - reference something specific about them]
-[Compliment - genuine praise about their work/life]
+[关注对方：提及一件与对方有关的具体事情]
+[赞赏：真诚肯定对方的工作或生活]
 
-I'm working on [thing] and thought of you because [specific reason].
+我正在做[事情]，因为[具体原因]想到了你。
 
-Would you be open to [small ask]?
+你愿意[一个小请求]吗？
 ```
 
-Source note: ACA letters and order should be verified against latest book edition; the pattern (acknowledge-then-compliment-then-ask) is the consistent advice.
+来源说明：ACA 的字母及顺序应对照最新版原书核实；“先关注、再赞赏、再请求”是持续一致的建议。
 
-### Good vs Bad Warm Outreach
+<a id="good-vs-bad-warm-outreach"></a>
+### 熟人触达的好坏对照
 
-| Bad | Good |
+| 不好的做法 | 好的做法 |
 |-----|------|
-| "Hey, long time! Check out my new thing" | "Saw your post about X, congrats! Quick question..." |
-| Mass message to everyone | Personalized, one at a time |
-| Lead with the pitch | Lead with value or curiosity |
-| "Buy my stuff" | "Know anyone who might need X?" |
+| “好久不见！看看我的新东西。” | “看到你关于 X 的动态，恭喜！想请教个小问题……” |
+| 给所有人群发同一条消息 | 逐人发送个性化消息 |
+| 一开口就推销 | 从价值或好奇开始 |
+| “买我的东西” | “你认识可能需要 X 的人吗？” |
 
-### Referral Magic Words
-- "Do you know anyone who..."
-- "Who's the most [relevant trait] person you know?"
-- "If you were me, who would you talk to?"
+<a id="referral-magic-words"></a>
+### 转介绍常用句
 
-## 2. Post Free Content (Free, 1-to-Many)
+- “你认识有这种情况的人吗……”
+- “你认识的人里，谁最[相关特征]？”
+- “如果你是我，你会找谁聊？”
 
-Build an audience that attracts leads to you.
+<a id="2-post-free-content-free-1-to-many"></a>
+## 2. 发布免费内容（免费，一对多）
 
-### Frequency by Platform
+积累受众，让潜在客户主动找到你。
 
-Frequency recommendations are general best-practice rather than specific Hormozi prescriptions. Treat as starting points; let your content's performance dictate cadence.
+<a id="frequency-by-platform"></a>
+### 各平台发布频率
 
-| Platform | Best Format | Typical Frequency |
+这些频率是通用实践建议，并非 Hormozi 的特定规定。把它们作为起点，再根据内容表现调整节奏。
+
+| 平台 | 最佳形式 | 常见频率 |
 |----------|-------------|-------------------|
-| Twitter/X | Threads, insights | High (often daily) |
-| LinkedIn | Stories, frameworks | Multiple times/week |
-| YouTube | Long-form tutorials | Weekly to bi-weekly |
-| TikTok/Reels | Quick tips, hooks | High (often daily) |
-| Podcast | Interviews, deep dives | Weekly |
+| Twitter/X | 串文、洞见 | 高频，通常每天 |
+| LinkedIn | 故事、框架 | 每周多次 |
+| YouTube | 长教程 | 每周至每两周 |
+| TikTok/Reels | 简短技巧、开场钩子 | 高频，通常每天 |
+| 播客 | 访谈、深入讨论 | 每周 |
 
-### The Give-Give-Give-Ask Pattern
-- 3 pieces of pure value
-- 1 piece with a call to action
-- Repeat
+<a id="the-give-give-give-ask-pattern"></a>
+### “给予—给予—给予—请求”模式
 
-### Hook-Retain-Reward Framework
+- 3条纯价值内容。
+- 1条带行动号召的内容。
+- 循环执行。
 
-| Stage | Time | Goal |
+<a id="hook-retain-reward-framework"></a>
+### “吸引—留住—回报”框架
+
+| 阶段 | 时间 | 目标 |
 |-------|------|------|
-| **Hook** | First 3 seconds | Stop the scroll |
-| **Retain** | Middle | Keep them watching/reading |
-| **Reward** | End | Deliver value so good they want more |
+| **吸引（Hook）** | 前3秒 | 让人停止划走 |
+| **留住（Retain）** | 中段 | 让人继续看或读 |
+| **回报（Reward）** | 结尾 | 提供足够好的价值，让人还想要更多 |
 
-**Rule:** Give until they ask. Don't pitch until they reach out.
+**规则：** 持续给予，直到对方主动询问。等对方联系你，再谈产品。
 
-### Content That Attracts Leads
+<a id="content-that-attracts-leads"></a>
+### 能吸引潜在客户的内容
 
-| Content Type | Example | Why It Works |
+| 内容类型 | 示例 | 为什么有效 |
 |--------------|---------|--------------|
-| How-to | "How I got 50 clients in 30 days" | Demonstrates expertise |
-| Case study | "Client went from X to Y" | Proof of results |
-| Contrarian | "Why [common advice] is wrong" | Pattern interrupt |
-| Story | "I was broke, then this happened" | Emotional connection |
-| List | "7 ways to [desired outcome]" | Scannable, shareable |
+| 方法教程 | “我是怎样在30天内获得50位客户的” | 展示专业能力 |
+| 案例 | “客户从 X 变成 Y” | 提供结果证据 |
+| 反常识观点 | “为什么[常见建议]是错的” | 打破惯常认知 |
+| 故事 | “我曾身无分文，后来发生了这件事” | 建立情感连接 |
+| 清单 | “实现[期望结果]的7种方法” | 易浏览、易分享 |
 
-### Hooks That Work
-- "Most people do X. Here's why that's wrong."
-- "I spent $X learning this so you don't have to."
-- "The #1 mistake I see in [industry]..."
-- "How [person] achieved [result] in [timeframe]"
+<a id="hooks-that-work"></a>
+### 有效的开场钩子
 
-## 3. Cold Outreach (Free/Cheap, 1-to-1)
+- “大多数人都做 X。下面说说为什么这样做不对。”
+- “我花了 X 美元学会这件事，让你少走这段弯路。”
+- “我在[行业]看到的头号错误是……”
+- “[某人]如何在[时间]内实现[结果]。”
 
-Reach strangers who don't know you yet.
+<a id="3-cold-outreach-freecheap-1-to-1"></a>
+## 3. 陌生开发（免费或低成本，一对一）
 
-### The 3 Cold Outreach Problems
+触达还不认识你的陌生人。
 
-#### Problem 1: "I don't have a list"
+<a id="the-3-cold-outreach-problems"></a>
+### 陌生开发的3个问题
 
-| Source | Notes |
+<a id="problem-1-i-dont-have-a-list"></a>
+#### 问题1：“我没有名单”
+
+| 来源 | 说明 |
 |--------|-------|
-| Buy/scrape lists | Search "outbound leads scraping tool" |
-| LinkedIn Sales Navigator | High-quality but slower |
-| Public directories | Industry-specific, varies |
-| Conferences/events | Attendee lists |
+| 购买或抓取名单 | 搜索“陌生开发线索抓取工具”（outbound leads scraping tool） |
+| LinkedIn Sales Navigator | 质量高，但较慢 |
+| 公开目录 | 按行业查找，情况各异 |
+| 会议或活动 | 参会者名单 |
 
-Aim for 1000+ names to start. Volume matters at the cold stage.
+起步时争取至少1,000个名字。陌生开发阶段，数量很重要。
 
-#### Problem 2: "What do I say?"
+<a id="problem-2-what-do-i-say"></a>
+#### 问题2：“我该说什么？”
 
-Two keys: **Personalization + Big Fast Value**
+两个关键：**个性化＋快速提供大量价值。**
 
-**a) Personalization** - Make cold feel warm:
-- Use their name
-- Reference something specific (recent post, company news, mutual connection)
-- Compliment something genuine
-- Show how it benefited you
+**a）个性化**——让陌生接触也有熟悉感：
 
-**b) Big Fast Value** - Not "good enough to charge for" but "stuff people ACTUALLY pay for":
-- Don't tickle interest, BLOW THEIR MINDS in 30 seconds
-- If your lead magnet isn't working, make it bigger
-- Give away something so good they feel stupid saying no
+- 使用对方姓名。
+- 提及具体事情：近期动态、公司新闻、共同联系人。
+- 真诚赞赏某件事。
+- 说明它对你有什么帮助。
 
-#### Problem 3: "Not enough responses"
-- Automate delivery (pre-recorded messages)
-- Follow up multiple times, multiple ways
-- After finishing list, start over (circumstances change)
-- Wait several months, try again
+**b）快速提供大量价值**——不是“好到可以收费”，而是“人们确实在付费购买的东西”：
 
-### Channels
-- Email
-- LinkedIn DM
-- Twitter DM
-- Phone calls
-- Text/WhatsApp
+- 不只是引起一点兴趣，而要在30秒内让对方惊叹。
+- 引流品不起作用，就让它更有分量。
+- 免费提供好到让人觉得拒绝会很不划算的东西。
 
-### Cold Email Framework
+<a id="problem-3-not-enough-responses"></a>
+#### 问题3：“回复不够多”
+
+- 将交付自动化，例如预录消息。
+- 用多种方式、多次跟进。
+- 联系完名单后重新开始，因为情况会变化。
+- 过几个月再试一次。
+
+<a id="channels"></a>
+### 渠道
+
+- 邮件。
+- LinkedIn 私信。
+- Twitter 私信。
+- 电话。
+- 短信或 WhatsApp。
+
+<a id="cold-email-framework"></a>
+### 陌生开发邮件框架
 
 ```
-Subject: Quick question about [specific thing they do]
+主题：想请教一个关于[对方具体业务]的小问题
 
-Hey [Name],
+你好，[姓名]：
 
-[1 sentence showing you researched them]
+[用一句话表明你了解过对方]
 
-I help [their type of company] with [specific outcome].
+我帮助[对方这类公司]实现[具体结果]。
 
-[One sentence of proof/credibility]
+[用一句话提供证据或可信度]
 
-Would you be open to a quick chat this week?
+你这周方便简单聊一下吗？
 
-[Your name]
+[你的姓名]
 ```
 
-### Volume Note
+<a id="volume-note"></a>
+### 关于触达数量
 
-Specific daily volumes and response rates vary widely by industry, channel quality, list source, and offer. Treat any single number as directional. The actionable rule: 
+每天的具体数量和回复率，会随行业、渠道质量、名单来源和方案而大幅变化。任何单一数字都只应作方向参考。可以执行的规则是：
 
-- Volume must be high enough to surface signal through noise
-- If response rate is below your industry's typical floor, the message is broken before more volume helps
-- Double-digit response rates suggest strong personalization; sub-1% suggests broken targeting or message
+- 数量要足够多，才能从噪声中看出信号。
+- 如果回复率低于所在行业通常的下限，先修正消息，再增加数量。
+- 两位数回复率通常意味着个性化做得较好；低于1%则提示人群定位或消息存在问题。
 
-### Follow-Up Sequence
+<a id="follow-up-sequence"></a>
+### 跟进序列
 
-Generic best-practice cadence (varies by channel and relationship):
+以下是通用节奏，需根据渠道和关系调整：
 
-| Day | Action |
+| 天数 | 动作 |
 |-----|--------|
-| 1 | Initial outreach |
-| 3 | Bump ("Did you see this?") |
-| 7 | New angle/value |
-| 14 | Last chance/break-up |
+| 第1天 | 首次触达 |
+| 第3天 | 提醒：“你看到这条了吗？” |
+| 第7天 | 提供新角度或新价值 |
+| 第14天 | 最后一次机会或结束跟进 |
 
-Source note: The "X% of sales happen after Y follow-ups" statistic is widely cited in sales literature but not specifically a Hormozi claim. The actionable principle (most people quit too early on follow-up) is reliable; specific percentages should be treated skeptically.
+来源说明：“X% 的成交发生在 Y 次跟进之后”在销售资料中被广泛引用，但不专属于 Hormozi 的主张。可执行的原则——多数人过早放弃跟进——值得参考；具体百分比应审慎看待。
 
-## Channel Selection Decision Matrix
+<a id="channel-selection-decision-matrix"></a>
+## 渠道选择决策矩阵
 
-| Resource Profile | Recommended Start |
+| 资源状况 | 建议起点 |
 |------------------|-------------------|
-| 0 customers, no money, time | Warm outreach |
-| 10+ customers, no money, time | Cold outreach OR content |
-| 10+ customers, some money, no time | Paid ads (start small) |
-| 10+ customers, money + time | Cold outreach + content (parallel) |
-| 50+ customers, profitable | Add paid ads, then lead getters |
+| 0位客户，没钱，有时间 | 熟人触达 |
+| 10位以上客户，没钱，有时间 | 陌生开发或内容 |
+| 10位以上客户，有些钱，没时间 | 付费广告，从小额开始 |
+| 10位以上客户，有钱也有时间 | 陌生开发与内容并行 |
+| 50位以上客户，已盈利 | 加入付费广告，再引入获客伙伴 |
 
-## Channel Mastery Checklist
+<a id="channel-mastery-checklist"></a>
+## 渠道掌握程度检查清单
 
-A channel is "mastered" when:
+满足以下条件，才算“掌握”一个渠道：
 
-- [ ] You can predict cost per lead within ~30%
-- [ ] You can predict conversion to customer within ~30%
-- [ ] You have a documented playbook a new hire could follow
-- [ ] The unit economics work without you personally driving them
-- [ ] You can scale spend or volume 10x without breaking
+- [ ] 能预测单条线索成本，误差约在30%以内。
+- [ ] 能预测线索转为客户的比例，误差约在30%以内。
+- [ ] 有新员工能够照着执行的书面手册。
+- [ ] 无需你亲自推动，单位经济模型也成立。
+- [ ] 支出或触达量放大10倍，系统仍能正常运转。
 
-Until those are true, don't add another channel.
+在这些条件成立前，不要再加一个渠道。

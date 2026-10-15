@@ -1,234 +1,254 @@
-# Real Founder Problems Experiment
+> 中文译文｜[英文对照](real-founder-problems.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/experiments/real-founder-problems.md)。原项目整理：AgentSeal；AI 辅助翻译。下文实验、评分和完成状态均为上游记录，不是中文版重新执行的测试。上游仅标注 Reddit 社区与约略日期，未提供帖子直链；引文译自上游摘录，未独立核验原帖。
 
-**Date:** 2026-04-26
-**Method:** 10 real founder problems from Reddit (r/SaaS, r/microsaas, r/startups), each answered by raw Claude and Claude with skills loaded. Compared actionability, accuracy, and overfitting.
+<a id="real-founder-problems-experiment"></a>
+# 真实创始人问题实验
+
+**日期：** 2026-04-26
+
+**方法：** 从 Reddit 的 r/SaaS、r/microsaas、r/startups 选取10个真实创始人问题，分别让未加载技能的 Claude 和加载技能后的 Claude 回答，比较可执行性、准确性与框架过度套用。
 
 ---
 
-## Scorecard
+<a id="scorecard"></a>
+## 评分总览
 
-| # | Problem | Category | Skills Used | Winner | Overfit? |
+| 序号 | 问题 | 类别 | 使用的技能 | 优胜方 | 过度套用？ |
 |---|---------|----------|-------------|--------|----------|
-| 1 | FlwKit — can't reach indie iOS devs | Nobody buying | traction, 100m-leads, mom-test, diagnose | Skills | No |
-| 2 | SpendForce — zero users after 1 month | Nobody buying | diagnose, obviously-awesome, mom-test, four-steps | Skills | No |
-| 3 | Collectli — 0 paying after PH launch | Nobody buying | mom-test, four-steps, 100m-leads, diagnose | Skills | No |
-| 4 | People don't get it on first visit | Messaging | storybrand, made-to-stick, obviously-awesome, diagnose | Skills (barely) | **Yes** — 3 frameworks stacked |
-| 5 | Content scheduler, nobody cared | Messaging | obviously-awesome, lean-startup, four-steps, diagnose | Skills | No |
-| 6 | First app failure, nobody needed it | Messaging | mom-test, lean-startup, four-steps, diagnose | Skills | No |
-| 7 | 350 users, how to price paid plans | Pricing | monetizing-innovation, 100m-offers, mom-test | Skills | No |
-| 8 | Face swap, 3 cancellations day 1 | Pricing | monetizing-innovation, 100m-offers, lean-startup | Skills | No |
-| 9 | PH spike died, no sustained growth | Distribution | traction, 100m-leads, lean-startup, crossing-the-chasm | Skills | No |
-| 10 | Accountancy firms won't pilot | Pivot | four-steps, crossing-the-chasm, spin-selling, mom-test | Skills | **Slight** — chasm too early |
+| 1 | FlwKit：接触不到独立 iOS 开发者 | 没人购买 | traction、100m-leads、mom-test、diagnose | 加载技能 | 否 |
+| 2 | SpendForce：上线一个月，用户为零 | 没人购买 | diagnose、obviously-awesome、mom-test、four-steps | 加载技能 | 否 |
+| 3 | Collectli：Product Hunt 发布后，付费为零 | 没人购买 | mom-test、four-steps、100m-leads、diagnose | 加载技能 | 否 |
+| 4 | 初次访问的人看不懂产品 | 信息表达 | storybrand、made-to-stick、obviously-awesome、diagnose | 加载技能，优势很小 | **是**：堆叠3个框架 |
+| 5 | 内容排期工具，无人关心 | 信息表达 | obviously-awesome、lean-startup、four-steps、diagnose | 加载技能 | 否 |
+| 6 | 第一款应用失败，没人需要 | 信息表达 | mom-test、lean-startup、four-steps、diagnose | 加载技能 | 否 |
+| 7 | 350名用户，付费套餐如何定价 | 定价 | monetizing-innovation、100m-offers、mom-test | 加载技能 | 否 |
+| 8 | 换脸工具，上线首日3人退订 | 定价 | monetizing-innovation、100m-offers、lean-startup | 加载技能 | 否 |
+| 9 | Product Hunt 热度消退，没有持续增长 | 分发 | traction、100m-leads、lean-startup、crossing-the-chasm | 加载技能 | 否 |
+| 10 | 会计师事务所不愿试点 | 转型 | four-steps、crossing-the-chasm、spin-selling、mom-test | 加载技能 | **轻微**：过早使用跨越鸿沟 |
 
 ---
 
-## Ratings
+<a id="ratings"></a>
+## 评分
 
-| Dimension | Score |
+| 维度 | 分数 |
 |---|---:|
-| Actionability | 9/10 |
-| Diagnostic accuracy | 8.5/10 |
-| Founder usability | 7/10 |
-| Framework discipline | 6.5/10 |
-| **Overall** | **8.2/10** |
+| 可执行性 | 9/10 |
+| 诊断准确性 | 8.5/10 |
+| 创始人易用性 | 7/10 |
+| 框架使用克制程度 | 6.5/10 |
+| **整体** | **8.2/10** |
 
 ---
 
-## Problem 1 — FlwKit (can't reach indie iOS devs)
+<a id="problem-1--flwkit-cant-reach-indie-ios-devs"></a>
+## 问题1：FlwKit（接触不到独立 iOS 开发者）
 
-**Source:** r/SaaS, ~April 24, 2026
+**来源：** r/SaaS，约2026年4月24日。
 
-> "My cofounder and I started building FlwKit in January. Three months later we have a product, zero paying customers, and a much more honest view of what we got wrong. We underestimated how hard it is to reach indie iOS developers. Our target customer is clear: indie iOS developers who care about onboarding conversion. The problem is they're fragmented across X, Reddit, Discord, and random Slack groups. There's no single watering hole."
+> “我和联合创始人从一月开始做 FlwKit。三个月后，我们有了产品，付费客户为零，也更诚实地看清了自己做错什么。我们低估了接触独立 iOS 开发者的难度。目标客户很清楚：在意新用户引导转化率的独立 iOS 开发者。问题是他们分散在 X、Reddit、Discord 和零散的 Slack 群里，没有一个共同聚集地。”
 
-| | Without Skills | With Skills |
+| | 未加载技能 | 加载技能 |
 |---|---|---|
-| **Diagnosis** | Fragmented audience problem, common with dev tools | Combined market validation + distribution problem (diagnose Step 1) |
-| **Key advice** | Pick one community, become a helpful presence, ship free content | Validate demand first (Mom Test filter test), then Phase I channels (Bullseye), warm outreach via ACA framework |
-| **Specific actions** | "Write onboarding teardowns" | "DM iOS devs who've publicly complained, using ACA. Rule of 100: 100 attempts/day for 100 days" |
-| **What raw missed** | No method to validate if devs care enough to pay | — |
-| **What skills missed** | — | Rule of 100 may be unrealistic for a 2-person team |
+| **诊断** | 受众分散问题，开发者工具常见 | 市场验证与分发的复合问题，参照 diagnose 第1步 |
+| **关键建议** | 选一个社区，持续提供帮助，发布免费内容 | 先用 Mom Test 筛选测试验证需求，再用靶心框架测试第一阶段渠道，以 ACA 框架进行熟人触达 |
+| **具体行动** | “写新用户引导流程拆解。” | “用 ACA 私信公开抱怨过问题的 iOS 开发者。100法则：每天尝试100次，坚持100天。” |
+| **未加载技能遗漏** | 没有方法验证开发者是否在意到愿意付费 | — |
+| **加载技能遗漏** | — | 每天100次对两人团队可能不现实 |
 
-**Verdict:** Skills win on actionability. Diagnostic sequence (validate → channel test) is the key differentiator.
+**结论：** 加载技能在可执行性上胜出。先验证、再测渠道的诊断顺序是关键差异。
 
 ---
 
-## Problem 2 — SpendForce (zero users after 1 month)
+<a id="problem-2--spendforce-zero-users-after-1-month"></a>
+## 问题2：SpendForce（一个月零用户）
 
-**Source:** r/SaaS, ~April 24, 2026
+**来源：** r/SaaS，约2026年4月24日。
 
-> "I launched my SaaS platform a little over a month ago and have gotten 0 users or customers. My platform helps SMB's identify waste, benchmark their software stack against other organizations and the market and help optimize their stack."
+> “我的 SaaS 平台上线一个多月，用户或客户都是零。平台帮助中小企业识别浪费，把软件组合与其他组织和市场比较，进而优化自己的软件组合。”
 
-| | Without Skills | With Skills |
+| | 未加载技能 | 加载技能 |
 |---|---|---|
-| **Diagnosis** | "SMBs" too broad, positioning sounds like a feature not a problem | Market problem, not distribution. "Do nothing" as competitive alternative = new market (3-7 year timeline) |
-| **Key advice** | Narrow to specific SMB type, find specific dollar pain | Run Mom Test WTP conversations, Customer Slicing to find who cares MOST |
-| **Specific actions** | "Answer what painful thing happens when they don't optimize" | "Ask: Walk me through last time you reviewed software subscriptions. Find CFOs at 50-200 companies burned by surprise renewals" |
-| **What raw missed** | No method to narrow from "SMBs" to a findable segment | — |
-| **What skills missed** | — | Four-steps' "3-7 year" new market timeline may discourage unnecessarily |
+| **诊断** | “中小企业”太宽泛，定位像功能而非问题 | 市场问题，不是分发问题。替代方案是“什么都不做”，意味着新市场，可能需3—7年 |
+| **关键建议** | 缩小到具体中小企业类型，找到可量化的金钱损失 | 开展 Mom Test 式付费意愿访谈，用客户切片找到最在意的人 |
+| **具体行动** | “回答不优化会发生什么痛苦后果。” | “问：上次审查软件订阅时，整个过程是怎样的？寻找因意外续费受损的首席财务官；原文客户规模写为‘50—200 companies’。” |
+| **未加载技能遗漏** | 没有方法把“中小企业”缩小为可找到的细分群体 | — |
+| **加载技能遗漏** | — | four-steps 的新市场“3—7年”说法可能造成不必要的劝退 |
 
-**Verdict:** Skills win. Caught it's a market problem (not distribution) — the critical misdiagnosis.
+> 译注：原文“CFOs at 50-200 companies”表意不清，未擅自改成“50—200人公司”。
+
+**结论：** 加载技能胜出。识别出这是市场问题，避免了将其误判为分发问题。
 
 ---
 
-## Problem 3 — Collectli (0 paying after Product Hunt)
+<a id="problem-3--collectli-0-paying-after-product-hunt"></a>
+## 问题3：Collectli（Product Hunt 发布后零付费）
 
-**Source:** r/SaaS, ~April 22, 2026
+**来源：** r/SaaS，约2026年4月22日。
 
-> "I built Collectli — automated invoice reminder sequences for freelancers. I didn't have a personal horror story. I kept seeing the same thread everywhere — freelancers losing thousands not because clients refuse to pay, but because there's no system."
+> “我做了 Collectli，为自由职业者自动发送发票付款提醒。我自己没经历过可怕的收款故事，只是到处看到同类帖子：自由职业者损失数以千计的款项（原文未注明币种），并不是客户拒绝付款，而是没有一套系统。”
 
-| | Without Skills | With Skills |
+| | 未加载技能 | 加载技能 |
 |---|---|---|
-| **Diagnosis** | Red flag: built for a problem you never had. PH is a vanity event. | Customer discovery problem dressed as marketing problem. Reddit threads ≠ validated pain. |
-| **Key advice** | Find 20 freelancers who've lost money, see if they'll pay $15/mo | Use earlyvangelist hierarchy: find freelancers who've built spreadsheet workarounds (they have real pain) |
-| **Specific actions** | "Go find 20 freelancers" | "Ask: Talk me through last late payment. What did you do? Search X for freelancers posting about late payments, DM via ACA" |
-| **What raw missed** | No framework to identify WHO to talk to (just "freelancers") | — |
-| **What skills missed** | — | Concierge MVP suggestion adds complexity for a 15-day build |
+| **诊断** | 警示信号：解决自己从未遇到的问题。Product Hunt 是虚荣事件 | 披着营销问题外衣的客户探索问题。Reddit 帖子不等于已验证痛点 |
+| **关键建议** | 找20位损失过钱的自由职业者，看是否愿付每月15美元 | 按早期传道者层级，找已经自行做表格应付的自由职业者，他们有真实痛点 |
+| **具体行动** | “去找20位自由职业者。” | “问：说说上次迟付的经过，你做了什么？在 X 找谈论迟付的自由职业者，用 ACA 私信。” |
+| **未加载技能遗漏** | 没有识别该找谁的框架，只说“自由职业者” | — |
+| **加载技能遗漏** | — | 对15天开发的项目，礼宾式最小可行产品建议可能增加复杂度 |
 
-**Verdict:** Skills win. Earlyvangelist hierarchy (has workaround = real pain) is the key insight.
+**结论：** 加载技能胜出。已有替代办法意味着真实痛点，是早期传道者层级的关键洞见。
 
 ---
 
-## Problem 4 — People don't get it on first visit
+<a id="problem-4--people-dont-get-it-on-first-visit"></a>
+## 问题4：初次访问的人看不懂
 
-**Source:** r/SaaS, ~April 23, 2026
+**来源：** r/SaaS，约2026年4月23日。
 
-> "Product works, the problem it solves is real, but when someone lands on the page for the first time they just... don't get it. Default move is always more copy, longer onboarding, bigger FAQ."
+> “产品能用，解决的问题也真实。但一个人第一次来到页面时，就是看不懂。默认动作总是增加文案、拉长上手流程、扩充常见问题。”
 
-| | Without Skills | With Skills |
+| | 未加载技能 | 加载技能 |
 |---|---|---|
-| **Diagnosis** | Messaging problem, not product problem | Messaging problem confirmed (diagnose Step 2, 5-Second Test) |
-| **Key advice** | Strip to one sentence above the fold | Three lenses: SB7 BrandScript, SUCCESs diagnostic, Obviously Awesome category context |
-| **Specific actions** | "What do you do, for whom, what changes" | "Run 5-Second Test. Check Commander's Intent. Verify category framing." |
-| **What raw missed** | No method to identify exactly what's broken | — |
-| **What skills missed** | — | **Three frameworks is overwhelming for a clarity problem. One (StoryBrand) is enough.** |
+| **诊断** | 信息表达问题，不是产品问题 | 用 diagnose 第2步和5秒测试确认是表达问题 |
+| **关键建议** | 首屏压缩成一句话 | 三个视角：SB7 品牌故事脚本、SUCCESs 诊断、Obviously Awesome 品类背景 |
+| **具体行动** | “你做什么，为谁做，会带来什么变化？” | “做5秒测试；检查指挥官意图；核实品类框架。” |
+| **未加载技能遗漏** | 没有准确定位具体哪里出问题的方法 | — |
+| **加载技能遗漏** | — | **为解决清晰度问题而用三个框架，负担太重。一个 StoryBrand 就够了。** |
 
-**Verdict:** Skills win barely. **Overfitting flagged** — framework stacking reduces usability.
+**结论：** 加载技能勉强胜出。**标记为过度套用**：框架堆叠降低易用性。
 
 ---
 
-## Problem 5 — Content scheduler, nobody cared
+<a id="problem-5--content-scheduler-nobody-cared"></a>
+## 问题5：内容排期工具，无人关心
 
-**Source:** r/microsaas, ~April 22, 2026
+**来源：** r/microsaas，约2026年4月22日。
 
-> "Six months ago I started building what I thought was a smarter content scheduler. AI that could draft posts for LinkedIn and X. V1 launched. Nobody cared. I got a handful of signups and zero conversions."
+> “六个月前，我开始开发自认为更聪明的内容排期工具，用 AI 给 LinkedIn 和 X 起草帖子。第一版上线，没人关心。零星注册，零转化。”
 
-| | Without Skills | With Skills |
+| | 未加载技能 | 加载技能 |
 |---|---|---|
-| **Diagnosis** | "AI content scheduler" is crowded, "smarter" is a feature not positioning | Head-to-Head positioning in unwinnable category. Value hypothesis failed. |
-| **Key advice** | Check existing signups for unexpected behavior, find specific outcome | Obviously Awesome 5+1 chain: start with competitive alternatives, find Big Fish Small Pond position |
-| **Specific actions** | "Answer what specific outcome it produces" | "Ask signups: What were you hoping this would do? Run pivot catalog (Customer Segment, Zoom-In, Customer Need). Position as 'content engine for [specific user type]'" |
-| **What raw missed** | No process to rebuild positioning from evidence | — |
-| **What skills missed** | — | Pivot catalog options could paralyze rather than focus |
+| **诊断** | AI 内容排期很拥挤，“更聪明”是功能，不是定位 | 在无法获胜的品类里正面竞争；价值假设失败 |
+| **关键建议** | 查看现有注册用户的意外行为，找到具体结果 | 用 Obviously Awesome 的5＋1链条，从竞争替代方案开始，找“小池塘里的大鱼”位置 |
+| **具体行动** | “回答它产生什么具体结果。” | “问注册用户原本希望它做什么；检查客户细分、放大单一功能、客户需求等转型类型；定位为‘面向[特定用户]的内容引擎’。” |
+| **未加载技能遗漏** | 没有从证据重建定位的过程 | — |
+| **加载技能遗漏** | — | 转型选项清单可能让人瘫痪，而非聚焦 |
 
-**Verdict:** Skills win. Caught the Head-to-Head error and provided systematic pivot analysis.
+**结论：** 加载技能胜出。识别正面竞争的错误，并给出系统转型分析。
 
 ---
 
-## Problem 6 — First app failure, nobody needed it
+<a id="problem-6--first-app-failure-nobody-needed-it"></a>
+## 问题6：第一款应用失败，没人需要
 
-**Source:** r/SaaS, ~April 22, 2026
+**来源：** r/SaaS，约2026年4月22日。
 
-> "I finally took the risk of creating a first app based on what I thought was a brilliant idea. It was a complete failure: virtually no users in three months. I then realized that even though the idea was good, nobody needed it, and worse, neither did I."
+> “我终于冒险做了第一款应用，基于自认为很棒的点子。结果完全失败：三个月几乎没用户。后来才明白，即使点子不错，也没人需要，更糟的是我自己也不需要。”
 
-| | Without Skills | With Skills |
+| | 未加载技能 | 加载技能 |
 |---|---|---|
-| **Diagnosis** | Ideas ≠ demand. Best products scratch founder's own itch. | "Achieving Failure" pattern (lean-startup). Skipped Customer Discovery entirely. |
-| **Key advice** | Talk to 10-20 people, check if they're searching or spending on workarounds | Mom Test filter test: if they haven't Googled for a solution, they don't care enough. Earlyvangelist criterion: must have cobbled interim fix. |
-| **Specific actions** | "Talk to people before coding" | "Spend 1-2 weeks running 15-min conversations. Ask: Last time this problem cost you time or money? If blank stare, kill the idea." |
-| **What raw missed** | Generic "validate first" without specific criteria | — |
-| **What skills missed** | — | Nothing — this is the cleanest skill application |
+| **诊断** | 点子不等于需求；好的产品常先解决创始人自己的问题 | lean-startup 中的“成功地失败”模式，完全跳过客户探索 |
+| **关键建议** | 访谈10—20人，确认是否搜索解决方案或花钱用替代办法 | Mom Test 筛选：连搜索解决办法都没有，可能不够在意；早期传道者应已拼凑临时方案 |
+| **具体行动** | “写代码前先找人聊。” | “花1—2周做每次15分钟的对话。问上次这个问题何时让你损失时间或钱；若对方茫然，就终止点子。” |
+| **未加载技能遗漏** | 只有泛泛的“先验证”，没有具体标准 | — |
+| **加载技能遗漏** | — | 没有，这是最干净利落的技能应用 |
 
-**Verdict:** Skills win decisively. Named failure pattern + specific kill criteria.
+**结论：** 加载技能明显胜出：指出失败模式，并给出明确终止标准。
 
 ---
 
-## Problem 7 — 350 users, how to price paid plans
+<a id="problem-7--350-users-how-to-price-paid-plans"></a>
+## 问题7：350名用户，付费套餐如何定价
 
-**Source:** r/SaaS, ~April 24, 2026
+**来源：** r/SaaS，约2026年4月24日。
 
-> "We have roughly 350 users. It's a site where people submit projects and we promote them across TikTok, YouTube and Instagram. Been completely free. Want to introduce paid plans for continuous promotion, but have absolutely no clue on how to price it."
+> “我们约有350名用户。用户在网站提交项目，我们在 TikTok、YouTube 和 Instagram 推广。一直完全免费。现在想为持续推广推出付费套餐，但完全不知道怎么定价。”
 
-| | Without Skills | With Skills |
+| | 未加载技能 | 加载技能 |
 |---|---|---|
-| **Diagnosis** | Good position with 350 users getting value | 80% of companies skip WTP conversation — you're about to be one of them |
-| **Key advice** | Talk to active users, test 2-3 tiers, price higher than you think | Run WTP conversations first, design Good/Better/Best with visible fences, consider usage-based model |
-| **Specific actions** | "Start with simple tiers and adjust" | "Ask: How are you promoting now? What are you spending? Apply BECAUSE test. Use Leaders/Fillers/Killers for tier contents. Target 25% Good, 70% Better+Best." |
-| **What raw missed** | No pricing methodology, just "test and iterate" | — |
-| **What skills missed** | — | G/B/B distribution targets (25/70) may be too specific for a 350-user product |
+| **诊断** | 有350名用户获得价值，基础不错 | 80%的公司跳过付费意愿对话，而你也将如此 |
+| **关键建议** | 访谈活跃用户，测试2—3档，价格比直觉高一些 | 先做付费意愿访谈，设计边界清晰的基础／进阶／旗舰档，考虑按量收费 |
+| **具体行动** | “先用简单档位，再调整。” | “问现在怎样推广、花多少钱；使用 BECAUSE 测试；用主导项／填充项／剔除项设计套餐。目标基础档25%，进阶与旗舰合计70%。” |
+| **未加载技能遗漏** | 缺少定价方法，只有“测试迭代” | — |
+| **加载技能遗漏** | — | 对350名用户的产品，25%／70%的套餐分布目标可能过于具体 |
 
-**Verdict:** Skills win. WTP conversations + tier design methodology is genuinely better than guessing.
+**结论：** 加载技能胜出。付费意愿访谈与套餐设计方法优于猜测。
 
 ---
 
-## Problem 8 — Face swap, 3 cancellations day 1
+<a id="problem-8--face-swap-3-cancellations-day-1"></a>
+## 问题8：换脸工具，首日3人退订
 
-**Source:** r/SaaS, ~April 24, 2026
+**来源：** r/SaaS，约2026年4月24日。
 
-> "Launched my SaaS today... and already got my first 3 cancellations. Face swap video tool. Pricing: $15/month, $39/month, $79/month. People sign up and try it, but 3 already canceled same day. My guess: they get what they need in one session and dip."
+> “今天刚上线 SaaS，就迎来第一批3个退订。视频换脸工具，月费15、39和79美元。有人注册试用，但已有3人当天取消。我猜他们一次就做完想做的事，然后走了。”
 
-| | Without Skills | With Skills |
+| | 未加载技能 | 加载技能 |
 |---|---|---|
-| **Diagnosis** | Subscription fights natural usage pattern | Monetization model mismatch (Rule 4: how you charge > what you charge). Value is episodic, not recurring. |
-| **Key advice** | Add pay-per-use, shift to recurring value prop | Switch to credit packs, or gate subscriptions behind sticky use case, use compromise effect |
-| **Specific actions** | "Consider higher one-time fee" | "Three ranked fixes: (1) credit packs ($5/10 swaps, $15/50, $39/200), (2) creator tier with batch/API, (3) compromise effect pricing. Optimize for paid engine, not sticky engine." |
-| **What raw missed** | No framework for choosing between monetization models | — |
-| **What skills missed** | — | Engines-of-growth diagnostic may overcomplicate a simple pricing fix |
+| **诊断** | 订阅模式与自然使用方式冲突 | 收入模式不匹配：第4条规则，怎么收费比收多少更重要。价值是偶发的，而非持续的 |
+| **关键建议** | 加入按次付费，或转向持续价值主张 | 改为点数包，或只针对高黏性场景提供订阅；使用折中效应 |
+| **具体行动** | “考虑更高的一次性费用。” | “按优先级修正：①点数包，5美元10次、15美元50次、39美元200次；②带批处理／API 的创作者档；③折中效应定价。优化付费增长引擎，而非黏性引擎。” |
+| **未加载技能遗漏** | 没有选择收入模式的框架 | — |
+| **加载技能遗漏** | — | 增长引擎诊断可能把简单定价修正复杂化 |
 
-**Verdict:** Skills win. Root cause diagnosis (model mismatch) + ranked concrete fixes.
+**结论：** 加载技能胜出：找到模式不匹配的根因，并给出有顺序的具体修正。
 
 ---
 
-## Problem 9 — PH spike died, no sustained growth
+<a id="problem-9--ph-spike-died-no-sustained-growth"></a>
+## 问题9：Product Hunt 热度消退，没有持续增长
 
-**Source:** r/startups, ~April 12, 2026
+**来源：** r/startups，约2026年4月12日。
 
-> "We hit #1 Product of the Week on Product Hunt. For about 72 hours it felt like we'd made it. Then the spike ended — we have about 200 users, a 70% launch discount running, and absolutely no idea how to turn a strong launch into a real business."
+> “我们成为 Product Hunt 当周第一。约72小时里，感觉已经成功。随后热度消失。现在约200名用户，还在做降价70%（按原价三折出售）的发布优惠，却完全不知道怎样把一次好发布变成真正的生意。”
 
-| | Without Skills | With Skills |
+| | 未加载技能 | 加载技能 |
 |---|---|---|
-| **Diagnosis** | PH is a marketing event, not a growth engine. No repeatable channel. | Violated 50% rule (100% product, 0% distribution). PH = Channel #2 of 19 (PR), not a growth channel. |
-| **Key advice** | Find one sustainable channel, stop discounting, talk to the 200 users | Bullseye Framework: brainstorm all 19 channels, rank, test top 3 at $250 each. Phase I = unscalable high-touch. |
-| **Specific actions** | "Find which users are active and why" | "Contact all 200 users personally (ACA). Track retention by cohort. Phase I channels: Targeting Blogs, Community Building, Speaking, Direct Sales." |
-| **What raw missed** | No systematic channel selection method | — |
-| **What skills missed** | — | $250/channel budget may not apply to students with no funding |
+| **诊断** | Product Hunt 是营销活动，不是增长引擎；没有可重复渠道 | 违反50%法则：100%做产品，0%做分发。Product Hunt 属于19渠道中的第2项公关，不是持续增长渠道 |
+| **关键建议** | 找一个可持续渠道，停止折扣，访谈200名用户 | 用靶心框架头脑风暴19个渠道，排序，前三个各花250美元测试；第一阶段采用不可规模化的高接触方式 |
+| **具体行动** | “找出哪些用户活跃，以及为什么。” | “用 ACA 逐一联系全部200人；按同期群追踪留存；第一阶段渠道包括目标博客、社区建设、演讲、直接销售。” |
+| **未加载技能遗漏** | 没有系统的渠道选择方法 | — |
+| **加载技能遗漏** | — | 每渠道250美元的预算不适合没有资金的学生 |
 
-**Verdict:** Skills win. Bullseye + phase-channel map gives a system vs "find a channel."
+**结论：** 加载技能胜出。靶心框架和阶段渠道图提供了一套系统，而不只是“找个渠道”。
 
 ---
 
-## Problem 10 — Accountancy firms won't pilot, pivot to SMEs?
+<a id="problem-10--accountancy-firms-wont-pilot-pivot-to-smes"></a>
+## 问题10：会计师事务所不愿试点，要转向中小企业吗？
 
-**Source:** r/startups, ~April 2, 2026
+**来源：** r/startups，约2026年4月2日。
 
-> "We're working on a platform that identifies company failure before the accounting numbers show it. Tried selling to accountancy firms who showed interest but have no appetite to take on a pilot. They all want the finished product. Should I pivot to SMEs?"
+> “我们正在做一个平台，能在会计数字体现问题之前识别公司经营失败。试着卖给会计师事务所，他们表示感兴趣，却不愿参与试点，都想要完成品。我应该转向中小企业吗？”
 
-| | Without Skills | With Skills |
+| | 未加载技能 | 加载技能 |
 |---|---|---|
-| **Diagnosis** | "Come back when finished" = interested but not in enough pain | Not a pivot problem — it's a Customer Discovery problem. These firms aren't earlyvangelists (fail criteria #3 and #4). "Come back when finished" = Polite Rejection per Mom Test commitment currencies. |
-| **Key advice** | Find innovative firms willing to pilot, or use SMEs as proof | Apply earlyvangelist pain hierarchy. Score firms on 9-factor beachhead checklist. Find firms specializing in distressed companies — they have the pain NOW. |
-| **Specific actions** | "Find 1-2 smaller firms willing to pilot for free" | "Ask Implication Questions: What happens when you discover a client is failing after numbers show it? What's the cost? Find turnaround/distressed specialists. Only pivot to SMEs if accountancy scores <2 on 'compelling reason to buy NOW'." |
-| **What raw missed** | Didn't decode "interest" as polite rejection | — |
-| **What skills missed** | — | **Crossing-the-chasm applied too early (still in Customer Discovery).** Beachhead checklist is useful but premature. |
+| **诊断** | “做好了再来”表示有兴趣，但痛点不够强 | 不是转型问题，是客户探索问题。这些事务所不符合早期传道者的第3、4项标准。按 Mom Test 的承诺判断，“做好了再来”是礼貌拒绝 |
+| **关键建议** | 找愿意试点的创新型事务所，或先用中小企业做证据 | 按早期传道者痛点层级，使用9因素滩头阵地清单评分；找专做困境企业的事务所，他们现在就有痛点 |
+| **具体行动** | “找1—2家较小事务所免费试点。” | “问暗示问题：等数字体现出来才发现客户经营失败，会发生什么，代价多大？寻找重整／困境业务专家。只有事务所在‘现在购买的强理由’上低于2分，才转向中小企业。” |
+| **未加载技能遗漏** | 未把“感兴趣”解读为礼貌拒绝 | — |
+| **加载技能遗漏** | — | **仍处于客户探索，过早应用跨越鸿沟。** 滩头阵地清单有用，但时机太早 |
 
-**Verdict:** Skills win. Reframed from "should I pivot?" to "I haven't found real earlyvangelists." Slight overfitting on crossing-the-chasm.
+**结论：** 加载技能胜出。把“是否转型”重新定位为“尚未找到真正的早期传道者”。跨越鸿沟存在轻微过度套用。
 
 ---
 
-## Key Findings
+<a id="key-findings"></a>
+## 主要发现
 
-| Finding | Detail |
+| 发现 | 细节 |
 |---|---|
-| **Skills won** | 10/10 on actionability |
-| **Biggest advantage** | Diagnose skill catches misdiagnosis (Problems 2, 3, 10 would've been treated as wrong problem type) |
-| **Overfitting** | 2/10 — Problem 4 (3 frameworks stacked), Problem 10 (chasm too early) |
-| **Best performing skills** | monetizing-innovation (Problems 7, 8), diagnose (everywhere), mom-test (Problems 3, 6) |
-| **Raw Claude strength** | Directionally correct 10/10 times — but leaves "what do I do Monday?" unanswered |
-| **Fake precision risk** | "100/day for 100 days", "$250 per channel" — sounds actionable but may not fit solo founders |
+| **加载技能胜出** | 可执行性10题全胜 |
+| **最大优势** | diagnose 能识别误诊；第2、3、10题原本会被当成错误类型的问题 |
+| **过度套用** | 2/10：第4题堆叠3个框架，第10题过早使用跨越鸿沟 |
+| **表现最佳的技能** | monetizing-innovation，第7、8题；diagnose，贯穿各题；mom-test，第3、6题 |
+| **未加载技能的 Claude 的优势** | 10题方向都正确，但没有回答“周一具体做什么” |
+| **虚假精确性风险** | “每天100次，坚持100天”“每渠道250美元”看似可执行，却未必适合单人创始人 |
 
-## Tuning Applied
+<a id="tuning-applied"></a>
+## 已实施的调整（上游记录）
 
-| Issue | Fix | Status |
+| 问题 | 修正 | 状态 |
 |---|---|---|
-| Framework stacking | Added One-Skill Rule to diagnose: one primary, one secondary max, one concrete next action | ✅ Done |
-| Crossing-the-chasm too early | Gated behind "10+ paying customers or repeatable revenue" | ✅ Done |
-| Fake precision | Diagnose now flags: "precision that sounds good but can't be executed is fake precision" | ✅ Done |
+| 框架堆叠 | diagnose 加入单技能原则：一个主技能，最多一个辅助技能，一个具体下一步 | ✅ 已完成 |
+| 过早使用跨越鸿沟 | 加入“10位以上付费客户或可重复收入”的门槛 | ✅ 已完成 |
+| 虚假精确性 | diagnose 现在提示：“听起来精确，却无法执行的，是虚假精确。” | ✅ 已完成 |

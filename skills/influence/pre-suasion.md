@@ -1,65 +1,67 @@
-# Influence - Pre-Suasion (2016)
+> 中文译文｜[英文对照](pre-suasion.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/influence/pre-suasion.md)。原项目整理：AgentSeal；书籍来源：《Influence》及《Pre-Suasion》— Robert Cialdini；AI 辅助翻译。
 
-Cialdini's 2016 follow-up book added a critical concept missing from the 1984 original.
+# 影响力——先发影响力（2016）
 
-> "What we present FIRST changes how the audience experiences what comes NEXT."
+西奥迪尼在 2016 年出版的后续著作，为 1984 年的原作补上了一个关键概念。
 
-The persuasive moment isn't only when you make the ask. It's the moments BEFORE, when you set up the listener's mental state.
+> “我们首先呈现什么，会改变受众体验随后内容的方式。”
 
-## Examples
+说服发生的时刻，不只是你提出请求时，也包括之前那些为听者营造心理状态的瞬间。
 
-### The Word That Mattered (Restaurant Tip Study)
-- Half of restaurant patrons given a chocolate at the start of the meal → tipped more
-- More interesting: when servers presented chocolate with EYE CONTACT and PERSONAL framing, tips went up 23%
-- Not the chocolate. The framing of the chocolate.
+## 例子
 
-### The Question Before the Question
-- "Are you adventurous?" before pitching a new product → adventurous people accept more
-- The first question primes the second answer
-- "Would you describe yourself as helpful?" before asking for a favor
+### 起作用的表达方式（餐厅小费研究）
+- 一半餐厅顾客在用餐开始时收到一块巧克力 → 给的小费更多。
+- 更有意思的是：服务员送巧克力时，如果有**眼神接触**并使用**针对个人的表达**，小费会增加 23%。
+- 关键不在巧克力，而在于如何呈现这块巧克力。
 
-### Anchoring as Pre-Suasion
-- Before asking for $5K consulting fee, mention $50K consulting deals you've done
-- The $50K anchor makes $5K feel reasonable
+### 正式问题之前的问题
+- 推介新产品前先问“你喜欢冒险吗？” → 喜欢冒险的人更容易接受。
+- 第一个问题为第二个回答作了心理铺垫。
+- 求人帮忙之前先问：“你会说自己是个乐于助人的人吗？”
 
-### Environmental Channels
-- Background music in stores (French wine sales up when French music plays)
-- Office decor (warm visuals before negotiation = more cooperation)
-- The weather you mention first (sunny = optimistic decisions)
+### 把锚定当作先发影响
+- 提出 5,000 美元咨询费之前，先提到你做过的 50,000 美元咨询项目。
+- 50,000 美元的价格锚点，让 5,000 美元显得合理。
 
-## The Core Insight
+### 环境渠道
+- 商店背景音乐：播放法国音乐时，法国葡萄酒销量上升。
+- 办公室装饰：谈判前看到温暖的视觉元素，会更愿意合作。
+- 你首先提到的天气：晴天会引导更乐观的决策。
 
-> "The best persuaders become the best by knowing where to direct attention BEFORE making the request."
+## 核心洞见
 
-This is implicit in many Cialdini techniques (door-in-the-face uses the first request as pre-suasion for the second), but Cialdini made it explicit only in 2016.
+> “最优秀的说服者之所以优秀，是因为他们知道在提出请求之前，应该把注意力引向哪里。”
 
-## How to Use It
+西奥迪尼的很多技巧都隐含了这一点，例如“先大后小”技巧，用第一个请求为第二个请求创造先发影响，但直到 2016 年，他才明确提出这个概念。
 
-1. **Before any pitch, plant the relevant frame** - "I want to talk about something important..."
-2. **Ask priming questions** - "How important is reliability to you?" before pitching reliability
-3. **Use environmental cues** - First impressions of office, website, voice tone all matter
-4. **Watch what the prospect mentions first** - they're priming themselves; align with it
+## 如何使用
 
-## Pre-Suasion in Combination With Principles
+1. **任何推介之前，先植入相关框架**——“我想谈一件重要的事……”
+2. **提出铺垫问题**——推介可靠性之前，先问“可靠性对你有多重要？”
+3. **使用环境线索**——办公室、网站、语气给人的第一印象都很重要。
+4. **留意潜在客户最先提到什么**——他们正在为自己建立心理框架；与之对齐。
 
-### With Reciprocity
-- Before asking for help, give a small unrelated gift. The "gift before ask" frame is itself pre-suasion (frames the ask as part of an exchange, not a cold favor).
+## 把先发影响力与各项原则结合
 
-### With Authority
-- Mention credentials BEFORE making the recommendation. Credential anchoring pre-suades the listener to weight your recommendation higher.
+### 与互惠结合
+- 请求帮助之前，先送一份与请求无关的小礼物。“先送礼、再请求”本身就是先发影响：它把请求塑造成交换的一部分，而不是突兀地求人帮忙。
 
-### With Scarcity
-- The "newly scarce" effect is a form of pre-suasion: you hold the cookie jar full first, THEN show it depleted. The contrast pre-suades the listener that the remaining cookies are special.
+### 与权威结合
+- **先**介绍资历，**再**提出建议。资历锚点会预先影响听者，让他们赋予你的建议更大分量。
 
-### With Commitment
-- Foot-in-the-door is itself pre-suasion: the small commitment pre-suades the listener that they're "the kind of person who agrees to this kind of request."
+### 与稀缺结合
+- “刚刚变得稀缺”的效应，就是一种先发影响：先拿出装满饼干的罐子，**再**展示饼干减少的样子。对比会提前让听者觉得，剩下的饼干很特别。
 
-### With Liking / Unity
-- The opener "As a fellow [X]" is pre-suasion: it pre-establishes identity-frame BEFORE the request, so the request lands on shared ground rather than transactional ground.
+### 与承诺结合
+- “登门槛”本身就是先发影响：先作出的小承诺，会让听者预先相信自己“就是会同意这类请求的人”。
 
-## When Pre-Suasion Fails
+### 与喜好／共同体结合
+- “作为同样身为［X］的人”这样的开场白，就是先发影响：它在请求出现之前，预先建立身份框架，使请求落在共同立场上，而不是纯粹的交易关系上。
 
-- **Mismatched frames:** Priming with "are you adventurous?" before a low-risk, conservative pitch creates dissonance
-- **Over-priming:** Too obvious a frame triggers reactance and the prospect resists
-- **Inconsistent environment:** Premium pricing in a shabby office breaks the pre-suasive frame
-- **Priming questions that activate negative associations:** "Are you cautious about online security?" might prime suspicion of YOU
+## 先发影响力何时失效
+
+- **框架不匹配：**在推介低风险、保守的方案前，用“你喜欢冒险吗？”来铺垫，会产生不协调感。
+- **铺垫过度：**框架太明显，会引发逆反，潜在客户会抗拒。
+- **环境不一致：**在破旧办公室里报出高端价格，会破坏先前营造的心理框架。
+- **铺垫问题激活了负面联想：**“你对网络安全很谨慎吗？”可能让对方开始怀疑**你本人**。

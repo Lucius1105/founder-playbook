@@ -1,248 +1,250 @@
 ---
 name: made-to-stick
-description: "Applies the SUCCESs Framework from Made to Stick by Chip Heath and Dan Heath. Use when crafting messages that need to be remembered, writing pitches, creating presentations, designing training materials, telling stories that drive action, or diagnosing why a message isn't landing. The six principles (Simple, Unexpected, Concrete, Credible, Emotional, Stories) diagnose and fix communication failures. Triggers include 'how do I make this memorable', 'my pitch isn't landing', 'people forget what we told them', 'how do I tell a better story', 'our training materials are boring', 'how do I present data compellingly', 'nobody remembers our message', 'how do I get people to care about this', 'my writing is too abstract'. NOT for channel selection (use Traction), not for brand messaging structure (use StoryBrand), not for positioning (use Obviously Awesome)."
+description: "应用 Chip Heath 与 Dan Heath《Made to Stick》的 SUCCESs 框架。适用于制作需要被记住的信息、推介、演示、培训材料、推动行动的故事，或诊断表达为何无效。六项原则是简单、意外、具体、可信、情感、故事，用于诊断并修复沟通失败。触发语包括‘怎样让人记住’‘推介没有打动人’‘大家忘了我们说的话’‘怎样讲好故事’‘培训材料无聊’‘怎样有说服力地呈现数据’‘没人记得我们的信息’‘怎样让大家在意’‘文字太抽象’。不适用于渠道选择（用 Traction）、品牌信息结构（用 StoryBrand）、定位（用 Obviously Awesome）。"
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/made-to-stick/SKILL.md)。原项目整理：AgentSeal；书籍来源：《Made to Stick》— Chip Heath 与 Dan Heath；AI 辅助翻译。
 
+> **说明：**本技能是独立分析与评论，并非原书复制。它综合原书核心观点与现代创业实践，指出框架过时或不完整之处，并整合相邻学科视角。完整论证与上下文请阅读原著。
 
-# Made to Stick
+# Made to Stick（让创意更有黏性）
 
-> "There is no such thing as an inherently uninteresting subject. There are only uninterested communicators." - Chip Heath & Dan Heath
+> “没有天生无趣的话题，只有对话题不感兴趣的表达者。”——Chip Heath 与 Dan Heath
 
-## Should You Use This Skill?
+## 应该使用本技能吗？
 
-```
-Is your message failing to land?
-|-- YES --> Do people understand it but forget it?
-|   |-- YES --> Probably missing CONCRETE or STORIES. Check those principles.
-|   +-- NO  --> Do people tune out before hearing it?
-|               |-- YES --> Missing UNEXPECTED (no hook) or SIMPLE (too complex).
-|               +-- NO  --> Do they hear it but not care?
-|                           |-- YES --> Missing EMOTIONAL. They believe but don't act.
-|                           +-- NO  --> Do they care but not believe it?
-|                                       |-- YES --> Missing CREDIBLE.
-|                                       +-- NO  --> THIS SKILL. Run the full diagnostic.
-+-- NO  --> Is the message landing but people aren't acting?
-            |-- YES --> Missing STORIES (no mental simulation of action) or
-            |           EMOTIONAL (they believe but don't feel).
-            +-- NO  --> The message is working. Don't fix what isn't broken.
-```
-
----
-
-## The Core Insight
-
-**The enemy of sticky messages is the Curse of Knowledge.**
-
-Once you know something, you can't imagine not knowing it. You tap a song on a table and think it's obvious - but listeners guess correctly only 2.5% of the time (you predicted 50%). This is the tappers-and-listeners experiment, and it's the central metaphor of the entire book.
-
-Every expert, every founder, every leader suffers from this curse. It makes you talk in abstractions when your audience needs concrete details. It makes you assume shared context that doesn't exist. It makes your messages forgettable.
-
-The SUCCESs framework is the systematic antidote.
-
-### Why Most Messages Die
-
-```
-WHAT COMMUNICATORS DO:                 WHAT STICKY MESSAGES DO:
-Bury the lead in context               Lead with the core (SIMPLE)
-Start with what's expected              Start with what's surprising (UNEXPECTED)
-Speak in abstractions                   Speak in sensory, tangible terms (CONCRETE)
-Rely on their own authority             Let the message prove itself (CREDIBLE)
-Appeal to reason and logic              Appeal to identity and feeling (EMOTIONAL)
-Present conclusions                     Tell stories that simulate action (STORIES)
+```text
+信息没有被有效接收？
+|-- 是 --> 大家理解，但记不住？
+|   |-- 是 --> 可能缺少“具体”或“故事”，检查这两项。
+|   +-- 否 --> 还没听就走神？
+|               |-- 是 --> 缺少“意外”，没有钩子；或不够“简单”，太复杂。
+|               +-- 否 --> 听了却不在意？
+|                           |-- 是 --> 缺少“情感”，相信但不行动。
+|                           +-- 否 --> 在意却不相信？
+|                                       |-- 是 --> 缺少“可信”。
+|                                       +-- 否 --> 用本技能做完整诊断。
++-- 否 --> 信息有效接收，但大家不行动？
+            |-- 是 --> 缺少“故事”，没有行动的心理模拟；
+            |           或缺少“情感”，相信却无感受。
+            +-- 否 --> 信息有效，不必修理没坏的东西。
 ```
 
 ---
 
-## The SUCCESs Framework
+## 核心洞见
 
-Six principles. Not a checklist where you need all six, but a diagnostic toolkit. Most messages fail on 1-2 specific principles. Identify which ones and fix those.
+**有黏性的信息，其敌人是知识诅咒。**
 
-### 1. Simple
+一旦知道某事，就难以想象不知道的状态。你在桌上敲一首歌的节奏，觉得答案显然；你预估听者有 50% 能猜中，实际却只有 2.5%。这就是“敲击者与听者”实验，也是全书的核心隐喻。
 
-**Find the core. Share the core. Nothing else.**
+每个专家、创始人、领导者都受此影响。受众需要具体细节，你却讲抽象概念；你假定双方有共同背景，实际并不存在；最终信息被遗忘。
 
-This is not about dumbing down. It's about forced prioritization - finding the single most important thing and saying it in a way that's both compact and profound.
+SUCCESs 是系统性的解药。
 
-**Commander's Intent (CI):** The military's solution to the Curse of Knowledge. Instead of detailed battle plans that fall apart on contact with the enemy, officers communicate the ONE thing that matters: "Break the will of the enemy in this region." Soldiers can improvise around that intent when plans fail.
+### 多数信息为什么消失
 
-**Your Commander's Intent:** If your audience remembers only ONE thing, what must it be?
+```text
+表达者常做的：                       有黏性的信息会做的：
+把重点埋在背景里                     先讲核心：简单
+从意料之中的内容开始                 从令人惊讶的内容开始：意外
+使用抽象概念                         使用感官、可触及的语言：具体
+依靠自身权威                         让信息证明自己：可信
+诉诸理性与逻辑                       诉诸身份与感受：情感
+给结论                               讲能模拟行动的故事：故事
+```
 
-**Tools for simplicity:**
+---
 
-| Tool | How It Works | Example |
+## SUCCESs 框架
+
+六项原则不是要求全部满足的机械清单，而是诊断工具。多数表达只在一两项上失败，找出来并修复。
+
+### 1. 简单
+
+**找到核心，传达核心，仅此而已。**
+
+不是把内容讲浅，而是强制排序：找到最重要的一件事，用简洁又深刻的方式表达。
+
+**指挥官意图（CI）：**军队应对知识诅咒的方法。详细作战计划一遇敌就可能失效，因此军官传达唯一重要的意图：“瓦解敌人在这个地区的战斗意志。”计划失败时，士兵仍能围绕意图自主应变。
+
+**你的指挥官意图：**如果受众只记得一件事，必须是什么？
+
+**简化工具：**
+
+| 工具 | 作用方式 | 例子 |
 |------|-------------|---------|
-| **Inverted Pyramid** | Lead with the most important info first | Journalism standard: headline, lead, details |
-| **Generative Analogy** | Compress an idea into a schema people already have | Disney calls employees "cast members" - this single metaphor generates correct behavior across thousands of situations |
-| **High-Concept Pitch** | Describe via known reference points | "Jaws on a spaceship" (Alien), "Die Hard on a bus" (Speed) |
-| **Proverbs** | Compact + profound | "A bird in the hand is worth two in the bush" - simple AND deep |
+| **倒金字塔** | 最重要的信息放前面 | 新闻标准：标题、导语、细节 |
+| **生成性类比** | 将概念压缩进人们已有的认知图式 | Disney 称员工为“演职人员”，一个隐喻就能在数千种情境中引导正确行为 |
+| **高概念推介** | 用已知参照物描述 | “太空船上的《大白鲨》”是《异形》；“公交车上的《虎胆龙威》”是《生死时速》 |
+| **谚语** | 简短且深刻 | “双鸟在林，不如一鸟在手”，既简单又有深意 |
 
-**The accuracy trap:** Don't sacrifice memorability for completeness. "Maximize shareholder value" is accurate but generates no useful behavior. Southwest's "THE low-fare airline" is less precise but drives every decision in the company.
+**准确性陷阱：**不要为了完整牺牲可记忆性。“股东价值最大化”虽准确，却无法生成有用行为。Southwest 的“那家低票价航空公司”不那么精确，却指导公司每项决策。
 
-**Test:** Can a front-line employee use your message to make a decision you'd agree with, without asking you?
+**测试：**一线员工能否不问你，就依据信息作出你认可的决定？
 
-### 2. Unexpected
+### 2. 意外
 
-**Get attention with surprise. Keep attention with curiosity.**
+**用惊讶获取注意，用好奇保持注意。**
 
-Two problems, two solutions:
+两个问题，两种解法：
 
-| Problem | Solution | Mechanism |
+| 问题 | 解法 | 机制 |
 |---------|----------|-----------|
-| Getting attention | **Surprise** | Break a schema (violate expectations) |
-| Keeping attention | **Curiosity** | Open a knowledge gap, then fill it |
+| 获得注意 | **惊讶** | 打破认知图式，违背预期 |
+| 保持注意 | **好奇** | 打开知识缺口，再填补 |
 
-**The surprise sequence:**
-1. Identify the central message
-2. Figure out what is counterintuitive about it
-3. Communicate it in a way that breaks the audience's guessing machine
+**惊讶顺序：**
+1. 找到中心信息。
+2. 找出其中反直觉之处。
+3. 以打破受众“猜测机器”的方式表达。
 
-**Gap Theory of Curiosity (Loewenstein, 1994):** Curiosity happens when there's a gap between what we know and what we want to know. To make people curious: (1) point out what they DON'T know, (2) highlight that they should care, (3) fill the gap.
+**好奇心缺口理论（Loewenstein，1994）：**已知与想知道之间存在差距，就产生好奇。让人好奇需：指出其不知道什么，说明为何值得在意，再填补缺口。
 
-**Mysteries vs. surprise:** Surprise gets attention in a moment. Mysteries keep attention across time. Structure complex messages as mysteries when possible.
+**谜团与惊讶：**惊讶瞬间吸引注意，谜团持续保持注意。尽可能把复杂信息组织成谜团。
 
-**Warning:** Surprise for its own sake (gimmicks) is counterproductive. The surprise must serve the core message.
+**提醒：**纯为惊讶而制造噱头会适得其反。惊讶必须服务核心信息。
 
-### 3. Concrete
+### 3. 具体
 
-**Speak in sensory language. Actions, things, images - not abstractions.**
+**用感官语言表达，用行动、事物、画面，不用抽象话。**
 
-"Of the six traits, concreteness is perhaps the easiest to embrace. It may also be the most effective."
+“六种特质中，具体或许最容易采用，也可能最有效。”
 
-**Why we slip into abstraction:** Expertise makes you think in patterns and principles. You forget your audience thinks in concrete examples. Engineers make drawings more elaborate when they should walk to the factory floor.
+**为何容易抽象化：**专业知识使你习惯模式与原则，忘记受众依靠具体例子思考。工程师不断把图纸画复杂，却本该走到工厂现场。
 
-**Velcro Theory of Memory:** The more sensory hooks an idea has, the more it sticks. Abstract ideas have few hooks. Concrete ideas (sights, sounds, smells, touch, taste) have many.
+**记忆魔术贴理论：**概念的感官挂钩越多，越容易记住。抽象概念挂钩少；具体概念含视觉、声音、气味、触感、味道，挂钩多。
 
-| Abstract | Concrete |
+| 抽象 | 具体 |
 |----------|----------|
-| "Increase customer satisfaction" | "When a guest's towel falls in the pool, replace it before they ask" |
-| "The next great search engine" | "Seat 131 passengers, fly nonstop Miami to NYC, land on Runway 4-22 at La Guardia" |
-| "We value diversity" | "Our longest-tenured member is a 73-year-old retired government worker with no prior dance experience" |
-| "Improve employee productivity" | "If wireless saves an employee 1-2 minutes per day, it's paid for itself" |
+| “提高客户满意度” | “客人的毛巾掉进泳池，不等他开口就换好” |
+| “下一个伟大的搜索引擎” | “坐 131 名乘客，从迈阿密直飞纽约，在拉瓜迪亚 4-22 跑道降落” |
+| “我们重视多元” | “资历最久的成员是 73 岁退休政府职员，此前没有舞蹈经验” |
+| “提高员工生产率” | “无线网络每天替每人省一至两分钟，就已回本” |
 
-**The "White Things" test:** Name white things in the world (hard). Name white things in your refrigerator (easy). Concreteness focuses and mobilizes thinking.
+**“白色东西”测试：**列出世界上的白色东西，很难；列出冰箱里的白色东西，容易。具体会聚焦并调动思考。
 
-**For founders:** Visit actual customers. General Mills sent the Hamburger Helper team into customers' homes ("Fingertips" program). Abstract data produced abstract strategy. Concrete observation produced an 11% sales increase.
+**给创始人的建议：**拜访真实客户。General Mills 的“Fingertips”项目让 Hamburger Helper 团队走进客户家。抽象数据产生抽象战略，具体观察带来 11% 销售增长。
 
-### 4. Credible
+### 4. 可信
 
-**Make the audience believe you - or better, let them believe themselves.**
+**让受众相信你，更好的是，让他们相信自己的判断。**
 
-Three sources of credibility, from external to internal:
+可信度从外到内有三个来源：
 
-| Source | Type | Examples |
+| 来源 | 类型 | 例子 |
 |--------|------|----------|
-| **Authorities** | External | Experts with credentials, celebrities, anti-authorities (real people with lived experience) |
-| **The Message Itself** | Internal | Vivid details, human-scale statistics, the Sinatra Test |
-| **The Audience** | Self-verify | Testable credentials ("See for yourself") |
+| **权威** | 外部 | 有资历的专家、名人、非传统权威，即有亲身经历的普通人 |
+| **信息本身** | 内部 | 生动细节、人类尺度的统计、辛纳屈测试 |
+| **受众** | 自行验证 | 可验证的证据：“亲自看看” |
 
-**Anti-authorities are often stronger than authorities.** Pam Laffin (29-year-old smoker dying of emphysema) was more persuasive for anti-smoking than any surgeon general could be. Honesty and lived experience > status.
+**非传统权威常强于权威。**29 岁、因肺气肿濒死的吸烟者 Pam Laffin，比任何卫生部长都更能劝人戒烟。诚实与亲历胜过地位。
 
-**Statistics rule:** Never use a number in isolation. Always use statistics to illustrate a RELATIONSHIP. "5,000 nuclear warheads" means nothing. One BB in a bucket (Hiroshima), then 5,000 BBs poured in (current arsenal) - the roar that went on and on, followed by dead silence. That's a statistic that changes minds.
+**统计规则：**数字不能孤立使用，要用来展示关系。“5,000 枚核弹头”没有感觉；先往桶里放一颗 BB 弹，代表广岛原子弹，再倒入代表现有核武库的 5,000 颗，轰响持续不止，之后全场死寂。这才是改变认知的统计。
 
-**The Human-Scale Principle:** Reframe statistics in terms people can intuit. Not "sun to earth accuracy" but "New York to LA, within two thirds of an inch."
+**人类尺度原则：**把统计换算成人能直觉理解的尺度。不要说“太阳到地球的精度”，而说“纽约到洛杉矶，误差不到三分之二英寸”。
 
-**The Sinatra Test:** "If I can make it there, I'll make it anywhere." One example that alone establishes credibility for an entire domain. Safexpress delivered Harry Potter books on release day (every book, every bookstore, 8 AM, no leaks) - that single credential won a Bollywood distribution deal.
+**辛纳屈测试：**“如果能在这里成功，哪里都能成功。”一个案例足以建立整个领域的可信度。Safexpress 在《哈利·波特》发售日完成配送：每一本、每家书店、早上八点、没有泄密；这个单一资历赢得了宝莱坞发行订单。
 
-**Testable Credentials:** The most powerful form. Outsource credibility to the audience. "Are you better off than you were four years ago?" (Reagan). "Where's the beef?" (Wendy's). Let people discover the truth themselves.
+**可验证证据：**最有力的形式，把可信度判断交给受众。“你现在比四年前过得好吗？”Reagan。“牛肉在哪里？”Wendy's。让大家自己发现真相。
 
-### 5. Emotional
+### 5. 情感
 
-**Make people care. Belief without feeling doesn't produce action.**
+**让人在意。没有感受的相信，不会产生行动。**
 
-"If I look at the mass, I will never act. If I look at the one, I will." - Mother Teresa
+“看着人群，我永远不会行动；看着一个人，我就会。”——Mother Teresa
 
-**The Rokia Study:** People donated $2.38 to save one named girl (Rokia, 7, from Mali). People donated $1.14 when given statistics about millions suffering. People given BOTH Rokia + statistics donated $1.43. **Statistics actively suppressed emotional giving.** The analytical frame of mind is the enemy of empathy.
+**Rokia 研究：**为拯救马里七岁女孩 Rokia，人们平均捐 2.38 美元；只看到数百万人受苦的统计，捐 1.14 美元；同时看到女孩与统计，捐 1.43 美元。**统计主动压低了情感驱动的捐赠。**分析式思维是共情的敌人。
 
-**Three strategies for making people care:**
+**让人在意的三种策略：**
 
-| Strategy | Mechanism | Example |
+| 策略 | 机制 | 例子 |
 |----------|-----------|---------|
-| **Association** | Link idea to something people already care about | "Don't Mess with Texas" - link littering to state pride, not environment |
-| **Self-Interest (WIIFY)** | Answer "What's In It For You?" | But go beyond features to identity - Maslow's peak, not basement |
-| **Identity** | Appeal to who people ARE or want to be | "What would someone like me do?" (James March's identity model) |
+| **关联** | 连接到大家已在意的东西 | “别惹德州”：把乱扔垃圾与州自豪感连接，而非环保 |
+| **个人利益，WIIFY** | 回答“这对你有什么好处” | 超越功能，走向身份；关注马斯洛顶层，不只地下室 |
+| **身份认同** | 呼应他们是谁、想成为什么人 | “像我这样的人会怎么做？”James March 的身份模型 |
 
-**Maslow's Basement problem:** Marketers default to base-level appeals (save money, save time). Often the audience cares more about self-actualization, belonging, or esteem. "Don't Mess with Texas" worked because it appealed to Texan identity (esteem/belonging), not to environmental duty (abstract).
+**马斯洛地下室问题：**营销者默认用省钱、省时等基础诉求，但受众常更在意自我实现、归属、尊重。“别惹德州”有效，因为它诉诸德州身份，即尊重与归属，而非抽象环保义务。
 
-**Semantic Stretch warning:** Some words get used so often they lose emotional power ("unique," "quality," "innovative," "cutting-edge"). If a word could apply to any company in your industry, it's emotionally dead.
+**语义拉伸提醒：**有些词用得太多，失去情感力量，如“独特”“品质”“创新”“前沿”。如果一个词适用于行业中任何公司，它在情感上就已死亡。
 
-### 6. Stories
+### 6. 故事
 
-**Stories are flight simulators for the brain.**
+**故事是大脑的飞行模拟器。**
 
-Mental simulation research shows that imagining an event activates the same brain regions as experiencing it. Stories don't just inform - they prepare people to act.
+心理模拟研究发现，想象事件与亲身经历会激活相同脑区。故事不只提供信息，也让人准备行动。
 
-**Three inspirational plot types:**
+**三种励志情节：**
 
-| Plot | Core Pattern | When to Use |
+| 情节 | 核心模式 | 使用时机 |
 |------|-------------|-------------|
-| **Challenge** | Underdog overcomes obstacles | When you need to inspire persistence, effort, courage |
-| **Connection** | People bridge divides (racial, class, demographic) | When you need to build empathy, teamwork, tolerance |
-| **Creativity** | Someone has an insight that solves a puzzle | When you need to inspire innovation, new thinking |
+| **挑战** | 弱者克服障碍 | 激励坚持、努力、勇气 |
+| **连接** | 跨越种族、阶层、人口差异 | 建立共情、团队合作、包容 |
+| **创造** | 一个洞见解开难题 | 激励创新与新思维 |
 
-**Springboard stories:** Stephen Denning at the World Bank couldn't convince the institution to embrace knowledge management with data and arguments. He told a single story: a health worker in Zambia logging onto the CDC website to solve a malaria problem. That one story launched a transformation of the entire organization.
+**跳板故事：**世界银行的 Stephen Denning 用数据和论证，无法说服机构拥抱知识管理。他讲了一个故事：赞比亚一名卫生工作者登录 CDC 网站，解决疟疾问题。这个故事推动整个组织转型。
 
-**Spotting vs. creating:** You don't need to invent stories. The best stories already exist in your organization, among your customers, in your data. Your job is to spot them and retell them.
+**发现，而非编造：**不必发明故事。最好的故事已存在于组织、客户与数据中。你的工作是发现并转述。
 
-**The speakers vs. stickers experiment:** After a round of one-minute speeches using statistics, only 5% of listeners remembered a statistic. 63% remembered a story. Stories are 12x more memorable than statistics.
+**演讲者与记忆实验：**一轮使用统计数据的一分钟演讲之后，只有 5% 的听者记住某个数字，63% 记住一个故事。故事的可记忆性约为统计的十二倍。
 
 ---
 
-## The SUCCESs Diagnostic
+## SUCCESs 诊断
 
-When a message isn't working, use this to find the broken principle:
+信息无效时，用它找出失效原则：
 
-| Symptom | Likely Broken Principle | Fix |
+| 症状 | 可能失效的原则 | 修复 |
 |---------|----------------------|-----|
-| "It's too complicated" | Simple | Find Commander's Intent. Cut everything else. |
-| "People tune out immediately" | Unexpected | Lead with what's counterintuitive. Open a gap. |
-| "They nod but forget it next day" | Concrete | Replace abstractions with sensory details and examples. |
-| "They don't believe us" | Credible | Add anti-authorities, Sinatra Test examples, testable credentials. |
-| "They believe but don't care" | Emotional | Make it about one person, not millions. Appeal to identity. |
-| "They care but don't act" | Stories | Give them a mental simulation. Tell a Challenge or Springboard story. |
+| “太复杂” | 简单 | 找到指挥官意图，删去其余 |
+| “大家立刻走神” | 意外 | 先讲反直觉之处，打开缺口 |
+| “点头，但第二天就忘” | 具体 | 用感官细节、例子替换抽象话 |
+| “不相信我们” | 可信 | 加非传统权威、辛纳屈测试、可验证证据 |
+| “相信，但不在意” | 情感 | 讲一个人而非几百万人，呼应身份 |
+| “在意，但不行动” | 故事 | 提供心理模拟，讲挑战或跳板故事 |
 
 ---
 
-## The Communication Framework
+## 沟通框架
 
-Every communication task maps to SUCCESs:
+每项沟通任务都能对应 SUCCESs：
 
+```text
+需要受众……             使用原则：
+注意                    意外：惊讶 + 好奇缺口
+理解并记住              具体：感官、可触及、明确
+相信／认同              可信：权威、细节、辛纳屈测试、可验证
+在意                    情感：个体焦点、身份、个人利益
+行动                    故事：心理模拟、跳板故事
 ```
-I need my audience to...        Use this principle:
-PAY ATTENTION                   Unexpected (surprise + curiosity gap)
-UNDERSTAND AND REMEMBER         Concrete (sensory, tangible, specific)
-BELIEVE / AGREE                 Credible (authorities, details, Sinatra Test, testable)
-CARE                            Emotional (individual focus, identity, self-interest)
-ACT                             Stories (mental simulation, springboard stories)
-```
 
-Simple isn't listed because it's the prerequisite for all of them. If you haven't found the core, none of the other principles can save you.
+没有列“简单”，因为它是所有其他项的前提。没找到核心，其余原则都救不了。
 
 ---
 
-## Scope and Limitations
+## 范围与局限
 
-### What This Framework Gets Right
-- The SUCCESs checklist is genuinely diagnostic - identifies WHICH principle is failing
-- Curse of Knowledge concept is universal and immediately useful
-- Works for any communication: pitches, presentations, copy, training, internal memos
-- Evidence-based - most principles backed by research studies
-- The "clinic" format (before/after message comparison) is immediately actionable
+### 框架做对了什么
+- SUCCESs 真正具有诊断作用，能指出哪项原则失败。
+- 知识诅咒概念普遍适用，立即有用。
+- 适用于推介、演示、文案、培训、内部备忘等各种沟通。
+- 基于证据，多数原则有研究支持。
+- “诊所”形式，即改写前后比较，可立即实践。
 
-### What's Dated or Limited
-- **No digital-native guidance.** Written in 2007, before social media, short-form video, or AI. The principles are timeless, but application to tweets, TikToks, and AI-generated content requires adaptation.
-- **Academic tone in places.** The book itself occasionally violates its own principles by being abstract when discussing research methodology.
-- **Doesn't address channel or format.** Tells you how to make a message sticky, not where to deliver it (Traction) or how to structure a narrative for marketing specifically (StoryBrand).
-- **Weak on visual communication.** The principles apply to visual design but the book provides no specific guidance for it.
-- **Individual message focus.** Doesn't address how sticky messages fit into a larger marketing system, sales funnel, or brand architecture.
+### 过时或受限之处
+- **缺少数字原生指导。**写于 2007 年，早于社交媒体、短视频和 AI 时代。原则持久，但推文、TikTok、AI 内容需要适配。
+- **部分语言学术化。**讨论研究方法时，原书有时也因过于抽象而违反自身原则。
+- **不讨论渠道或格式。**教你怎样让信息易记，不教在哪里传播，也不专门教营销叙事结构；分别参考 Traction、StoryBrand。
+- **视觉沟通较弱。**原则可用于视觉设计，但书中没有具体指导。
+- **聚焦单条信息。**不讨论黏性信息怎样进入更大的营销系统、销售漏斗或品牌架构。
 
-### The Honest Assessment
-Made to Stick is a **message design toolkit**. It helps you craft individual messages that land. It doesn't help you decide what to say (that's strategy), where to say it (Traction), or how to structure your overall brand narrative (StoryBrand). Think of it as the quality control layer that sits on top of your messaging strategy.
+### 坦诚评价
 
-## Supporting Files
+Made to Stick 是**信息设计工具箱**，帮助单条信息有效传达。不负责决定说什么，那是战略；不负责在哪里说，那是 Traction；不负责整体品牌叙事，那是 StoryBrand。可把它看作表达战略之上的质量控制层。
 
-- **[frameworks.md](frameworks.md)** - SUCCESs principle deep dives, Message Clinic framework, the Villain Lineup (Curse of Knowledge variants)
-- **[cases.md](cases.md)** - Cases organized by principle: Southwest, Clinton '92, Palm Pilot, Nordstrom, Jane Elliott, Boeing 727, Pam Laffin, Safexpress, Rokia study, Don't Mess with Texas, Jared/Subway, Stephen Denning/World Bank
-- **[examples.md](examples.md)** - SUCCESs audit worksheet, message clinic template, Commander's Intent worksheet, statistic-reframing worksheet, story-spotting interview templates
-- **[integration.md](integration.md)** - Integration and conflicts with StoryBrand, Obviously Awesome, Traction, $100M Offers, Lean Startup, SPIN Selling, Mom Test, Influence, Four Steps
+## 配套文件
+
+- **[frameworks.md](frameworks.md)：**SUCCESs 原则详解、信息诊所框架、知识诅咒各类“反派”。
+- **[cases.md](cases.md)：**按原则整理的 Southwest、Clinton 1992、Palm Pilot、Nordstrom、Jane Elliott、Boeing 727、Pam Laffin、Safexpress、Rokia、“别惹德州”、Jared／Subway、Stephen Denning／世界银行案例。
+- **[examples.md](examples.md)：**SUCCESs 审查表、信息诊所模板、指挥官意图工作表、统计重述工作表、故事发现访谈模板。
+- **[integration.md](integration.md)：**与 StoryBrand、Obviously Awesome、Traction、$100M Offers、Lean Startup、SPIN Selling、Mom Test、Influence、Four Steps 的整合及冲突。

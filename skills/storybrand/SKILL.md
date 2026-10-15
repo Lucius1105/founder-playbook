@@ -1,286 +1,288 @@
 ---
 name: storybrand
-description: "Applies the StoryBrand SB7 Framework from Building a StoryBrand by Donald Miller. Use when writing website copy, crafting brand messaging, creating marketing materials, building sales funnels, or designing email campaigns. The SB7 Framework positions the customer as the hero and the brand as the guide across 7 story elements. Triggers include 'how should we write our website', 'our messaging is confusing', 'customers don't understand what we do', 'how do I write a tagline', 'what should our homepage say', 'nobody reads our emails', 'how do I create a lead generator', 'our marketing isn't working but our product is good'. NOT for growth channel selection (use Traction), not for product positioning against competitors (use Obviously Awesome), not for pricing (use Monetizing Innovation)."
+description: "应用 Donald Miller《Building a StoryBrand》的 StoryBrand SB7 框架。适用于网站文案、品牌信息、营销材料、销售漏斗和邮件营销。SB7 通过七个故事元素，把客户设为英雄、品牌设为向导。触发问题包括：‘网站怎么写’‘我们的表达让人困惑’‘客户不理解我们做什么’‘标语怎么写’‘首页该说什么’‘没人读我们的邮件’‘怎样制作引流资料’‘产品很好，但营销不起作用’。不适用于增长渠道选择（用 Traction）、相对竞品的产品定位（用 Obviously Awesome）、定价（用 Monetizing Innovation）。"
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/storybrand/SKILL.md)。原项目整理：AgentSeal；书籍来源：《Building a StoryBrand》— Donald Miller；AI 辅助翻译。
 
+> **说明：**本技能是独立分析与评论，并非原书的复制。它综合原书核心观点与现代创业实践，指出框架过时或不完整之处，并整合相邻学科的视角。完整论证与上下文请阅读原著。
 
-# StoryBrand
+# StoryBrand（品牌故事）
 
-> "If you confuse, you'll lose." - Donald Miller
+> “让人困惑，就会失去客户。”——Donald Miller
 
-## Should You Use This Skill?
+## 应该使用本技能吗？
 
+```text
+产品很好，但营销表现不佳？
+|-- 是 --> 客户能用一句话解释你做什么吗？
+|   |-- 不能 --> 使用本技能：你的问题是表达不清。
+|   +-- 能 --> 他们知道为什么这与自己有关吗？
+|               |-- 不知道 --> 使用本技能：你没有接上他们的故事。
+|               +-- 知道 --> 问题在别处。试试 Traction（渠道）
+|                           或 Obviously Awesome（竞争定位）。
++-- 否 --> 产品本身真的好吗？
+            |-- 不好 --> 先改产品，参考 Lean Startup／Four Steps。
+            +-- 好 --> 客户能找到你吗？
+                        |-- 不能 --> 用 Traction：这是分发问题，不是表达问题。
+                        +-- 能找到但不转化 --> 使用本技能。
 ```
-Is your marketing underperforming despite a good product?
-|-- YES --> Can customers explain what you do in one sentence?
-|   |-- NO  --> THIS SKILL. You have a clarity problem.
-|   +-- YES --> Do they understand why they should care?
-|               |-- NO  --> THIS SKILL. You're not connecting to their story.
-|               +-- YES --> Problem is elsewhere. Try Traction (channels) or
-|                           Obviously Awesome (competitive positioning).
-+-- NO  --> Is your product actually good?
-            |-- NO  --> Fix product first (Lean Startup / Four Steps).
-            +-- YES --> Are customers finding you?
-                        |-- NO  --> Use Traction. Distribution problem, not messaging.
-                        +-- YES but not converting --> THIS SKILL.
-```
-
----
-
-## The Core Insight
-
-**Customers don't buy the best products. They buy the products they can understand the fastest.**
-
-The human brain is a survival processor. It has two jobs:
-1. Help us survive and thrive
-2. Conserve calories (mental energy)
-
-If a customer hits your website and burns too many calories trying to figure out what you offer, they leave. It doesn't matter how good your product is. **Noise kills sales.**
-
-Story is the antidote to noise. Story is the most powerful tool for organizing information because the human brain is hardwired for narrative. The SB7 Framework forces your messaging into a story structure that every brain already knows how to process.
-
-### The Mistake Every Brand Makes
-
-```
-WHAT BRANDS DO:                        WHAT BRANDS SHOULD DO:
-Position themselves as the HERO        Position themselves as the GUIDE
-Talk about their own journey           Talk about the customer's journey
-Lead with features and history         Lead with the customer's problem
-Use insider jargon                     Use simple, clear language
-Make the customer work to understand   Make the offer obvious in 5 seconds
-```
-
-The customer is the hero. The brand is the guide. **Every great story follows this pattern: a CHARACTER who wants something encounters a PROBLEM before they can get it. At the peak of their despair, a GUIDE steps into their life, gives them a PLAN, and CALLS THEM TO ACTION. That action either ends in SUCCESS or FAILURE.**
 
 ---
 
-## The SB7 Framework
+## 核心洞见
 
-Seven story elements. Get them right and your marketing works. Get them wrong and you're burning money.
+**客户不一定买最好的产品，他们会买最快能理解的产品。**
 
-### 1. A Character (The Customer)
+人脑是生存处理器，有两个任务：
+1. 帮助我们生存并过得更好。
+2. 节省热量，也就是脑力。
 
-The hero wants something. You must define what.
+客户来到你的网站，如果要耗费太多脑力才能明白你提供什么，就会离开。产品再好也没有用。**噪声会扼杀销售。**
 
-**Rules:**
-- Choose ONE desire related to your offering (not twenty)
-- The desire must be a survival-related need (physical, emotional, or aspirational)
-- Open a "story gap" between where they are and where they want to be
+故事是噪声的解药。人脑天生擅长处理叙事，因此故事是组织信息最有力的工具。SB7 强迫你把信息放进人人都已熟悉的故事结构。
 
-**The 7 survival categories** (all desire maps to these):
+### 每个品牌都会犯的错误
 
-| Category | Example |
+```text
+品牌常做的：                         品牌应该做的：
+把自己设为英雄                       把自己设为向导
+讲自己的历程                         讲客户的历程
+先谈功能和历史                       先谈客户的问题
+使用圈内术语                         使用简单清晰的语言
+让客户费力理解                       五秒内让人看懂所提供的价值
+```
+
+客户是英雄，品牌是向导。**每个好故事都遵循这一模式：一个角色想要某样东西，却在得到它之前遇上问题。在最绝望时，一位向导走进其生活，给出计划并号召其行动。行动最终导向成功或失败。**
+
+---
+
+## SB7 框架
+
+七个故事元素。做对了，营销就能发挥作用；做错了，就是在烧钱。
+
+### 1. 一个角色（客户）
+
+英雄想要某样东西，你必须明确那是什么。
+
+**规则：**
+- 选择一个与你的产品相关的愿望，不要选二十个。
+- 愿望必须与生存需要有关，可以是身体、情感或追求层面的。
+- 在当前处境与理想状态之间，打开一个“故事缺口”。
+
+**七类生存需要：**所有愿望都可以对应到其中。
+
+| 类别 | 例子 |
 |----------|---------|
-| Conserving financial resources | Save money, build wealth |
-| Conserving time | Efficiency, automation, less hassle |
-| Building social networks | Community, belonging, status |
-| Gaining status | Recognition, respect, credibility |
-| Accumulating resources | Tools, knowledge, assets |
-| The innate desire to be generous | Give back, legacy, meaning |
-| The desire for meaning | Purpose, self-actualization |
+| 节省财务资源 | 省钱、积累财富 |
+| 节省时间 | 效率、自动化、减少麻烦 |
+| 建立社会网络 | 社群、归属、地位 |
+| 获得地位 | 认可、尊重、可信度 |
+| 积累资源 | 工具、知识、资产 |
+| 与生俱来的慷慨愿望 | 回馈、传承、意义 |
+| 对意义的渴望 | 使命、自我实现 |
 
-**Test:** Can you fill in: "Our customer wants ___________"? If you can't say it in one phrase, you haven't identified it yet.
+**测试：**你能填完“我们的客户想要___________”吗？如果无法用一个短语说清，你还没有找到它。
 
-### 2. Has a Problem
+### 2. 遇到一个问题
 
-This is where most brands fail. They talk about solutions before establishing the problem. **The deeper you define the problem, the more the customer trusts you as the guide.**
+多数品牌在这里失败：还没把问题讲清，就开始谈解决方案。**你把问题定义得越深入，客户越信任你这位向导。**
 
-Three layers:
+三个层次：
 
-| Layer | What It Is | Example (Financial Advisor) |
+| 层次 | 含义 | 例子（理财顾问） |
 |-------|-----------|---------------------------|
-| **External** | The tangible, surface-level problem | "I don't have a retirement plan" |
-| **Internal** | How the problem makes them FEEL | "I feel confused and overwhelmed" |
-| **Philosophical** | Why this is WRONG or UNJUST | "Retirement shouldn't be this complicated" |
+| **外在** | 具体、表层的问题 | “我没有退休规划” |
+| **内在** | 问题让他们产生的感受 | “我困惑、无所适从” |
+| **理念** | 为什么这件事不对或不公平 | “退休不该这么复杂” |
 
-**The Villain:** Every problem needs a villain - a root cause. Not a person necessarily, but a force: complexity, inefficiency, frustration, wasted time, unfair pricing.
+**反派：**每个问题都需要一个反派，也就是根因。它未必是人，也可以是一股力量：复杂、低效、挫败、浪费时间、不公平的定价。
 
-**Critical insight:** Companies sell solutions to external problems. Customers buy solutions to internal problems. The internal problem is where the sale happens.
+**关键洞见：**企业出售外在问题的解决方案，客户购买内在问题的解决方案。真正促成销售的是内在问题。
 
-### 3. And Meets a Guide (You)
+### 3. 遇见一位向导（你）
 
-The brand enters the story not as another hero but as the guide - the Yoda to their Luke Skywalker.
+品牌进入故事时，应是向导而不是另一位英雄：客户是 Luke Skywalker，你是 Yoda。
 
-**Two qualities of a guide:**
+**向导的两种品质：**
 
-| Quality | What It Communicates | How to Demonstrate |
+| 品质 | 传递的信息 | 如何表现 |
 |---------|---------------------|--------------------|
-| **Empathy** | "I understand your pain" | "We know what it's like to..." |
-| **Authority** | "I can actually help" | Testimonials, stats, logos, awards |
+| **共情** | “我理解你的痛苦” | “我们知道……是什么感觉” |
+| **权威** | “我确实能帮助你” | 客户证言、统计数据、客户标志、奖项 |
 
-**Authority without empathy = arrogance.** Empathy without authority = weakness. You need both.
+**没有共情的权威是傲慢，没有权威的共情是软弱。**两者都要有。
 
-**Four ways to show authority:**
-1. Testimonials (strongest)
-2. Statistics ("helped 10,000+ businesses")
-3. Awards and recognitions
-4. Logos of clients served
+**展示权威的四种方式：**
+1. 客户证言，最有力。
+2. 统计数据：“已帮助超过 10,000 家企业。”
+3. 奖项与认可。
+4. 服务过的客户标志。
 
-### 4. Who Gives Them a Plan
+### 4. 向导给出一份计划
 
-Customers don't take action when they're confused. A plan removes confusion.
+困惑的客户不会行动。计划能消除困惑。
 
-**Two types:**
+**两种类型：**
 
-| Plan Type | Purpose | Format |
+| 计划类型 | 目的 | 形式 |
 |-----------|---------|--------|
-| **Process Plan** | Shows the path from here to there | 3-6 numbered steps |
-| **Agreement Plan** | Removes fear of doing business with you | List of commitments/guarantees |
+| **流程计划** | 展示从现在到目标的路径 | 三至六个编号步骤 |
+| **承诺计划** | 消除与我们交易的顾虑 | 承诺或保证清单 |
 
-**Process plan rule:** 3-6 steps maximum. If it takes more, you're overcomplicating it. Name the plan something catchy if possible.
+**流程计划规则：**最多三至六步。再多就是过于复杂。可能的话，给计划起个好记的名字。
 
-**Agreement plan examples:** Money-back guarantee, "No spam ever," "Cancel anytime," satisfaction pledges.
+**承诺计划示例：**退款保证、“绝不发送垃圾信息”“随时取消”、满意度承诺。
 
-### 5. And Calls Them to Action
+### 5. 号召客户行动
 
-**Without a clear call to action, nothing happens.** Most brands are too passive.
+**没有清晰的行动号召，就什么也不会发生。**多数品牌太被动。
 
-| CTA Type | Purpose | Examples |
+| 行动号召类型 | 目的 | 例子 |
 |----------|---------|---------|
-| **Direct** | The sale. The thing you want them to do. | "Buy Now," "Schedule a Call," "Get Started" |
-| **Transitional** | For people not ready to buy yet. | Free PDF, webinar, trial, assessment |
+| **直接型** | 促成销售，让对方做你期望的事 | “立即购买”“预约通话”“开始使用” |
+| **过渡型** | 面向尚未准备购买的人 | 免费 PDF、线上讲座、试用、评估 |
 
-**Rules for direct CTAs:**
-- One primary CTA, everywhere, always visible
-- Use a different color button than everything else on the page
-- Repeat it multiple times on every page
+**直接行动号召规则：**
+- 只有一个主要行动号召，各处一致，并始终可见。
+- 按钮颜色与页面其他元素不同。
+- 每个页面重复出现多次。
 
-**Three powers of transitional CTAs:**
-1. Stakes a claim to your territory (establishes expertise)
-2. Creates reciprocity (free value = goodwill)
-3. Positions you as the guide (delivers a quick win)
+**过渡型行动号召的三种力量：**
+1. 宣示你在这个领域的专业地位。
+2. 创造互惠，免费价值带来好感。
+3. 通过快速解决一个问题，将你定位为向导。
 
-### 6. That Helps Them Avoid Failure
+### 6. 帮助客户避免失败
 
-People are more motivated by fear of loss than desire for gain (loss aversion = 2-3x stronger). Your messaging must answer: "What happens if they DON'T engage with you?"
+损失恐惧比获得愿望更能驱动人，损失厌恶的力量为后者的两至三倍。信息必须回答：“如果不与你合作，会发生什么？”
 
-**The "salt in the recipe" rule:** Use just enough failure/stakes to create urgency, but don't overdo it. Too much fear = paralysis. Too little = no urgency.
+**“菜里放盐”规则：**失败与利害描述要刚好足够制造紧迫感，不宜过量。恐惧太多会使人瘫痪，太少则没有紧迫感。
 
-**Four-step fear appeal:**
-1. Make the reader know they're vulnerable to a threat
-2. Make them know they should take action to reduce vulnerability
-3. Make them know a specific call to action that protects them
-4. Challenge them to take that specific action
+**恐惧诉求的四步：**
+1. 让读者意识到自己可能遭遇某种威胁。
+2. 让他们知道应采取行动以降低脆弱性。
+3. 让他们知道具体哪项行动可以保护自己。
+4. 促请他们采取这项具体行动。
 
-### 7. And Ends in a Success
+### 7. 最终获得成功
 
-Paint the picture of life AFTER they use your product. Be specific.
+描绘使用产品之后的生活，务必具体。
 
-**Three story endings that resonate:**
-1. **Power/Position** - Status, authority, winning ("Become the leader your team needs")
-2. **Union/Wholeness** - Completeness, reduced anxiety, connection ("Everything in one place")
-3. **Self-Realization** - Reaching potential, identity shift ("Become who you were meant to be")
+**能引发共鸣的三类结局：**
+1. **力量／地位：**地位、权威、胜利。“成为团队需要的领导者。”
+2. **联结／完整：**完整感、焦虑减少、建立连接。“一切尽在一处。”
+3. **自我实现：**发挥潜能、身份转变。“成为你本该成为的人。”
 
-**+ Identity Transformation (the most powerful element):**
+**再加上身份转变，这是最有力的元素：**
 
-| FROM (before your product) | TO (after your product) |
+| 从（使用产品前） | 到（使用产品后） |
 |---------------------------|------------------------|
-| Confused | Confident |
-| Overwhelmed | In control |
-| Amateur | Professional |
-| Stressed | At peace |
+| 困惑 | 自信 |
+| 不堪重负 | 掌控局面 |
+| 业余 | 专业 |
+| 压力重重 | 内心平静 |
 
-**Test:** Can you fill in: "Before us, our customer felt ___. After us, they feel ___"?
-
----
-
-## The BrandScript (One-Page Summary)
-
-Fill this in and use it to generate ALL marketing materials:
-
-```
-CHARACTER:    [Customer] wants [desire].
-PROBLEM:      Villain: [root cause]. External: [tangible problem].
-              Internal: [how it feels]. Philosophical: [why it's wrong].
-GUIDE:        Empathy: [we understand...]. Authority: [proof].
-PLAN:         Step 1: [___]. Step 2: [___]. Step 3: [___].
-CALL TO ACTION: Direct: [___]. Transitional: [___].
-FAILURE:      If they don't act: [specific negative outcomes].
-SUCCESS:      If they do act: [specific positive outcomes].
-TRANSFORMATION: From [___] to [___].
-```
-
-Detailed templates and worked examples: see [examples.md](examples.md).
+**测试：**能否填完：“遇到我们之前，客户感到___；之后，他们感到___”？
 
 ---
 
-## The One-Liner
+## BrandScript（品牌故事脚本，一页摘要）
 
-A single statement that makes people want to know more. Use it everywhere: email signatures, social bios, elevator pitches, website headers.
+填好下面内容，用它生成所有营销材料：
 
-**Formula:**
+```text
+角色：       ［客户］想要［愿望］。
+问题：       反派：［根因］。外在：［具体问题］。
+             内在：［感受］。理念：［为什么不对］。
+向导：       共情：［我们理解……］。权威：［证据］。
+计划：       第一步：［___］。第二步：［___］。第三步：［___］。
+行动号召：   直接型：［___］。过渡型：［___］。
+失败：       不行动将导致：［具体负面结果］。
+成功：       行动将带来：［具体正面结果］。
+转变：       从［___］到［___］。
 ```
-[PROBLEM] + [SOLUTION] + [RESULT]
-```
 
-**Examples:**
-- "Most small businesses waste money on marketing that doesn't work. We created a framework that clarifies your message so customers listen. Companies that use our framework see dramatic revenue growth."
-- "Planning a wedding is stressful. We've created a comprehensive online tool to make planning a wedding simple and fun. Enjoy your engagement."
+详细模板和实例见 [examples.md](examples.md)。
 
 ---
 
-## Website: The 5-Second Test
+## 一句话介绍
 
-A visitor should be able to answer three questions within 5 seconds of landing on your site:
-1. **What do you offer?**
-2. **How will it make my life better?**
-3. **What do I need to do to buy it?**
+用一句完整表达让人想继续了解，可用于邮件签名、社交简介、电梯推介、网站页首。
 
-**Five things every website needs:**
+**公式：**
+```text
+［问题］+［解决方案］+［结果］
+```
 
-| Element | Placement |
+**例子：**
+- “多数小企业把钱浪费在无效营销上。我们创建了一套框架，帮助你把信息讲清，让客户愿意听。使用这套框架的企业，收入实现了显著增长。”
+- “筹备婚礼很有压力。我们打造了一款功能全面的在线工具，让婚礼筹备简单又有趣。安心享受你的订婚时光。”
+
+---
+
+## 网站：五秒测试
+
+访客进入网站后，应能在五秒内回答三个问题：
+1. **你提供什么？**
+2. **它怎样让我的生活更好？**
+3. **我该怎么购买？**
+
+**每个网站都需要五样东西：**
+
+| 元素 | 放置方式 |
 |---------|-----------|
-| An offer above the fold | Header area, with image of success |
-| Obvious calls to action | Two buttons: direct CTA (bold color) + transitional CTA (less prominent) |
-| Images of success | Show end state, not process. Happy outcomes, not product screenshots. |
-| Bite-sized revenue breakdown | Break complex offerings into simple categories |
-| Very few words | Ruthlessly cut copy. If it doesn't serve the story, kill it. |
+| 首屏展示所提供的价值 | 页首区域，搭配成功状态的图片 |
+| 明显的行动号召 | 两个按钮：直接型用醒目颜色，过渡型较低调 |
+| 成功状态的图片 | 展示最终状态而非过程，呈现愉快结果而非产品截图 |
+| 简明的营收业务分类 | 把复杂业务拆成简单类别 |
+| 极少的文字 | 坚决删减。不服务于故事的文案就删掉 |
 
 ---
 
-## The Marketing Roadmap (5 Tasks)
+## 营销路线图（五项任务）
 
-After completing the BrandScript, execute these five tasks to build a complete marketing system:
+完成 BrandScript 后，执行以下五项任务，建立完整营销系统：
 
-1. **Create a One-Liner** - Your elevator pitch. Use everywhere.
-2. **Create a Lead Generator** - Free resource that solves a small problem (PDF, quiz, video series, webinar). Gate it with an email capture.
-3. **Create an Automated Email Drip Campaign** - Nurture sequence: deliver value, then make an offer. Mix nurture emails (tips, stories) with sales emails.
-4. **Collect Transformation Testimonials** - Not "great product!" testimonials. Before/after stories: "Before I was [problem]. After working with [brand], I am [transformation]."
-5. **Create a Referral System** - Give existing customers a reason and a mechanism to refer others.
+1. **写一句话介绍：**作为电梯推介，到处使用。
+2. **制作引流资料：**解决一个小问题的免费资源，例如 PDF、测验、系列视频、线上讲座；以留下邮箱为领取条件。
+3. **建立自动邮件培育序列：**先提供价值，再提出购买邀请；培育邮件如技巧、故事，与销售邮件混合使用。
+4. **收集转变型客户证言：**不要只有“产品真棒”，要前后对比：“以前我有［问题］，与［品牌］合作后，我实现了［转变］。”
+5. **建立转介绍系统：**给现有客户推荐他人的理由，以及便利的机制。
 
-Detailed implementation guides: see [frameworks.md](frameworks.md).
+详细实施指南见 [frameworks.md](frameworks.md)。
 
 ---
 
-## Scope and Limitations
+## 适用范围与局限
 
-### What This Framework Gets Right
-- Simplifies messaging with a universal narrative structure
-- The customer-as-hero principle eliminates self-centered marketing
-- The BrandScript is immediately actionable - one page drives all copy
-- Website framework alone can dramatically improve conversion rates
-- Works across industries, company sizes, and channels
+### 框架做对了什么
+- 用普遍的叙事结构简化表达。
+- 以客户为英雄，消除以品牌自身为中心的营销。
+- BrandScript 可立即执行，一页指导所有文案。
+- 单用网站框架，就可能显著提升转化率。
+- 适用于不同行业、公司规模和渠道。
 
-### What's Dated or Limited
-- **Assumes awareness exists.** StoryBrand helps you convert attention into action. It doesn't help you GET attention. Use Traction for channel selection.
-- **Weak on competitive positioning.** SB7 tells you how to talk about yourself, not how to position against specific competitors. Use Obviously Awesome for competitive context.
-- **B2C bias.** Many examples are small business / consumer-facing. The framework works for B2B but requires adaptation for complex, multi-stakeholder sales (add SPIN Selling).
-- **No pricing guidance.** Great messaging with wrong pricing still fails. Use Monetizing Innovation.
-- **Oversimplifies for complex products.** If you have multiple buyer personas with different problems, you may need multiple BrandScripts. The book doesn't address this well.
-- **"Guide" positioning can conflict with category creation.** If you're creating a new category (Blue Ocean Strategy), the "guide" framing may not fit - you may need to be the visionary, not the mentor.
+### 哪些地方过时或受限
+- **假定你已经获得关注。**StoryBrand 帮助把注意力转为行动，不负责获取注意力。渠道选择用 Traction。
+- **竞争定位较弱。**SB7 教你如何谈自己，不教你如何相对于具体竞品定位。竞争情境用 Obviously Awesome。
+- **偏向 B2C。**很多例子来自小企业或面向消费者的业务。B2B 也适用，但复杂、多方决策销售需要调整，可补充 SPIN Selling。
+- **没有定价指导。**表达再好，价格不对仍会失败。使用 Monetizing Innovation。
+- **复杂产品容易被过度简化。**若有多个购买者画像、不同问题，可能需要多个 BrandScript，原书对此讨论不足。
+- **“向导”定位可能与品类创建冲突。**若在创造新品类，参考 Blue Ocean Strategy，“向导”未必合适；你可能需要成为愿景提出者，而非导师。
 
-### The Honest Assessment
-The SB7 Framework is best understood as a **messaging and copy framework**, not a complete marketing strategy. It's the "what to say" piece. You still need:
-- Traction: where to say it
-- Obviously Awesome: how to position it against competitors
-- $100M Offers: how to package the offer itself
-- Monetizing Innovation: how to price it
+### 坦诚评价
 
-## Supporting Files
+最好把 SB7 理解为**信息表达与文案框架**，而不是完整营销战略。它解决“说什么”。你仍需要：
+- Traction：在哪里说。
+- Obviously Awesome：如何相对于竞争对手定位。
+- $100M Offers：如何包装报价本身。
+- Monetizing Innovation：如何定价。
 
-- **[frameworks.md](frameworks.md)** - SB7 module deep dives, website framework deep dive, marketing roadmap deep dive, SB7 in company culture
-- **[cases.md](cases.md)** - Fitzii, Reed's Dairy, Kyle Shultz, Jenny Shih, Mavuno Church, Marie Mae Company, Tidal (failure case), CarMax, Starbucks, Apple, Dave Ramsey
-- **[examples.md](examples.md)** - BrandScript worksheet, one-liner worksheet, website wireframe, email drip templates, testimonial-collection template, messaging diagnostic
-- **[integration.md](integration.md)** - Integration and conflicts with Made to Stick, Obviously Awesome, Traction, $100M Offers, Mom Test, SPIN Selling, Monetizing Innovation, Influence
+## 配套文件
+
+- **[frameworks.md](frameworks.md)：**SB7 模块深入解析、网站框架、营销路线图，以及 SB7 在企业文化中的应用。
+- **[cases.md](cases.md)：**Fitzii、Reed's Dairy、Kyle Shultz、Jenny Shih、Mavuno Church、Marie Mae Company、Tidal 失败案例、CarMax、Starbucks、Apple、Dave Ramsey。
+- **[examples.md](examples.md)：**BrandScript 工作表、一句话介绍工作表、网站线框、邮件序列模板、证言收集模板、信息表达诊断。
+- **[integration.md](integration.md)：**与 Made to Stick、Obviously Awesome、Traction、$100M Offers、Mom Test、SPIN Selling、Monetizing Innovation、Influence 的整合及冲突。

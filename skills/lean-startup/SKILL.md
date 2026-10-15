@@ -1,374 +1,416 @@
 ---
 name: lean-startup
-description: "Applies Eric Ries's Lean Startup methodology for building products under extreme uncertainty. Use when iterating toward product/market fit, designing MVPs, deciding whether to pivot or persevere, setting up actionable metrics, or accelerating the Build-Measure-Learn loop. Triggers include 'how do we test this idea fast', 'what should our MVP look like', 'our metrics look good but we're not growing', 'should we pivot', 'we're building features no one uses', 'how do we measure validated learning', 'vanity metrics vs real metrics', 'how to do innovation accounting'. NOT for companies with proven product/market fit scaling a known playbook (use Crossing the Chasm), not for determining Market Type (use Four Steps), not for sales methodology (use SPIN Selling), not for pricing strategy (use Monetizing Innovation)."
+description: "应用 Eric Ries 的精益创业方法，在极端不确定条件下开发产品。适用于迭代寻找产品与市场匹配、设计最小可行产品（MVP）、决定转型还是坚持、建立可行动指标，或加快构建—衡量—学习循环。触发问题包括：如何快速测试想法、MVP 应该是什么样、指标好看但没有增长、是否转型、不断开发无人使用的功能、如何衡量经验证的学习、虚荣指标与真实指标有何区别、如何进行创新核算。不用于已经证明产品与市场匹配并扩大已知打法的公司（用 Crossing the Chasm），不用于判断市场类型（用 Four Steps）、销售方法（用 SPIN Selling）或定价策略（用 Monetizing Innovation）。"
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/lean-startup/SKILL.md)。原项目整理：AgentSeal；书籍来源：《The Lean Startup》— Eric Ries；AI辅助翻译。
 
+> **说明：**本技能是独立分析与评论，并非原书的复制品。它结合现代创业实践梳理书中核心思想，指出框架中过时或不完整的部分，并融入相邻领域的观点。如需完整论证与背景，请阅读原书。
 
-# The Lean Startup
+<a id="the-lean-startup"></a>
+# The Lean Startup（精益创业）
 
-> "The Lean Startup is not a collection of individual tactics. It is a principled approach to new product development." - Eric Ries
+> “精益创业不是一组零散战术，而是一套有原则的新产品开发方法。”——Eric Ries
 
-## Should You Use This Skill?
+<a id="should-you-use-this-skill"></a>
+## 你应该使用本技能吗？
 
+```text
+你是否在极端不确定条件下创造新东西？
+├─ 是 → 知道客户是谁吗？
+│       ├─ 不知道 → 从 Four Steps 的客户探索开始，
+│       │            用 Lean Startup 提高其中的迭代速度。
+│       └─ 知道 → 产品与市场匹配了吗？
+│                  ├─ 没有 → 使用本技能，运行构建—衡量—学习循环。
+│                  └─ 有 → 用 Crossing the Chasm 扩大主流市场。
+└─ 否 → 是在已知市场优化现有产品吗？
+        ├─ 是 → 小批量、五问法等原则仍适用，但不需要整套框架。
+        └─ 否 → 重新思考你正在做什么。
 ```
-Are you building something under conditions of extreme uncertainty?
-|-- YES --> Do you know who your customers are?
-|   |-- NO  --> Start with Four Steps (Customer Discovery), use Lean
-|   |           Startup for iteration speed within that process
-|   +-- YES --> Do you have product/market fit?
-|               |-- NO  --> THIS SKILL. Build-Measure-Learn loop.
-|               +-- YES --> Use Crossing the Chasm for mainstream scaling
-+-- NO  --> Are you optimizing an existing product in a known market?
-            |-- YES --> Lean Startup principles apply (small batches,
-            |           Five Whys) but you don't need the full framework
-            +-- NO  --> Rethink what you're doing
-```
-
----
-
-## The Core Insight
-
-**Most startups fail not because they can't build a product, but because they build something nobody wants.** The default response to failure is: we didn't plan well enough, execute hard enough, or have the right vision. Ries argues the real problem is the absence of a management framework designed for uncertainty.
-
-A startup is: **a human institution designed to create a new product or service under conditions of extreme uncertainty.** This definition applies to garage founders, corporate intrapreneurs, and government innovators alike.
-
-### The Five Principles
-
-1. **Entrepreneurs are everywhere** - any organization creating under uncertainty
-2. **Entrepreneurship is management** - not just "a cool product" but a discipline
-3. **Validated learning** - not "we learned a lot" but learning backed by empirical data
-4. **Build-Measure-Learn** - turn ideas into products, measure response, learn whether to pivot or persevere
-5. **Innovation accounting** - hold innovators accountable with a new kind of accounting designed for uncertainty
 
 ---
 
-## Build-Measure-Learn
+<a id="the-core-insight"></a>
+## 核心洞见
 
-The fundamental activity loop. **Minimize total time through the loop.**
+**多数创业公司失败，不是因为造不出产品，而是因为造了没人想要的东西。**面对失败，常见解释是计划不够好、执行不够狠、愿景不对。Ries 认为真正的问题，是缺少为不确定性设计的管理框架。
 
-```
-         IDEAS
+创业公司是：**在极端不确定条件下，为创造新产品或服务而设计的人类组织。**这个定义适用于车库里的创始人、企业内部创业者和政府创新者。
+
+<a id="the-five-principles"></a>
+### 五项原则
+
+1. **创业者无处不在**：任何在不确定性中创造的组织都适用。
+2. **创业是一种管理**：不只是“一个很酷的产品”，而是一门学科。
+3. **经验证的学习**：不是“学到了很多”，而是有实证数据支持的学习。
+4. **构建—衡量—学习**：把想法变成产品，衡量反应，判断转型还是坚持。
+5. **创新核算**：用适合不确定性的新核算方法，让创新者承担责任。
+
+---
+
+<a id="build-measure-learn"></a>
+## 构建—衡量—学习
+
+这是基本活动循环。**尽量缩短完成整个循环的总时间。**
+
+```text
+          想法
+         /    \
         /      \
-       /        \
-  LEARN          BUILD
-      \          /
-       \        /
-        DATA--PRODUCT
-        (Measure)
+      学习      构建
+        \      /
+         \    /
+        数据——产品
+          （衡量）
 ```
 
-**Critical insight:** Although the loop reads Build-Measure-Learn, you **plan in reverse**: figure out what you need to LEARN, determine what DATA will tell you that, then BUILD only what's needed to get that data.
+**关键洞见：**虽然循环叫构建—衡量—学习，规划却要**反向进行**：先决定需要学到什么，再确定哪些数据能说明它，最后只构建获取这些数据所需的东西。
 
-> "We need to focus our energies on minimizing the TOTAL time through this loop."
+> “我们需要集中精力，缩短完成整个循环的总时间。”
 
-### Leap-of-Faith Assumptions
+<a id="leap-of-faith-assumptions"></a>
+### 信念飞跃式假设
 
-Every startup rests on two untested assumptions:
+每家创业公司都建立在两个未经检验的假设上：
 
-| Assumption | Question | How to Test |
+| 假设 | 问题 | 如何检验 |
 |---|---|---|
-| **Value hypothesis** | Does the product deliver value to customers who use it? | Engagement, retention, willingness to pay |
-| **Growth hypothesis** | How will new customers discover the product? | Viral coefficient, referral rates, word-of-mouth tracking |
+| **价值假设** | 产品是否为使用它的客户提供价值？ | 参与度、留存、支付意愿 |
+| **增长假设** | 新客户会怎样发现产品？ | 病毒系数、推荐率、口碑追踪 |
 
-Both must be tested empirically, not assumed. Use **analogs** (similar successes) and **antilogs** (similar failures) to sharpen assumptions before testing.
+两个都必须用实证检验，不能直接假定成立。测试前，用**正向类比**（类似成功）与**反向类比**（类似失败）让假设更清晰。
 
-> "The two most important assumptions are the value hypothesis and the growth hypothesis."
+> “两个最重要的假设，就是价值假设与增长假设。”
 
 ---
 
-## Minimum Viable Product (MVP)
+<a id="minimum-viable-product-mvp"></a>
+## 最小可行产品（MVP）
 
-The MVP is the **fastest way to get through the Build-Measure-Learn loop with minimum effort.** It is NOT the smallest product. It is the smallest experiment that tests your leap-of-faith assumptions.
+MVP 是**以最少努力最快完成构建—衡量—学习循环的方法**。它不是最小的产品，而是检验信念飞跃式假设的最小实验。
 
+```text
+MVP是什么：                     MVP不是什么：
+- 学习载体                       - 粗糙的1.0版本
+- 检验一个具体假设               - 最小功能集合
+- 为最大化学习而设计             - 给投资者看的原型
+- 可能缺少功能、打磨、用户体验    - 概念验证
+- 可以简单得让人不好意思         - 演示
 ```
-WHAT AN MVP IS:                    WHAT AN MVP IS NOT:
-- A learning vehicle               - A crappy v1.0
-- Tests one specific assumption    - The smallest feature set
-- Designed to maximize learning    - A prototype to show investors
-- May lack features, polish, UX    - A proof of concept
-- Can be embarrassingly simple     - A demo
-```
 
-### MVP Types
+<a id="mvp-types"></a>
+### MVP 类型
 
-| Type | When to Use | Example |
+| 类型 | 何时使用 | 示例 |
 |---|---|---|
-| **Video** | Value prop is hard to explain; gauge demand before building | Dropbox: 3-min demo video, signups went 5K to 75K overnight |
-| **Concierge** | Deliver the value manually to one customer at a time | Food on the Table: CEO personally picked recipes and shopped for one family |
-| **Wizard of Oz** | Automate the frontend, manual backend | Zappos: photos of shoes from stores, bought and shipped when ordered |
-| **Single-feature** | Test one value driver with real usage | Groupon: WordPress blog + email, one deal per day in one city |
-| **Smoke test** | Gauge demand before building anything | Landing page + signup form, measure conversion |
+| **视频** | 价值主张难解释，先测需求再开发 | Dropbox 的三分钟演示视频，让候补注册一夜从 5,000 增至 75,000 |
+| **礼宾式** | 每次为一位客户手工交付价值 | Food on the Table 的 CEO 亲自为一个家庭选菜谱、购物 |
+| **绿野仙踪式** | 前台自动化，后台人工 | Zappos 拍门店鞋子的照片，有订单后再买来寄出 |
+| **单功能** | 通过真实使用检验一个价值驱动因素 | Groupon 使用 WordPress 博客和邮件，每天在一个城市提供一项优惠 |
+| **烟雾测试** | 开发任何东西之前先测需求 | 落地页＋注册表，衡量转化 |
 
-### MVP Quality Concerns
+<a id="mvp-quality-concerns"></a>
+### 对 MVP 质量的担忧
 
-> "If we do not know who the customer is, we do not know what quality is."
+> “如果不知道客户是谁，就不知道什么叫质量。”
 
-Customers don't care about quality dimensions you're imagining. Build the MVP, ship it, and let customer behavior (not opinions) tell you what quality means.
+客户不关心你凭空想象的质量维度。做出 MVP、交付，让客户行为而非意见告诉你，质量究竟是什么。
 
 ---
 
-## Innovation Accounting
+<a id="innovation-accounting"></a>
+## 创新核算
 
-Traditional accounting can't measure a startup. Revenue is near-zero. Forecasts are fiction. Innovation accounting provides an alternative.
+传统会计无法衡量创业公司：收入接近零，预测近乎虚构。创新核算提供另一种办法。
 
-### Three Learning Milestones
+<a id="three-learning-milestones"></a>
+### 三个学习里程碑
 
+```text
+1. 建立基线
+   ├─ 做出MVP。
+   ├─ 交给真实客户。
+   └─ 衡量引擎当前状态：转化、留存、收入。
+
+2. 调优引擎
+   ├─ 通过实验，让指标从基线向理想状态改善。
+   ├─ 每个实验检验一个假设。
+   └─ 追踪修改是否真正改变数字。
+
+3. 转型或坚持
+   ├─ 调优有效吗？是否在向理想状态前进？
+   ├─ 是 → 坚持，继续调优。
+   └─ 否 → 转型，从根本上改变策略。
 ```
-1. ESTABLISH THE BASELINE
-   |-- Build an MVP
-   |-- Get it in front of real customers
-   +-- Measure current state of the engine (conversion, retention, revenue)
 
-2. TUNE THE ENGINE
-   |-- Run experiments to improve metrics from baseline toward ideal
-   |-- Each experiment tests one assumption
-   +-- Track whether changes actually move the numbers
+<a id="vanity-metrics-vs-actionable-metrics"></a>
+### 虚荣指标与可行动指标
 
-3. PIVOT OR PERSEVERE
-   |-- Is tuning working? Are you making progress toward the ideal?
-   |-- YES --> Persevere. Keep tuning.
-   +-- NO  --> Pivot. Change strategy fundamentally.
-```
-
-### Vanity Metrics vs. Actionable Metrics
-
-| Vanity Metrics | Actionable Metrics |
+| 虚荣指标 | 可行动指标 |
 |---|---|
-| Total signups (cumulative) | Signups per cohort |
-| Total revenue (gross) | Revenue per customer per cohort |
-| Page views | Conversion rate by step |
-| "Hits" | Retention by cohort |
-| Registered users | Active users / registered users |
+| 累计注册数 | 每个同期群的注册数 |
+| 总收入 | 每个同期群的人均收入 |
+| 页面浏览量 | 各步骤转化率 |
+| “点击量” | 同期群留存 |
+| 注册用户数 | 活跃用户／注册用户 |
 
-**The Three A's of Good Metrics:**
-1. **Actionable** - demonstrates clear cause and effect. If you change X, metric Y moves.
-2. **Accessible** - everyone in the company can understand them. Use cohort reports, not cumulative.
-3. **Auditable** - you can trace the data to real humans. Talk to the customers behind the numbers.
+**好指标的三个 A：**
+
+1. **可行动（Actionable）**：显示清晰因果关系。改变 X，指标 Y 就变化。
+2. **易理解（Accessible）**：公司每个人都能理解。使用同期群报告，而非累计报告。
+3. **可审计（Auditable）**：能追溯到真实的人，与数字背后的客户交谈。
 
 ---
 
-## Pivot or Persevere
+<a id="pivot-or-persevere"></a>
+## 转型还是坚持
 
-A pivot is **a structured course correction designed to test a new fundamental hypothesis** about the product, strategy, and engine of growth. It is not failure. It is the mechanism that makes startups robust.
+转型是**为检验产品、策略、增长引擎的新基本假设而进行的结构化方向调整**。不是失败，而是让创业公司更有韧性的机制。
 
-### The Pivot Meeting
+<a id="the-pivot-meeting"></a>
+### 转型会议
 
-Hold regularly (monthly or quarterly). Bring product development AND business leadership. Review:
-1. Are our experiments moving metrics toward the ideal model?
-2. Is our progress sufficient given the time and resources invested?
-3. What have we learned about our assumptions?
+定期举行，每月或每季度，让产品开发与业务管理层都参加。审视：
 
-### Ten Types of Pivot
+1. 实验是否让指标朝理想模式移动？
+2. 相对投入的时间与资源，进展是否足够？
+3. 对假设学到了什么？
 
-| Pivot | Description |
+<a id="ten-types-of-pivot"></a>
+### 十种转型
+
+| 转型 | 描述 |
 |---|---|
-| **Zoom-in** | A single feature becomes the whole product |
-| **Zoom-out** | The whole product becomes a single feature of something larger |
-| **Customer segment** | Same product, different customer |
-| **Customer need** | Same customer, different problem |
-| **Platform** | Change from application to platform (or vice versa) |
-| **Business architecture** | Switch between high-margin/low-volume and low-margin/high-volume |
-| **Value capture** | Change how you make money (monetization model) |
-| **Engine of growth** | Switch between viral, sticky, or paid growth |
-| **Channel** | Change distribution mechanism |
-| **Technology** | Same solution, different technology |
+| **放大** | 一个功能成为整个产品 |
+| **缩小** | 整个产品变成更大产品中的一个功能 |
+| **客户细分** | 产品相同，客户不同 |
+| **客户需求** | 客户相同，问题不同 |
+| **平台** | 应用变平台，或反过来 |
+| **商业架构** | 在高利润低销量与低利润高销量之间切换 |
+| **价值获取** | 改变赚钱方式，即变现模式 |
+| **增长引擎** | 在病毒式、黏性、付费增长之间切换 |
+| **渠道** | 改变分销机制 |
+| **技术** | 方案相同，技术不同 |
 
-### Runway = Pivots Remaining
+<a id="runway--pivots-remaining"></a>
+### 跑道长度＝剩余转型次数
 
-> "The true measure of runway is how many pivots a startup has left."
+> “衡量跑道的真正标准，是创业公司还剩多少次转型机会。”
 
-Not months of cash. A startup that can test more hypotheses before running out of money has a longer runway than one burning cash on a single bet.
+不是现金还能撑几个月。相比把钱烧在单一赌注上，能够在资金用尽前检验更多假设的公司，跑道更长。
 
 ---
 
-## Three Engines of Growth
+<a id="three-engines-of-growth"></a>
+## 三种增长引擎
 
-Every startup's growth is powered by one dominant engine. Focus on ONE.
+每家创业公司的增长都由一个主导引擎推动。一次聚焦**一个**。
 
-| Engine | Mechanic | Key Metric | Grows When... |
+| 引擎 | 机制 | 关键指标 | 何时增长 |
 |---|---|---|---|
-| **Sticky** | High retention. Existing customers keep using. | Churn rate | New customer acquisition > churn |
-| **Viral** | Customers recruit more customers as a side effect of usage | Viral coefficient (k) | k > 1.0 (each user brings >1 new user) |
-| **Paid** | Spend money to acquire customers profitably | LTV vs. CPA | LTV > CPA (lifetime value exceeds cost to acquire) |
+| **黏性** | 高留存，现有客户持续使用 | 流失率 | 新增客户超过流失客户 |
+| **病毒式** | 使用过程自然带来更多客户 | 病毒系数 k | k>1.0，每位用户带来超过一位新用户 |
+| **付费** | 花钱获取客户，且能够盈利 | LTV 与 CPA | LTV>CPA，客户生命周期价值超过获取成本 |
 
-> "Startups don't starve; they drown." - in too many simultaneous growth strategies.
+> “创业公司不是饿死的，而是淹死的。”——同时尝试太多增长策略，就会如此。
 
-### Engine Selection
+<a id="engine-selection"></a>
+### 选择引擎
 
-```
-Is your product inherently shareable / visible to non-users?
-|-- YES --> Test VIRAL engine first
-+-- NO  --> Do customers use it repeatedly (daily/weekly)?
-            |-- YES --> Test STICKY engine first
-            +-- NO  --> Test PAID engine first
+```text
+产品是否天然适合分享，或能被非用户看见？
+├─ 是 → 先测试病毒式引擎。
+└─ 否 → 客户是否每天／每周反复使用？
+        ├─ 是 → 先测试黏性引擎。
+        └─ 否 → 先测试付费引擎。
 
-Important: engines eventually run out. When they do, pivot or find a new engine.
+重要：引擎最终都会耗尽潜力。到那时，应转型或寻找新引擎。
 ```
 
 ---
 
-## Small Batches
+<a id="small-batches"></a>
+## 小批量
 
-Borrowed from Toyota Production System. **Smaller batches = faster learning = fewer wasted resources.**
+借鉴丰田生产方式。**批量更小＝学习更快＝浪费资源更少。**
 
-| Large Batch | Small Batch |
+| 大批量 | 小批量 |
 |---|---|
-| Build everything, then test | Build one thing, test immediately |
-| Defects found late, expensive to fix | Defects found early, cheap to fix |
-| Long feedback cycles | Short feedback cycles |
-| Satisfying (feels productive) | Uncomfortable (feels slow) |
-| Death spiral: rework compounds | Continuous flow: rework is instant |
+| 全部做完，再测试 | 做一件，立刻测试 |
+| 缺陷发现晚，修复昂贵 | 缺陷发现早，修复便宜 |
+| 反馈周期长 | 反馈周期短 |
+| 令人满足，感觉有生产力 | 令人不适，感觉慢 |
+| 死亡螺旋，返工累积 | 连续流动，立即返工 |
 
-> "The biggest advantage of working in small batches is that quality problems can be identified much sooner."
+> “小批量工作最大的优势，是更早发现质量问题。”
 
-### The Large-Batch Death Spiral
+<a id="the-large-batch-death-spiral"></a>
+### 大批量死亡螺旋
 
-Large batches look efficient but create a death spiral: the bigger the batch, the longer to test, the more rework, the bigger the next batch needs to be to "catch up," the longer to test...
+大批量看起来高效，却会形成死亡螺旋：批量越大，测试越久，返工越多；为了“赶上”，下一批又得更大，测试时间于是更长……
 
-### Pull, Don't Push (from Toyota JIT)
+<a id="pull-dont-push-from-toyota-jit"></a>
+### 拉动，而非推动（来自丰田准时制 JIT）
 
-Work in progress is inventory. In startups, features built but not validated are WIP. **Only build what's needed for the next experiment.**
-
----
-
-## Five Whys
-
-Adapted from Taiichi Ohno's Toyota Production System. At the root of every technical problem is a human problem.
-
-### The Method
-
-Ask "Why?" five times to trace symptoms to root causes. Make a **proportional investment** at each level - small fix for small problem, bigger investment for deeper cause.
-
-### The Five Blames (Anti-Pattern)
-
-When Five Whys goes wrong, it becomes finger-pointing. Prevent this:
-- Everyone affected by the problem must be in the room
-- Senior people go first with "shame on us for making it so easy to make that mistake"
-- Focus on bad process, not bad people
-- Appoint a Five Whys master
-- Start with a narrow, specific class of problems
-- Never start with legacy "baggage" problems
+在制品就是库存。在创业公司，已开发但未验证的功能就是在制品。**只开发下一次实验所需要的东西。**
 
 ---
 
-## Decision Trees
+<a id="five-whys"></a>
+## 五问法
 
-### "What should our MVP be?"
+改编自大野耐一的丰田生产方式。每个技术问题根部，都有一个人的问题。
 
+<a id="the-method"></a>
+### 方法
+
+连续问五次“为什么”，从症状追到根因。每一层都作出**与问题程度相称的投入**：小问题小修，深层原因投入更多。
+
+<a id="the-five-blames-anti-pattern"></a>
+### 五次责怪（反面模式）
+
+五问法走偏，就变成互相指责。防范方式：
+
+- 所有受问题影响的人都到场。
+- 资深者先说：“是我们让这个错误如此容易发生，应该反省。”
+- 聚焦糟糕流程，而非糟糕的人。
+- 指定五问法负责人。
+- 从一类范围狭窄、具体的问题开始。
+- 绝不要先翻历史遗留“旧账”。
+
+---
+
+<a id="decision-trees"></a>
+## 决策树
+
+<a id="what-should-our-mvp-be"></a>
+### “MVP 应该做成什么？”
+
+```text
+你需要学到什么？
+├─ “客户究竟想不想要？”
+│   └─ 烟雾测试（落地页）或视频MVP。
+├─ “客户愿意为它付费吗？”
+│   └─ 礼宾式或绿野仙踪式，人工交付，收真钱。
+├─ “技术能做出来吗？”
+│   └─ 技术原型，不是MVP；这是工程风险，不是市场风险。
+└─ “哪些功能重要？”
+    └─ 单功能MVP＋分组对照测试。
 ```
-What do you need to LEARN?
-|-- "Do customers want this at all?"
-|   +-- Smoke test (landing page) or Video MVP
-|-- "Will customers pay for this?"
-|   +-- Concierge or Wizard of Oz (deliver manually, charge real money)
-|-- "Can we build the technology?"
-|   +-- Technical prototype (not an MVP - engineering risk, not market risk)
-+-- "Which features matter?"
-    +-- Single-feature MVP + split testing
+
+<a id="should-we-pivot"></a>
+### “该转型吗？”
+
+```text
+实验是否让指标接近理想状态？
+├─ 是，而且明显 → 坚持，继续调优。
+├─ 是，但非常慢 → 调查是否已经用完容易做的优化。
+│                 ├─ 是 → 考虑转型。
+│                 └─ 否 → 继续调优，但设截止时间。
+└─ 否 → 是否已穷尽当前策略的实验想法？
+        ├─ 是 → 转型，改变一个基本假设。
+        └─ 否 → 再做实验，但限定时间。
+
+转型后：
+- 加速检验：新方向是否让学习更快？
+- 如果MVP循环没有缩短，仍然有问题。
 ```
 
-### "Should we pivot?"
+<a id="are-we-using-vanity-metrics"></a>
+### “我们用的是虚荣指标吗？”
 
-```
-Are experiments moving metrics toward the ideal?
-|-- YES, meaningfully --> Persevere. Keep tuning.
-|-- YES, but very slowly --> Investigate. Are you out of easy optimizations?
-|   |-- YES --> Consider pivot
-|   +-- NO  --> Keep tuning, but set a deadline
-+-- NO --> Have you exhausted experiment ideas for current strategy?
-          |-- YES --> PIVOT. Change a fundamental hypothesis.
-          +-- NO  --> Run more experiments, but set a time box.
-
-After pivoting:
-- Acceleration test: is the new direction producing faster learning?
-- If MVP cycles aren't getting shorter, something is still wrong.
-```
-
-### "Are we using vanity metrics?"
-
-```
-Does this metric go up and to the right no matter what you do?
-|-- YES --> It's vanity. Switch to cohort-based or per-customer metrics.
-+-- NO  --> Can you trace a specific change to movement in this metric?
-            |-- YES --> It's actionable. Keep it.
-            +-- NO  --> Probably vanity. Test with a split experiment.
+```text
+不管做什么，这个指标都会一路上升吗？
+├─ 是 → 虚荣指标，换成同期群或人均指标。
+└─ 否 → 能把某个具体改变与指标变化联系起来吗？
+        ├─ 能 → 可行动，保留。
+        └─ 不能 → 很可能是虚荣指标，用分组实验检验。
 ```
 
 ---
 
-## Critical Numbers & Rules of Thumb
+<a id="critical-numbers--rules-of-thumb"></a>
+## 关键数字与经验规则
 
-| Number | Rule |
+| 数字 | 规则 |
 |--------|------|
-| **2** | Leap-of-faith assumptions to test (value + growth) |
-| **3** | Learning milestones (baseline, tune, pivot-or-persevere) |
-| **3** | Engines of growth (sticky, viral, paid) |
-| **1** | Engine to focus on at a time |
-| **>1.0** | Viral coefficient needed for viral growth |
-| **LTV > CPA** | Required for paid engine to work |
-| **5** | Whys to ask for root cause analysis |
-| **10** | Types of pivot |
-| **50** | Deploys per day at IMVU (continuous deployment) |
+| **2** | 需要检验的信念飞跃式假设：价值与增长 |
+| **3** | 学习里程碑：基线、调优、转型或坚持 |
+| **3** | 增长引擎：黏性、病毒式、付费 |
+| **1** | 一次聚焦的引擎数量 |
+| **>1.0** | 病毒式增长所需的病毒系数 |
+| **LTV>CPA** | 付费引擎成立的条件 |
+| **5** | 根因分析中追问为什么的次数 |
+| **10** | 转型类型 |
+| **50** | IMVU 每天部署次数，采用持续部署 |
 
 ---
 
-## Common Failure Patterns
+<a id="common-failure-patterns"></a>
+## 常见失败模式
 
-| Pattern | Mechanism | Cure |
+| 模式 | 机制 | 修正 |
 |---------|-----------|------|
-| **Achieving failure** | Successfully executing a plan nobody validated | Build-Measure-Learn loop from day 1 |
-| **Vanity metrics** | Dashboard goes up-and-right but business isn't growing | Cohort analysis, actionable metrics, split tests |
-| **Premature optimization** | Tuning features before validating the problem exists | Ship MVP first, optimize after baseline established |
-| **Large-batch death spiral** | Big releases, late feedback, compounding rework | Small batches, continuous deployment |
-| **Theater of learning** | "We learned a lot" with no data to prove it | Innovation accounting; learning must change future behavior |
-| **Success theater** | Cherry-picking metrics to look good | Three A's: Actionable, Accessible, Auditable |
-| **Pivot too late** | Emotional attachment to current strategy delays pivot | Regular pivot-or-persevere meetings with hard data |
-| **Pivot too fast** | Pivoting before giving experiments time to produce data | Set time boxes; finish experiments before deciding |
-| **Feature factory** | Shipping features as a proxy for progress | Tie every feature to a hypothesis and a metric |
+| **成功地实现失败** | 成功执行一个从未验证的计划 | 从第一天运行构建—衡量—学习 |
+| **虚荣指标** | 仪表盘不断上升，业务却没有增长 | 同期群分析、可行动指标、分组测试 |
+| **过早优化** | 尚未验证问题存在，就调优功能 | 先交付 MVP，建立基线后再优化 |
+| **大批量死亡螺旋** | 大版本、晚反馈、返工累积 | 小批量、持续部署 |
+| **学习表演** | 说“学到了很多”，却无数据证明 | 创新核算，学习必须改变未来行为 |
+| **成功表演** | 挑选好看的指标 | 三个 A：可行动、易理解、可审计 |
+| **转型太晚** | 对当前策略的情感依恋拖延转型 | 定期举行基于硬数据的转型或坚持会议 |
+| **转型太快** | 实验还没来得及产生数据就转型 | 设时间窗口，做完实验再决定 |
+| **功能工厂** | 用交付功能替代真正进展 | 每个功能绑定一个假设和指标 |
 
 ---
 
-## Modern Relevance (2011 --> 2026)
+<a id="modern-relevance-2011----2026"></a>
+## 当代适用性（2011 → 2026）
 
-### Where Lean Startup Still Applies
-- Pre-product/market-fit startups of any kind
-- Corporate innovation teams testing new business lines
-- Hardware and physical products (with longer cycle times)
-- Any team that doesn't know if what they're building will work
+<a id="where-lean-startup-still-applies"></a>
+### 精益创业仍适用的场景
 
-### Where It Shows Its Age
-- **AI-native products** - the feedback loop can be automated in ways Ries didn't anticipate
-- **PLG/viral-first products** - the MVP concept is well-understood; the harder question is distribution
-- **Hypergrowth VC model** - "runway = pivots remaining" conflicts with "blitzscale or die" pressure
-- **No-code/low-code** - building an MVP is now so cheap that the bottleneck is finding users, not building product
+- 任何尚未实现产品与市场匹配的创业公司。
+- 测试新业务线的企业创新团队。
+- 硬件与实体产品，但周期更长。
+- 任何不知道自己正在做的东西是否有效的团队。
 
-### What Ries Got Permanently Right
-- Validated learning as the unit of progress, not features or code
-- Build-Measure-Learn as the fundamental loop
-- MVPs as experiments, not small products
-- Vanity metrics as the default trap
-- Pivots as structured hypothesis changes, not random flailing
-- Small batches beat large batches in nearly every context
-- Five Whys for proportional investment in root causes
+<a id="where-it-shows-its-age"></a>
+### 显得过时的地方
 
----
+- **AI 原生产品：**反馈循环可以用 Ries 未曾预料的方式自动化。
+- **PLG／病毒传播优先的产品：**MVP 已被广泛理解，更难的问题是分销。
+- **风投支持的超高速增长模式：**“跑道＝剩余转型次数”与“闪电扩张，否则死亡”的压力冲突。
+- **无代码／低代码：**MVP 开发已足够便宜，瓶颈变成寻找用户，而非构建产品。
 
-## Supporting Files
+<a id="what-ries-got-permanently-right"></a>
+### Ries 始终说对的地方
 
-- **[frameworks.md](frameworks.md)** - Build-Measure-Learn detailed breakdown, leap-of-faith assumptions, MVP selection, innovation accounting milestones, vanity vs. actionable metrics, pivot catalog, engines of growth mechanics, small batches, Five Whys, innovation sandbox, adaptive organization
-- **[cases.md](cases.md)** - IMVU (founding story + continuous deployment), Zappos (Wizard of Oz MVP), Dropbox (video MVP), Groupon (MVP origin), Grockit (innovation accounting), Votizen (3 pivots with metrics), Wealthfront (platform pivot), QuickBooks (large company transformation), IGN Entertainment (Five Whys), SGW Designworks (physical product small batches)
-- **[examples.md](examples.md)** - MVP selection worksheet, innovation accounting setup template, pivot-or-persevere meeting template, engine of growth diagnostic, Five Whys session template, cohort analysis template, Build-Measure-Learn cycle planner
-- **[integration.md](integration.md)** - Relationship to Four Steps (Lean Startup is direct descendant), relationship to Mom Test (conversation technique for the Learn phase), relationship to Crossing the Chasm (Lean Startup stops at product/market fit), conflicts with $100M Offers (validation-first vs. offer-first), master sequence
+- 进展单位是经验证的学习，而非功能或代码。
+- 构建—衡量—学习是基本循环。
+- MVP 是实验，不是小产品。
+- 虚荣指标是默认陷阱。
+- 转型是结构化改变假设，不是随机乱试。
+- 几乎所有情境中，小批量优于大批量。
+- 用五问法按问题程度投入根因修复。
 
 ---
 
-## Honest Scope of the Book
+<a id="supporting-files"></a>
+## 配套文件
 
-- **Published:** 2011
-- **Examples:** Mostly 2004-2010 tech (IMVU, Dropbox, Groupon, Zappos, Votizen). Some are now household names; others pivoted or died.
-- **Empirical base:** Author's experience at IMVU + consulting/advising. Anecdotal case studies, not statistical research. Ries acknowledges this directly.
-- **Where it shines:** Early-stage startups, corporate innovation, any team testing whether something should exist.
-- **Where it's weak:** Post-product/market-fit scaling, marketplace dynamics, deep infrastructure products where MVP approach is dangerous (medical devices, aircraft software). The book is light on HOW to talk to customers (use Mom Test) and silent on Market Type (use Four Steps).
-- **Intellectual lineage:** Direct descendant of Steve Blank's Four Steps to the Epiphany + Toyota Production System (Taiichi Ohno). Ries was Blank's student and implemented Customer Development at IMVU. The Build-Measure-Learn loop owes a lot to Boyd's OODA loop.
+- **[frameworks.md](frameworks.md)**：构建—衡量—学习详解、信念飞跃式假设、MVP 选择、创新核算里程碑、虚荣与可行动指标、转型目录、增长引擎机制、小批量、五问法、创新沙盒、自适应组织。
+- **[cases.md](cases.md)**：IMVU 创业故事与持续部署、Zappos 绿野仙踪式 MVP、Dropbox 视频 MVP、Groupon 的 MVP 起源、Grockit 创新核算、Votizen 三次转型及指标、Wealthfront 平台转型、QuickBooks 大公司转型、IGN Entertainment 五问法、SGW Designworks 实体产品小批量。
+- **[examples.md](examples.md)**：MVP 选择工作表、创新核算建立模板、转型或坚持会议模板、增长引擎诊断、五问法会议模板、同期群分析模板、构建—衡量—学习循环规划表。
+- **[integration.md](integration.md)**：与 Four Steps 的直接继承关系、Mom Test 作为学习阶段对话技巧、Crossing the Chasm 与精益创业止于产品市场匹配的分工、与 $100M Offers 的先验证／先方案冲突、总体顺序。
+
+---
+
+<a id="honest-scope-of-the-book"></a>
+## 如实说明本书的适用范围
+
+- **出版：**2011 年。
+- **案例：**大多是 2004—2010 年科技企业，如 IMVU、Dropbox、Groupon、Zappos、Votizen。有些已家喻户晓，有些转型或倒闭。
+- **经验基础：**作者在 IMVU 的经历，加上咨询与顾问工作。是轶事性案例，不是统计研究，Ries 明确承认这一点。
+- **长处：**早期创业、企业创新、任何检验某个东西是否应该存在的团队。
+- **不足：**产品市场匹配后的规模化、平台市场动态，以及 MVP 方法有危险的深层基础设施产品，如医疗设备、航空软件。本书较少讲如何与客户交谈，请用 Mom Test；也不讨论市场类型，请用 Four Steps。
+- **思想来源：**直接继承 Steve Blank 的 The Four Steps to the Epiphany 与大野耐一的丰田生产方式。Ries 是 Blank 的学生，并在 IMVU 实施客户开发。构建—衡量—学习循环也深受 Boyd 的 OODA 循环影响。

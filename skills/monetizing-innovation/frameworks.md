@@ -1,458 +1,524 @@
-# Monetizing Innovation - The 9 Rules in Full Detail
+> 中文译文｜[英文对照](frameworks.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/monetizing-innovation/frameworks.md)。原项目整理：AgentSeal；原书：Madhavan Ramanujam 与 Georg Tacke 的《Monetizing Innovation》；AI 辅助翻译。
 
-This file contains all sub-frameworks, methods, and structured lists referenced from [SKILL.md](SKILL.md).
+<a id="monetizing-innovation---the-9-rules-in-full-detail"></a>
+# 创新变现：九条规则详解
 
----
-
-## Rule 1: Have the WTP Talk Early
-
-**WTP (Willingness to Pay)** = what customers value AND how much they'll pay for it.
-
-80% of companies wait until just before launch. Most never have a real WTP conversation.
-
-### The 3 Benefits of Early WTP Talks
-
-1. Tells you **immediately** if you have an opportunity
-2. Helps you **prioritize features**
-3. Helps you **avoid all 4 failure types**
-
-### The 5 Question Methods (easy → advanced)
-
-1. **Direct questions** - "What's an acceptable price? Expensive? Prohibitively expensive?"
-2. **Purchase probability** - "Would you buy this for $X?"
-3. **Most-least analysis** - "Which feature is most important? Least?"
-4. **Build-your-own** - Customer assembles their ideal package
-5. **Purchase simulations (conjoint)** - Show options at different prices
-
-### The 10 Insights for WTP Conversations
-
-1. Tap internal expertise first - cross-functional pre-meeting
-2. Frame as "value talks," not "pricing talks" - switch value→price after rapport
-3. Start with simple questions - direct questions yield big insights
-4. **25% of questions should be "Why?"**
-5. Mix structured + unstructured - especially for breakthroughs
-6. Get the whole team in the room - product, sales, marketing
-7. Avoid the "average trap" - look at distribution
-8. Don't rely only on quantitative
-9. Be precise in language - "Would you buy this?" ≠ "Would you buy this for $20?"
-10. Garbage in, garbage out - keep questions simple
-
-### Gillette Guard Case (India)
-
-- Indian potential: 4x US (400M men)
-- Mach 3 at 100 rupees was too expensive
-- Spent thousands of hours interviewing Indians BEFORE design
-- Target price determined: **15 rupees razor, 5 rupees blade**
-- Designed AROUND that price: cut 25 components → 4
-- Result: >60% Indian market share within 2 years (3x previous)
+本文件包含 [SKILL.md](SKILL.md) 引用的全部子框架、方法与结构化清单。
 
 ---
 
-## Rule 2: Don't Default to One-Size-Fits-All
+<a id="rule-1-have-the-wtp-talk-early"></a>
+## 规则1：尽早讨论支付意愿
 
-> "Customer segmentation is the most talked about and most misused concept in product design."
+**支付意愿（WTP）**同时包括：客户重视什么，以及愿意为它支付多少。
 
-### The Prince Charles vs Ozzy Test
+80%的公司等到上市前才讨论。多数公司从未开展真正的支付意愿对话。
 
-A 67-year-old wealthy Englishman with two kids in a castle = both Prince Charles AND Ozzy Osbourne. Demographic segmentation is broken.
+<a id="the-3-benefits-of-early-wtp-talks"></a>
+### 尽早访谈的三项收益
 
-### The Only Right Way to Segment for Innovation
+1. **立即**告诉你机会是否存在。
+2. 帮助你**排定功能优先级**。
+3. 帮助你**避免全部四类失败**。
 
-By **needs, value, and willingness to pay** - not demographics, behavior, or persona.
+<a id="the-5-question-methods-easy--advanced"></a>
+### 五种提问方法：从简单到高级
 
-### Paper Company Case
+1. **直接提问**：“什么价格可以接受？什么价格算贵？贵到无法接受的价格是多少？”
+2. **购买概率**：“如果卖 X 美元，你会买吗？”
+3. **最重要/最不重要分析**：“哪个功能最重要？哪个最不重要？”
+4. **自选组合**：让客户组装理想产品包。
+5. **购买模拟，即联合分析**：展示不同价格下的不同组合。
 
-Old: customer SIZE (small/medium/large) - useless. New (4 segments):
+<a id="the-10-insights-for-wtp-conversations"></a>
+### 支付意愿访谈的十条洞察
 
-| Segment | Wants | WTP |
-|---------|-------|-----|
-| Want price only | Basic quality | Lowest |
-| Want it now | Speedy delivery | Premium for speed |
-| Want product only | Performance & quality | Premium for product |
-| Want the best | Quality + service + reliability | Highest |
+1. 先利用内部经验，召开跨职能预备会议。
+2. 将对话定位为“价值交流”，而非“价格谈判”；建立关系后再从价值转向价格。
+3. 从简单问题开始；直接提问也能带来重大洞察。
+4. **25%的问题应该是“为什么”。**
+5. 结合结构化与非结构化问题，突破性创新尤其如此。
+6. 让整个团队参与，包括产品、销售与营销。
+7. 避免“平均值陷阱”，观察分布。
+8. 不要只依赖定量方法。
+9. 语言必须精确：“你会买吗？”不等于“卖20美元，你会买吗？”
+10. 垃圾输入产生垃圾输出；保持问题简单。
 
-Each segment had a MIX of customer sizes. Size meant nothing.
+<a id="gillette-guard-case-india"></a>
+### Gillette Guard：印度案例
 
-### 3 Segmentation Pitfalls
-
-1. **Segmenting too late** (only for marketing, not product design)
-2. **Segmenting only by observable characteristics** (age, gender)
-3. **Too many schemes** - if more than 3, you're confused
-
-### 5 Segmentation Best Practices
-
-1. Begin with WTP data
-2. Common sense > statistics - acid test: can sales sort customers into segments?
-3. Fewer is more - start with 3-4
-4. Don't try to serve every segment
-5. Describe segments observably - so marketing can target
-
----
-
-## Rule 3: Configuration & Bundling
-
-### Leaders / Fillers / Killers
-
-| Type | Definition | Action |
-|------|------------|--------|
-| **Leader** | Drives buying, high WTP | Always include |
-| **Filler** | Nice-to-have | Use to fill gaps |
-| **Killer** | Blows the deal if forced to pay | Eliminate or sell à la carte |
-
-**Killer test:** valued by <20% AND not valued at all by >20%. Segment-dependent.
-
-### Good/Better/Best (G/B/B)
-
-Three-tier offering. People avoid extremes; the compromise wins.
-
-| Distribution | Diagnosis |
-|--------------|-----------|
-| ≤25% Good, ~70% Better+Best, ≥10% Best | Healthy |
-| >50% Good | Trip-wire: cut features from Good |
-| Best <10% | Premium tier underpowered |
-
-### Fences (The Mechanism That Makes G/B/B Work)
-
-Each tier needs visible, defensible differences. Without fences G/B/B cannibalizes itself.
-
-**Fence checks:**
-- Can a customer in 10 seconds see what's missing from Good?
-- Would they feel they "lost something" buying Good vs Better?
-- Are differences emotional (status, support, peace-of-mind) or just cosmetic?
-
-### Three Bundling Strategies
-
-| Strategy | When to Use |
-|----------|-------------|
-| **Pure bundle** (only the bundle) | Rarely |
-| **Mixed bundle** (bundle + à la carte) | DEFAULT - most situations |
-| **Hard bundle** (no à la carte) | Only with market dominance |
-| **Unbundle** | Highly price-sensitive component (Ryanair: 2x more sensitive to base fare than fees) |
-
-### The 10 Bundling Insights
-
-1. **Align with segments** - each bundle for a specific segment
-2. **Don't make it too big** - max 9 benefits or 4 products before overload
-3. **Both sides must benefit** - you + customer
-4. **Don't give too much in entry-level** - or you can't upsell
-5. **Hard bundling rarely works** - use mixed
-6. **Mixed bundle à la carte prices need to be HIGHER** - pizza standalone $8 → $9
-7. **Communicate creatively** - "40% off Product A" beats "20% off bundle" (same math)
-8. **Sometimes 1+1=3** - charge a premium for integrated bundles (software)
-9. **Don't bundle for the sake of bundling** - discounting buyers who'd pay anyway = lost margin
-10. **Exploit inverse correlations** - bundle when segment 1 wants A and segment 2 wants B
+- 印度市场潜力为美国的4倍，拥有4亿男性。
+- 售价100卢比的 Mach 3 太贵。
+- 设计之前，花数千小时访谈印度用户。
+- 明确目标价：**剃须刀15卢比，刀片5卢比**。
+- 围绕价格设计，把25个零部件减至4个。
+- 结果：2年内市场份额超过60%，达到此前的3倍。
 
 ---
 
-## Rule 4: How You Charge Trumps What You Charge
+<a id="rule-2-dont-default-to-one-size-fits-all"></a>
+## 规则2：不要默认一套方案适合所有人
 
-### The Michelin Case
+> “客户细分，是产品设计中谈论最多、误用也最多的概念。”
 
-- New tire lasted 20% longer
-- Could only charge a few % more per tire
-- But longer life = customers buy 20% LESS often
-- **Solution:** Charge by miles driven, not per tire
-- Result: 20% longer life = 20% MORE revenue per tire
-- 25% higher EBIT than Bridgestone, 3x Goodyear
+<a id="the-prince-charles-vs-ozzy-test"></a>
+### Charles 王子与 Ozzy 对照测试
 
-### The 5 Monetization Models
+一名67岁、富有、住城堡、有两个孩子的英国男性，既可能是 Charles 王子，也可能是 Ozzy Osbourne。仅靠人口统计特征细分是失效的。
 
-| Model | When to Use | Example |
-|-------|-------------|---------|
-| **Subscription** | Continual usage; lock out competitors | Netflix, Adobe, WSJ |
-| **Dynamic Pricing** | Volatile demand or constrained supply | Uber, airlines, Tesco |
-| **Auctions** | Seller markets, constrained inventory | Google AdWords ($35B/yr), eBay |
-| **Pay-As-You-Go / Alternative Metric** | Usage tracks value | Michelin, GE engines, Monsanto |
-| **Freemium** | Near-zero production AND fixed cost | LinkedIn, Dropbox |
+<a id="the-only-right-way-to-segment-for-innovation"></a>
+### 为创新进行细分的正确依据
 
-### Freemium Warning
+依据**需求、价值和支付意愿**，而非人口统计特征、行为或人物画像。
 
-- **Fails for 90% of companies** (when production cost or fixed cost are too high)
-- Software conversion: typically <10%
-- Games: 75% of users lost in 1 day; 2% retained at 1 month
-- Don't give the farm away in the free tier
+<a id="paper-company-case"></a>
+### 造纸公司案例
 
-### Models Are Mix-and-Matchable
+旧方式按客户规模分为小、中、大，毫无帮助。新方式分为4类：
 
-- **Costco:** subscription (membership) + per-product
-- **OpenTable:** subscription + transaction fee per diner
-- **Modern SaaS:** subscription + usage tier + add-ons à la carte
+| 细分群体 | 需求 | 支付意愿 |
+|---|---|---|
+| 只看价格 | 基本质量 | 最低 |
+| 现在就要 | 快速交付 | 愿为速度溢价 |
+| 只要好产品 | 性能与质量 | 愿为产品溢价 |
+| 要最好的 | 质量+服务+可靠性 | 最高 |
 
-### Price Structures Within a Model
+每一类都有不同规模的客户。规模并不说明什么。
 
-- **Flat:** Same price for everyone
-- **Volume tiers (1-D):** "More you use, better the rate" (e.g., 3% up to 500K, 2% beyond)
-- **Matrix (2-D):** Two dimensions (e.g., volume × share-of-wallet)
+<a id="3-segmentation-pitfalls"></a>
+### 三个细分陷阱
 
-### The 5 Questions to Choose a Model
+1. **细分太晚**：只用于营销，没用于产品设计。
+2. **只按可观察特征细分**：例如年龄、性别。
+3. **细分方案过多**：超过3套，说明你自己也没弄清楚。
 
-1. Will customers accept it? (test - they'll always have a preference)
-2. How will future trends impact it?
-3. Does it fit your company stage? (Startups: simple. Mature: differentiated)
-4. What are competitors doing? (don't mimic - differentiate)
-5. How hard is it to implement?
+<a id="5-segmentation-best-practices"></a>
+### 五项最佳实践
 
-> "A bad monetization model can be worse than a bad price."
+1. 从支付意愿数据开始。
+2. 常识优于统计；关键检验是销售人员能否把客户分入对应类别。
+3. 少即是多，从3—4类开始。
+4. 不要试图服务每一类人。
+5. 用可观察的特征描述群体，让营销能够找到他们。
 
 ---
 
-## Rule 5: Pricing Strategy
+<a id="rule-3-configuration--bundling"></a>
+## 规则3：配置与捆绑
 
-### The 4 Building Blocks
+<a id="leaders--fillers--killers"></a>
+### 主力项 / 补充项 / 破坏项
 
-1. Set clear, prioritized goals
-2. Pick one of 3 strategy types
-3. Define price-setting principles
-4. Define reaction principles
+| 类型 | 定义 | 行动 |
+|---|---|---|
+| **主力项（Leader）** | 驱动购买，支付意愿高 | 始终包含 |
+| **补充项（Filler）** | 有了更好 | 用来补足缺口 |
+| **破坏项（Killer）** | 强迫客户为其付费，会毁掉交易 | 删除或单独销售 |
 
-### The 3 Pricing Strategy Types
+**破坏项检验：**认可它的客户少于20%，同时超过20%的客户认为它完全没有价值。判断取决于细分群体。
 
-| Strategy | Description | When to Use | Example |
-|----------|-------------|-------------|---------|
-| **Maximization** | Optimize price for short-term profit/revenue | No early adopters with high WTP; little gap between short/long-term price | Most products |
-| **Penetration** | Price LOW to grab share fast | Network effects; first-mover advantage; can hike later | Samsung, Lexus, Ariba, Facebook, Uber |
-| **Skimming** | Price HIGH for early adopters, lower over time | Big WTP gap between early/late; bragging-rights segment | iPhone, HDTVs, Porsche Panamera |
+<a id="goodbetterbest-gbb"></a>
+### 基础 / 进阶 / 旗舰（G/B/B）
 
-**Penetration warning:** riskiest from a profit standpoint. LivingSocial: raised $900M, lost $1B in 4 years.
+设置三个档位。人们会回避极端，中间的折中选项往往胜出。
 
-### Price-Setting Principles to Define BEFORE Launch
+| 分布 | 诊断 |
+|---|---|
+| 基础≤25%，进阶+旗舰约70%，旗舰≥10% | 健康 |
+| 基础>50% | 警报：删减基础档功能 |
+| 旗舰<10% | 高端档吸引力不足 |
 
-1. Monetization models (which? same across segments?)
-2. Price differentiation (channel, region, vertical?)
-3. Price floors (hard floor; max discount?)
-4. Price endings (B2C: 0, .50, .99, .95; **B2B: whole numbers**)
-5. Price increases (when? how much?)
+<a id="fences-the-mechanism-that-makes-gbb-work"></a>
+### 档位分界：让三档配置生效的机制
 
-### Reaction Principles - War-Game Before Launch
+每一档需要可见、可解释的差异。没有分界，各档就会相互蚕食。
 
-- How will competitors react?
-- One-time or sustained?
-- If we match price, what's the impact?
-- What's our counter-reaction?
+**分界检查：**
 
-### Price Elasticity
+- 客户能否在10秒内看出基础档少了什么？
+- 选择基础档而不是进阶档时，是否会觉得少得到某种东西？
+- 差异是否涉及身份、支持、安心等情感价值，而不只是表面装饰？
+
+<a id="three-bundling-strategies"></a>
+### 三种捆绑策略
+
+| 策略 | 适用情况 |
+|---|---|
+| **纯捆绑**：只卖组合 | 很少使用 |
+| **混合捆绑**：组合与单品都可买 | 默认选择，适用大多数情况 |
+| **强制捆绑**：不提供单卖 | 只有市场支配力足够时 |
+| **拆分销售** | 某个组成部分对价格高度敏感；Ryanair 客户对基础票价的敏感度是附加费的2倍 |
+
+<a id="the-10-bundling-insights"></a>
+### 捆绑销售的十条洞察
+
+1. **与细分群体对齐**：每个组合针对一个群体。
+2. **组合别太大**：最多9项收益或4款产品，再多就容易信息过载。
+3. **双方都要受益**：你和客户都要获益。
+4. **入门档不要给太多**：否则无法升级销售。
+5. **强制捆绑很少有效**：优先混合捆绑。
+6. **混合捆绑时单卖价应更高**：例如披萨单价从8美元升至9美元。
+7. **创造性表达**：“产品 A 减价40%”比“组合减价20%”更有效，虽然计算结果相同。
+8. **有时1+1=3**：集成组合可以收取溢价，例如软件。
+9. **不要为捆绑而捆绑**：给本来就愿付钱的人打折，损失的是利润率。
+10. **利用偏好反向相关**：群体1想要 A、群体2想要 B 时，可考虑捆绑。
+
+---
+
+<a id="rule-4-how-you-charge-trumps-what-you-charge"></a>
+## 规则4：怎么收费，比收多少钱更重要
+
+<a id="the-michelin-case"></a>
+### Michelin 案例
+
+- 新轮胎寿命延长20%。
+- 每条轮胎只能多收几个百分点。
+- 但寿命更长，意味着客户购买频次减少20%。
+- **解决方案：**按行驶里程收费，而不是按轮胎条数。
+- 结果：寿命延长20%，转化为每条轮胎收入增加20%。
+- 息税前利润（EBIT）比 Bridgestone 高25%，是 Goodyear 的3倍。
+
+<a id="the-5-monetization-models"></a>
+### 五种变现模式
+
+| 模式 | 适用情况 | 例子 |
+|---|---|---|
+| **订阅** | 持续使用，排除竞争对手 | Netflix、Adobe、《华尔街日报》 |
+| **动态定价** | 需求波动或供给受限 | Uber、航空公司、Tesco |
+| **拍卖** | 卖方市场、库存有限 | Google AdWords（每年350亿美元）、eBay |
+| **按用量 / 替代计价指标** | 用量与价值相对应 | Michelin、GE 发动机、Monsanto |
+| **免费增值** | 生产成本和固定成本都接近零 | LinkedIn、Dropbox |
+
+<a id="freemium-warning"></a>
+### 免费增值提醒
+
+- 生产或固定成本过高时，**90%的公司会失败**。
+- 软件付费转化通常不足10%。
+- 游戏首日流失75%的用户，一个月后只留存2%。
+- 不要把所有价值都放进免费档。
+
+<a id="models-are-mix-and-matchable"></a>
+### 模式可以组合
+
+- **Costco：**订阅会员费+按产品收费。
+- **OpenTable：**订阅+按每位就餐者收交易费。
+- **现代 SaaS：**订阅+用量档位+单独收费的附加项。
+
+<a id="price-structures-within-a-model"></a>
+### 同一模式中的价格结构
+
+- **统一价：**所有客户价格相同。
+- **数量阶梯，一维：**“用得越多，费率越好”，例如50万以内3%，超出部分2%。
+- **矩阵，二维：**同时考虑两个维度，例如数量×客户相关采购中你的份额。
+
+<a id="the-5-questions-to-choose-a-model"></a>
+### 选择模式的五个问题
+
+1. 客户会接受吗？做测试，他们总会有偏好。
+2. 未来趋势会怎样影响这种模式？
+3. 是否适合公司阶段？创业公司要简单，成熟企业可以差异化。
+4. 竞争对手怎么做？不要照搬，要形成差异。
+5. 实施有多难？
+
+> “糟糕的变现模式，可能比糟糕的价格更严重。”
+
+---
+
+<a id="rule-5-pricing-strategy"></a>
+## 规则5：定价策略
+
+<a id="the-4-building-blocks"></a>
+### 四个构成部分
+
+1. 设定清晰、排好优先级的目标。
+2. 从三类策略中选择一种。
+3. 定义价格制定原则。
+4. 定义应对变化的原则。
+
+<a id="the-3-pricing-strategy-types"></a>
+### 三类定价策略
+
+| 策略 | 说明 | 何时使用 | 例子 |
+|---|---|---|---|
+| **最大化** | 优化价格，以提高短期利润或收入 | 没有高支付意愿的早期采用者；短长期价格差距小 | 多数产品 |
+| **渗透** | 用低价快速获得份额 | 有网络效应、先发优势，之后能够提价 | Samsung、Lexus、Ariba、Facebook、Uber |
+| **撇脂** | 先向早期采用者收高价，再随时间降价 | 早晚期客户支付意愿差距大；存在追求炫耀或抢先体验的群体 | iPhone、高清电视、Porsche Panamera |
+
+**渗透策略提醒：**从利润角度风险最高。LivingSocial 融资9亿美元，4年亏损10亿美元。
+
+<a id="price-setting-principles-to-define-before-launch"></a>
+### 上市前必须明确的定价原则
+
+1. 变现模式：选哪种，各群体是否相同？
+2. 价格差异：是否按渠道、地区或垂直行业区分？
+3. 价格底线：绝对底价与最大折扣是多少？
+4. 尾数：B2C 可用0、.50、.99、.95；**B2B 用整数**。
+5. 涨价：何时涨、涨多少？
+
+<a id="reaction-principles---war-game-before-launch"></a>
+### 应对原则：上市前做竞争推演
+
+- 竞争对手会怎样反应？
+- 是一次性行动，还是持续行动？
+- 如果跟价，会有什么影响？
+- 我们如何再回应？
+
+<a id="price-elasticity"></a>
+### 价格弹性
 
 ```
-Price Elasticity = Change in Sales (%) / Change in Price (%)
+价格弹性 = 销量变化百分比 ÷ 价格变化百分比
 ```
 
-A $20 pricing error can cost 20% of total profit. The smaller the margin per unit, the bigger the impact.
+20美元的定价错误，可能损失20%的总利润。单位利润越薄，影响越大。
 
-> "Companies with a defined pricing strategy are 40% more likely to realize their monetization potential."
-
----
-
-## Rule 6: From Hoping to Knowing (Living Business Case)
-
-> "95% of business cases are inside-out, not outside-in."
-
-### The 4 Pillars (Always Linked)
-
-1. **Price** (WTP)
-2. **Value** (to customer)
-3. **Volume** (demand at price points)
-4. **Cost** (variable + fixed + risk)
-
-Change one → all others ripple. Model the linkages.
-
-### The 9 Steps to Build a Living Business Case
-
-1. **Forget your old business cases** - they're static funding documents
-2. **Assemble basic ingredients** - market size, segments, configuration, value, WTP, model, costs, competitors
-3. **Include price elasticity** - most companies skip this
-4. **Apply data-verified facts** - don't overstate market size or adoption
-5. **Add risk assumptions** - best/worst case; consider Monte Carlo
-6. **Be realistic about goal trade-offs** - can't max all goals at once
-7. **Consider competitive reactions** - quantify possible moves
-8. **Don't focus only on new product** - model cannibalization
-9. **Keep checking in** - update at every milestone
+> “明确定价策略的公司，实现变现潜力的可能性高40%。”
 
 ---
 
-## Rule 7: The Innovation Won't Speak For Itself (Value Communication)
+<a id="rule-6-from-hoping-to-knowing-living-business-case"></a>
+## 规则6：从期待到知情——动态商业论证
 
-> "A feature belongs to the product; a benefit belongs to the customer." - Drucker
+> “95%的商业论证是从内部向外看，而不是从外部向内看。”
 
-**Reality check:**
-- Salesperson has 10 minutes
-- Customer stays on website 5 minutes
-- Ad runs for 15 seconds
+<a id="the-4-pillars-always-linked"></a>
+### 始终相连的四根支柱
 
-### The 3 Steps to Great Value Communication
+1. **价格**：支付意愿。
+2. **价值**：客户获得的价值。
+3. **销量**：各价格点的需求。
+4. **成本**：变动成本、固定成本与风险。
 
-1. **Develop crystal-clear benefit statements (not features)**
-   - For each feature ask "what does customer ACHIEVE?"
-   - Edison didn't sell "tungsten filament tested 1000 times" - he sold "no more tripping over toys in the dark"
-   - Carbonite: "20 GB" → "unlimited storage"
-   - LinkedIn: "Find and engage the best passive talent"
-2. **Make statements segment-specific**
-   - Adobe Individuals: "all the creative apps + 45M stock images"
-   - Adobe Enterprise: "customized provisioning, license management"
-3. **Measure impact, refine continuously** - run MOCA regularly; test before finalizing
+一项变化，会波及其他各项。要将关联关系建模。
 
-### The MOCA Matrix (Matrix of Competitive Advantages)
+<a id="the-9-steps-to-build-a-living-business-case"></a>
+### 建立动态商业论证的九步
+
+1. **忘掉旧商业论证**：它们通常只是静态的资金申请文件。
+2. **收集基本要素**：市场规模、细分、配置、价值、支付意愿、模式、成本、竞争对手。
+3. **纳入价格弹性**：多数公司会跳过。
+4. **使用数据验证的事实**：不要夸大市场规模或采用率。
+5. **加入风险假设**：最好与最坏情形，可考虑蒙特卡洛模拟。
+6. **现实面对目标取舍**：不可能同时最大化所有目标。
+7. **考虑竞争反应**：量化可能动作。
+8. **不只关注新品**：对内部蚕食建模。
+9. **持续复查**：每个里程碑都更新。
+
+---
+
+<a id="rule-7-the-innovation-wont-speak-for-itself-value-communication"></a>
+## 规则7：创新不会自己说话——价值沟通
+
+> “功能属于产品，收益属于客户。”——Drucker
+
+**现实约束：**
+
+- 销售人员只有10分钟。
+- 客户在网站停留5分钟。
+- 广告播放15秒。
+
+<a id="the-3-steps-to-great-value-communication"></a>
+### 优秀价值沟通的三步
+
+1. **形成极清晰的客户收益表述，而非功能说明。**
+   - 对每个功能都问：“客户能达成什么？”
+   - Edison 销售的不是“测试了1,000次的钨丝”，而是“再也不会在黑暗中被玩具绊倒”。
+   - Carbonite：从“20 GB”改为“无限存储”。
+   - LinkedIn：“找到并接触最优秀的非主动求职人才。”
+2. **针对细分群体表达。**
+   - Adobe 个人版：“全部创意应用+4,500万张图库图片。”
+   - Adobe 企业版：“定制化部署与授权管理。”
+3. **衡量效果，持续优化**：定期使用 MOCA，定稿前测试。
+
+<a id="the-moca-matrix-matrix-of-competitive-advantages"></a>
+### MOCA：竞争优势矩阵
 
 ```
-                    HIGH IMPORTANCE
-                          |
-   COMPETITIVE            |    EMPHASIZE
-   DISADVANTAGE           |    THESE
-   (Top Left)             |    (Top Right)
-                          |
-   ─────────────────────────────────────── Performance
-                          |
-   IGNORE OR              |    TRY TO
-   IMPROVE LATER          |    CONVINCE
-   (Bottom Left)          |    (Bottom Right)
-                          |
-                    LOW IMPORTANCE
+                     重要性高
+                         |
+    竞争劣势             |    重点强调
+    （左上）             |    （右上）
+                         |
+    ───────────────────────────────── 表现
+                         |
+    暂时忽略             |    尝试让客户
+    或以后改进           |    认可其重要性
+    （左下）             |    （右下）
+                         |
+                     重要性低
 ```
 
-- **Top Right (Important + You're Better):** Lead with these
-- **Bottom Right (Less Important + You're Better):** Convince customers these matter - **only if you can prove the importance**
-- **Top Left (Important + They're Better):** Prepare defensive arguments
+- **右上，重要且你更好：**优先强调。
+- **右下，没那么重要但你更好：**让客户认识其重要性，**前提是你能证明**。
+- **左上，重要但对方更好：**准备防守论据。
 
-**Critical caveat:** Performance is "as your CUSTOMERS see it, not as you see it." Many engineers fail MOCA by self-grading.
+**关键提醒：**表现应按客户怎么看来衡量，而不是你怎么看。很多工程师因自评而用错 MOCA。
 
-### Why Value Messaging Fails
+<a id="why-value-messaging-fails"></a>
+### 为什么价值表达失败
 
-**Root cause:** Sales/marketing brought in too late. They weren't part of the value story when product was designed.
+**根因：**销售和营销加入太晚，产品设计时没有参与价值叙述。
 
-**Fix:** Add marketing/sales to innovation team from day 1.
-
----
-
-## Rule 8: Behavioral Pricing Tactics
-
-> "Behavioral pricing is the magic that happens when value pricing meets irrational customer psychology."
-
-### The Beach Beer Test
-
-Same beer, same heat, same effort. People pay 2x more if from a fancy resort vs run-down store. People aren't rational.
-
-### The 6 Behavioral Pricing Tactics
-
-#### 1. Compromise Effect
-
-Wine store: $10 / $25 / $40. Most pick $25. **Always have a compromise option.**
-
-#### 2. Anchoring
-
-The Economist A/B test:
-- Group A: $59 online OR $125 print+online → 32% pick bundle
-- Group B: $59 online OR $125 print-only OR $125 print+online → **84% pick bundle**
-
-The $125 print-only is an ANCHOR. **Always have an anchor. Start B2B negotiations HIGH.**
-
-#### 3. Price Signals Quality
-
-Ariely 2008 placebo:
-- Same placebo at $2.50/pill → 85% pain relief
-- Same placebo at $0.10/pill → 61% pain relief
-
-The price - not the pill - relieved the pain.
-
-iPhone 2007: $599 launch signaled premium. At $49 it would have killed Apple's smartphone profitability forever.
-
-#### 4. Razor / Razor Blades
-
-Coffee machine:
-- A: Machine $480 + coffee $10/mo
-- B: Machine $120 + coffee $40/mo
-
-Same total over 12 months. Customers strongly prefer B. **Use ONLY if you're 100% sure of downstream sales.**
-
-#### 5. Pennies-a-Day
-
-Amazon EC2: prices in fractions of a penny per hour, not "thousands per server." $120/year vs $9.99/month: very different conversion.
-
-#### 6. Psychological Price Thresholds
-
-Online subscription study: $71 didn't sell. $69.99 did. That $1.01 difference dropped acceptance >20%.
-
-Common thresholds: $40, $70, $99, $100, $199. **Find your thresholds. Stay on the cliff.**
-
-### Test Before You Launch
-
-| Method | When |
-|--------|------|
-| **Focus groups** | Early concept testing |
-| **A/B tests** | Online offers, statistically significant |
-| **Large-scale experiments** | Need many variations or price transparency required |
-
-**Caveat:** can't price purely on behavioral tactics. Combine with rational/value-based.
+**修复：**从第一天起，就把营销和销售纳入创新团队。
 
 ---
 
-## Rule 9: Maintain Price Integrity
+<a id="rule-8-behavioral-pricing-tactics"></a>
+## 规则8：行为定价手段
 
-> "When sales come in below expectation, you'll feel pressure from every corner to cut the price. That's almost always a bad idea."
+> “当价值定价遇到非理性的客户心理时，行为定价的魔力就出现了。”
 
-### The 4 Varieties of Post-Launch Problems
+<a id="the-beach-beer-test"></a>
+### 海滩啤酒测试
 
-1. **Market doesn't understand the value** (or you didn't explain it)
-2. **Competition undercuts on price**
-3. **Competition launches a competing product**
-4. **Sales below plan regardless**
+同样的啤酒、同样炎热、同样的购买付出，若来自高档度假村而非破旧小店，人们愿意付两倍价格。人并非完全理性。
 
-Don't assume #4 means a pricing problem. Could be: feature, distribution, awareness, quality, sales training.
+<a id="the-6-behavioral-pricing-tactics"></a>
+### 六种行为定价手段
 
-### The 6 Tips for Post-Launch
+<a id="1-compromise-effect"></a>
+#### 1. 折中效应
 
-1. **Be patient** - diagnose first
-2. **Track non-financial KPIs** - win/loss, escalation patterns, segment price differences
-3. **Run deal deconstructions** - cross-functional, no finger-pointing, learn from wins AND losses
-4. **The Three Nonprice Actions Rule** - before any price cut, demand 3 alternatives:
-   - Increase advertising
-   - Add product value
-   - Upgrade customer to higher-end at same price
-5. **War-game competitor reactions** - if you'll be worse off after their counter, don't move
-6. **High sales might also be a problem** - means underpriced (Mercedes SL: 20% underpriced, 2-year waitlist, "left hundreds of millions on the table")
+酒类商店提供10、25、40美元三个选项，大多数人选择25美元。**始终提供折中选项。**
 
-### Healthy Escalation Rates
+<a id="2-anchoring"></a>
+#### 2. 锚定
 
-- **20-30% of deals should escalate** (industry-dependent)
-- **30-40% of ALL DEALS should have price changes upon escalation** (NOT 30-40% of escalations - the math is much higher)
-- If approved prices = requested prices → rubber-stamping
-- Too few escalations → underpriced
+《经济学人》A/B 测试：
 
-### Price Wars: Don't Play
+- A组：59美元在线版，或125美元纸刊+在线版，32%选组合。
+- B组：59美元在线版、125美元纯纸刊、125美元纸刊+在线版，**84%选组合**。
 
-2014 Global Pricing Study:
-- 83% felt increasing price pressure
-- 58% in a price war
-- Of those: 90% said competitors started it (statistically impossible)
+125美元纯纸刊就是锚点。**始终设置锚点，B2B 谈判从高位开始。**
 
-**It takes two to tango.** Don't move first. Don't react from fear.
+<a id="3-price-signals-quality"></a>
+#### 3. 价格传递质量信号
 
-> "Price wars have only one winner: the supplier with the lowest cost. Most likely, that's not you."
+Ariely 2008年安慰剂实验：
+
+- 同一安慰剂标价每片2.50美元，85%的人报告疼痛缓解。
+- 标价每片0.10美元，61%的人报告疼痛缓解。
+
+减轻疼痛的是价格，而不是药片。
+
+2007年的 iPhone 以599美元上市，传递高端信号。如果定为49美元，会永久破坏 Apple 智能手机的盈利能力。
+
+<a id="4-razor--razor-blades"></a>
+#### 4. 剃须刀与刀片
+
+咖啡机：
+
+- A：机器480美元，每月咖啡10美元。
+- B：机器120美元，每月咖啡40美元。
+
+12个月总成本相同，客户明显偏好 B。**只有100%确定后续销售能实现时才采用。**
+
+<a id="5-pennies-a-day"></a>
+#### 5. 每日小额表达
+
+Amazon EC2 用每小时不足一美分来表达，而不是“每台服务器数千美元”。每年120美元与每月9.99美元，转化表现很不同。
+
+<a id="6-psychological-price-thresholds"></a>
+#### 6. 心理价格阈值
+
+在线订阅研究中，71美元卖不动，69.99美元却可以。1.01美元的差异让接受度下降超过20%。
+
+常见阈值：40、70、99、100、199美元。**找到你的阈值，停在悬崖边。**
+
+<a id="test-before-you-launch"></a>
+### 上市前测试
+
+| 方法 | 何时使用 |
+|---|---|
+| **焦点小组** | 早期概念测试 |
+| **A/B 测试** | 在线销售方案，需达到统计显著性 |
+| **大规模实验** | 需要大量变体，或要求价格透明时 |
+
+**提醒：**不要完全依赖行为手段定价，应结合理性与价值依据。
 
 ---
 
-## Lite Path: Startup/Solo Founder
+<a id="rule-9-maintain-price-integrity"></a>
+## 规则9：保持价格完整性
 
-The full 9-rule process assumes a cross-functional team, survey budget, and weeks of runway. Most founders have none of that. Here is a stripped-down 5-step version that captures the core logic without the overhead.
+> “销量低于预期时，各方都会逼你降价。这几乎总是个坏主意。”
 
-1. **Talk to 10 potential customers about the problem** - skip the formal WTP survey. Use conversation. Ask what they're doing today to solve it and what that costs them in time or money.
-2. **Ask directly: "What would you pay to solve this?" and "What's the most you'd pay?"** - get a range from each person. Ignore the lowest answers; they are anchoring low on instinct. Weight the middle responses.
-3. **Test with 3 price points: low (everyone says yes), medium (most say yes), high (some say yes)** - you can do this with a simple landing page, a cold email with a "reply to buy," or a direct ask in conversation. Pick the price where the right segment says yes, not the price that closes everyone.
-4. **Bundle 2-3 features into a single offer** - skip Good/Better/Best for v1. One clean offer is easier to communicate and easier to iterate. Add tiers once you understand which features people actually use.
-5. **Launch at the medium price, iterate based on actual conversion data** - win/loss patterns, drop-off points, and reasons people don't buy will teach you more than any survey at this stage.
+<a id="the-4-varieties-of-post-launch-problems"></a>
+### 上市后的四类问题
 
-> This skips the formal tools (Van Westendorp, Gabor-Granger, conjoint) that require 200+ respondents. Use those when you have the volume.
+1. **市场不理解价值**，或者你没有解释清楚。
+2. **竞争对手用更低价格打压。**
+3. **竞争对手推出竞品。**
+4. **无论如何，销量就是低于计划。**
+
+不要认为第4种一定是价格问题。也可能是功能、渠道、认知度、质量或销售培训问题。
+
+<a id="the-6-tips-for-post-launch"></a>
+### 上市后的六条建议
+
+1. **保持耐心**：先诊断。
+2. **跟踪非财务指标**：赢单与丢单、升级审批模式、各细分群体的价格差异。
+3. **拆解交易**：跨职能复盘，不互相指责，同时从成功和失败中学习。
+4. **三项非价格行动规则**：任何降价之前，必须提出3个替代方案：
+   - 加大广告。
+   - 增加产品价值。
+   - 以相同价格为客户升级更高档产品。
+5. **推演竞争反应**：如果对方反击后你会更差，就不要动。
+6. **高销量也可能是问题**：意味着定价过低，例如 Mercedes SL 低估20%，等候2年，“错失数亿美元”。
+
+<a id="healthy-escalation-rates"></a>
+### 健康的升级审批比例
+
+- **20—30%的交易应升级审批**，依行业而定。
+- **全部交易中30—40%应在升级审批时发生价格调整**，不是升级审批交易的30—40%，原文强调其比例更高。
+- 批准价总等于申请价，说明审批流于盖章。
+- 升级审批太少，可能定价过低。
+
+> 译注：原文同时给出“20—30%的交易升级审批”和“全部交易30—40%在升级审批时改价”，两者口径存在冲突；此处保留，使用前应核实。
+
+<a id="price-wars-dont-play"></a>
+### 价格战：别参与
+
+2014年全球定价研究：
+
+- 83%感到价格压力增加。
+- 58%处在价格战中。
+- 其中90%说是竞争对手先挑起，这在统计上不可能成立。
+
+**一个巴掌拍不响。**不要先出手，也不要因恐惧而反应。
+
+> “价格战只有一个赢家：成本最低的供应商。而它很可能不是你。”
 
 ---
 
-### Apple Watch (April 2015) - Price Integrity in Action
+<a id="lite-path-startupsolo-founder"></a>
+## 简化路线：创业公司与独立创始人
 
-- Launched at $349 (not cheap)
-- WSJ: "Glimmers Emerge on Apple Watch Sales, and They're Not Pretty"
-- Apple did NOT drop the price
-- ~8M sold in first 6 months = $2.8B
+完整九条规则假设你有跨职能团队、调查预算，以及数周的时间余量。多数创业者没有。下面的五步版保留核心逻辑，降低执行负担。
 
-### BMW 7 Series (2001) - Diagnose Before Cutting
+1. **与10位潜在客户讨论问题**：跳过正式的支付意愿调查，用对话了解他们今天如何解决，以及花了多少时间和钱。
+2. **直接问：“解决这个问题，你愿意付多少钱？”以及“最多能付多少？”**每人给出一个区间。忽略最低回答，因为他们可能本能地压低锚点，重点考虑中间的回答。
+3. **测试三个价格点：低价，所有人都说愿意；中价，多数人愿意；高价，部分人愿意。**可以用简单落地页、附“回复即可购买”的冷邮件，或对话中直接询问来测试。选择让正确细分群体愿意购买的价格，而非能成交所有人的价格。
+4. **把2—3个功能打包成一个方案**：第一版先不做基础/进阶/旗舰。一个清晰方案更易表达、也更易迭代。弄清人们实际使用哪些功能后，再加档位。
+5. **以中间价格上市，根据真实转化数据迭代**：此阶段，赢单与丢单模式、流失节点、不购买原因，比任何调查教给你的更多。
 
-Slow sales. Cause: Europeans thought it was UGLY.
-- Did NOT cut price
-- Reduced sales targets
-- Started face-lift redesign
+> 这条路线省略了需要200位以上受访者的正式工具，如 Van Westendorp、Gabor-Granger 和联合分析。等规模足够再使用。
+
+---
+
+<a id="apple-watch-april-2015---price-integrity-in-action"></a>
+### Apple Watch，2015年4月：价格完整性的实践
+
+- 以349美元上市，并不便宜。
+- 《华尔街日报》：“Apple Watch 销量初现端倪，情况并不好看。”
+- Apple 没有降价。
+- 前6个月约售出800万只，对应28亿美元。
+
+<a id="bmw-7-series-2001---diagnose-before-cutting"></a>
+### BMW 7系，2001年：降价之前先诊断
+
+销量缓慢，原因是欧洲消费者觉得设计难看。
+
+- 没有降价。
+- 下调销售目标。
+- 开始外观改款。

@@ -1,269 +1,294 @@
 ---
 name: obviously-awesome
-description: April Dunford's 10-step positioning methodology for B2B tech products. Use when customers don't understand the product, sales cycles are long because reps must "explain it," prospects compare you to wrong competitors, or you face price pressure despite a good product. Covers competitive alternatives, unique attributes, value themes, target market characteristics, market category (Head to Head / Big Fish Small Pond / New Game), and trend layering.
+description: April Dunford 面向 B2B 科技产品的十步定位法。当客户不理解产品、销售必须反复“解释产品”导致销售周期漫长、潜在客户把你与错误的竞品比较，或产品很好却仍面临价格压力时使用。涵盖竞争替代方案、独特属性、价值主题、目标市场特征、市场品类（正面竞争／小池塘里的大鱼／开创新游戏）以及趋势叠加。
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/obviously-awesome/SKILL.md)。原项目整理：AgentSeal；书籍来源：《Obviously Awesome》— April Dunford；AI辅助翻译。
 
+> **说明：** 本技能是独立的分析与评论，并非原书文本的复制。它将书中核心思想与当代创业实践相结合，指出框架过时或不完整之处，并融合相邻学科的视角。完整论证与背景请阅读原书。
 
-# Obviously Awesome
+<a id="obviously-awesome"></a>
+# Obviously Awesome（让产品价值显而易见）
 
-> "Positioning is the act of deliberately defining how you are the best at something that a defined market cares a lot about." - April Dunford (2019)
+> “定位，就是有意识地定义：在一个明确的市场非常在意的某件事情上，你如何做到最好。”——April Dunford（2019）
 
-## When to Use
+<a id="when-to-use"></a>
+## 何时使用
 
-Investigate positioning when ANY of these is true:
+以下任意一种情况成立时，都应检查定位：
 
-| Sign | What It Looks Like |
-|------|--------------------|
-| **Confused prospects** | Compare you to products you're nothing like |
-| **Long sales cycles** | Reps spend most calls explaining what you are |
-| **High churn** | Customers who buy don't get the expected value |
-| **Price pressure** | Can't command premium despite real differentiation |
+| 信号 | 具体表现 |
+|------|----------|
+| **潜在客户困惑** | 拿你与完全不同的产品比较 |
+| **销售周期长** | 销售人员把通话的大部分时间花在解释你到底是什么 |
+| **流失率高** | 购买的客户没有获得预期价值 |
+| **价格压力** | 明明存在真实差异，却无法卖出溢价 |
 
-Dunford does not give a strict numerical threshold - one strong sign is enough to warrant a positioning audit.
+Dunford 没有设定严格的数量门槛——一个强烈信号就足以值得开展定位审查。
 
-## The Core Insight
+<a id="the-core-insight"></a>
+## 核心洞见
 
-**You probably have a positioning problem, not a marketing problem.**
+**你很可能遇到了定位问题，而非营销问题。**
 
-When prospects don't understand your product, it's not because you haven't said it loud enough. It's because the **CONTEXT** they're using to evaluate you is wrong.
+潜在客户不理解产品，不是因为你说得还不够响，而是他们评价你时采用的**情境**错了。
 
-**Joshua Bell experiment:** World-class violinist played 45 min in a DC subway in 2007. 1,070 people walked past. Earned $32.17. Two days earlier: sold-out Boston Symphony Hall at $100/seat. Same person, same skill. Different context = different perceived value.
+**Joshua Bell 实验：** 2007 年，这位世界级小提琴家在华盛顿特区地铁站演奏了 45 分钟。1,070 人经过，收入为 32.17 美元。两天前，他在波士顿交响音乐厅每座 100 美元的演出门票售罄。同一个人，同样的技艺。情境不同，感知价值就不同。
 
-**Cake → Muffin:** Sometimes the same product needs a different category. Almost no physical difference between cake and muffin. Big contextual difference.
+**蛋糕 → 松饼：** 有时同一个产品需要换个品类。蛋糕和松饼在物理形态上几乎没有差别，情境上的差别却很大。
 
-## The 5+1 Components
+<a id="the-51-components"></a>
+## 5+1 个组成部分
 
-Positioning is built from 5 components, plus 1 optional layer:
+定位由 5 个部分，加上 1 个可选层构成：
 
-| Component | Question | Example |
-|-----------|----------|---------|
-| **1. Competitive Alternatives** | What would they use without you? | Excel, hire intern, do nothing |
-| **2. Unique Attributes** | What do you have that alternatives don't? | Features, capabilities, partnerships |
-| **3. Value** | What can they DO because of those attributes? | Save time, increase revenue (with proof) |
-| **4. Target Market Characteristics** | Who cares MOST? | Best-fit customer profile |
-| **5. Market Category** | What context makes your value obvious? | "CRM for X" |
-| **+1. Relevant Trends** | What in the world makes you matter MORE NOW? | AI, remote work |
+| 组成部分 | 问题 | 示例 |
+|----------|------|------|
+| **1. 竞争替代方案** | 没有你，客户会用什么？ | Excel、雇实习生、什么也不做 |
+| **2. 独特属性** | 你有哪些替代方案没有的东西？ | 功能、能力、合作关系 |
+| **3. 价值** | 凭借这些属性，客户能做到什么？ | 节省时间、增加收入（需有证据） |
+| **4. 目标市场特征** | 谁最在意这些价值？ | 最匹配的客户画像 |
+| **5. 市场品类** | 什么情境能让你的价值显而易见？ | “面向 X 的 CRM” |
+| **+1. 相关趋势** | 世界上的什么变化让你在此刻更加重要？ | AI、远程办公 |
 
-**Critical:** Dependency chain. Get the order wrong and the whole thing collapses.
-
-```
-Alternatives → Attributes → Value → Target Market → Category → (Trends)
-```
-
-Why traditional "For X who Y, our product is a Z that does W unlike V" template fails: assumes you already know category and competitors. For novel products, those are exactly what you're trying to figure out.
-
-Detailed component definitions: see [frameworks.md](frameworks.md).
-
-## The 10-Step Process (High Level)
-
-| # | Step |
-|---|------|
-| 1 | Understand customers who LOVE the product (best-fit) |
-| 2 | Form cross-functional positioning team (CEO mandatory) |
-| 3 | Align vocabulary, let go of positioning baggage |
-| 4 | List true competitive alternatives (customer view) |
-| 5 | Isolate unique attributes (with proof) |
-| 6 | Map attributes to value themes (1-4 themes) |
-| 7 | Determine who cares a lot (behavioral segmentation) |
-| 8 | Find market frame of reference (the core step) |
-| 9 | Layer on a trend (optional) |
-| 10 | Capture positioning so it can be shared |
-
-Step-by-step detail with team formation, baggage handling, value-theme clustering, segmentation: see [frameworks.md](frameworks.md).
-
-## The Circular Dependency (Why Step 1 Matters)
-
-You can't position for your target market until you know who loves you.
-You can't know who loves you without selling first.
-You can't sell without some positioning.
-
-**Break the cycle:** Cast wide early ("fishing-net analogy"). Don't position narrowly until you have signal from real users. Then narrow to best-fit.
-
-If you don't have happy customers yet → you don't have positioning yet, you have hypotheses. Use Mom Test for problem validation FIRST. Don't position what you haven't built.
-
-## The Three Positioning Styles (Step 8 - The Core Step)
-
-Market category is the context customers use to evaluate you. Three styles:
-
-### Style 1: Head to Head (Existing Category)
-
-Compete in an existing category by being better at one specific dimension.
-
-**When to use:** Established category exists, you have a clear advantage on something customers care about, you can be top-3.
-**When NOT:** Category leader is too entrenched, your advantage isn't category-level important.
-
-### Style 2: Big Fish, Small Pond (Subsegment)
-
-Find a subsegment where YOUR strengths are most valuable.
-
-**When to use:** A subset of customers has needs the leader doesn't address well, your strengths align, the subsegment is big enough.
-
-**This is often the best fit for startups** - you can't out-spend the leader on the broad category, but you can dominate a slice.
-
-**Example:** Janna Systems failing at "CRM for everyone." Repositioned as "CRM for investment banks": $2M → $70M revenue → $1.7B Siebel acquisition.
-
-### Style 3: Create a New Game (New Category)
-
-Define a new category you can lead.
-
-**When to use:** Existing categories don't fit, you can clearly explain the new category in customer terms, you have resources to educate the market (expensive).
-**When NOT (most cases):** You think your product is "unique" (everyone thinks that), no budget to educate, existing categories work "well enough."
-
-**Example:** Eloqua coined "marketing automation": $12M → $96M → $870M Oracle acquisition.
-
-Mark Organ (Eloqua founder) found that successful category creation comes from deeply understanding a narrow set of extreme early customers, not from executives brainstorming acronyms at offsites. The category emerges from observed behavior, not invented positioning.
-
-When both a new market boundary AND new evaluation criteria are needed, consider creating a new category. With only one needed, stay within existing category structure. Treat as a heuristic.
-
-### Decision Tree
+**关键：** 这是一条依赖链。顺序搞错，整个体系都会崩塌。
 
 ```
-Does an existing category fit?
-├─ YES → Are you the leader or can become one?
-│        ├─ YES → HEAD TO HEAD
-│        └─ NO → Is there a subsegment where you'd be leader?
-│                ├─ YES → BIG FISH, SMALL POND ← often the answer
-│                └─ NO → Reconsider product, or move to Style 3
-└─ NO → Can you afford to educate the market?
-         ├─ YES → CREATE NEW GAME (rare and risky)
-         └─ NO → Force-fit Style 1 or 2
+替代方案 → 属性 → 价值 → 目标市场 → 品类 →（趋势）
 ```
 
-### Failure Examples
+传统的“对于有 Y 需求的 X，我们的产品是一种 Z，能够实现 W，与 V 不同”模板为何失效？它假设你已经知道品类和竞争对手。对于新颖的产品，这些恰恰是你正要搞清楚的事情。
 
-- **Bic for Her** - Tried to create "pens for women." Pens are pens. Customers ridiculed. Failed.
-- **"Sharing economy for pets" / "Uber for cats"** - Trend layered on product without share-economy mechanics. Disaster.
-- **Long Island Iced Tea → Long Blockchain** - Renamed for crypto trend. Got delisted from Nasdaq.
+各部分的详细定义见 [frameworks.md](frameworks.md)。
 
-### Big Fish / Small Pond Illustrative Example: "Coke for Dogs"
+<a id="the-10-step-process-high-level"></a>
+## 十步流程概览
 
-Dunford's hypothetical: take Coke and reposition for the pet-treat subsegment ("tastes like bones"). Different competitors, different value, different category - same product. Sometimes a subsegment IS available; you just have to look creatively.
+| 步骤 | 内容 |
+|------|------|
+| 1 | 了解热爱产品的客户（最匹配的客户） |
+| 2 | 组建跨职能定位团队（CEO 必须参加） |
+| 3 | 统一用语，放下旧定位的包袱 |
+| 4 | 从客户视角列出真正的竞争替代方案 |
+| 5 | 识别独特属性，并提供证据 |
+| 6 | 将属性映射为价值主题（1—4 个） |
+| 7 | 确定谁特别在意这些价值（按行为细分） |
+| 8 | 找到市场参照框架（核心步骤） |
+| 9 | 叠加一个趋势（可选） |
+| 10 | 记录定位，使其能够共享 |
 
-Wattpad case (often omitted): repositioned a writing-platform product after finding a subset of users using it differently. See [cases.md](cases.md).
+团队组建、旧包袱处理、价值主题聚类和细分的逐步说明，见 [frameworks.md](frameworks.md)。
 
-## Decision Trees
+<a id="the-circular-dependency-why-step-1-matters"></a>
+## 循环依赖：为什么第一步重要
 
-### Do I have a positioning problem?
+不知道谁喜欢你，就无法面向目标市场定位。
+不先销售，就不知道谁喜欢你。
+没有某种定位，又无法销售。
 
-```
-Are any of these true?
-├─ Confused prospects (compare you to wrong things)
-├─ Long sales cycles (always explaining)
-├─ High churn (buyers don't get expected value)
-├─ Price pressure (can't command premium)
-└─ If multiple signs apply → likely positioning problem
-```
+**打破循环：** 早期广撒网（“渔网类比”）。在真实用户给出信号之前，不要定位得太窄。之后再收敛到最匹配的客户。
 
-### Should I reposition?
+如果还没有满意的客户 → 你还没有定位，只有假设。先用 Mom Test 验证问题。不要为尚未做出的产品定位。
 
-```
-Major trigger occurred?
-├─ New competitor changes landscape
-├─ Regulations change
-├─ Economic climate shift
-├─ New technology disrupts category
-├─ Customer attitude shifts
-└─ YES to any → Run the 4 weak-positioning signs check
-                ├─ Multiple failing → Start at Step 4 (re-check alternatives)
-                └─ All clear → Stay course
-```
+<a id="the-three-positioning-styles-step-8---the-core-step"></a>
+## 三种定位方式：第八步，核心步骤
 
-Dunford recommends "checking in" on positioning every six months OR when there's a major event - not mandatory periodic repositioning. **Reposition when triggers occur, not on schedule.** Adding a large competitor doesn't necessarily mean positioning should change.
+市场品类是客户评价你的情境。有三种方式：
 
-## Critical Caveats and Soft Heuristics
+<a id="style-1-head-to-head-existing-category"></a>
+### 方式一：正面竞争（现有品类）
 
-- **"Big Fish / Small Pond is often the best fit for startups"** - heuristic. Selection bias is severe in any consultant's dataset (clients tend to be companies that already need help, often because they're not category leaders). Don't read as a measured rule.
-- **Two-dimensional stretch (new boundary + new criteria → new category)** - heuristic, not law. Use as guidance.
-- **"Check in every six months"** - Dunford's actual phrasing is "checking in on your positioning every six months OR when there has been a major event." It's a check, not a mandatory reposition.
-- **No "2+/4 weak signs" threshold** - the source doesn't quantify how many signs trigger a positioning problem. Use judgment.
+在现有品类中，以某个具体维度的优势参与竞争。
 
-## Customer Sales Story (After Positioning Locked)
+**适用：** 已存在成熟品类；你在客户重视的事情上有明显优势；你能够进入前三。
+**不适用：** 品类领导者根基过深；你的优势在该品类中不够重要。
 
-Once positioning is locked, build a sales story in 6 stages:
+<a id="style-2-big-fish-small-pond-subsegment"></a>
+### 方式二：小池塘里的大鱼（细分市场）
 
-| # | Stage | Content |
-|---|-------|---------|
-| 1 | The Problem | Pain customers feel |
-| 2 | Current Solutions / Gap | Why alternatives fail |
-| 3 | Perfect World | What it would look like solved |
-| 4 | Product Introduction | Here's how we solve it |
-| 5 | Value Themes | The 1-4 ways we deliver value |
-| 6 | Next Steps | What to do now |
+找到最能体现你的优势价值的细分市场。
 
-Sales story comes BEFORE messaging. Story drives messaging, not vice versa. Then write a master messaging document to prevent message creep.
+**适用：** 某部分客户的需求未被领导者充分满足；你的优势与其吻合；细分市场足够大。
 
-**Customers vs investors warning:** Don't say "disruption" to customers. Investor language alienates buyers. Save category-creation language for fundraising.
+**这通常最适合初创企业**——你无法在整个大品类上比领导者花更多钱，但可以主导其中一块。
 
-## Positioning ≠ Messaging ≠ Branding
+**案例：** Janna Systems 以“所有人的 CRM”定位时表现不佳。改为“投资银行的 CRM”后，收入从 200 万美元增长至 7,000 万美元，随后被 Siebel 以 17 亿美元收购。
 
-These three terms are used interchangeably and shouldn't be.
+<a id="style-3-create-a-new-game-new-category"></a>
+### 方式三：开创新游戏（新品类）
 
-- **Positioning** = internal strategic document. Defines your competitive context, unique attributes, and target market. Not customer-facing. This is what this skill covers.
-- **Messaging** = customer-facing translation of positioning. The words on your website, in your pitch deck, in your ads. Positioning makes messaging obvious; without positioning, messaging is guesswork.
-- **Branding** = the emotional associations customers have with your company over time. Builds slowly through repeated, consistent exposure. Can't be written in a workshop.
+定义一个你能领导的新品类。
 
-**Key Dunford point:** Most teams skip positioning and jump straight to messaging. The messaging then changes weekly because there's no foundation underneath it - every new opinion reshapes the copy. Fix the positioning first; the messaging becomes obvious.
+**适用：** 现有品类都不合适；你能够用客户的语言清楚解释新品类；有资源教育市场（成本很高）。
+**不适用（大多数情况）：** 只是觉得自己的产品“独特”（人人都这么想）；没有市场教育预算；现有品类已经“够用”。
 
-| Layer | What It Is | Who Owns It | How Often It Changes |
-|-------|------------|-------------|----------------------|
-| Positioning | Internal strategic foundation | CEO + cross-functional team | Rarely (major triggers only) |
-| Messaging | Customer-facing language | Marketing | Quarterly or as tests demand |
-| Branding | Emotional associations | Marketing + Design (long game) | Slowly, over years |
+**案例：** Eloqua 创造“营销自动化”一词：收入从 1,200 万美元增至 9,600 万美元，随后被 Oracle 以 8.7 亿美元收购。
 
-## Critical Numbers
+Eloqua 创始人 Mark Organ 发现，成功的品类创造源于深入理解一小群极端的早期客户，而不是高管在外出研讨会上头脑风暴几个缩写词。品类来自观察到的行为，不是凭空编造的定位。
 
-| Number | Rule |
-|--------|------|
-| **5+1** | Components of positioning |
-| **10** | Steps in the process |
-| **3** | Positioning styles |
-| **3-12** | Team size for workshop |
-| **1-2** | Members per function on positioning team |
-| **1-4** | Value themes |
-| **2-5** | Clusters of competitive alternatives |
-| **6 months** | Frequency to check in (not mandatory reposition) |
-| **30 sec** | Time customer should need to "get it" |
+当你既需要新的市场边界，又需要新的评价标准时，可以考虑创造新品类。如果只需要其中一种，就留在现有品类结构内。把这视为经验性指导。
 
-## When NOT to Use This Skill
+<a id="decision-tree"></a>
+### 决策树
 
 ```
-Pre-product, validating problem? → Mom Test instead. Don't position what you haven't built.
-Pure consumer (TikTok-style)? → Brand and content matter more than positioning
-Commodity goods? → Price is the only differentiator
-Internal tools? → No customer-facing positioning needed
-Genuine 10x product / strong network effects / PLG with self-explaining UX? → Positioning matters but doesn't WIN the game
+现有品类是否合适？
+├─ 是 → 你是领导者，或能成为领导者吗？
+│       ├─ 是 → 正面竞争
+│       └─ 否 → 有没有能让你成为领导者的细分市场？
+│               ├─ 有 → 小池塘里的大鱼 ← 常见答案
+│               └─ 没有 → 重新考虑产品，或采用方式三
+└─ 否 → 能承担教育市场的成本吗？
+        ├─ 能 → 开创新游戏（少见且风险高）
+        └─ 不能 → 尽量适配方式一或二
 ```
 
-## Where Positioning Is Less Critical
+<a id="failure-examples"></a>
+### 失败案例
 
-Modern counter-examples to "positioning is foundational":
+- **Bic for Her**——试图创造“女性专用笔”。笔就是笔。客户嘲笑这一概念，最终失败。
+- **“宠物共享经济”／“猫咪版 Uber”**——产品没有共享经济机制，却生硬叠加趋势，造成灾难。
+- **Long Island Iced Tea → Long Blockchain**——为追随加密货币趋势而更名，最终被纳斯达克摘牌。
 
-| Company | What Won (Positioning Was Secondary) |
-|---------|--------------------------------------|
-| TikTok | Algorithm + content distribution |
-| Stripe | Developer experience + API quality |
-| OpenAI / ChatGPT | Product capability shock |
-| Linear | Product craft + design |
-| Cursor | Better-than-Copilot AI; word-of-mouth |
-| Figma | Browser-based collab + free tier; network effects |
+<a id="big-fish--small-pond-illustrative-example-coke-for-dogs"></a>
+### “小池塘里的大鱼”示意案例：“狗狗可乐”
 
-**Pattern:** When product is genuinely 10x better, OR strong network effects, OR product-led, positioning matters but doesn't win.
+Dunford 的假设案例：把可乐重新定位到宠物零食细分市场（“骨头味”）。竞争对手、价值和品类都不同——产品却相同。有时确实存在可用的细分市场，只需要更有创造性地寻找。
 
-## The Big Idea
+经常被忽略的 Wattpad 案例：发现一部分用户以不同方式使用写作平台后，对产品重新定位。见 [cases.md](cases.md)。
 
-> "Context is everything. Without context, no one can know if your product is good, bad, or even relevant to them."
+<a id="decision-trees"></a>
+## 决策树
 
-Positioning isn't marketing, branding, or messaging. It's choosing the context customers use to evaluate you.
+<a id="do-i-have-a-positioning-problem"></a>
+### 我有定位问题吗？
 
-The frame determines: who shows up as a customer, who shows up as a competitor, what "value" means, what "expensive" means, what "good" means.
+```
+以下情况是否成立？
+├─ 潜在客户困惑（拿你与错误的对象比较）
+├─ 销售周期长（总在解释）
+├─ 流失率高（买家未获得预期价值）
+├─ 价格压力（无法卖出溢价）
+└─ 多个信号同时出现 → 很可能有定位问题
+```
 
-Most companies let positioning happen accidentally. Dunford's contribution: **positioning is a deliberate choice, not a default.**
+<a id="should-i-reposition"></a>
+### 我应该重新定位吗？
 
-## Supporting Files
+```
+是否发生重大触发事件？
+├─ 新竞争者改变格局
+├─ 法规变化
+├─ 经济环境转变
+├─ 新技术颠覆品类
+├─ 客户态度改变
+└─ 任意一项为“是” → 检查定位薄弱的四种信号
+                      ├─ 多项出问题 → 从第四步开始，重新检查替代方案
+                      └─ 均正常 → 维持方向
+```
 
-- **[frameworks.md](frameworks.md)** - 10-step process detail (team formation, baggage, attributes/value mapping, segmentation), positioning canvas, traditional template critique
-- **[cases.md](cases.md)** - Janna Systems, Eloqua, Wave, Arm & Hammer, Wattpad, Redgate, Bic for Her, Long Blockchain
-- **[examples.md](examples.md)** - Worked positioning canvases, sales-story templates, value-theme clustering examples, "so what?" tests
-- **[integration.md](integration.md)** - Integration and conflicts with Mom Test, Crossing the Chasm, Blue Ocean Strategy, Monetizing Innovation, $100M Offers, $100M Money Models, $100M Leads, SPIN Selling, Influence
+Dunford 建议每六个月或发生重大事件时“检查”定位，而非强制定期重新定位。**由触发事件决定是否重新定位，不按日历机械执行。** 新增一个大型竞争者，并不一定意味着必须改变定位。
+
+<a id="critical-caveats-and-soft-heuristics"></a>
+## 重要提醒与柔性经验法则
+
+- **“小池塘里的大鱼通常最适合初创企业”**——属于经验判断。任何顾问的数据集都存在严重选择偏差：客户往往本就需要帮助，而且通常正因为不是品类领导者才求助。不要把它理解为经过测量的规律。
+- **双维度扩展（新边界 + 新标准 → 新品类）**——是经验法则，不是定律，仅作指导。
+- **“每六个月检查一次”**——Dunford 的实际表述是“每六个月，或发生重大事件时，检查你的定位”。这是检查，不是强制重新定位。
+- **没有“四种薄弱信号中至少两种”的门槛**——原始来源并未量化多少信号才构成定位问题，需要自行判断。
+
+<a id="customer-sales-story-after-positioning-locked"></a>
+## 客户销售叙事：定位确定之后
+
+定位确定后，按六个阶段构建销售叙事：
+
+| 步骤 | 阶段 | 内容 |
+|------|------|------|
+| 1 | 问题 | 客户感受到的痛点 |
+| 2 | 现有方案与缺口 | 替代方案为何失效 |
+| 3 | 理想世界 | 问题解决后的样子 |
+| 4 | 产品介绍 | 我们如何解决问题 |
+| 5 | 价值主题 | 我们提供价值的 1—4 种方式 |
+| 6 | 下一步 | 现在该做什么 |
+
+销售叙事先于传播信息。叙事驱动信息表达，而非相反。之后撰写统一的信息表达主文档，防止信息逐渐偏离。
+
+**客户与投资者的区别：** 不要对客户讲“颠覆”。投资者语言会疏远买家。把品类创造的话语留给融资场景。
+
+<a id="positioning--messaging--branding"></a>
+## 定位 ≠ 信息表达 ≠ 品牌塑造
+
+这三个词常被混用，但不应该如此。
+
+- **定位**＝内部战略文档，定义竞争情境、独特属性和目标市场，不直接面向客户。本技能覆盖的正是这一层。
+- **信息表达**＝将定位转化为面向客户的语言，即网站、路演演示文稿和广告中的文字。定位能让表达顺理成章；没有定位，表达只能靠猜。
+- **品牌塑造**＝客户随着时间对公司产生的情感联想，通过反复、一致的接触缓慢建立，无法在一次工作坊里写出来。
+
+**Dunford 的关键观点：** 多数团队跳过定位，直接进入信息表达。由于缺乏基础，文案每周都在变，每个新意见都能重塑它。先解决定位，信息表达就会变得清晰。
+
+| 层次 | 本质 | 负责人 | 变化频率 |
+|------|------|--------|----------|
+| 定位 | 内部战略基础 | CEO + 跨职能团队 | 很少，仅重大触发事件时 |
+| 信息表达 | 面向客户的语言 | 营销团队 | 每季度或根据测试需要 |
+| 品牌塑造 | 情感联想 | 营销 + 设计，长期推进 | 缓慢，以年计 |
+
+<a id="critical-numbers"></a>
+## 关键数字
+
+| 数字 | 含义 |
+|------|------|
+| **5+1** | 定位的组成部分 |
+| **10** | 流程步骤数 |
+| **3** | 定位方式数 |
+| **3—12** | 工作坊团队人数 |
+| **1—2** | 定位团队中每个职能的成员数 |
+| **1—4** | 价值主题数 |
+| **2—5** | 竞争替代方案的聚类数 |
+| **6 个月** | 检查频率，不是强制重新定位 |
+| **30 秒** | 客户应能理解产品所需的时间 |
+
+<a id="when-not-to-use-this-skill"></a>
+## 何时不使用本技能
+
+```
+产品尚未开发、正在验证问题？→ 使用 Mom Test，不要为尚未做出的产品定位。
+纯消费类产品（类似 TikTok）？→ 品牌与内容比定位更重要。
+大宗同质化商品？→ 价格是唯一差异。
+内部工具？→ 无须面向客户的定位。
+真正好十倍的产品／强网络效应／体验不言自明的产品驱动增长？→ 定位重要，但不是赢得竞争的决定因素。
+```
+
+<a id="where-positioning-is-less-critical"></a>
+## 定位没那么关键的情况
+
+对“定位是一切基础”这一说法的现代反例：
+
+| 公司 | 胜出因素（定位居于其次） |
+|------|------------------------|
+| TikTok | 算法 + 内容分发 |
+| Stripe | 开发者体验 + API 质量 |
+| OpenAI / ChatGPT | 产品能力带来的震撼 |
+| Linear | 产品打磨 + 设计 |
+| Cursor | 优于 Copilot 的 AI；口碑 |
+| Figma | 浏览器内协作 + 免费层；网络效应 |
+
+**共同模式：** 当产品确实好十倍，或有强网络效应，或以产品驱动增长时，定位仍然重要，但不决定胜负。
+
+<a id="the-big-idea"></a>
+## 核心思想
+
+> “情境决定一切。没有情境，没人能知道你的产品是好是坏，甚至不知道它与自己是否相关。”
+
+定位不是营销、品牌塑造或信息表达，而是选择客户用来评价你的情境。
+
+这个框架决定谁会成为客户、谁会成为竞争对手，以及什么叫“价值”“贵”和“好”。
+
+多数公司让定位偶然形成。Dunford 的贡献是：**定位是一种有意识的选择，而不是默认结果。**
+
+<a id="supporting-files"></a>
+## 配套文件
+
+- **[frameworks.md](frameworks.md)**——十步流程详解（团队组建、旧包袱、属性与价值映射、细分）、定位画布、传统模板的缺陷。
+- **[cases.md](cases.md)**——Janna Systems、Eloqua、Wave、Arm & Hammer、Wattpad、Redgate、Bic for Her、Long Blockchain。
+- **[examples.md](examples.md)**——完整定位画布、销售叙事模板、价值主题聚类示例、“所以呢？”测试。
+- **[integration.md](integration.md)**——与 Mom Test、Crossing the Chasm、Blue Ocean Strategy、Monetizing Innovation、$100M Offers、$100M Money Models、$100M Leads、SPIN Selling、Influence 的结合与冲突。

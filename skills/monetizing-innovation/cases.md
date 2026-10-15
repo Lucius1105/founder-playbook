@@ -1,191 +1,216 @@
-# Monetizing Innovation - Case Studies
+> 中文译文｜[英文对照](cases.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/monetizing-innovation/cases.md)。原项目整理：AgentSeal；原书：Madhavan Ramanujam 与 Georg Tacke 的《Monetizing Innovation》；AI 辅助翻译。以下数据与历史叙述沿用原文。
 
-Detailed case studies referenced from [SKILL.md](SKILL.md). Used for pattern-matching when diagnosing or planning a launch.
+<a id="monetizing-innovation---case-studies"></a>
+# 创新变现：案例研究
 
----
-
-## The Failure Exemplars
-
-### Amazon Fire Phone (Feature Shock)
-
-- $170M write-down
-- Price cut $199 → $0.99 post-launch
-- Cause: features crammed in (Dynamic Perspective, Firefly) without clear customer value
-
-### Audi Q7 (Minivation)
-
-- Launched at €55K
-- Optimal price was €58K
-- Missed €210M/year
-- Cause: priced safely below WTP
-
-### Silicon Valley Component Maker (Minivation)
-
-- Charged 85¢ when customer captured $5 of value
-- 6x value gap left for customer to keep
-
-### Kodak Digital Camera (Hidden Gem)
-
-- Invented digital photography in 1974
-- Didn't ship until 1995
-- Cause: would have cannibalized film business; mid-level execs killed it
-
-### Segway (Undead)
-
-- $100M development
-- Sold ~30K total in 6 years
-- Eventually sold to Ninebot
-- Cause: wrong market, no real customer need validated
-
-### Google Glass (Undead)
-
-- Wrong segment (consumers vs surgeons/industrial users)
-- Top-down pet project; no customer dissent permitted
-
-### Dodge Dart 2012 (Anti-Cayenne)
-
-- Fiat Chrysler bragged in TV ads they "kicked the finance guys out"
-- Designed for engineering perfection, then priced
-- 2012: 25,000 sold (1/4 of forecast)
-- 2nd biggest new-product flop of 2012 (only Apple Maps was worse)
-- 2014: Belvidere plant layoffs - same workers Marchionne told "our future hangs on this"
-- 9-month 2015: Dart sold 1/7th of Corolla+Civic combined
-- **Textbook example of designing the product first, pricing it last**
-
-### LivingSocial (Penetration Disaster)
-
-- Raised $900M
-- Lost $1B in 4 years
-- *NYT*: "No one paid much attention to how the company would ultimately make money"
-
-### European Cautionary Tale (Price Integrity Collapse)
-
-- 70% market share in Holland
-- Competitor attacked
-- Sales head panicked, asked CEO for discount approval
-- **Pricing strategy collapsed in a single day**
+这里详述 [SKILL.md](SKILL.md) 引用的案例，供诊断或规划产品上市时识别类似模式。
 
 ---
 
-## The Success Cases
+<a id="the-failure-exemplars"></a>
+## 失败案例
 
-### Porsche (Cayenne, Panamera) - The Gold Standard
+<a id="amazon-fire-phone-feature-shock"></a>
+### Amazon Fire Phone：功能过载
 
-- Customer research **4 years before launch**
-- Car clinics with WTP questions (most automakers skip WTP)
-- "**Burden of proof is always on why a feature should be INCLUDED**"
-- Living business case modeled cannibalization
-- Skimming strategy: launched 8-cyl first, 6-cyl a year later
-- C-suite drove the process personally
-- Result: ~50% of Porsche profit from Cayenne
+- 减记1.7亿美元。
+- 上市后价格从199美元降至0.99美元。
+- 原因：塞入动态视角（Dynamic Perspective）、Firefly 等功能，却没有清晰的客户价值。
 
-**Lesson:** WTP-first design + C-suite ownership + skimming + cannibalization modeling.
+<a id="audi-q7-minivation"></a>
+### Audi Q7：创新低价化
 
-### Gillette Guard (India)
+- 上市价55,000欧元。
+- 最优价格本应为58,000欧元。
+- 每年错失2.1亿欧元。
+- 原因：为求稳妥，把价格定在支付意愿以下。
 
-- Indian market potential: 4x US (400M men)
-- Mach 3 at 100 rupees was too expensive
-- Spent thousands of hours interviewing Indians BEFORE design
-- Target price: **15 rupees razor, 5 rupees blade**
-- Designed AROUND that price: cut 25 components → 4
-- Result: >60% Indian market share within 2 years (3x previous)
+<a id="silicon-valley-component-maker-minivation"></a>
+### 硅谷零部件制造商：创新低价化
 
-**Lesson:** Design product around the price - literally. Re-engineer cost structure.
+- 客户获得5美元的价值，企业却只收85美分。
+- 留给客户的价值差距达到6倍。
 
+<a id="kodak-digital-camera-hidden-gem"></a>
+### Kodak 数码相机：隐藏宝石
+
+- 1974年发明数码摄影。
+- 直到1995年才推出产品。
+- 原因：可能蚕食胶卷业务，中层高管将其否决。
+
+<a id="segway-undead"></a>
+### Segway：僵尸产品
+
+- 开发投入1亿美元。
+- 6年总销量约30,000台。
+- 最终出售给 Ninebot。
+- 原因：市场选择错误，没有验证真实客户需求。
+
+<a id="google-glass-undead"></a>
+### Google Glass：僵尸产品
+
+- 选择了错误的细分人群：普通消费者，而不是外科医生或工业用户。
+- 自上而下的高层偏爱项目，不允许客户提出反对意见。
+
+<a id="dodge-dart-2012-anti-cayenne"></a>
+### 2012款 Dodge Dart：Cayenne 的反面
+
+- Fiat Chrysler 在电视广告中炫耀自己“把财务人员赶了出去”。
+- 先追求工程设计完美，再考虑价格。
+- 2012年售出25,000辆，仅为预测的四分之一。
+- 2012年第二大新品失败案例，只有 Apple Maps 更差。
+- 2014年 Belvidere 工厂裁员；Marchionne 曾对同一批工人说：“我们的未来就押在它上面。”
+- 2015年前9个月，Dart 销量仅为 Corolla 与 Civic 合计销量的七分之一。
+- **先设计产品、最后定价的教科书式反例。**
+
+<a id="livingsocial-penetration-disaster"></a>
+### LivingSocial：渗透策略灾难
+
+- 融资9亿美元。
+- 4年亏损10亿美元。
+- 《纽约时报》：“几乎没有人认真关注，这家公司最终如何赚钱。”
+
+<a id="european-cautionary-tale-price-integrity-collapse"></a>
+### 欧洲警示案例：价格完整性崩溃
+
+- 在荷兰拥有70%的市场份额。
+- 遭到竞争对手进攻。
+- 销售负责人慌了，向 CEO 申请折扣许可。
+- **定价策略在一天内崩塌。**
+
+---
+
+<a id="the-success-cases"></a>
+## 成功案例
+
+<a id="porsche-cayenne-panamera---the-gold-standard"></a>
+### Porsche：Cayenne 与 Panamera，标杆做法
+
+- **上市前4年**就开展客户研究。
+- 汽车评测访谈中加入支付意愿问题，多数车企会跳过这一项。
+- “**任何功能想被纳入，都必须先证明自己为何值得保留。**”
+- 在动态商业论证中建模分析内部产品蚕食。
+- 采用撇脂策略：先推出8缸车型，一年后再推出6缸车型。
+- 高层亲自推动流程。
+- 结果：Cayenne 贡献了 Porsche 约50%的利润。
+
+**启示：**先研究支付意愿再设计，由高层负责，结合撇脂策略与内部蚕食建模。
+
+<a id="gillette-guard-india"></a>
+### Gillette Guard：印度市场
+
+- 印度市场潜力为美国的4倍，拥有4亿男性。
+- 售价100卢比的 Mach 3 太贵。
+- 设计之前，投入数千小时访谈印度用户。
+- 目标价：**剃须刀15卢比，刀片5卢比**。
+- 围绕价格设计，把25个零部件减为4个。
+- 结果：2年内印度市场份额超过60%，达到此前的3倍。
+
+**启示：**真正按字面意义围绕价格设计产品，重新设计成本结构。
+
+<a id="linkedin"></a>
 ### LinkedIn
 
-- "Members first" principle drives all decisions
-- **InMail policy evolved as marketplace matured:**
-  - Original (small network): pay-only-on-response
-  - 2015 (huge network): pay-unless-response-within-90-days
-  - **Lesson:** Monetization model must evolve with marketplace size
-- Monetizes BOTH sides of the marketplace
-- **Talent Solutions = $1.3B business**
-- Process: hypothesis → internal refinement → customer validation → sales gut-check → quantitative model → **paid pilots (not free betas)**
-- "Our beta users have skin in the game"
+- “会员优先”原则驱动所有决策。
+- **InMail 政策随着市场成熟而变化：**
+  - 早期网络较小时：收到回复才收费。
+  - 2015年网络庞大时：收费，除非在90天内收到回复。
+  - **启示：**变现模式必须随双边市场规模变化。
+- 同时向市场两端变现。
+- **Talent Solutions 成为13亿美元的业务。**
+- 流程：提出假设 → 内部完善 → 客户验证 → 销售直觉复核 → 量化模型 → **付费试点，而非免费测试版**。
+- “我们的测试用户也投入了真金白银。”
 
-**Lesson:** Paid pilots > free betas. Marketplace pricing must evolve with scale.
+**启示：**付费试点优于免费测试；平台定价必须随规模演化。
 
+<a id="dräger-safety"></a>
 ### Dräger Safety
 
-- Replaced "engineer brainstorming + sales anecdotes" with field research
-- CEO went to sewers and pipelines to interview workers
-- **5-Phase Customer Process Monitoring (CPM):**
-  1. Define target market
-  2. Identify decision makers (the buying center)
-  3. Qualitative research (find unarticulated needs)
-  4. Quantitative survey (WTP)
-  5. Assess competitive products
-- X-zone 5000: 35% premium, **250% over forecast**
-- "Like climbing Mount Everest" to deploy the process
+- 用实地研究取代“工程师头脑风暴+销售轶事”。
+- CEO 进入下水道和管线现场访谈工人。
+- **客户流程监测（CPM）的五个阶段：**
+  1. 定义目标市场。
+  2. 识别决策者，即采购决策群体。
+  3. 定性研究，发现尚未被说出的需求。
+  4. 定量调查支付意愿。
+  5. 评估竞品。
+- X-zone 5000 溢价35%，表现**超出预测250%**。
+- 推行这个流程“就像攀登珠穆朗玛峰”。
 
-**Lesson:** Field research replaces guessing. CEOs go to the field.
+**启示：**实地研究取代猜测，CEO 也应到现场。
 
+<a id="uber"></a>
 ### Uber
 
-- "Elasticity is off the charts" - both riders AND drivers
-- **Surge pricing solves supply problem** (would-be name: "availability pricing")
-- **Penetration pricing tied to virtuous cycle:** more usage → lower cost → lower price → more demand
-- **No tipping by design** - removes anxiety/decision burden
-- Segmentation: UberX, Black, ASSIST, Pool, EATS
+- “弹性高得惊人”，乘客和司机两端都如此。
+- **高峰加价解决的是供给问题**，它原本可能被命名为“可获得性定价”。
+- **渗透定价与良性循环相连：**使用越多 → 成本越低 → 价格越低 → 需求越大。
+- **有意取消小费**，减少焦虑与决策负担。
+- 细分产品：UberX、Black、ASSIST、Pool、EATS。
 
-**Lesson:** Dynamic pricing solves supply, not just demand. Penetration tied to network effect.
+**启示：**动态定价不仅处理需求，也解决供给；渗透策略应与网络效应相连。
 
+<a id="swarovski"></a>
 ### Swarovski
 
-- 100,000+ SKUs - can't research each one
-- Researched **drivers of value** instead
-- 5 tiers based on cut complexity + brilliance
-- Price span: **650% from low to high tier**
-- Phone case crystals: 120% premium accepted by consumers
-- "We should have done this even earlier"
+- 超过100,000个 SKU，无法逐个研究。
+- 改为研究**价值驱动因素**。
+- 根据切割复杂度与光彩程度分为5档。
+- 从低档到高档，**价格跨度为650%**。
+- 手机壳水晶的120%溢价也被消费者接受。
+- “我们应该更早这样做。”
 
-**Lesson:** When SKU count is huge, research drivers of value, not individual SKUs.
+**启示：**SKU 极多时，应研究价值驱动因素，而非每个单独 SKU。
 
+<a id="optimizely"></a>
 ### Optimizely
 
-- Started with WTP conversations BEFORE writing code
-- Cross-functional **monetization task force**
-- Chose Monthly Unique Visitors (MUVs) over per-user (per-user would have been minivation)
-- Personalization product: chose **total site traffic** as metric (different from Testing's MUVs)
-- Did NOT bundle Testing + Personalization (validated customers preferred separate)
+- 写代码前先进行支付意愿访谈。
+- 成立跨职能的**变现专项小组**。
+- 选择月独立访客数（MUV）而非用户席位数作为计价依据；按用户计费会导致创新低价化。
+- 个性化产品采用**网站总流量**计价，与测试产品的 MUV 指标不同。
+- 没有捆绑测试与个性化产品，因为已验证客户更喜欢分开购买。
 
-**Lesson:** Choose the metric carefully - the wrong metric is a minivation. Validate bundling preferences.
+**启示：**谨慎选择计价指标，错误指标会导致价值变现不足；也要验证客户对捆绑的偏好。
 
+<a id="innovative-pharma"></a>
 ### Innovative Pharma
 
-- Concentrated bigger bets on FEWER products
-- Moved value analysis to **end of Phase II** (not after Phase III)
-- Cross-functional cooperation: clinical + marketing + market access + health-outcomes
-- "**In innovation, less is more**"
-- Killing products on commercial grounds is now a feature, not a failure
+- 把更大的投入集中在更少的产品上。
+- 将价值分析提前至**二期临床试验结束时**，而非三期结束后。
+- 跨职能合作涵盖临床、营销、市场准入及健康结果。
+- “**创新中，少即是多。**”
+- 根据商业理由终止产品，现在被视为能力而非失败。
 
-**Lesson:** Move value analysis earlier in the development pipeline. Killing products is a strength.
+**启示：**将价值分析提前到开发流程中；终止产品可以是一项优势。
 
-### Apple Watch (Price Integrity Win)
+<a id="apple-watch-price-integrity-win"></a>
+### Apple Watch：维护价格完整性
 
-- Launched April 2015 at $349 (not cheap)
-- WSJ headline: "Glimmers Emerge on Apple Watch Sales, and They're Not Pretty"
-- Pogue (Yahoo): "You don't need one"
-- **Apple did NOT drop the price**
-- Result: ~8M sold in first 6 months = $2.8B
+- 2015年4月上市，价格349美元，并不便宜。
+- 《华尔街日报》标题：“Apple Watch 销量初现端倪，情况并不好看。”
+- Yahoo 的 Pogue：“你不需要它。”
+- **Apple 没有降价。**
+- 结果：前6个月约售出800万只，对应28亿美元。
 
-**Lesson:** Holding price through bad press validates premium positioning.
+**启示：**面对负面报道仍维持价格，有助于验证高端定位。
 
-### BMW 7 Series (2001) - Diagnose Before Cutting
+<a id="bmw-7-series-2001---diagnose-before-cutting"></a>
+### BMW 7系，2001年：降价前先诊断
 
-- Slow sales
-- Diagnosis: Europeans thought the design was UGLY
-- BMW's response: Did NOT cut price; reduced sales targets; started face-lift redesign
-- Recovery followed the redesign
+- 销售缓慢。
+- 诊断结果：欧洲消费者觉得设计难看。
+- BMW 的反应：没有降价，而是下调销售目标，开始外观改款。
+- 改款后销售恢复。
 
-**Lesson:** Slow sales is rarely a price problem. Diagnose first.
+**启示：**销售慢很少只是价格问题，先诊断。
 
-### Mercedes SL (Underpricing)
+<a id="mercedes-sl-underpricing"></a>
+### Mercedes SL：定价过低
 
-- Sales blew through forecast
-- 2-year waitlist
-- Internal admission: 20% underpriced
-- "Left hundreds of millions on the table"
+- 销量远超预测。
+- 等候名单长达2年。
+- 内部承认价格低估了20%。
+- “错失了数亿美元。”
 
-**Lesson:** Sellouts and waitlists = underpriced. High sales is also a problem.
+**启示：**售罄和排队等候可能意味着定价过低，销量高也可能是问题。

@@ -1,158 +1,180 @@
-# Obviously Awesome - Worked Examples
+> 中文译文｜[英文对照](examples.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/obviously-awesome/examples.md)。原项目整理：AgentSeal；书籍来源：《Obviously Awesome》— April Dunford；AI辅助翻译。
 
-## Worked Positioning Canvas
+<a id="obviously-awesome---worked-examples"></a>
+# Obviously Awesome——完整示例
 
-### Example: B2B SaaS for Sales Teams
+<a id="worked-positioning-canvas"></a>
+## 填写好的定位画布
 
-| Competitive Alternatives | Unique Attributes | Value | Who Cares a Lot |
-|--------------------------|-------------------|-------|------------------|
-| Excel spreadsheets | Auto-deduplication of leads | Reps spend hours selling, not cleaning data | Sales teams >10 reps doing high-volume outbound |
-| HubSpot CRM | Sequence + dialer integrated | One tool replaces 3 | Teams already using Salesforce + Outreach + ZoomInfo separately |
-| Salesforce + Outreach + ZoomInfo (the big stack) | Pricing for SMB scale | $300/seat instead of $900 | Companies that just raised seed/Series A and can't afford the big stack |
-| Hire BDR agency | Keeps lead data in-house | Build pipeline asset, not rent it | Teams concerned about data ownership |
+<a id="example-b2b-saas-for-sales-teams"></a>
+### 示例：面向销售团队的 B2B SaaS
 
-**Positioning frame chosen:** Big Fish, Small Pond - "The single-tool stack for early-stage SaaS sales teams"
+| 竞争替代方案 | 独特属性 | 价值 | 谁特别在意 |
+|--------------|----------|------|------------|
+| Excel 表格 | 潜客自动去重 | 销售人员把时间用于销售，而不是清洗数据 | 10 名以上销售人员、开展大量主动开发的团队 |
+| HubSpot CRM | 集成触达序列和拨号器 | 一个工具替代三个 | 已分别使用 Salesforce、Outreach、ZoomInfo 的团队 |
+| Salesforce + Outreach + ZoomInfo（大型工具组合） | 适合中小企业规模的定价 | 每席位 300 美元，而非 900 美元 | 刚完成种子轮／A 轮融资、负担不起大型工具组合的公司 |
+| 雇用 BDR 业务开发代理机构 | 潜客数据保留在公司内部 | 建立自己的商机资产，而非租用 | 关注数据所有权的团队 |
 
-### Example: Developer Tool
+**选择的定位框架：** 小池塘里的大鱼——“面向早期 SaaS 销售团队的一体化工具组合”。
 
-| Competitive Alternatives | Unique Attributes | Value | Who Cares a Lot |
-|--------------------------|-------------------|-------|------------------|
-| Build it ourselves | Pre-built integrations with major frameworks | Ship faster, fewer bugs | Series A-C startups under deadline pressure |
-| Use an open-source library | Commercial support + SLA | Production-grade reliability | Teams burned by OSS abandonment |
-| Use Twilio / SendGrid (the leaders) | Cheaper at scale | Lower cost-per-message at >1M msgs/mo | High-volume notification users |
-| Don't send notifications | Built-in deliverability optimization | Higher delivery rates | Teams whose notifications are mission-critical |
+<a id="example-developer-tool"></a>
+### 示例：开发者工具
 
-**Frame:** Big Fish, Small Pond - "Notification infrastructure for high-volume early-stage product teams"
+| 竞争替代方案 | 独特属性 | 价值 | 谁特别在意 |
+|--------------|----------|------|------------|
+| 自行开发 | 预置主流框架集成 | 更快交付、更少缺陷 | 面临交付期限压力的 A—C 轮初创企业 |
+| 使用开源库 | 商业支持 + SLA | 生产级可靠性 | 曾因开源项目弃维护而受损的团队 |
+| 使用 Twilio／SendGrid 等领导者 | 规模扩大后更便宜 | 月消息量超过 100 万时，单条消息成本更低 | 高消息量的通知服务用户 |
+| 不发送通知 | 内置送达率优化 | 提高送达率 | 通知承担关键业务的团队 |
 
----
-
-## "So What?" Test Walkthroughs
-
-### Example 1: Camera Feature
-
-- "We have a 12-megapixel camera" → So what?
-- "You get sharper photos" → So what?
-- "Your photos look professional even when posted on social media" → STOP. Customer goal language.
-
-### Example 2: Deployment Time
-
-- "We deploy in 4 minutes vs industry 4 hours" → So what?
-- "Faster deploys" → So what?
-- "Engineers ship 60x more changes per day, which means features land in production while customer feedback is still warm" → STOP.
-
-### Example 3: SLA
-
-- "99.99% uptime" → So what?
-- "Less downtime" → So what?
-- "Your customers never see an error page during business hours, so your sales team doesn't get angry calls" → STOP.
+**框架：** 小池塘里的大鱼——“面向高消息量早期产品团队的通知基础设施”。
 
 ---
 
-## Sales Story Template (6 Stages)
+<a id="so-what-test-walkthroughs"></a>
+## “所以呢？”测试演示
 
-### Stage 1: The Problem
-"Sales teams at growing SaaS startups are stuck between two bad options. They're either using Excel and losing deals to disorganization, or they're paying $900/seat for the big enterprise stack they don't need yet."
+<a id="example-1-camera-feature"></a>
+### 示例一：相机功能
 
-### Stage 2: Current Solutions / Gap
-"The big stack (Salesforce + Outreach + ZoomInfo) is over-engineered for early teams. You spend more time configuring than selling. The free CRMs lack the outbound sequencing and dialer that early-stage teams actually need."
+- “我们有 1,200 万像素的相机。” → 所以呢？
+- “你能拍出更清晰的照片。” → 所以呢？
+- “即使发在社交媒体上，你的照片也显得专业。” → 停，这就是客户目标的语言。
 
-### Stage 3: Perfect World
-"In a perfect world, a 5-15 person sales team would have one tool that gives them lead management, sequences, and a dialer at SMB pricing - but that scales when they grow."
+<a id="example-2-deployment-time"></a>
+### 示例二：部署时间
 
-### Stage 4: Product Introduction
-"That's what we built."
+- “我们 4 分钟完成部署，行业通常需要 4 小时。” → 所以呢？
+- “部署更快。” → 所以呢？
+- “工程师每天能交付的变更数量增加 60 倍，让客户反馈还热乎时，功能就能进入生产环境。” → 停。
 
-### Stage 5: Value Themes
-1. **One tool replaces three** - reduce stack complexity for early teams
-2. **SMB-priced** - $300/seat vs $900 for the big stack
-3. **Scales without re-platforming** - same data model as enterprise tools, so when you grow, you keep everything
+<a id="example-3-sla"></a>
+### 示例三：SLA
 
-### Stage 6: Next Steps
-"We're offering a 30-day free trial. Want to see it in action with your data?"
-
----
-
-## Value Theme Clustering
-
-Engineers list 47 features. The "so what?" test compresses to 1-4 themes.
-
-### Example: AI Coding Assistant
-
-47 features (auto-complete, refactoring, test generation, doc generation, debugger integration, multi-language support, framework detection, dependency analysis, code review automation, security scanning, performance profiling, CI integration, IDE plugins for 12 IDEs, custom model fine-tuning, etc.)
-
-**Compressed to 3 value themes:**
-1. **Speed** - 60% reduction in coding time on routine tasks
-2. **Quality** - automatic test coverage and code review reduces production bugs by 40%
-3. **Onboarding** - new engineers productive in 1 week vs 6
-
-Each theme maps to multiple features but presents as one value to the buyer.
+- “99.99% 的可用时间。” → 所以呢？
+- “更少停机。” → 所以呢？
+- “你的客户在营业时间看不到错误页面，因此销售团队不会接到愤怒的投诉电话。” → 停。
 
 ---
 
-## Trend Layering: 3-Circle Test
+<a id="sales-story-template-6-stages"></a>
+## 销售叙事模板：六个阶段
 
-For the 3-circle trend analysis diagram, see [frameworks.md](frameworks.md#step-9-layer-on-a-trend-be-careful).
+<a id="stage-1-the-problem"></a>
+### 第一阶段：问题
+“成长中的 SaaS 初创企业销售团队，卡在两个糟糕的选项之间：要么用 Excel，因为管理混乱而丢单；要么为尚不需要的大型企业工具组合，每席位支付 900 美元。”
 
----
+<a id="stage-2-current-solutions--gap"></a>
+### 第二阶段：现有方案与缺口
+“大型工具组合（Salesforce + Outreach + ZoomInfo）对早期团队过于复杂。配置花的时间比销售还多。免费 CRM 又缺少早期团队真正需要的主动触达序列和拨号器。”
 
-## Positioning Audit Checklist
+<a id="stage-3-perfect-world"></a>
+### 第三阶段：理想世界
+“理想情况下，一个 5—15 人的销售团队应该拥有一个工具，以中小企业可负担的价格，提供潜客管理、触达序列和拨号器，并在团队成长时随之扩展。”
 
-**Diagnostic - do I have a positioning problem?**
-- [ ] Prospects compare us to wrong products?
-- [ ] Sales cycle dominated by "explaining what we are"?
-- [ ] High churn from misaligned expectations?
-- [ ] Can't command premium pricing?
+<a id="stage-4-product-introduction"></a>
+### 第四阶段：产品介绍
+“这正是我们做的产品。”
 
-**Workshop prep:**
-- [ ] CEO/founder committed to attend
-- [ ] 3-12 person cross-functional team formed
-- [ ] External facilitator identified
-- [ ] List of 5-10 best-fit customers ready for interview
-- [ ] 1-2 days blocked
+<a id="stage-5-value-themes"></a>
+### 第五阶段：价值主题
+1. **一个工具替代三个**——降低早期团队的工具组合复杂度。
+2. **中小企业价格**——每席位 300 美元，大型工具组合则为 900 美元。
+3. **扩展无须更换平台**——采用与企业级工具相同的数据模型，成长后也能保留所有资产。
 
-**Step-by-step:**
-- [ ] Step 1: Best-fit customers identified (5-criteria checklist)
-- [ ] Step 2: Cross-functional team formed
-- [ ] Step 3: Positioning baggage surfaced
-- [ ] Step 4: True competitive alternatives listed (customer view)
-- [ ] Step 5: Unique attributes documented (with proof)
-- [ ] Step 6: Attributes mapped to 1-4 value themes
-- [ ] Step 7: Best-fit characteristics identified (behavioral, not demographic)
-- [ ] Step 8: Market frame of reference chosen (Head to Head / Big Fish / New Game)
-- [ ] Step 9: Trend layered (or skipped)
-- [ ] Step 10: Positioning canvas + sales story documented
-
-**After workshop:**
-- [ ] Sales story (6 stages) drafted
-- [ ] Master messaging document created
-- [ ] Marketing assets updated
-- [ ] Sales pitch updated
-- [ ] Roadmap reviewed against new positioning
-- [ ] Pricing reviewed against new positioning
-- [ ] Set 6-month positioning check-in
+<a id="stage-6-next-steps"></a>
+### 第六阶段：下一步
+“我们提供 30 天免费试用。想用你们的数据看看实际效果吗？”
 
 ---
 
-## Blank Positioning Canvas
+<a id="value-theme-clustering"></a>
+## 价值主题聚类
 
-Fill in order 1→6. Each step informs the next. Don't skip to market category before completing 1-4.
+工程师列出 47 个功能，“所以呢？”测试则把它们压缩为 1—4 个主题。
+
+<a id="example-ai-coding-assistant"></a>
+### 示例：AI 编程助手
+
+47 个功能：自动补全、重构、生成测试、生成文档、调试器集成、多语言支持、框架检测、依赖分析、自动代码审查、安全扫描、性能分析、CI 集成、适配 12 个 IDE 的插件、自定义模型微调，等等。
+
+**压缩成三个价值主题：**
+1. **速度**——常规任务的编码时间减少 60%。
+2. **质量**——自动测试覆盖和代码审查使生产缺陷减少 40%。
+3. **新人上手**——新工程师 1 周即可产生产出，而非 6 周。
+
+每个主题映射多个功能，但向买家呈现为一种价值。
+
+---
+
+<a id="trend-layering-3-circle-test"></a>
+## 趋势叠加：三圆测试
+
+三圆趋势分析图见 [frameworks.md](frameworks.md#step-9-layer-on-a-trend-be-careful)。
+
+---
+
+<a id="positioning-audit-checklist"></a>
+## 定位审查核对表
+
+**诊断：我是否有定位问题？**
+- [ ] 潜在客户把我们与错误的产品比较？
+- [ ] 销售周期大部分时间用于“解释我们是什么”？
+- [ ] 预期不匹配导致高流失？
+- [ ] 无法获得溢价？
+
+**工作坊准备：**
+- [ ] CEO／创始人承诺参加。
+- [ ] 已组建 3—12 人跨职能团队。
+- [ ] 已确定外部引导师。
+- [ ] 已准备 5—10 名最匹配客户的访谈名单。
+- [ ] 已预留 1—2 天。
+
+**逐步执行：**
+- [ ] 第一步：依照五项标准，识别最匹配客户。
+- [ ] 第二步：组建跨职能团队。
+- [ ] 第三步：揭示旧定位包袱。
+- [ ] 第四步：从客户视角列出真实竞争替代方案。
+- [ ] 第五步：记录独特属性，并提供证据。
+- [ ] 第六步：将属性映射到 1—4 个价值主题。
+- [ ] 第七步：识别最匹配客户的特征，关注行为，而非人口统计。
+- [ ] 第八步：选择市场参照框架，正面竞争／小池塘里的大鱼／开创新游戏。
+- [ ] 第九步：叠加趋势，或跳过。
+- [ ] 第十步：记录定位画布和销售叙事。
+
+**工作坊之后：**
+- [ ] 起草六阶段销售叙事。
+- [ ] 创建统一的信息表达主文档。
+- [ ] 更新营销材料。
+- [ ] 更新销售介绍。
+- [ ] 根据新定位审查产品路线图。
+- [ ] 根据新定位审查定价。
+- [ ] 设置六个月后的定位检查。
+
+---
+
+<a id="blank-positioning-canvas"></a>
+## 空白定位画布
+
+按 1→6 顺序填写，每一步为下一步提供依据。完成 1—4 前，不要跳到市场品类。
 
 ```
-1. Competitive Alternatives: _____________________
-   (What would customers do if you didn't exist?)
+1. 竞争替代方案：_____________________
+   （如果你不存在，客户会怎么做？）
 
-2. Unique Attributes: _____________________
-   (What do you have that alternatives don't?)
+2. 独特属性：_____________________
+   （你有什么是替代方案没有的？）
 
-3. Value: _____________________
-   (So what? What does that attribute enable?)
+3. 价值：_____________________
+   （所以呢？这个属性使什么成为可能？）
 
-4. Target Customer: _____________________
-   (Who cares most about the value you deliver?)
+4. 目标客户：_____________________
+   （谁最在意你提供的价值？）
 
-5. Market Category: _____________________
-   (What context makes your value obvious?)
+5. 市场品类：_____________________
+   （什么情境能让你的价值显而易见？）
 
-6. Trends (optional): _____________________
-   (What relevant trend makes this matter now?)
+6. 趋势，可选：_____________________
+   （什么相关趋势让它在此刻更加重要？）
 ```

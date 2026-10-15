@@ -1,298 +1,323 @@
-# Crossing the Chasm - Templates & Worked Examples
+> 中文译文｜[英文对照](examples.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/crossing-the-chasm/examples.md)。原项目整理：AgentSeal；书籍来源：《Crossing the Chasm》— Geoffrey Moore；AI辅助翻译。
 
-Practical templates referenced from [SKILL.md](SKILL.md).
+<a id="crossing-the-chasm---templates--worked-examples"></a>
+# Crossing the Chasm——模板与完整示例
 
----
-
-## Two-Sentence Positioning Template
-
-```
-For (target customer)
-Who is dissatisfied with (current market alternative)
-Our product is a (new product category)
-That provides (key problem-solving capability).
-Unlike (the product alternative),
-We have assembled (key whole product features for your specific application).
-```
-
-### Worked Example - SGI Hollywood
-
-> "For digital effects supervisors at major film studios who are dissatisfied with traditional analog film editing equipment, Silicon Graphics is a graphics workstation that delivers cinema-quality 3D rendering at production speed. Unlike Sun/HP general-purpose Unix workstations, we have assembled the integrated rendering software, training programs, and direct studio partnerships that make CGI production economically viable."
-
-### Worked Example - Documentum Pharma Regulatory
-
-> "For VPs of Regulatory Affairs at pharmaceutical companies who are dissatisfied with paper-based FDA submission management, Documentum is an enterprise document management system that ensures audit-ready, version-controlled, FDA-compliant submissions. Unlike general-purpose document servers, we have assembled regulatory-specific workflows, validation packages, and pharma-industry consulting partnerships that meet the FDA's CFR Part 11 requirements out of the box."
-
-### Worked Example - Quicken
-
-> "For middle-class households and small-business owners who are dissatisfied with paper checkbooks, Quicken is a personal finance software product that automates check writing and account reconciliation. Unlike Andrew Tobias's Managing Your Money, we have assembled the simplest possible register-replacement interface and the deepest direct bank-data integration."
-
-### Common Mistakes
-
-- Filling the slots with marketing-speak instead of customer language
-- Naming a Product Alternative that customers don't recognize
-- Skipping the Market Alternative (the budget you preempt)
-- Trying to cram too much into "key problem-solving capability" (one sentence, one capability)
+本文件提供 [SKILL.md](SKILL.md) 引用的实用模板。
 
 ---
 
-## 9-Factor Target Selection Scoring Sheet
+<a id="two-sentence-positioning-template"></a>
+## 两句话定位模板
 
-For each candidate beachhead, score 1-5 on each factor.
+```
+面向（目标客户），
+他们不满意（当前市场替代方案）；
+我们的产品是一种（新产品品类），
+提供（解决关键问题的能力）。
+不同于（产品替代方案），
+我们已经整合了（针对你具体应用的关键完整产品要素）。
+```
 
-### Show-Stoppers (any score ≤2 = ELIMINATE)
+<a id="worked-example---sgi-hollywood"></a>
+### 完整示例：SGI 好莱坞
 
-| Factor | Question | Score (1-5) |
-|--------|----------|-------------|
-| **Target customer** | Single identifiable economic buyer, accessible, well-funded? | ___ |
-| **Compelling reason to buy** | Are economic consequences sufficient to mandate fixing this NOW? | ___ |
-| **Whole product** | Can we field a complete solution within 3 months? | ___ |
-| **Competition** | Has someone else already crossed here? Don't attack a fortified hill. | ___ |
+> “面向不满传统模拟电影剪辑设备的大型制片厂数字特效主管，Silicon Graphics 是一种图形工作站，以生产所需速度提供电影级 3D 渲染。不同于 Sun／HP 通用 Unix 工作站，我们整合了渲染软件、培训计划与制片厂直接合作关系，使 CGI 制作在经济上可行。”
 
-### Nice-to-Haves (rank order across surviving candidates)
+<a id="worked-example---documentum-pharma-regulatory"></a>
+### 完整示例：Documentum 制药监管
 
-| Factor | Question | Score (1-5) |
-|--------|----------|-------------|
-| **Partners and allies** | Whole-product partner relationships started? | ___ |
-| **Distribution** | Sales channel reaches this customer? | ___ |
-| **Pricing** | Whole-product price within budget? Channel rewarded? | ___ |
-| **Positioning** | Credible as a provider to this niche? | ___ |
-| **Next target customer** | Does this niche enable adjacent niches (bowling pin)? | ___ |
+> “面向不满纸质 FDA 申报管理的制药企业监管事务副总裁，Documentum 是一种企业文档管理系统，确保申报材料可接受审计、版本受控、符合 FDA 要求。不同于通用文档服务器，我们整合了监管专用流程、验证包和制药行业咨询伙伴，开箱即可满足 FDA 的 CFR Part 11 要求。”
 
-### Decision Rule
+<a id="worked-example---quicken"></a>
+### 完整示例：Quicken
 
-- Eliminate any candidate with a show-stopper ≤2
-- Among survivors, pick the one with highest sum of nice-to-haves
-- **Pick ONE.** "You cannot cross the chasm in two places."
+> “面向不满纸质支票簿的中产家庭与小企业主，Quicken 是一种个人财务软件，自动完成支票填写与账户对账。不同于 Andrew Tobias 的 Managing Your Money，我们整合了尽可能简单的登记簿替代界面，以及最深入的银行数据直连。”
+
+<a id="common-mistakes"></a>
+### 常见错误
+
+- 用营销黑话填空，而非客户语言。
+- 指出客户不认识的产品替代方案。
+- 跳过市场替代方案，即你要争取的预算来源。
+- 在“解决关键问题的能力”里塞太多内容；一句话只讲一个能力。
 
 ---
 
-## Day in the Life Template
+<a id="9-factor-target-selection-scoring-sheet"></a>
+## 九要素目标选择评分表
 
-For each candidate beachhead, fill out 3-5 customer scenarios.
+对每个候选滩头的每项要素打 1—5 分。
 
-### Header
+<a id="show-stoppers-any-score-2--eliminate"></a>
+### 一票否决项：任一项不高于 2 分即排除
 
-| Field | Value |
-|-------|-------|
-| User industry / segment | ___ |
-| Geography | ___ |
-| Department | ___ |
-| Job title | ___ |
-| Technical buyer | ___ |
-| Economic buyer | ___ |
+| 要素 | 问题 | 分数，1—5 |
+|------|------|-----------|
+| **目标客户** | 是否有单一、可识别、可触达、资金充足的经济决策者？ | ___ |
+| **迫切购买理由** | 经济后果是否要求现在解决？ | ___ |
+| **完整产品** | 三个月内能提供完整方案吗？ | ___ |
+| **竞争** | 是否已有别人从这里跨越？不要进攻坚固山头。 | ___ |
 
-### Day in the Life BEFORE (5 elements)
+<a id="nice-to-haves-rank-order-across-surviving-candidates"></a>
+### 加分项：对留下的候选排序
 
-```
-1. Scene/situation - the moment of frustration
-   "It's Tuesday at 4pm. The FDA submission is due Friday. The paralegal..."
+| 要素 | 问题 | 分数，1—5 |
+|------|------|-----------|
+| **伙伴与盟友** | 完整产品合作关系已经开始建立吗？ | ___ |
+| **分销** | 销售渠道能触达这类客户吗？ | ___ |
+| **定价** | 完整产品价格在预算内吗？渠道有回报吗？ | ___ |
+| **定位** | 作为该利基的供应商是否可信？ | ___ |
+| **下一目标客户** | 能打开相邻利基，形成保龄球效应吗？ | ___ |
 
-2. Desired outcome - what they're trying to accomplish
-   "Submit a complete, audit-ready CFR Part 11 package..."
+<a id="decision-rule"></a>
+### 决策规则
 
-3. Attempted approach - how they currently fail
-   "They're emailing Word docs back and forth, manually tracking versions..."
-
-4. Interfering factors - what goes wrong
-   "Two senior reviewers edited the same section in parallel. The merge failed..."
-
-5. Economic consequences - why it matters
-   "Each day of submission delay costs $X in lost market exclusivity..."
-```
-
-### Day in the Life AFTER (3 elements)
-
-```
-1. New approach - with your product
-   "Reviewers edit in a single shared workspace with version tracking..."
-
-2. Enabling factors - why it works now
-   "Auto-merge, audit log, validation against CFR Part 11..."
-
-3. Economic rewards - savings/gains
-   "Submission delays drop 80%; $X recovered per submission..."
-```
-
-### Aim for 20-50 scenarios
-
-This typically reveals 8-10 distinct alternative beachheads to evaluate against the 9-factor checklist.
+- 否决项任一不高于 2 分，排除。
+- 留下的候选中，选择加分项总分最高者。
+- **只选一个。** “不能在两个地方跨越鸿沟。”
 
 ---
 
-## Doughnut Diagram (Whole Product Mapping)
+<a id="day-in-the-life-template"></a>
+## “一天的生活”模板
 
-The doughnut diagram shows what's YOURS vs. PARTNERS' in the whole product. Used for partner negotiations and customer demos.
+为每个候选滩头填写 3—5 个客户场景。
+
+<a id="header"></a>
+### 基本信息
+
+| 字段 | 内容 |
+|------|------|
+| 用户行业／细分市场 | ___ |
+| 地域 | ___ |
+| 部门 | ___ |
+| 职位 | ___ |
+| 技术决策者 | ___ |
+| 经济决策者 | ___ |
+
+<a id="day-in-the-life-before-5-elements"></a>
+### 使用前的一天：五个要素
 
 ```
-                    ┌───────────────────────────┐
-                    │      POTENTIAL             │
-                    │   (Future ecosystem)       │
-                    │                            │
-                    │  ┌──────────────────────┐  │
-                    │  │     AUGMENTED         │  │
-                    │  │  (Maximum success)    │  │
-                    │  │                       │  │
-                    │  │  ┌──────────────┐    │  │
-                    │  │  │   EXPECTED    │    │  │
-                    │  │  │ (What buyer   │    │  │
-                    │  │  │  assumes is   │    │  │
-                    │  │  │  included)    │    │  │
-                    │  │  │              │    │  │
-                    │  │  │  ┌────────┐  │    │  │
-                    │  │  │  │GENERIC │  │    │  │
-                    │  │  │  │  CORE  │  │    │  │
-                    │  │  │  └────────┘  │    │  │
-                    │  │  │              │    │  │
-                    │  │  └──────────────┘    │  │
-                    │  └──────────────────────┘  │
-                    └───────────────────────────┘
+1. 场景／处境：令人沮丧的时刻
+   “周二下午 4 点，FDA 申报材料周五截止。法律助理……”
+
+2. 期望结果：想完成什么
+   “提交完整、可供审计的 CFR Part 11 材料包……”
+
+3. 已尝试的方法：目前如何失败
+   “通过邮件来回发送 Word 文档，手工追踪版本……”
+
+4. 干扰因素：哪里出错
+   “两位资深审阅者同时修改同一节，合并失败……”
+
+5. 经济后果：为何重要
+   “申报每推迟一天，就损失价值 X 美元的市场独占期……”
 ```
 
-### Filling It Out
+<a id="day-in-the-life-after-3-elements"></a>
+### 使用后的一天：三个要素
 
-For each ring, list:
-- What YOU provide
-- What PARTNERS provide
-- What's MISSING (the chasm-crossing risk)
+```
+1. 新方法：采用你的产品
+   “审阅者在单一共享工作区编辑，并有版本追踪……”
 
-If "missing" overlaps with what pragmatists demand, you have a whole-product gap. Close it before crossing.
+2. 促成因素：现在为何有效
+   “自动合并、审计日志、按 CFR Part 11 验证……”
+
+3. 经济回报：节约／收益
+   “申报延迟减少 80%，每次申报收回 X 美元……”
+```
+
+<a id="aim-for-20-50-scenarios"></a>
+### 争取构建 20—50 个场景
+
+通常会揭示 8—10 个不同候选滩头，再用九要素表评估。
 
 ---
 
-## Staircase vs Hockey Stick Forecast
+<a id="doughnut-diagram-whole-product-mapping"></a>
+## 甜甜圈图：完整产品映射
 
-Most business plans show a hockey stick: flat, then sudden inflection. **It's a fiction created by spreadsheets.**
+甜甜圈图显示完整产品中，哪些属于你、哪些属于伙伴，用于伙伴谈判与客户演示。
 
-Reality: **Staircase model**
+```
+┌─────────────────────────────────────┐
+│ 潜在产品：未来生态                  │
+│  ┌───────────────────────────────┐  │
+│  │ 增强产品：最大成功机会        │  │
+│  │  ┌─────────────────────────┐  │  │
+│  │  │ 期望产品：              │  │  │
+│  │  │ 买方默认包含的内容      │  │  │
+│  │  │  ┌───────────────────┐  │  │  │
+│  │  │  │ 通用产品：核心    │  │  │  │
+│  │  │  └───────────────────┘  │  │  │
+│  │  └─────────────────────────┘  │  │
+│  └───────────────────────────────┘  │
+└─────────────────────────────────────┘
+```
+
+<a id="filling-it-out"></a>
+### 如何填写
+
+每一圈列出：
+- 你提供什么。
+- 伙伴提供什么。
+- 缺什么，即跨越鸿沟的风险。
+
+如果缺失内容正是实用主义者要求的，就存在完整产品缺口。跨越之前先补齐。
+
+---
+
+<a id="staircase-vs-hockey-stick-forecast"></a>
+## 阶梯预测与曲棍球杆预测
+
+多数商业计划画一根曲棍球杆：先平坦，然后突然向上拐。**这是电子表格制造的虚构。**
+
+现实是：**阶梯模型**。
 
 ```
        _________
       /
-   __/        ← Chasm period (slow/no growth)
+   __/        ← 鸿沟期，缓慢增长或不增长
   /
-_/  ← Early market growth
+_/  ← 早期市场增长
 ```
 
-Each rise = capitalizing on a niche conquered. Each flat = transitioning to next.
+每次上升代表利用已拿下利基的成果，每段平坦代表转向下一个市场。
 
-### Why Hockey-Stick Mortgages Kill Companies
+<a id="why-hockey-stick-mortgages-kill-companies"></a>
+### 以曲棍球杆预测举债为何会杀死公司
 
-When the hockey stick doesn't materialize and you've borrowed against it, dilution destroys founders, things fall apart, company dies in chasm.
+当预测中的陡增未出现，你却已据此借款，股权稀释会摧毁创始人，一切瓦解，公司死于鸿沟。
 
-### The Profitability Discipline
+<a id="the-profitability-discipline"></a>
+### 盈利纪律
 
-> "Until profitability is achieved, nothing is secure, and your destiny is not under your own control."
+> “没有实现盈利之前，一切都不稳固，命运也不掌握在自己手中。”
 
-**Strong case for profitability from day 1** (especially software with low capitalization):
-- Visionary customers will prepay royalties
-- Cash-flow positive from day 1
-- Avoids "welfare state" mentality
-- Forces drastic focus
-- Strongest evidence for high valuation when raising
+**从第一天就盈利有充分理由**，尤其是资本需求低的软件：
+- 愿景型客户会预付许可费。
+- 第一天即可实现正现金流。
+- 避免“靠救济生活”的心态。
+- 迫使团队极度聚焦。
+- 融资时，是支持高估值的最强证据。
 
 ---
 
-## Beachhead Selection Worked Example
+<a id="beachhead-selection-worked-example"></a>
+## 滩头选择完整示例
 
-### Setup
+<a id="setup"></a>
+### 背景
 
-You sell an AI-powered code review tool. You've sold to 12 visionary CTOs. You've stalled. Time to pick a beachhead.
+你销售 AI 代码审查工具，已经卖给 12 位愿景型 CTO，现在停滞了，该选滩头了。
 
-### Candidate Beachheads
+<a id="candidate-beachheads"></a>
+### 候选滩头
 
-1. **Fintech mid-market engineering teams** (compliance-driven code review)
-2. **Healthcare/HIPAA dev teams** (security-driven code review)
-3. **Open-source projects** (volunteer maintainers)
-4. **Enterprise platform engineering** (large monorepos)
-5. **Crypto/web3 startups** (audit-driven code review)
+1. **中型金融科技工程团队**：合规驱动代码审查。
+2. **医疗／HIPAA 开发团队**：安全驱动代码审查。
+3. **开源项目**：志愿维护者。
+4. **企业平台工程**：大型单体代码仓库。
+5. **加密／Web3 初创企业**：审计驱动代码审查。
 
-### 9-Factor Scoring (Example)
+<a id="9-factor-scoring-example"></a>
+### 九要素示例评分
 
-| Factor | Fintech | Healthcare | OSS | Enterprise | Crypto |
-|--------|---------|------------|-----|-----------|--------|
-| Target customer (identifiable buyer) | 5 | 5 | 1 | 4 | 3 |
-| Compelling reason NOW | 5 | 4 | 2 | 3 | 5 |
-| Whole product in 3 months | 4 | 3 | 5 | 2 | 3 |
-| Not fortified | 4 | 3 | 5 | 2 | 4 |
-| **Show-stopper minimum** | **4** | **3** | **1 ✗** | **2 ✗** | **3** |
-| Partners | 4 | 3 | 5 | 4 | 4 |
-| Distribution | 4 | 3 | 4 | 4 | 4 |
-| Pricing | 4 | 4 | 1 | 4 | 5 |
-| Positioning | 4 | 3 | 3 | 3 | 4 |
-| Next target (bowling pin) | 5 | 5 | 2 | 4 | 3 |
+| 要素 | 金融科技 | 医疗 | 开源 | 企业 | 加密 |
+|------|----------|------|------|------|------|
+| 目标客户，可识别买家 | 5 | 5 | 1 | 4 | 3 |
+| 现在必须购买的理由 | 5 | 4 | 2 | 3 | 5 |
+| 三个月内完整产品 | 4 | 3 | 5 | 2 | 3 |
+| 尚未设防 | 4 | 3 | 5 | 2 | 4 |
+| **否决项最低分** | **4** | **3** | **1 ✗** | **2 ✗** | **3** |
+| 伙伴 | 4 | 3 | 5 | 4 | 4 |
+| 分销 | 4 | 3 | 4 | 4 | 4 |
+| 定价 | 4 | 4 | 1 | 4 | 5 |
+| 定位 | 4 | 3 | 3 | 3 | 4 |
+| 下一目标，保龄球潜力 | 5 | 5 | 2 | 4 | 3 |
 
-### Decision
+<a id="decision"></a>
+### 决策
 
-- OSS eliminated (no economic buyer)
-- Enterprise eliminated (whole product not deliverable in 3 months)
-- Among survivors: Fintech wins on bowling-pin potential and compelling-reason-to-buy
+- 排除开源：没有经济决策者。
+- 排除企业：三个月内无法交付完整产品。
+- 剩余候选中，金融科技凭保龄球潜力和迫切购买理由胜出。
 
-### Two-Sentence Positioning
+<a id="two-sentence-positioning"></a>
+### 两句话定位
 
-> "For mid-market fintech engineering managers who are dissatisfied with manual compliance code review for SOC 2 and PCI audits, [Product] is an AI-powered code review platform that auto-flags compliance violations during PR review. Unlike GitHub's CodeQL, we have assembled the SOC 2 / PCI rule libraries, audit-trail evidence packs, and direct integrations with auditors that make our customers audit-ready without retroactive cleanup."
+> “面向不满 SOC 2 和 PCI 审计中手工合规代码审查的中型金融科技工程经理，[产品] 是一个 AI 代码审查平台，在 PR 审查时自动标记合规违规。不同于 GitHub 的 CodeQL，我们整合了 SOC 2／PCI 规则库、审计轨迹证据包，以及与审计师的直接集成，让客户无须事后清理就能做好审计准备。”
 
-### Bowling Pin Plan
+<a id="bowling-pin-plan"></a>
+### 保龄球计划
 
 ```
-Mid-market fintech (compliance code review)
+中型金融科技：合规代码审查
     ↓
-Larger fintech (broader code-quality + compliance)
+更大型金融科技：更广的代码质量 + 合规
     ↓
-Insurance tech (similar regulatory dynamics)
+保险科技：相似监管机制
     ↓
-Healthcare tech (HIPAA shares structure with PCI)
+医疗科技：HIPAA 与 PCI 存在结构共性
     ↓
-Public-sector contractors (FedRAMP overlap)
+公共部门承包商：与 FedRAMP 重叠
 ```
 
 ---
 
-## Pioneers vs Settlers - Compensation Design
+<a id="pioneers-vs-settlers---compensation-design"></a>
+## 先驱者与定居者：薪酬设计
 
-Pre-chasm and post-chasm reward different behaviors.
+鸿沟前后奖励不同的行为。
 
-| Phase | Who Wins | Compensation Plan |
-|-------|----------|-------------------|
-| **Pre-chasm (Pioneers)** | Account penetration | Front-loaded bonuses, NO equity (they'll leave anyway) |
-| **Post-chasm (Settlers)** | Account development | MBO + slow equity vest (you want them to stay) |
+| 阶段 | 制胜工作 | 薪酬方案 |
+|------|----------|----------|
+| **鸿沟前，先驱者** | 打开新客户 | 前置奖金，不给股权，因为他们反正会离开 |
+| **鸿沟后，定居者** | 发展现有客户 | 目标管理 + 缓慢归属的股权，希望他们留下 |
 
-### The Org Transition
+<a id="the-org-transition"></a>
+### 组织转型
 
-- Target Market Segment Manager → becomes Industry Marketing Manager
-- Whole Product Manager → becomes Product Marketing Manager
+- 目标细分市场经理 → 行业营销经理。
+- 完整产品经理 → 产品营销经理。
 
-**Critical principle:** Product manager and product marketing manager must be SEPARATE roles. Conflating them causes whole-product gaps.
+**关键原则：** 产品经理与产品营销经理必须是独立角色，混为一谈会造成完整产品缺口。
 
-### Pioneer Salesperson Pattern
+<a id="pioneer-salesperson-pattern"></a>
+### 先驱型销售的模式
 
-A pioneer salesperson is great at:
-- Cold outbound to evangelize a new category
-- Multi-month consultative cycles with visionaries
-- Tolerance for ambiguity in the offering
+先驱型销售擅长：
+- 冷启动主动开发，传播新品类。
+- 与愿景者开展数月的顾问式销售。
+- 容忍产品与服务内容不明确。
 
-A pioneer salesperson is bad at:
-- High-volume repeatable transactions
-- Following a playbook
-- Account development (they want to hunt new logos)
+先驱型销售不擅长：
+- 大量可重复交易。
+- 遵循标准打法。
+- 发展现有客户，因为他们想猎取新客户。
 
-When the chasm is crossed, pioneers often must be replaced (or repotted into evangelism roles for new beachheads). The molting process is real and painful.
+跨越鸿沟后，先驱者通常必须被替换，或转入新滩头的市场布道角色。蜕变过程真实且痛苦。
 
 ---
 
-## Position Defense (When Pragmatists Rejected Once)
+<a id="position-defense-when-pragmatists-rejected-once"></a>
+## 位置防守：实用主义者曾经拒绝你时
 
-If pragmatist customers have rejected your product, the cure is whole-product, not pitch.
+如果实用主义客户拒绝产品，解药是完整产品，而非销售话术。
 
-### Defense Checklist
+<a id="defense-checklist"></a>
+### 防守核对表
 
-| Issue | Action |
-|-------|--------|
-| Pragmatists need references; you have none | Get 3-5 wins in your beachhead before broadening |
-| Pragmatists need ecosystem; you have none | Recruit tactical alliances for 3-month whole product |
-| Pragmatists need market leader signal; you don't have it | Position pricing at leader level + claim leadership in your specific niche (if true) |
-| Pragmatists need risk reduction; you offer revolution | Reframe as "30% improvement" not "fundamental breakthrough" |
-| Pragmatists want vertical expertise; you sound generic | Build vertical-specific case studies, vocabulary, demos |
-| Pragmatists want competition; they don't see any | Name Market Alternative + Product Alternative explicitly |
+| 问题 | 行动 |
+|------|------|
+| 实用主义者需要参考客户，而你没有 | 在滩头拿下 3—5 个客户后再扩展 |
+| 实用主义者需要生态，而你没有 | 招募战术联盟，三个月内补齐完整产品 |
+| 实用主义者需要领导者信号，而你没有 | 定价对齐领导者，并在真实情况下主张特定利基的领导地位 |
+| 实用主义者需要降风险，你却提供革命 | 改为“改善 30%”，而非“根本突破” |
+| 实用主义者需要垂直专长，你却讲得泛泛 | 构建行业专属案例、词汇与演示 |
+| 实用主义者需要竞争，却看不到 | 明确指出市场替代方案与产品替代方案 |
 
-If you fix all six and still get rejection, you may not have a viable beachhead. Re-run the 9-factor target selection.
+六项全部修好仍被拒绝，滩头可能不可行。重新运行九要素目标选择。

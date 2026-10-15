@@ -1,173 +1,184 @@
-# money-models - Templates and Examples
+> 中文译文｜[英文对照](examples.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/money-models/examples.md)。原项目整理：AgentSeal；原书：Alex Hormozi 的《$100M Money Models》；AI 辅助翻译。
 
-Fill-in worksheets, scripts, and worked examples. Referenced from [SKILL.md](SKILL.md).
+<a id="money-models---templates-and-examples"></a>
+# 收入模式：模板与示例
+
+供 [SKILL.md](SKILL.md) 引用的填空工作表、话术与完整示例。
 
 ---
 
-## The Money Model Worksheet
+<a id="the-money-model-worksheet"></a>
+## 收入模式工作表
 
-Fill top to bottom. Build and perfect one row before moving to the next.
+自上而下填写。先完善一行，再进入下一行。
 
 ```
 ═══════════════════════════════════════════════
-MONEY MODEL: [business / product]
-30-day payback target: acquire + serve cost = $____ per customer
+收入模式：[业务/产品]
+30天回本目标：获客+服务成本 = 每客____美元
 
-STAGE I - GET CASH (Attraction)
-Offer type:  [ ] Win Money Back  [ ] Giveaway  [ ] Decoy
-             [ ] Buy X Get Y Free  [ ] Pay Less Now/More Later
-What I sell:        _______________________________
-Hook (free/$1/discount): ________________________
-Cash collected in 30 days per customer: $________
-→ Does this alone cover acquire + serve cost?  [ ] yes  [ ] no
+第一阶段：获得现金（获客）
+方案类型：[ ] 达标返款  [ ] 赠奖活动  [ ] 诱饵
+          [ ] 买X送Y  [ ] 现在少付/以后多付
+我销售什么：_______________________________
+钩子，免费/1美元/折扣：____________________
+每客30天内收款：________美元
+→ 单靠这个能覆盖获客+服务成本吗？[ ] 能 [ ] 不能
 
-STAGE II - GET MORE CASH (Upsell)
-Next problem the first purchase creates: __________
-Upsell type: [ ] Classic  [ ] Menu  [ ] Anchor  [ ] Rollover
-What I offer next:  _______________________________
-Price / added 30-day profit: $________
+第二阶段：获得更多现金（升级销售）
+首次购买后出现的下一个问题：______________
+升级类型：[ ] 经典 [ ] 菜单 [ ] 锚点 [ ] 抵扣
+接下来提供什么：___________________________
+价格/新增30天利润：________美元
 
-Downsell ladder (for the "no"):
-  How they pay:  [ ] Payment Plan  [ ] Trial With Penalty
-  What they get: [ ] Feature Downsell
-  Named packages, high → low: ______ / ______ / "The Minimum"
+针对“不”的降档阶梯：
+  付款方式：[ ] 分期 [ ] 带处罚条件的试用
+  所得内容：[ ] 功能降档
+  从高到低的命名套餐：______ / ______ / “最低配置”
 
-STAGE III - GET THE MOST CASH (Continuity)
-Type: [ ] Bonus  [ ] Discount  [ ] Waived Fee
-Bonus / commitment / fee: ________________________
-Recurring price: $______ /____ (bill every 4 weeks, not monthly)
-Prepay-block upsell: buy ___ get ___ free
+第三阶段：获得最多现金（持续订阅）
+类型：[ ] 赠品 [ ] 折扣 [ ] 免除费用
+赠品/承诺/费用：___________________________
+经常性价格：______美元/____，每4周收费而非每月
+预付批量升级：买___送___
 ═══════════════════════════════════════════════
 ```
 
 ---
 
-## Scripts and Phrasings (paraphrased)
+<a id="scripts-and-phrasings-paraphrased"></a>
+## 话术与表达：转述
 
-| Moment | Line | Why it works |
-|--------|------|--------------|
-| Decoy permission | "Are you here for free stuff or lasting results?" | "Results" lets you skip to premium |
-| Classic upsell close | "You don't want anything else, do you?" | A "no" = agreement to buy |
-| A/B upsell | "Chocolate or vanilla?" / "Start today or Monday?" | Removes the option to not-buy |
-| Card on file | "Wanna just use the card on file?" (first buy: "What card do you wanna use?") | Reframes pay from *if* to *which* |
-| Temperature check | "1-10, how bad do you want this?" | 8+ keep going; 7 or below → "Why not a 10?" |
-| Payment plan down | "When's the next time you get paid? Wanna put half down and the rest then?" | Aligns to paydays, splits the ask |
-| Deal close | "Deal?" / "Fair enough?" after each downsell | Discourages further objection once you've accommodated |
-| Loser-wins reframe | "The real win was finishing what you started - let's credit this toward staying on." | Converts a failed challenge into a retained customer |
-| Unselling | "You don't need this or this - cross those off. You just need X." | Builds trust; highlights what to buy |
-| Continuity bonus reveal | "Want to know how to get this free? Become a member today, or buy it for $XXX - which would you prefer?" | The shock works in your favor |
-| Waived-fee framing | "If you just want to test us, you cover setup. Commit longer and I'll cover it." | Justifies the fee, motivates commitment |
-
-**Rules under the scripts:** hard selling is for weak products; refund anyone who doesn't want you to have their money ("don't take blood money"); never drop the price on the *same* thing.
-
----
-
-## Worked Example: AI SaaS (adapting the model to software)
-
-A team-collaboration AI tool, $49/seat/mo. The raw Hormozi 30-day payback won't hold (SaaS payback is 6-12 months) - so use the *structure* and pull cash forward where the margin allows.
-
-```
-STAGE I - Attraction (Decoy)
-  Free tier: 2 seats, core features, community support (the decoy)
-  Pro annual, pitched beside it: $39/seat/mo billed annually
-    + guided onboarding + templates (get excited about this one)
-  Permission: "Kicking the tires, or rolling this out to the team?"
-
-STAGE II - Upsell (Classic + Anchor)
-  Next problem after adopting: "our data is scattered across tools"
-  Anchor: Enterprise w/ SSO, dedicated success mgr, custom models
-          = $XX,XXX/yr (few buy - it makes the Pro plan look cheap)
-  Classic upsell: paid integrations pack ("you can't run this
-          without connecting your CRM")
-  Downsell ladder for the "no":
-    Payment: annual → quarterly (never monthly for the same price)
-    Feature: drop SSO + custom models → "Team" tier; drop priority
-             support → "Starter"; name them Enterprise / Team / Starter
-
-STAGE III - Continuity (Bonus + Discount)
-  Bonus: sign up this quarter → free "AI Playbook" library
-         (already built = near-zero marginal cost)
-  Discount: annual prepay locks a lifetime rate ($39 vs $49/seat)
-  Prepay block: "buy 10 seats, get 2 free"
-  Cancellation: exit interview waives nothing here - just make
-         downgrade paths obvious (auto-renew disclosed up front)
-```
-
-**Adaptation notes (do not skip):** SaaS 30-day payback is a north star, not a gate - annual prepay + onboarding fees are how you approximate it. Trial-with-penalty and cancellation fees are legally risky for self-serve software (auto-renewal laws, cooling-off rights) - prefer honest annual discounts over penalties. The "free tier as decoy" is standard PLG; the added move is *sequencing the paid tiers as an anchor*.
-
----
-
-## Worked Example: Marketing Agency (high-margin service, closer fit)
-
-```
-STAGE I - Attraction (Pay Less Now or Pay More Later)
-  "Free brand audit + first campaign" - $0 now, card on file,
-    billed $1,500 unless you cancel before delivery (conditional
-    guarantee). OR pay $899 now + a bonus competitor teardown.
-
-STAGE II - Upsell (Anchor → Classic)
-  Anchor: full-funnel retainer at $15,000/mo (the gasp)
-  Main: $3,000/mo growth retainer (looks like the deal)
-  Classic: "You can't run ads without landing pages" → add build
-
-  Downsell (Trial With Penalty - recurring service, client does work):
-    Free 2-week pilot IF client attends kickoff, provides assets,
-    approves creative on time - miss a step, small fee per miss.
-
-STAGE III - Continuity (Waived Fee)
-  $5,000 setup fee, waived on a 12-month commitment; early exit
-  triggers the fee. Bill every 4 weeks. Drop the fee obligation
-  once the term is fulfilled.
-```
-
----
-
-## Payment-Plan Ladder Template
-
-Offer top to bottom; stop at the first yes.
-
-| Step | Ask | Example ($2,000 offer) |
-|------|-----|------------------------|
-| 1 | Pay in full (anchor full-w-interest, discount for prepay) | "$2,200, or $2,000 if you prepay - most people prepay" |
-| 2 | 3rd-party financing → credit card → layaway | "Rather decide your own terms? Put it on a card." |
-| 3 | Half now, half on next paycheck | "$1,000 now, $1,000 on payday?" |
-| 4 | **Desire check** (1-10) | 8+ continue; ≤7 → "Why not a 10?" → feature downsell |
-| 5 | Thirds (paychecks or months) | "$667 × 3" |
-| 6 | Even spread across the program | "16-week program → $125/week × 16" |
-| 7 | Free trial (Trial With Penalty) | Card on file + terms |
-
-Retry any declined charge multiple times the *same day* (paychecks land at different hours) → recovers ~1/3 of declines.
-
----
-
-## Continuity Pricing Calculator
-
-Set the standalone one-time price as a multiple of the monthly-equivalent rate to steer how many choose continuity. (Base example: $199/mo membership.)
-
-| You want this % to choose continuity | Price the one-time option at | One-time price |
+| 时机 | 话术 | 有效原因 |
 |---|---|---|
-| 50% | 1.33x monthly-equiv | $399 |
-| 60% | 1.66x | $499 |
-| 70% | 2.0x | $599 |
-| 80% | 2.33x | $699 |
-| 90% | 2.66x | $799 |
+| 诱饵转向许可 | “你是来拿免费东西，还是想要持久结果？” | 回答“结果”便可转向高端方案 |
+| 经典升级收尾 | “别的东西都不要了，对吗？” | 回答“不需要别的”即同意购买当前项 |
+| A/B 升级 | “巧克力还是香草？”“今天开始还是周一？” | 从选项中移除了不购买 |
+| 使用已留存卡片 | “直接用你留存的卡吗？”首次则问“你想用哪张卡？” | 从是否付款转向使用哪张卡 |
+| 意愿温度检查 | “1—10分，你有多想要？” | 8分以上继续；7分以下问“为什么不是10分？” |
+| 付款降档 | “下次发薪是哪天？今天先付一半，那天再付剩下的？” | 对齐发薪日，拆小支付要求 |
+| 成交收尾 | 每次降档后问“成交？”“这样公平吗？” | 已作让步后减少继续异议 |
+| 未达标者也获益 | “真正的胜利是完成开始的事；把这笔钱抵扣后续坚持的费用吧。” | 将挑战失败转成客户留存 |
+| 反向销售 | “这个和这个都不需要，划掉；你只需要X。” | 建立信任，突出应买内容 |
+| 揭示持续订阅赠品 | “想知道怎么免费拿到吗？今天成为会员，或者花XXX美元单买，你选哪个？” | 惊讶反应有利于转化 |
+| 免除费用的表达 | “只想试试，就由你承担启动费；承诺久一点，我来承担。” | 解释费用，并推动承诺 |
 
-Companion levers: bill **every 4 weeks** (13 cycles = +8.3% revenue for the same perceived price); add **"+3% processing fee"** (waive it for a second/ACH payment method on file); deliver discounts as **gift cards** (giftable = referrals; forgotten = full-price signups); unlock a **lifetime discount** only after the customer passes your average churn month.
+**话术底层规则：**强卖是弱产品表现；不愿让你留钱的人就退款，即“不赚不该赚的钱”；同样的东西不直接降价。
 
 ---
 
-## Quick Money-Model Checklist
+<a id="worked-example-ai-saas-adapting-the-model-to-software"></a>
+## 完整示例：AI SaaS，适配软件业务
 
-Before you call the model "built":
+一个团队协作 AI 工具，每席位每月49美元。原始的30天回本要求不适用，SaaS常需6—12个月；因此应保留结构，在毛利允许时提前现金。
 
-- [ ] Stage I attraction offer covers acquire + serve cost within 30 days (or the honest adapted target for your margins)
-- [ ] At least one upsell exists ("what you offer next")
-- [ ] The upsell solves the *next* problem the first purchase creates
-- [ ] A downsell ladder exists for the "no" (pay terms AND features)
-- [ ] No step drops the price on the *same* thing
-- [ ] Continuity is added *last*, not used to acquire
-- [ ] Prepay/bulk block pulls cash into the first 30 days
-- [ ] Billing is every 4 weeks, not monthly
-- [ ] Cancellation path is obvious and disclosed; auto-renew is compliant
-- [ ] Refund/cancellation rates are under threshold (product is sound)
-- [ ] You're perfecting ONE offer at a time, not launching all four
+```
+第一阶段：获客，诱饵
+  免费档：2个席位、核心功能、社区支持，作为诱饵。
+  同时推介Pro年付：每席位每月39美元，按年收费，
+    加上有人指导的上手服务与模板，重点热情介绍这一档。
+  许可问题：“只是试用看看，还是要让整个团队开始使用？”
+
+第二阶段：升级，经典+锚点
+  使用后的新问题：“我们的数据散落在各个工具里。”
+  锚点：Enterprise企业版，含SSO、专属成功经理、自定义模型，
+        每年XX,XXX美元；购买者不多，但让Pro显得便宜。
+  经典升级：付费集成包，“不连接CRM，这套工具就没法用起来”。
+  针对拒绝的降档：
+    付款：年付→季付，同样价格绝不直接改月付。
+    功能：删去SSO与自定义模型→Team团队档；
+          再删优先支持→Starter入门档。
+    命名：Enterprise / Team / Starter。
+
+第三阶段：持续订阅，赠品+折扣
+  赠品：本季度注册，免费获得“AI实战手册”资料库；
+        已经建好，边际成本接近零。
+  折扣：年付预付锁定终身价格，每席位39美元而非49美元。
+  批量预付：“买10个席位，送2个。”
+  取消：退出访谈在此不免除任何费用，只把降档路径清晰呈现；
+        自动续费必须事先披露。
+```
+
+**调整说明，不可跳过：**30天对SaaS是方向而非门槛；年付与上手费可帮助接近。自助软件的带处罚条件的试用、取消费存在自动续费与冷静期等法律风险，优先诚实的年付优惠，而非处罚。免费档作为诱饵，是常见的产品驱动增长方式；新增做法在于把付费档位按顺序作为锚点。
+
+---
+
+<a id="worked-example-marketing-agency-high-margin-service-closer-fit"></a>
+## 完整示例：营销代理，高毛利服务更接近原模式
+
+```
+第一阶段：获客，现在少付或以后多付
+  “免费品牌诊断+首个营销活动”：现在0美元，留存卡片，
+    如未在交付前取消则收1,500美元，属于条件保证。
+  或现在付899美元，另赠竞争对手拆解。
+
+第二阶段：升级，锚点→经典
+  锚点：全漏斗顾问服务，每月15,000美元，引发惊讶。
+  主推：每月3,000美元增长服务，显得划算。
+  经典升级：“投广告不能没有落地页”→加购页面制作。
+
+  降档：带处罚条件的试用，适用于客户需配合的经常性服务。
+    两周免费试点，条件是参加启动会、提供素材、按时审批创意；
+    每缺一步收一笔小额费用。
+
+第三阶段：持续订阅，免除费用
+  启动费5,000美元；承诺12个月则免除，提前退出触发收费。
+  每4周收费，履行完整期限后解除该费用义务。
+```
+
+---
+
+<a id="payment-plan-ladder-template"></a>
+## 分期付款阶梯模板
+
+从上到下依次提出，第一次得到“是”就停。
+
+| 步骤 | 提议 | 2,000美元方案示例 |
+|---|---|---|
+| 1 | 全额付款，以含利息总额为锚点，预付给折扣 | “2,200美元；预付只要2,000，大多数人选预付。” |
+| 2 | 第三方融资→信用卡→先分期付款再提货 | “想自己决定条款？可以刷卡。” |
+| 3 | 现在一半，下次发薪付一半 | “现在1,000，发薪日再1,000？” |
+| 4 | **意愿检查，1—10分** | 8分以上继续；7分以下问“为什么不是10分？”然后功能降档 |
+| 5 | 分三次，按发薪日或月份 | “667美元×3。” |
+| 6 | 在项目期间平均分摊 | “16周项目，每周125美元，共16次。” |
+| 7 | 免费试用，带费用条件 | 留存卡片并明确条款 |
+
+原文建议在**同一天**多次重试失败扣款，因为工资到账时间不同，称可挽回约三分之一的失败扣款。
+
+---
+
+<a id="continuity-pricing-calculator"></a>
+## 持续订阅定价计算器
+
+将一次性单买价设为月度等值费率的某个倍数，影响选择持续订阅的人数。基础示例是每月199美元会员。
+
+| 希望选择持续订阅的比例 | 一次性价格设为 | 一次性价格 |
+|---|---|---|
+| 50% | 月度等值的1.33倍 | 399美元 |
+| 60% | 1.66倍 | 499美元 |
+| 70% | 2.0倍 | 599美元 |
+| 80% | 2.33倍 | 699美元 |
+| 90% | 2.66倍 | 799美元 |
+
+> 译注：表中倍数、199美元基数与一次性金额并非直接相乘一致；原文没有解释口径，此处保留原表，不能直接作为已验证计算器使用。
+
+配套杠杆：**每4周收费**，每年13期，在感知价格相同的情况下收入增加8.3%；加收**3%处理费**，留存第二支付方式或ACH银行扣款则免除；以**礼品卡**提供折扣，可转赠带来推荐，遗忘则导致全价注册；客户超过平均流失月份后，才解锁**终身折扣**。
+
+---
+
+<a id="quick-money-model-checklist"></a>
+## 收入模式快速清单
+
+在宣称模式已建好之前：
+
+- [ ] 第一阶段获客方案能在30天内覆盖获客与服务成本，或达到按毛利诚实调整的目标。
+- [ ] 至少存在一个升级方案，即接下来卖什么。
+- [ ] 升级解决首次购买带来的下一个问题。
+- [ ] 针对拒绝设有降档阶梯，包括付款条款与功能。
+- [ ] 没有任何步骤只给同样的东西降价。
+- [ ] 持续订阅最后加入，而非用它直接获客。
+- [ ] 预付或批量购买把现金提前到前30天。
+- [ ] 每4周收费，而非每月。
+- [ ] 取消路径清楚且事先披露，自动续费符合适用规则。
+- [ ] 退款与取消率低于阈值，产品本身可靠。
+- [ ] 一次完善一个方案，而非四类同时上线。

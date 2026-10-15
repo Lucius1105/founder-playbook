@@ -1,108 +1,123 @@
-# Mom Test - Case Studies and Concepts
+> 中文译文｜[英文对照](cases.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/mom-test/cases.md)。原项目整理：AgentSeal；书籍来源：《The Mom Test》— Rob Fitzpatrick；AI辅助翻译。
 
-## Earlyvangelists (First Customers)
+<a id="mom-test---case-studies-and-concepts"></a>
+# Mom Test——案例与概念
 
-**Attribution note:** "Earlyvangelist" is **Steve Blank's** term, coined in *The Four Steps to the Epiphany*. Fitzpatrick uses the concept in The Mom Test but did not coin the word. The criteria below align with Blank's earlyvangelist profile.
+<a id="earlyvangelists-first-customers"></a>
+## 早期核心客户（第一批客户）
 
-Your first customers are "crazy" - they want your solution so badly they'll try it first.
+**归属说明：**“Earlyvangelist”是 **Steve Blank** 在 *The Four Steps to the Epiphany* 中创造的术语。Fitzpatrick 在 The Mom Test 中使用了这个概念，但并非这个词的创造者。以下标准与 Blank 的早期核心客户画像一致。
 
-### Signs You Found One
+你的第一批客户有些“疯狂”：他们太想要你的解决方案，愿意率先尝试。
 
-1. **Have the problem AND know they have it** - Not in denial, not unaware
-2. **Have budget to solve it** - Money exists, just needs direction
-3. **Already cobbled together their own makeshift solution** - Spreadsheets, manual processes, hacks
-4. **Get emotional about what you're doing** - Visible frustration with status quo
-5. **Will commit before it makes rational sense** - Buy on promise, not proof
-6. **Will fight for you against their boss** - Champion you internally
+<a id="signs-you-found-one"></a>
+### 找到这类客户的迹象
 
-### Key Insight
+1. **有问题，而且知道自己有这个问题**：既不否认，也不是毫无察觉。
+2. **有解决问题的预算**：钱已经有了，只需要找到用途。
+3. **已经拼凑了自己的临时解决办法**：电子表格、手工流程或各种变通做法。
+4. **对你做的事情有强烈情绪**：对现状的挫败感显而易见。
+5. **在理性上还说不通的时候，就愿意承诺**：凭你的承诺购买，而不是等到证据齐全。
+6. **愿意替你说服自己的老板**：在内部支持你。
 
-When someone isn't emotional about what you're doing, they're unlikely to be your first customer. Lukewarm interest = not an earlyvangelist, even if they say nice things.
+<a id="key-insight"></a>
+### 核心洞见
 
-## The Compliment Trap (Common Pattern)
+如果一个人对你做的事情毫无情绪波动，他就不太可能成为首批客户。即使说了很多好话，温吞的兴趣也不等于早期核心客户。
 
-Founder shares idea → friend says "that's amazing!" → founder feels validated → builds for 6 months → no one buys.
+<a id="the-compliment-trap-common-pattern"></a>
+## 赞美陷阱（常见模式）
 
-**What happened:** Friend was being polite. The compliment was data about the friendship, not the idea.
+创始人分享想法 → 朋友说“太棒了！” → 创始人觉得得到验证 → 花六个月开发 → 没人购买。
 
-**Fix:** Deflect immediately to current behavior. "Thanks! How are you handling this today?"
+**发生了什么：**朋友只是在客气。赞美提供的是有关友谊的信息，而不是有关想法的信息。
 
-## The Feature Request Trap
+**修正方式：**立刻把话题引回当前行为。“谢谢！你现在怎么处理这件事？”
 
-User says: "If only it had X feature, I'd buy it."
+<a id="the-feature-request-trap"></a>
+## 功能需求陷阱
 
-**Naive interpretation:** Build X, get the sale.
+用户说：“只要有 X 功能，我就买。”
 
-**Mom Test interpretation:** Why do they want X? What underlying problem? Are they actually committed enough to buy, or just brainstorming?
+**天真的解读：**做出 X，就能成交。
 
-**Field example pattern:**
-- Build X. User says "great, but actually I also need Y."
-- Build Y. User says "great, but..."
-- Lesson: They were never going to buy. Feature requests without commitment are noise.
+**Mom Test 的解读：**他为什么想要 X？底层问题是什么？他真的有足够购买意愿，还是只是在头脑风暴？
 
-## The Casual Conversation Pattern
+**实际场景中常见的模式：**
 
-A founder in a coffee shop overhears a stranger complain about a problem in the founder's space. The founder asks "oh how do you handle that today?" and gets 10 minutes of pure, unfiltered detail.
+- 做出 X。用户说：“不错，不过其实我还需要 Y。”
+- 做出 Y。用户说：“不错，不过……”
+- 教训：他从来就没准备买。没有承诺的功能请求只是噪声。
 
-**Why it works:**
-- Stranger has no reason to lie
-- No "meeting" frame = no pitch expectation
-- Question is about their life, not a product
+<a id="the-casual-conversation-pattern"></a>
+## 随意交流模式
 
-This is the format you're trying to recreate even with scheduled interviews. Strip the meeting feel.
+一位创始人在咖啡馆里，听见陌生人抱怨自己所处领域的某个问题。他问：“那你现在怎么处理？”随后获得了十分钟直接、未经修饰的细节。
 
-## The Visionary Customer Trap
+**为什么有效：**
 
-Even paying customers can derail you:
+- 陌生人没有理由说谎。
+- 没有“会议”框架，就没有被推销的预期。
+- 问题围绕对方的生活，而非产品。
 
-**Pattern:** Big customer with strong opinions wants you to build their specific use case. They're willing to pay a lot. You agree.
+即使是预约好的访谈，也应尽量营造这种交流形式，去掉开会的感觉。
 
-**Result:** 6 months later you've built a custom system that doesn't generalize. The "$200K contract" actually cost you $400K in opportunity cost and steered you off your real market.
+<a id="the-visionary-customer-trap"></a>
+## 远见型客户陷阱
 
-**Filter:** Ask "would 10 other companies want exactly this?" If no, this is custom work, not product work.
+即使付费客户也可能让你偏航：
 
-## The Price Anchor Conversation
+**模式：**一家大客户很有主见，希望你为其特定场景开发产品，也愿意付很多钱。你答应了。
 
+**结果：**六个月后，你做出一套无法推广到其他客户的定制系统。这份“20 万美元合同”实际上耗掉了 40 万美元的机会成本，还把你带离真正的市场。
+
+**筛选方法：**问自己：“还会有另外十家公司想要完全一样的东西吗？”如果不会，这就是定制项目，而非产品开发。
+
+<a id="the-price-anchor-conversation"></a>
+## 寻找价格参照的对话
+
+```text
+创始人：你们现在怎么处理[问题]？
+客户：我们用[竞品]，每月 500 美元。
+创始人：用起来能解决问题吗？
+客户：算是可以。但 X 最后还是要手工做。
+创始人：这要花多少时间？
+客户：可能每周五小时吧？
+[创始人现在知道：预算≥每月 500 美元；真实痛点是手工工作；价值在于节省这些时间。]
 ```
-Founder: How are you handling [problem] now?
-Customer: We use [competitor] for $500/month.
-Founder: Does that work for you?
-Customer: Sort of. We end up doing X manually.
-Founder: How much time does that take?
-Customer: Maybe 5 hours a week?
-[Founder now knows: budget ≥ $500/mo, real pain = manual work, value = recovered hours]
+
+对比一下不好的版本：
+
+```text
+创始人：你愿意为我们的解决方案付多少钱？
+客户：不知道，50 美元吧？
+[创始人得到一个与现实无关、毫无用处的数字。]
 ```
 
-Compare to the bad version:
+<a id="pattern-when-yes-means-no"></a>
+## 模式：“是”其实意味着“否”
 
-```
-Founder: How much would you pay for our solution?
-Customer: I dunno, $50?
-[Founder now has a useless number that has nothing to do with reality]
-```
+创始人问：“如果我做出来，你会用吗？”
+客户说：“会，肯定会。”
 
-## Pattern: When "Yes" Means "No"
+三个月后产品上线，客户却没有注册。
 
-Founder asks: "Would you use this if I built it?"
-Customer says: "Yes, definitely."
+**原因：**“会”只是礼貌的回答。真正的检验是过去行为，而非未来承诺。
 
-Three months later, product launches. Customer doesn't sign up.
+**更好的问题：**“你上次遇到这个问题是什么时候？当时怎么处理？花了多少代价？”
 
-**Why:** "Yes" was the polite answer. The real test is past behavior, not future promises.
+如果答案是“我其实没怎么遇到这个问题”，再多面向未来的肯定回答也都是噪声。
 
-**Better question:** "When was the last time you ran into this problem? What did you do? How much did it cost you?"
+<a id="the-b2b-buying-committee-pattern"></a>
+## B2B 采购委员会模式
 
-If the answer is "I haven't really had this problem," all the future-tense yeses in the world are noise.
+在 B2B 中，你通常要同时面向多个角色销售：
 
-## The B2B Buying Committee Pattern
-
-In B2B you're often selling to multiple roles:
-
-| Role | Cares About | Question for Them |
+| 角色 | 关心什么 | 适合问他的问题 |
 |------|-------------|-------------------|
-| **User** | Daily friction | Walk me through your workflow |
-| **Economic buyer** | ROI, budget impact | How is success measured? |
-| **Technical evaluator** | Integration, security | What would block this from being adopted? |
-| **Champion** | Career impact | Who else needs to approve this? |
+| **使用者** | 日常使用中的麻烦 | 带我过一遍你的工作流程。 |
+| **经济决策者** | 投资回报、预算影响 | 如何衡量成功？ |
+| **技术评估者** | 集成、安全 | 什么因素会阻止采用这款产品？ |
+| **内部支持者** | 对职业发展的影响 | 还需要谁批准？ |
 
-Talking to only one role gives you a partial truth. Each conversation can pass the Mom Test individually but you'll still miss why deals stall if you skip the other roles.
+只与其中一个角色交谈，只能得到部分真相。每次对话单独看都可能符合 Mom Test，但如果跳过其他角色，你仍然可能不知道交易为什么停滞。

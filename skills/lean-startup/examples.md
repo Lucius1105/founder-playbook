@@ -1,561 +1,596 @@
-# Examples - The Lean Startup
+> 中文译文｜[英文对照](examples.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/lean-startup/examples.md)。原项目整理：AgentSeal；书籍来源：《The Lean Startup》— Eric Ries；AI辅助翻译。
 
-## Build-Measure-Learn Cycle Planner
+<a id="examples---the-lean-startup"></a>
+# 示例——The Lean Startup
 
-Use this template to plan each iteration through the loop. Remember: plan in reverse (Learn -> Measure -> Build), execute forward (Build -> Measure -> Learn).
+<a id="build-measure-learn-cycle-planner"></a>
+## 构建—衡量—学习循环规划表
 
-```
-CYCLE #: _____
-DATE: _____
+每轮迭代都可用此模板。记住：反向规划，学习 → 衡量 → 构建；正向执行，构建 → 衡量 → 学习。
 
-STEP 1: LEARN (what do we need to learn?)
-------------------------------------------
-Hypothesis to test: _________________________
-Leap-of-faith type: [ ] Value hypothesis  [ ] Growth hypothesis
-In plain language: "We believe that [customer segment]
-  will [expected behavior] because [reason]."
-What would DISPROVE this hypothesis? _________________________
+```text
+循环编号：_____
+日期：_____
 
-STEP 2: MEASURE (what data would prove or disprove this?)
-------------------------------------------
-Success metric: _________________________
-Current baseline (if known): _________________________
-Target threshold: _________________________
-How we'll measure: _________________________
-Time box for this experiment: _________________________
+第1步：学习，需要学到什么？
+────────────────────────────────────
+待检验假设：_________________________
+信念飞跃类型：[ ] 价值假设 [ ] 增长假设
+直白表达：“我们相信[客户群]会[预期行为]，因为[原因]。”
+什么会证伪这个假设？_________________________
 
-STEP 3: BUILD (what's the minimum we need to build?)
-------------------------------------------
-MVP type: [ ] Smoke test  [ ] Video  [ ] Concierge
-          [ ] Wizard of Oz  [ ] Single-feature  [ ] Split test
-What we'll build: _________________________
-What we will NOT build (explicitly): _________________________
-Estimated build time: _________________________
+第2步：衡量，什么数据能证实或证伪？
+────────────────────────────────────
+成功指标：_________________________
+当前基线，如已知：_________________________
+目标门槛：_________________________
+衡量方法：_________________________
+本实验的时间窗口：_________________________
 
-RESULTS (fill in after experiment)
-------------------------------------------
-Actual metric: _________________________
-Hypothesis: [ ] Validated  [ ] Invalidated  [ ] Inconclusive
-Key learning: _________________________
-Next action: [ ] Persevere (tune)  [ ] Pivot  [ ] Run another experiment
-If pivot, type: _________________________
-```
+第3步：构建，最少要做什么？
+────────────────────────────────────
+MVP类型：[ ] 烟雾测试 [ ] 视频 [ ] 礼宾式
+         [ ] 绿野仙踪式 [ ] 单功能 [ ] 分组测试
+将构建什么：_________________________
+明确不构建什么：_________________________
+预计构建时间：_________________________
 
----
-
-## MVP Selection Worksheet
-
-### Step 1: Identify Your Riskiest Assumption
-
-```
-What's the ONE thing that, if wrong, kills your startup?
-
-[ ] "Customers have this problem"
-    --> Test with: customer interviews (Mom Test) + smoke test
-    --> MVP type: Landing page, fake door, or explainer video
-
-[ ] "Customers will pay for this solution"
-    --> Test with: real transaction (even manual)
-    --> MVP type: Concierge or Wizard of Oz
-
-[ ] "Customers will use this regularly"
-    --> Test with: retention data from real usage
-    --> MVP type: Single-feature MVP with usage tracking
-
-[ ] "Customers will tell others about this"
-    --> Test with: referral/sharing data
-    --> MVP type: Product with built-in sharing, track viral coefficient
-
-[ ] "We can acquire customers affordably"
-    --> Test with: ad spend experiment
-    --> MVP type: Landing page + paid traffic, measure CPA
-
-[ ] "We can build the technology"
-    --> This is NOT an MVP question. Build a technical prototype.
-    --> Keep market validation separate from engineering validation.
-```
-
-### Step 2: Choose MVP Type
-
-```
-Can you explain the value prop in under 3 minutes?
-|-- YES --> Is the product too complex/expensive to prototype quickly?
-|   |-- YES --> VIDEO MVP
-|   |   How: Screencast or animated demo + signup CTA
-|   |   Measure: Conversion rate on CTA
-|   |   Example: Dropbox (5K to 75K signups from one video)
-|   |
-|   +-- NO  --> SMOKE TEST / LANDING PAGE
-|       How: Landing page describing the product + signup/pre-order
-|       Measure: Signup or pre-order conversion rate
-|       Example: Buffer (landing page before building the product)
-|
-+-- NO  --> Can you deliver the value manually?
-            |-- YES, for one customer at a time --> CONCIERGE MVP
-            |   How: Personally deliver the service to 1-5 customers
-            |   Measure: Willingness to pay, satisfaction, retention
-            |   Example: Food on the Table (CEO did meal planning by hand)
-            |
-            |-- YES, with a human backend --> WIZARD OF OZ MVP
-            |   How: Real frontend, manual backend
-            |   Measure: Customer behavior as if product is real
-            |   Example: Zappos (photos of shoes, bought at retail when ordered)
-            |
-            +-- NO  --> SINGLE-FEATURE MVP
-                How: Build ONE core feature at full quality
-                Measure: Engagement, retention, willingness to pay
-                Example: Groupon (one deal per day, one city)
-```
-
-### Step 3: Quality Checklist
-
-```
-Before shipping the MVP, verify:
-
-[ ] Does it test my RISKIEST assumption? (not the easiest one)
-[ ] Have I defined success criteria BEFORE shipping?
-[ ] Is there a clear metric tied to the hypothesis?
-[ ] Am I measuring behavior, not opinions?
-[ ] Can I trace the data back to real humans?
-[ ] Have I removed everything that doesn't serve the experiment?
-[ ] Am I OK being embarrassed by this? (If not, you've overbuild)
+结果，实验后填写：
+────────────────────────────────────
+实际指标：_________________________
+假设：[ ] 已证实 [ ] 已证伪 [ ] 无法下结论
+关键学习：_________________________
+下一步：[ ] 坚持、调优 [ ] 转型 [ ] 再做实验
+如转型，类型：_________________________
 ```
 
 ---
 
-## Innovation Accounting Setup Template
+<a id="mvp-selection-worksheet"></a>
+## MVP 选择工作表
 
-### Baseline Establishment
+<a id="step-1-identify-your-riskiest-assumption"></a>
+### 第 1 步：识别风险最大的假设
 
+```text
+哪一件事如果判断错误，就会让公司失败？
+
+[ ] “客户有这个问题。”
+    → 测试：Mom Test客户访谈＋烟雾测试。
+    → MVP类型：落地页、假门入口或解释视频。
+
+[ ] “客户愿为这个方案付费。”
+    → 测试：真实交易，即使人工完成。
+    → MVP类型：礼宾式或绿野仙踪式。
+
+[ ] “客户会定期使用。”
+    → 测试：真实使用的留存数据。
+    → MVP类型：带使用追踪的单功能MVP。
+
+[ ] “客户会告诉别人。”
+    → 测试：推荐／分享数据。
+    → MVP类型：内置分享的产品，追踪病毒系数。
+
+[ ] “我们能以可承受成本获客。”
+    → 测试：广告支出实验。
+    → MVP类型：落地页＋付费流量，衡量CPA。
+
+[ ] “我们能做出这项技术。”
+    → 这不是MVP问题，应开发技术原型。
+    → 市场验证与工程验证分开。
 ```
-PRODUCT: _________________________
-DATE OF BASELINE: _________________________
-MVP USED: _________________________
-CUSTOMERS IN BASELINE: _________________________
 
-FUNNEL METRICS (measure each step):
-  Awareness (heard of product):        _____%
-  Interest (visited site/page):        _____%
-  Signup/trial:                        _____%
-  Activation (completed onboarding):   _____%
-  Retention (returned in week 2):      _____%
-  Revenue (paid):                      _____%
-  Referral (told someone else):        _____%
+<a id="step-2-choose-mvp-type"></a>
+### 第 2 步：选择 MVP 类型
 
-UNIT ECONOMICS:
-  Revenue per customer (month 1):      $_____
-  Cost to acquire (CPA):              $_____
-  Cost to serve:                       $_____
-  Gross margin per customer:           $_____
-
-ENGAGEMENT:
-  DAU/MAU ratio:                       _____
-  Average session length:              _____
-  Feature usage (top 3):
-    1. _____________ : _____%
-    2. _____________ : _____%
-    3. _____________ : _____%
+```text
+三分钟内能解释清楚价值主张吗？
+├─ 能 → 产品是否太复杂／昂贵，无法快速制作原型？
+│       ├─ 是 → 视频MVP。
+│       │        做法：录屏或动画演示＋注册指引。
+│       │        衡量：行动指引的转化率。
+│       │        示例：Dropbox，一段视频让注册从5,000增至75,000。
+│       └─ 否 → 烟雾测试／落地页。
+│                做法：描述产品的落地页＋注册／预购。
+│                衡量：注册或预购转化率。
+│                示例：Buffer，开发产品前先有落地页。
+└─ 不能 → 能人工交付价值吗？
+          ├─ 能，一次一位客户 → 礼宾式MVP。
+          │   做法：亲自为1—5位客户服务。
+          │   衡量：支付意愿、满意度、留存。
+          │   示例：Food on the Table，CEO手工规划餐食。
+          ├─ 能，用人工后台 → 绿野仙踪式MVP。
+          │   做法：真实前台、人工后台。
+          │   衡量：客户把产品当真时的行为。
+          │   示例：Zappos，展示鞋照，下单后去零售店购买。
+          └─ 不能 → 单功能MVP。
+              做法：以完整质量开发一个核心功能。
+              衡量：参与度、留存、支付意愿。
+              示例：Groupon，一个城市、每天一个优惠。
 ```
 
-### Tuning Tracker
+<a id="step-3-quality-checklist"></a>
+### 第 3 步：质量检查
 
+```text
+交付MVP之前核实：
+
+[ ] 是否检验了风险最大的假设，而非最容易的？
+[ ] 是否在交付前定义成功标准？
+[ ] 是否有明确指标与假设绑定？
+[ ] 衡量的是行为，而非意见吗？
+[ ] 数据能追溯到真实的人吗？
+[ ] 是否删掉了不服务于实验的一切？
+[ ] 能接受它让自己不好意思吗？如果不能，说明做得过多。
 ```
-EXPERIMENT #: _____
-DATE: _____
-HYPOTHESIS: "Changing [X] will improve [metric] from [baseline] to [target]"
 
-BEFORE (baseline or previous cohort):
-  Metric: _____________ = _____
+---
 
-CHANGE MADE:
+<a id="innovation-accounting-setup-template"></a>
+## 创新核算建立模板
+
+<a id="baseline-establishment"></a>
+### 建立基线
+
+```text
+产品：_________________________
+基线日期：_________________________
+使用的MVP：_________________________
+基线中的客户：_________________________
+
+漏斗指标，每步都测：
+  认知，听说产品：               _____%
+  兴趣，访问网站／页面：         _____%
+  注册／试用：                   _____%
+  激活，完成上手：               _____%
+  留存，第2周返回：              _____%
+  收入，付费：                   _____%
+  推荐，告诉别人：               _____%
+
+单位经济：
+  第1个月人均收入：              _____美元
+  获客成本CPA：                  _____美元
+  服务成本：                     _____美元
+  每位客户毛利：                 _____美元
+
+参与：
+  DAU／MAU比率：                 _____
+  平均单次使用时长：             _____
+  使用最多的三个功能：
+    1. _____________：_____％
+    2. _____________：_____％
+    3. _____________：_____％
+```
+
+<a id="tuning-tracker"></a>
+### 调优追踪表
+
+```text
+实验编号：_____
+日期：_____
+假设：“改变[X]，会让[指标]从[基线]提高到[目标]。”
+
+之前，基线或上一同期群：
+  指标：_____________＝_____
+
+作出的改变：
   _____________________________________________
 
-AFTER (new cohort, same time period):
-  Metric: _____________ = _____
+之后，新同期群、同样时间段：
+  指标：_____________＝_____
 
-RESULT:
-  [ ] Improved (by _____%)
-  [ ] No change
-  [ ] Got worse (by _____%)
+结果：
+  [ ] 改善，幅度_____％
+  [ ] 没有变化
+  [ ] 变差，幅度_____％
 
-LEARNING:
+学习：
   _____________________________________________
 
-NEXT ACTION:
-  [ ] Ship this change permanently
-  [ ] Revert and try something else
-  [ ] Need more data - extend experiment
+下一步：
+  [ ] 永久采用这项改变
+  [ ] 回退，尝试别的办法
+  [ ] 需要更多数据，延长实验
 ```
 
 ---
 
-## Pivot-or-Persevere Meeting Template
+<a id="pivot-or-persevere-meeting-template"></a>
+## 转型或坚持会议模板
 
-### Pre-Meeting Prep
+<a id="pre-meeting-prep"></a>
+### 会前准备
 
-```
-MEETING DATE: _________________________
-TIME SINCE LAST PIVOT-OR-PERSEVERE MEETING: _____ weeks/months
-ATTENDEES: Product team + business leadership (both required)
+```text
+会议日期：_________________________
+距上次转型或坚持会议：_____周／月
+参与者：产品团队＋业务管理层，两者都必须到场。
 
-PREPARE IN ADVANCE:
-1. Current state of innovation accounting metrics
-2. Cohort analysis for last 3+ cohorts
-3. List of experiments run since last meeting
-4. Results of each experiment (validated / invalidated / inconclusive)
-```
-
-### Meeting Agenda
-
-```
-1. METRIC REVIEW (15 min)
-   Current baseline vs. ideal model:
-
-   Metric          Baseline    Current    Ideal     Gap
-   ____________    ________    _______    _____    _____
-   ____________    ________    _______    _____    _____
-   ____________    ________    _______    _____    _____
-   ____________    ________    _______    _____    _____
-
-   Is the gap closing?  [ ] Yes  [ ] No  [ ] Mixed
-
-2. EXPERIMENT REVIEW (15 min)
-   Experiments run since last meeting:
-
-   #  Hypothesis              Result         Metric Impact
-   _  _____________________  ___________    ______________
-   _  _____________________  ___________    ______________
-   _  _____________________  ___________    ______________
-
-   Are experiments producing useful learning?  [ ] Yes  [ ] No
-
-3. RATE OF PROGRESS (10 min)
-   At current rate of improvement, when do we reach the ideal model?
-   _____ weeks/months
-
-   Is this rate acceptable given our runway?
-   [ ] Yes - persevere
-   [ ] No  - consider pivot
-
-4. DECISION (20 min)
-   [ ] PERSEVERE - continue current strategy, plan next experiments
-   [ ] PIVOT - change a fundamental hypothesis
-       Pivot type: _________________________
-       New hypothesis: _________________________
-   [ ] INCONCLUSIVE - need more experiments before deciding
-       Deadline for next meeting: _________________________
+提前准备：
+1. 创新核算指标的当前状态。
+2. 最近至少三个同期群的分析。
+3. 上次会议以来开展的实验清单。
+4. 每个实验的结果：证实／证伪／无法下结论。
 ```
 
-### Post-Meeting
+<a id="meeting-agenda"></a>
+### 会议议程
 
+```text
+1. 指标回顾，15分钟。
+   当前基线与理想模型：
+
+   指标          基线       当前       理想       差距
+   __________    ______     ______     _____      _____
+   __________    ______     ______     _____      _____
+   __________    ______     ______     _____      _____
+   __________    ______     ______     _____      _____
+
+   差距在缩小吗？[ ] 是 [ ] 否 [ ] 有好有坏
+
+2. 实验回顾，15分钟。
+   上次会议以来开展的实验：
+
+   编号  假设                  结果          指标影响
+   _     __________________    __________    ______________
+   _     __________________    __________    ______________
+   _     __________________    __________    ______________
+
+   实验产生有用的学习了吗？[ ] 是 [ ] 否
+
+3. 进展速度，10分钟。
+   按当前改善速度，多久能达到理想模型？
+   _____周／月
+
+   结合剩余跑道，这个速度可接受吗？
+   [ ] 可以，继续坚持
+   [ ] 不可以，考虑转型
+
+4. 决策，20分钟。
+   [ ] 坚持，继续当前策略，规划下一批实验
+   [ ] 转型，改变一个基本假设
+       转型类型：_________________________
+       新假设：_________________________
+   [ ] 无法下结论，决定前还需更多实验
+       下次会议最晚时间：_________________________
 ```
-DECISION: _________________________
-RATIONALE: _________________________
-NEXT EXPERIMENTS (if persevering):
+
+<a id="post-meeting"></a>
+### 会后
+
+```text
+决定：_________________________
+理由：_________________________
+如坚持，下一批实验：
   1. _________________________
   2. _________________________
   3. _________________________
-NEW STRATEGY (if pivoting):
+如转型，新策略：
   _________________________
-NEXT MEETING DATE: _________________________
+下次会议日期：_________________________
 ```
 
 ---
 
-## Engine of Growth Diagnostic
+<a id="engine-of-growth-diagnostic"></a>
+## 增长引擎诊断
 
-### Step 1: Identify Your Current Engine
+<a id="step-1-identify-your-current-engine"></a>
+### 第 1 步：识别当前引擎
 
-```
-Which engine are you currently running?
-(Most startups know, even if they haven't named it)
+```text
+目前运行哪种引擎？
+多数创业公司即使没有命名，也大致知道。
 
-STICKY ENGINE SIGNALS:
-[ ] Your best growth comes from existing users staying longer
-[ ] Churn is your biggest problem
-[ ] New user acquisition is less important than retention
-[ ] Revenue comes from subscriptions or repeat purchases
---> If most checked: You're running the STICKY engine
+黏性引擎信号：
+[ ] 最好的增长来自现有用户停留更久。
+[ ] 流失是最大问题。
+[ ] 新用户获取不如留存重要。
+[ ] 收入来自订阅或重复购买。
+→ 多数勾选：正在运行黏性引擎。
 
-VIRAL ENGINE SIGNALS:
-[ ] Users naturally share the product or invite others
-[ ] Growth is organic (not from paid channels)
-[ ] Usage of the product exposes non-users to it
-[ ] Your best users are your best marketers
---> If most checked: You're running the VIRAL engine
+病毒式引擎信号：
+[ ] 用户自然分享产品或邀请他人。
+[ ] 增长来自自然渠道，而非付费渠道。
+[ ] 使用产品会让非用户接触到它。
+[ ] 最佳用户也是最佳营销者。
+→ 多数勾选：正在运行病毒式引擎。
 
-PAID ENGINE SIGNALS:
-[ ] You spend money to acquire customers
-[ ] Growth tracks with advertising spend
-[ ] You know your CPA and LTV
-[ ] Sales or marketing drives most new customers
---> If most checked: You're running the PAID engine
+付费引擎信号：
+[ ] 花钱获取客户。
+[ ] 增长随广告支出变化。
+[ ] 知道CPA与LTV。
+[ ] 大多数新客户由销售或营销带来。
+→ 多数勾选：正在运行付费引擎。
 
-[ ] None of these clearly apply
---> You may not have an engine yet. This is a critical problem.
-```
-
-### Step 2: Measure Your Engine
-
-```
-STICKY ENGINE:
-  Monthly churn rate:                _____%
-  Monthly new customer rate:         _____%
-  Net growth rate (new - churn):     _____%
-  Healthy? [ ] Yes (net positive)  [ ] No
-
-VIRAL ENGINE:
-  % of users who invite/share:      _____%
-  % of invitees who convert:        _____%
-  Viral coefficient (k):            _____ (multiply above two)
-  Viral cycle time:                  _____ days
-  Healthy? [ ] Yes (k > 0.5)  [ ] Exceptional (k > 1.0)  [ ] No
-
-PAID ENGINE:
-  LTV (lifetime value):             $_____
-  CPA (cost per acquisition):       $_____
-  LTV/CPA ratio:                    _____
-  Marginal profit per customer:     $_____
-  Healthy? [ ] Yes (LTV > CPA)  [ ] No
+[ ] 没有一种明显适用。
+→ 可能尚无增长引擎，这是严重问题。
 ```
 
-### Step 3: Is Your Engine Running Out?
+<a id="step-2-measure-your-engine"></a>
+### 第 2 步：衡量引擎
 
-```
-WARNING SIGNALS:
-[ ] Growth is slowing despite same effort
-[ ] Key metric (churn/k/LTV-CPA) is worsening
-[ ] The easy improvements have been made
-[ ] Competition is eroding your advantage
+```text
+黏性引擎：
+  月流失率：                    _____％
+  月新增客户率：                _____％
+  净增长率，新增－流失：        _____％
+  健康吗？[ ] 是，净值为正 [ ] 否
 
-If 2+ checked: your engine may be running out.
-Options:
-  1. Find optimizations to extend the current engine
-  2. Layer on a second engine (only after first is stable)
-  3. Pivot to a different engine entirely
-```
+病毒式引擎：
+  邀请／分享用户比例：          _____％
+  受邀者转化比例：              _____％
+  病毒系数k：                   _____，以上两项相乘
+  病毒循环时间：                _____天
+  健康吗？[ ] 是，k>0.5 [ ] 极佳，k>1.0 [ ] 否
 
----
-
-## Cohort Analysis Template
-
-### Weekly Cohort Tracker
-
-```
-                    Week 1    Week 2    Week 3    Week 4    Week 5
-                    (joined)  (active)  (active)  (active)  (active)
------------------------------------------------------------------------
-Cohort Jan 1-7:     100       65 (65%)  42 (42%)  30 (30%)  25 (25%)
-Cohort Jan 8-14:    120       84 (70%)  60 (50%)  40 (33%)  ___
-Cohort Jan 15-21:   95        71 (75%)  53 (56%)  ___       ___
-Cohort Jan 22-28:   130       104 (80%) ___       ___       ___
-Cohort Feb 1-7:     110       ___       ___       ___       ___
-
-TRENDS:
-  Week 1 retention improving?     [ ] Yes (65%->80%)  [ ] No
-  Week 4 retention improving?     [ ] Yes  [ ] No  [ ] Not enough data
-  New cohort size growing?        [ ] Yes (100->130)  [ ] Stable  [ ] Shrinking
+付费引擎：
+  LTV，生命周期价值：           _____美元
+  CPA，获客成本：               _____美元
+  LTV／CPA比率：                _____
+  每位客户边际利润：            _____美元
+  健康吗？[ ] 是，LTV>CPA [ ] 否
 ```
 
-### Reading the Cohort Table
+> 译注：这里按上游保留了 k 的简化计算。实际病毒系数还需纳入每位邀请者的平均邀请人数；单纯将两项比例相乘无法得到大于 1 的值。参见 [frameworks.md](frameworks.md#the-viral-engine) 中的对应译注。
 
-```
-GOOD SIGNS:
-- Retention rates improving across cohorts (e.g., 65% -> 80% week 1)
-- Cohort sizes growing (more new users over time)
-- Later-week retention stabilizing (a "floor" of retained users)
+<a id="step-3-is-your-engine-running-out"></a>
+### 第 3 步：引擎是否即将耗尽？
 
-BAD SIGNS:
-- Retention rates worsening across cohorts
-- Cohort sizes shrinking (fewer new users over time)
-- No retention floor (users keep dropping every week)
-- Total users growing but retention getting worse
-  (growth masking churn - this is the vanity metric trap)
+```text
+警告信号：
+[ ] 努力不变，增长却放缓。
+[ ] 关键指标，流失／k／LTV－CPA，正在变差。
+[ ] 容易做的改善已经做完。
+[ ] 竞争正在侵蚀优势。
 
-AMBIGUOUS:
-- Retention improving but cohort size shrinking
-  (product is better but fewer people are finding it - growth engine problem)
-- Cohort size growing but retention worsening
-  (more people arriving but wrong audience - targeting problem)
+勾选至少两项：引擎可能正在耗尽。
+选项：
+  1. 寻找优化，延长当前引擎寿命。
+  2. 叠加第二个引擎，但只能在第一个稳定之后。
+  3. 完全转向另一引擎。
 ```
 
 ---
 
-## Five Whys Session Template
+<a id="cohort-analysis-template"></a>
+## 同期群分析模板
 
-### Setup
+<a id="weekly-cohort-tracker"></a>
+### 每周同期群追踪
 
+```text
+                    第1周     第2周     第3周     第4周     第5周
+                    加入      活跃      活跃      活跃      活跃
+───────────────────────────────────────────────────────────────────
+1月1—7日组：        100       65(65%)   42(42%)   30(30%)   25(25%)
+1月8—14日组：       120       84(70%)   60(50%)   40(33%)   ___
+1月15—21日组：      95        71(75%)   53(56%)   ___       ___
+1月22—28日组：      130       104(80%)  ___       ___       ___
+2月1—7日组：        110       ___       ___       ___       ___
+
+趋势：
+  第1周留存改善吗？[ ] 是，65%→80% [ ] 否
+  第4周留存改善吗？[ ] 是 [ ] 否 [ ] 数据不足
+  新同期群人数增加吗？[ ] 是，100→130 [ ] 稳定 [ ] 缩小
 ```
-PROBLEM: _________________________
-DATE: _________________________
-FIVE WHYS MASTER: _________________________
-ATTENDEES (everyone affected must be present):
+
+<a id="reading-the-cohort-table"></a>
+### 如何读同期群表
+
+```text
+好信号：
+- 不同同期群留存提高，例如第一周65%→80%。
+- 同期群规模增加，即新增用户越来越多。
+- 后续周留存稳定，形成留存用户的“底部”。
+
+坏信号：
+- 不同同期群留存越来越差。
+- 同期群缩小，即新增用户越来越少。
+- 没有留存底部，用户每周持续流失。
+- 总用户增加，留存却恶化。
+  增长掩盖流失，这是虚荣指标陷阱。
+
+含义不明确：
+- 留存改善，同期群却缩小。
+  产品变好，但发现它的人减少，属于增长引擎问题。
+- 同期群扩大，留存却恶化。
+  来的人更多，但受众不对，属于定向问题。
+```
+
+---
+
+<a id="five-whys-session-template"></a>
+## 五问法会议模板
+
+<a id="setup"></a>
+### 准备
+
+```text
+问题：_________________________
+日期：_________________________
+五问法负责人：_________________________
+参与者，所有受影响者必须到场：
   - _________________________
   - _________________________
   - _________________________
   - _________________________
 
-RULES (read aloud at start):
-  1. Focus on bad process, not bad people
-  2. "Shame on us for making it so easy to make that mistake"
-  3. Proportional investment at each level
-  4. We are looking for root causes, not blame
+开始时朗读规则：
+  1. 聚焦坏流程，不是坏人。
+  2. “是我们让这个错误太容易发生，应该反省。”
+  3. 每层都作出相称投入。
+  4. 寻找根因，而非归责。
 ```
 
-### The Session
+<a id="the-session"></a>
+### 会议过程
 
+```text
+症状：_________________________
+
+1. 为什么？___________________________________________________
+   相称投入：_________________________
+   负责人：_____________ 工作量：_____小时／天
+
+2. 为什么？___________________________________________________
+   相称投入：_________________________
+   负责人：_____________ 工作量：_____小时／天
+
+3. 为什么？___________________________________________________
+   相称投入：_________________________
+   负责人：_____________ 工作量：_____小时／天
+
+4. 为什么？___________________________________________________
+   相称投入：_________________________
+   负责人：_____________ 工作量：_____小时／天
+
+5. 为什么？___________________________________________________
+   相称投入：_________________________
+   负责人：_____________ 工作量：_____小时／天
 ```
-SYMPTOM: _________________________
 
-1. WHY? ___________________________________________________
-   PROPORTIONAL INVESTMENT: _________________________
-   OWNER: _____________ EFFORT: _____ (hours/days)
+<a id="post-session"></a>
+### 会后
 
-2. WHY? ___________________________________________________
-   PROPORTIONAL INVESTMENT: _________________________
-   OWNER: _____________ EFFORT: _____ (hours/days)
-
-3. WHY? ___________________________________________________
-   PROPORTIONAL INVESTMENT: _________________________
-   OWNER: _____________ EFFORT: _____ (hours/days)
-
-4. WHY? ___________________________________________________
-   PROPORTIONAL INVESTMENT: _________________________
-   OWNER: _____________ EFFORT: _____ (hours/days)
-
-5. WHY? ___________________________________________________
-   PROPORTIONAL INVESTMENT: _________________________
-   OWNER: _____________ EFFORT: _____ (hours/days)
-```
-
-### Post-Session
-
-```
-ROOT CAUSE SUMMARY: _________________________
-TOTAL INVESTMENT: _____ (hours/days across all levels)
-FOLLOW-UP DATE: _________________________
-SUCCESS CRITERIA: How will we know this problem is fixed?
+```text
+根因总结：_________________________
+总投入：_____小时／天，所有层次合计
+跟进日期：_________________________
+成功标准，怎样知道问题已经修好？
   _________________________
 ```
 
 ---
 
-## Validated Learning Scorecard
+<a id="validated-learning-scorecard"></a>
+## 经验证学习评分卡
 
-Use this weekly or biweekly to track whether you're actually learning.
+每周或每两周使用，追踪是否真的在学习。
 
-```
-WEEK OF: _________________________
+```text
+所在周：_________________________
 
-EXPERIMENTS RUN THIS PERIOD:
-  Planned: _____
-  Completed: _____
-  Abandoned (why?): _____
+本周期实验：
+  计划：_____
+  完成：_____
+  放弃及原因：_____
 
-HYPOTHESES TESTED:
-  Validated: _____
-  Invalidated: _____
-  Inconclusive: _____
+检验的假设：
+  已证实：_____
+  已证伪：_____
+  无法下结论：_____
 
-DECISIONS MADE BASED ON DATA:
+基于数据作出的决定：
   1. _________________________
   2. _________________________
   3. _________________________
 
-DECISIONS WE'RE AVOIDING:
+正在逃避的决定：
   1. _________________________
-  (If this list is growing, you may be in "theater of learning")
+  如果这个清单越来越长，可能正在做“学习表演”。
 
-KEY METRIC MOVEMENT:
-  Primary metric: _____________ from _____ to _____
-  Direction: [ ] Toward ideal  [ ] Away from ideal  [ ] Flat
+关键指标变化：
+  主要指标：_____________ 从_____到_____
+  方向：[ ] 接近理想 [ ] 远离理想 [ ] 持平
 
-VANITY METRIC CHECK:
-  Are we citing any metric that only goes up?  [ ] Yes  [ ] No
-  If yes, replace with: _________________________
+虚荣指标检查：
+  正在引用只会增长的指标吗？[ ] 是 [ ] 否
+  如果是，替换为：_________________________
 
-RUNWAY CHECK:
-  Cash remaining: $_____
-  Monthly burn: $_____
-  Months of cash: _____
-  Pivots remaining (estimate): _____
-  Next pivot-or-persevere meeting: _________________________
+跑道检查：
+  剩余现金：_____美元
+  每月消耗：_____美元
+  现金可撑月数：_____
+  估计剩余转型次数：_____
+  下次转型或坚持会议：_________________________
 ```
 
 ---
 
-## End-to-End Example: MealSync (Fictional Startup)
+<a id="end-to-end-example-mealsync-fictional-startup"></a>
+## 端到端示例：MealSync（虚构创业公司）
 
-### Cycle 1: Smoke Test
+<a id="cycle-1-smoke-test"></a>
+### 第 1 轮：烟雾测试
 
-**Hypothesis:** Busy parents will pay for automated weekly meal plans based on their dietary preferences and local grocery store sales.
+**假设：**忙碌父母愿为根据饮食偏好与本地超市优惠自动生成的每周膳食计划付费。
 
-**MVP:** Landing page describing the service. "Enter your email to join the waitlist." Facebook ads targeting parents aged 28-42 in Austin, TX.
+**MVP：**描述服务的落地页，文案为“输入邮箱加入候补名单”。Facebook 广告面向 Texas 州 Austin 市 28—42 岁的父母。
 
-**Metrics:**
-- Ad spend: $500
-- Landing page visitors: 1,200
-- Email signups: 180 (15% conversion)
-- Pre-order at $9.99/month: 22 (1.8% of visitors, 12.2% of signups)
+**指标：**
 
-**Learning:** Demand exists. 22 pre-orders from a landing page is strong. The value hypothesis has initial support. But: we don't know if they'll STAY once they see the actual product.
+- 广告投入：500 美元。
+- 落地页访客：1,200。
+- 邮箱注册：180，转化率 15%。
+- 按每月 9.99 美元预购：22 人，占访客 1.8%，占注册者 12.2%。
 
-**Decision:** Persevere. Move to Concierge MVP.
+**学习：**存在需求，落地页带来 22 个预购是强信号，价值假设初步得到支持。但还不知道，看到实际产品后他们会不会留下。
 
----
-
-### Cycle 2: Concierge MVP
-
-**Hypothesis:** Customers who receive personalized meal plans will use them weekly and continue paying.
-
-**MVP:** Founder personally emails each of 22 pre-order customers Sunday night with a customized meal plan + shopping list based on a brief survey of their preferences + manual checking of local store sales.
-
-**Metrics (4 weeks):**
-- Week 1: 22/22 opened email, 18 used the plan (82%)
-- Week 2: 20/22 opened, 14 used (64%)
-- Week 3: 18/22 opened, 12 used (55%)
-- Week 4: 15/22 opened, 10 used (45%)
-
-**Cohort analysis:**
-- Retention floor appears around 45% (10 of 22 are consistent users)
-- Churn is steepest in week 2-3
-- Exit survey: "The recipes were too complicated for weeknights"
-
-**Learning:** Core value (save time, save money) is validated for ~45% of signups. But recipe complexity is a retention killer. The product needs simpler recipes, not more variety.
-
-**Decision:** Persevere with adjustment. Next cycle: test simple-recipe-only plans.
+**决定：**坚持，转入礼宾式 MVP。
 
 ---
 
-### Cycle 3: Split Test (Simple vs. Complex Recipes)
+<a id="cycle-2-concierge-mvp"></a>
+### 第 2 轮：礼宾式 MVP
 
-**Hypothesis:** Simpler recipes (< 30 min, < 8 ingredients) will improve week-4 retention from 45% to 65%+.
+**假设：**收到个性化膳食计划的客户会每周使用，持续付费。
 
-**MVP:** Same concierge approach, but 12 new customers split into two groups:
-- Group A (6 customers): Complex recipes (status quo)
-- Group B (6 customers): Simple recipes only (< 30 min, < 8 ingredients)
+**MVP：**创始人通过简短调查了解偏好，人工查看本地商店折扣，每周日晚上亲自给 22 位预购客户逐一发送定制膳食计划与购物清单。
 
-**Metrics (4 weeks):**
-| | Group A (complex) | Group B (simple) |
+**四周指标：**
+
+- 第 1 周：22／22 人打开邮件，18 人使用计划，82%。
+- 第 2 周：20／22 人打开，14 人使用，64%。
+- 第 3 周：18／22 人打开，12 人使用，55%。
+- 第 4 周：15／22 人打开，10 人使用，45%。
+
+**同期群分析：**
+
+- 留存底部似乎在 45% 左右，22 人中十人持续使用。
+- 第 2—3 周流失最陡。
+- 退出调查：“工作日晚上的菜谱太复杂。”
+
+**学习：**约 45% 注册者验证了节省时间、节省金钱的核心价值。但菜谱复杂度正在破坏留存。产品需要更简单的菜谱，而非更多花样。
+
+**决定：**调整后坚持。下一轮只测试简单菜谱计划。
+
+---
+
+<a id="cycle-3-split-test-simple-vs-complex-recipes"></a>
+### 第 3 轮：分组测试（简单与复杂菜谱）
+
+**假设：**少于 30 分钟、少于八种食材的简单菜谱，会把第四周留存从 45% 提高到 65% 以上。
+
+**MVP：**仍用礼宾式服务，将 12 位新客户分成两组：
+
+- A 组六人：复杂菜谱，维持原状。
+- B 组六人：只提供少于 30 分钟、少于八种食材的简单菜谱。
+
+**四周指标：**
+
+| 指标 | A 组，复杂 | B 组，简单 |
 |---|---|---|
-| Week 1 retention | 83% (5/6) | 100% (6/6) |
-| Week 4 retention | 50% (3/6) | 83% (5/6) |
+| 第 1 周留存 | 83%，5／6 | 100%，6／6 |
+| 第 4 周留存 | 50%，3／6 | 83%，5／6 |
 
-**Learning:** Hypothesis validated. Simple recipes dramatically improve retention. The feature customers want most is NOT variety - it's speed and ease. This contradicts what customers SAID they wanted (variety) but aligns with their behavior.
+**学习：**假设得到验证，简单菜谱显著提高留存。客户最想要的不是多样性，而是快速与轻松。这与口头声称想要多样性矛盾，却符合行为。
 
-**Decision:** Persevere. All plans shift to simple recipes. Begin building automation (the concierge phase has served its purpose - we know what to build).
+**决定：**坚持，所有计划切换到简单菜谱。开始开发自动化；礼宾阶段已完成使命，我们知道该做什么了。
 
 ---
 
-### Cycle 4: Engine of Growth Selection
+<a id="cycle-4-engine-of-growth-selection"></a>
+### 第 4 轮：选择增长引擎
 
-**Question:** Which engine should MealSync run?
+**问题：**MealSync 应运行哪种引擎？
 
-**Analysis:**
-- Sticky engine: 83% week-4 retention with simple recipes. Churn ~17%/month. Promising.
-- Viral engine: Meal planning is somewhat private. k likely < 0.3. Not a natural viral loop.
-- Paid engine: LTV at $9.99/month with 83% retention = ~$60 LTV. CPA from Facebook was ~$23. LTV/CPA = 2.6x. Workable.
+**分析：**
 
-**Decision:** Primary engine = STICKY (retain existing customers). Secondary = PAID (Facebook ads to parents). Do NOT invest in viral features yet.
+- 黏性引擎：简单菜谱第四周留存 83%，月流失约 17%，有希望。
+- 病毒式引擎：膳食规划相对私密，k 可能低于 0.3，不是天然病毒循环。
+- 付费引擎：每月 9.99 美元、83% 留存时，LTV 约 60 美元。Facebook 获客 CPA 约 23 美元，LTV／CPA 为 2.6 倍，可行。
 
-**Next:** Build the automated product, launch to 200 customers via paid acquisition, track cohort retention with innovation accounting. Set pivot-or-persevere meeting for 8 weeks post-launch.
+**决定：**主引擎为黏性，留住现有客户；次引擎为付费，向父母投放 Facebook 广告。暂不投入病毒传播功能。
+
+**下一步：**开发自动化产品，通过付费获客向 200 位客户推出，用创新核算追踪同期群留存。安排推出八周后的转型或坚持会议。

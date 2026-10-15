@@ -1,274 +1,293 @@
-# Obviously Awesome - Framework Details
+> 中文译文｜[英文对照](frameworks.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/obviously-awesome/frameworks.md)。原项目整理：AgentSeal；书籍来源：《Obviously Awesome》— April Dunford；AI辅助翻译。
 
-## Why the Traditional Positioning Statement Fails
+<a id="obviously-awesome---framework-details"></a>
+# Obviously Awesome——框架详解
 
-The classic template:
+<a id="why-the-traditional-positioning-statement-fails"></a>
+## 传统定位声明为何失效
+
+经典模板：
 ```
-For (target buyers)
-Who (need/problem)
-Our (product) is a (category)
-That (key benefit)
-Unlike (competitor)
-Which (competitor's benefit)
+面向（目标买家）
+他们（需要／面临的问题）
+我们的（产品）是一种（品类）
+它能够（关键益处）
+不同于（竞争对手）
+后者（竞争对手的益处）
 ```
 
-April Dunford's IBM DB2 example: an engineer filled it in as "FOR people who want a non-mainframe database, our non-mainframe database WHICH PROVIDES everything a non-mainframe database provides." The formula doesn't force you to think; it lets you execute "malicious compliance."
+April Dunford 的 IBM DB2 案例：一位工程师将其填为“面向想要非大型机数据库的人，我们的非大型机数据库，提供非大型机数据库能够提供的一切”。公式没有迫使你思考，只让你有机会“恶意遵从”。
 
-**The problem:** Template assumes you already know your market category and competitors. For novel products, those are exactly what you're trying to figure out.
+**问题：** 模板假设你已知道市场品类和竞争对手。对于新颖产品，这恰恰是你正在探索的事情。
 
 ---
 
-## The 10-Step Process - Detailed
+<a id="the-10-step-process---detailed"></a>
+## 十步流程详解
 
-### Step 1: Understand the Customers Who LOVE Your Product
+<a id="step-1-understand-the-customers-who-love-your-product"></a>
+### 第一步：理解热爱产品的客户
 
-Don't start with the product. Start with best-fit customers.
+不要从产品开始，从最匹配的客户开始。
 
-**Best-Fit Customer Checklist:**
-1. Understood the product quickly
-2. Bought quickly (short sales cycle)
-3. Are raving fans
-4. Refer others
-5. Will act as references
+**最匹配客户核对表：**
+1. 很快理解产品。
+2. 很快购买，销售周期短。
+3. 是热情拥护者。
+4. 会介绍其他客户。
+5. 愿意作为客户证明人。
 
-Talk to these customers. Decode WHY they love you. That's the positioning foundation.
+与他们交流，解读他们为何喜欢你，这就是定位的基础。
 
-**The trap:** Designing positioning for the customers you wish you had instead of customers who already love you.
+**陷阱：** 为你希望拥有的客户设计定位，而非已经喜欢你的客户。
 
-**The circular dependency:**
-- Can't position for target until you know who loves you
-- Can't know who loves you without selling first
-- Can't sell without some positioning
-- **Solution:** Cast wide early ("fishing-net analogy"). Don't position narrowly until signal exists. Then narrow to best-fit.
+**循环依赖：**
+- 不知道谁喜欢你，就无法面向目标客户定位。
+- 不先销售，就不知道谁喜欢你。
+- 没有某种定位，又无法销售。
+- **解法：** 早期广撒网（“渔网类比”）。信号出现前不要定位太窄，之后再收敛到最匹配客户。
 
-If no happy customers yet → use Mom Test for problem validation first. Don't position what you haven't built.
+还没有满意客户 → 先用 Mom Test 验证问题。不要为尚未做出的产品定位。
 
-### Step 2: Form a Positioning Team
+<a id="step-2-form-a-positioning-team"></a>
+### 第二步：组建定位团队
 
-Positioning is NOT a marketing job.
+定位不只是营销部门的工作。
 
-**Required participants:**
-- CEO/Founder/Business owner (mandatory - they own positioning)
-- Marketing
-- Sales
-- Customer Success
-- Product
+**必须参与的人员：**
+- CEO／创始人／企业主（必须，他们对定位负责）。
+- 营销。
+- 销售。
+- 客户成功。
+- 产品。
 
-**Team size: 3-12 people, 1-2 per function.**
+**团队规模：3—12 人，每个职能 1—2 人。**
 
-Why cross-functional: Each function has different positioning baggage and different customer signals. Marketing alone produces marketing-flavored positioning that doesn't survive sales conversations.
+为什么要跨职能：各职能的旧定位包袱和客户信号不同。营销部门单独做出的定位会充满营销味，无法经受销售对话的检验。
 
-**Pro tip:** Use an external facilitator. Internal people can't challenge their own assumptions.
+**实用建议：** 请外部引导师。内部人员难以挑战自己的假设。
 
-### Step 3: Align Vocabulary, Let Go of Positioning Baggage
+<a id="step-3-align-vocabulary-let-go-of-positioning-baggage"></a>
+### 第三步：统一用语，放下旧定位的包袱
 
-**Positioning baggage** = positioning assumptions from your past that no longer fit reality.
+**定位包袱**＝来自过去、已不符合现实的定位假设。
 
-Common baggage:
-- "We're a CRM" (when you've evolved into something else)
-- "We're for enterprise" (when SMBs are buying)
-- "We compete with Salesforce" (when customers compare you to Excel)
+常见包袱：
+- “我们是 CRM”（其实已经演变成别的产品）。
+- “我们服务大型企业”（实际购买者是中小企业）。
+- “我们与 Salesforce 竞争”（客户却拿你和 Excel 比）。
 
-**Founders have the most baggage.** Built the product around an original vision; can't let go.
+**创始人的包袱最多。** 产品围绕最初愿景打造，因此难以放手。
 
-First hour of the workshop:
-- Agree on shared vocabulary
-- Surface baggage explicitly
-- Suspend opinions for the workshop
+工作坊的第一个小时：
+- 就共用术语达成一致。
+- 明确揭示旧包袱。
+- 在工作坊期间暂时搁置既有观点。
 
-### Step 4: List True Competitive Alternatives
+<a id="step-4-list-true-competitive-alternatives"></a>
+### 第四步：列出真正的竞争替代方案
 
-The wrong question: "Who are our competitors?"
-The right question: **"What would our best customers do if we didn't exist?"**
+错误问题：“我们的竞争对手是谁？”
+正确问题：**“如果我们不存在，最好的客户会怎么做？”**
 
-Common true alternatives:
-- "Do nothing" (status quo)
-- "Use Excel"
-- "Hire an intern"
-- "Use a generic tool"
-- "Build it ourselves"
+常见的真实替代方案：
+- “什么也不做”，维持现状。
+- “用 Excel”。
+- “雇个实习生”。
+- “用通用工具”。
+- “自己开发”。
 
-**Filtering:**
-- Focus on best-fit customers only
-- Rank most-common to least-common
-- Drop alternatives with low real mindshare
-- Cluster into 2-5 groups
+**筛选：**
+- 只关注最匹配的客户。
+- 从最常见到最不常见排序。
+- 删除在客户实际考虑中占比很低的方案。
+- 聚成 2—5 组。
 
-### Step 5: Isolate Your Unique Attributes
+<a id="step-5-isolate-your-unique-attributes"></a>
+### 第五步：识别独特属性
 
-Stay on FEATURES, not benefits or value yet.
+此时先停留在功能，不讨论益处或价值。
 
-Things your product/company has or does that alternatives don't:
-- Product features
-- Capabilities
-- Process
-- Partnerships
-- Skills
-- Distribution
-- Even seemingly "negative" attributes (e.g., "on-site install" can be a strength for high-touch buyers)
+产品／公司拥有或能做、替代方案却没有或做不到的东西：
+- 产品功能。
+- 能力。
+- 流程。
+- 合作关系。
+- 技能。
+- 分销。
+- 甚至看似“负面”的属性，例如对重视贴身服务的买家来说，“现场安装”可能是优势。
 
-**Critical rule:** "Your opinion of your own strengths is irrelevant without proof."
+**关键规则：** “没有证据，你对自身优势的看法毫无意义。”
 
-Convert vague claims into provable facts:
-- "24/7 phone support with avg 30-second response time"
-- "Net Promoter Score of 82 vs industry avg of 31"
-- Third-party validation
-- Approved customer quotes
+把模糊主张转化为可证明的事实：
+- “全天候电话支持，平均 30 秒响应”。
+- “净推荐值 82，行业平均为 31”。
+- 第三方验证。
+- 经客户批准使用的引言。
 
-**Don't include retention-only attributes** (things customers care about AFTER buying). Focus on consideration attributes (drive the buying decision).
+**不要纳入只影响留存的属性**，即客户买完才在意的东西。应关注促成购买决策的考量属性。
 
-### Step 6: Map Attributes to Value Themes
+<a id="step-6-map-attributes-to-value-themes"></a>
+### 第六步：将属性映射为价值主题
 
-Chain: **Feature → Benefit → Value (in customer-goal terms).**
+链条：**功能 → 益处 → 价值（以客户目标表述）。**
 
-**The "So what?" test:**
-- "12-megapixel camera" → So what?
-- "Sharper photos" → So what?
-- "Photos look professional even on social media" → THERE.
+**“所以呢？”测试：**
+- “1,200 万像素相机” → 所以呢？
+- “照片更清晰” → 所以呢？
+- “即使发在社交媒体上，照片也显得很专业” → 找到了。
 
-| Feature | Benefit | Value Theme |
-|---------|---------|-------------|
-| 12 megapixel | Sharper photos | Professional-quality memories |
-| All-metal construction | Durable | Lasts longer than plastic competitors |
-| One-click reports | No manual work | Hours saved per week |
-| 24-hour support | Help when you need it | Never stuck on Sunday night |
+| 功能 | 益处 | 价值主题 |
+|------|------|----------|
+| 1,200 万像素 | 照片更清晰 | 专业品质的回忆 |
+| 全金属结构 | 耐用 | 比塑料竞品使用更久 |
+| 一键报表 | 无须手工操作 | 每周节省数小时 |
+| 24 小时支持 | 需要时就能获得帮助 | 周日晚上也不会束手无策 |
 
-**Cluster value points the way customers naturally group them.** Aim for 1-4 value themes (sometimes just 1).
+**按照客户自然归类的方式聚合价值点。** 争取形成 1—4 个价值主题，有时只有 1 个。
 
-**Engineer trap:** Listing 47 features as if all equally important. Pick the most critical things that make you special.
+**工程师陷阱：** 列出 47 项功能，仿佛它们同等重要。应选出最能让你与众不同的关键内容。
 
-### Step 7: Determine Who Cares a Lot
+<a id="step-7-determine-who-cares-a-lot"></a>
+### 第七步：确定谁特别在意
 
-Segmentation is the most-misunderstood marketing concept after positioning.
+细分是继定位之后，最容易被误解的营销概念。
 
-**Bad segmentation:** Demographics or firmographics ("CMOs at companies with 500+ employees in tech")
-**Good segmentation:** "Easily identifiable characteristics that make them really care about what you do"
+**不好的细分：** 人口统计或企业统计特征，例如“科技行业 500 人以上公司的 CMO”。
+**好的细分：** “容易识别、并使他们特别在意你所做事情的特征”。
 
-Behavioral, contextual, capability-based:
-- "Companies with 100+ remote employees"
-- "Teams using Slack already"
-- "Companies that just raised Series B"
-- "Marketers running paid ads on 3+ channels"
+基于行为、情境与能力的特征：
+- “拥有 100 名以上远程员工的公司”。
+- “已经使用 Slack 的团队”。
+- “刚完成 B 轮融资的公司”。
+- “在 3 个以上渠道投放付费广告的营销人员”。
 
-**Best-fit vs other:**
+**最匹配客户与其他客户：**
 
-| Best-Fit | Other |
-|----------|-------|
-| Understand instantly | Need long explanations |
-| Buy fast | Slow decision |
-| Tolerate higher pricing | Push for discounts |
-| Evangelize | Use silently |
-| Won't churn | Churn risk |
+| 最匹配客户 | 其他客户 |
+|------------|----------|
+| 立刻理解 | 需要长篇解释 |
+| 购买迅速 | 决策缓慢 |
+| 接受较高价格 | 要求折扣 |
+| 主动传播 | 默默使用 |
+| 不易流失 | 存在流失风险 |
 
-**Two segment validity tests:**
-1. Big enough for business goals
-2. Shared important unmet need
+**细分市场有效性的两项测试：**
+1. 规模足以支持业务目标。
+2. 存在共同且重要的未满足需求。
 
-**Narrow > broad.** Tie segment width to current sales targets. Only broaden if best-fit can't hit them.
+**窄优于宽。** 细分范围应匹配当前销售目标。只有最匹配客户不足以实现目标时才扩大。
 
-**Real example - appointment scheduling:**
-- First pass: "Companies with lots of locations" - too vague
-- Refined: "Financial services and tax preparation" - specific behavioral characteristics
-- This made the entire positioning click
+**真实案例——预约排期：**
+- 第一版：“网点很多的公司”——过于模糊。
+- 改进版：“金融服务和报税服务”——有具体行为特征。
+- 这一调整让整个定位一下子清晰了。
 
-### Step 8: Find a Market Frame of Reference
+<a id="step-8-find-a-market-frame-of-reference"></a>
+### 第八步：寻找市场参照框架
 
-See SKILL.md for the three styles (Head to Head / Big Fish, Small Pond / Create New Game) and the decision tree.
+三种方式（正面竞争／小池塘里的大鱼／开创新游戏）及决策树见 SKILL.md。
 
-**Test your frame:**
+**检验你的框架：**
 
-| Working | Not Working |
-|---------|-------------|
-| Customers "get it" in 30 seconds | Consistently misunderstand |
-| Sales conversations skip "what are you?" | Compare you to wrong things |
-| Right competitors come up | Sales cycles are long |
-| Right customers self-select | Best customers say "you should call yourselves X" |
+| 有效 | 无效 |
+|------|------|
+| 客户 30 秒内就理解 | 持续产生误解 |
+| 销售对话跳过“你是什么” | 与错误的对象比较 |
+| 出现正确的竞争对手 | 销售周期漫长 |
+| 正确的客户主动选择你 | 最好的客户说“你们应该叫 X” |
 
-### Step 9: Layer On a Trend (Be Careful)
+<a id="step-9-layer-on-a-trend-be-careful"></a>
 
-Trends amplify positioning when they intersect with:
-- Your product strengths
-- Customer-relevant context
-- A real, durable trend (not a flash)
+### 第九步：叠加趋势，务必谨慎
 
-**3-circle intersection:**
+趋势与下列要素相交时，能放大定位效果：
+- 产品优势。
+- 与客户相关的情境。
+- 真实、持久的趋势，而非昙花一现的热潮。
+
+**三个圆的交集：**
 
 ```
-        Product
-        Strengths
-           ●
-          / \
-         /   \
-        ●─────●
-   Customer   Trend
-   Context
+         产品
+         优势
+          ●
+         / \
+        /   \
+       ●─────●
+    客户情境  趋势
 
-    Position at the intersection
+      在交集处定位
 ```
 
-**Decision rule:** "It's always better to be a little boring than completely baffling."
+**决策规则：** “稍微无聊一点，总比完全令人摸不着头脑好。”
 
-Trends are OPTIONAL. Many great companies don't need them.
+趋势是可选项，许多优秀公司并不需要。
 
-### Step 10: Capture Positioning So It Can Be Shared
+<a id="step-10-capture-positioning-so-it-can-be-shared"></a>
+### 第十步：记录定位，以便共享
 
-Don't use the traditional 1-sentence positioning statement. Instead:
+不要使用传统的一句话定位声明，改用：
 
-1. **Detailed positioning document** (multi-page)
-2. **One-page positioning canvas**
-3. **Sales story** (see below)
+1. **详细定位文档**，可以有多页。
+2. **一页定位画布**。
+3. **销售叙事**，见下文。
 
-#### The Positioning Canvas (4 columns)
+<a id="the-positioning-canvas-4-columns"></a>
+#### 定位画布：四列
 
-| Competitive Alternatives | Unique Attributes | Value | Who Cares a Lot |
-|--------------------------|-------------------|-------|------------------|
-| What would they use without us? | What do we have they don't? | What can they DO because of it? | Who cares MOST? |
+| 竞争替代方案 | 独特属性 | 价值 | 谁特别在意 |
+|--------------|----------|------|------------|
+| 没有我们，他们会用什么？ | 我们有什么是他们没有的？ | 因此客户能做到什么？ | 谁最在意？ |
 
-This canvas drives all messaging downstream.
-
----
-
-## After Positioning: The Sales Story (6 Stages)
-
-| # | Stage | Content |
-|---|-------|---------|
-| 1 | The Problem | Pain customers feel |
-| 2 | Current Solutions / Gap | Why alternatives fail |
-| 3 | Perfect World | What it would look like solved |
-| 4 | Product Introduction | Here's how we solve it |
-| 5 | Value Themes | The 1-4 ways we deliver value |
-| 6 | Next Steps | What to do now |
-
-Then write a master messaging document.
+这张画布驱动下游所有信息表达。
 
 ---
 
-## Repositioning Triggers
+<a id="after-positioning-the-sales-story-6-stages"></a>
+## 定位之后：销售叙事的六个阶段
 
-Periodically check whether positioning still fits. Reposition when major triggers occur (not on a schedule):
+| 步骤 | 阶段 | 内容 |
+|------|------|------|
+| 1 | 问题 | 客户感受到的痛点 |
+| 2 | 现有方案与缺口 | 替代方案为何失效 |
+| 3 | 理想世界 | 问题解决后的样子 |
+| 4 | 产品介绍 | 我们如何解决问题 |
+| 5 | 价值主题 | 我们提供价值的 1—4 种方式 |
+| 6 | 下一步 | 现在该做什么 |
 
-1. New competitor changes landscape
-2. Regulations change (e.g., privacy law impacts category)
-3. Economic climate shift (recession changes what customers value)
-4. New technology disrupts category (AI changing CRM)
-5. Customer attitude shifts (the "cool purple lights" CIO story - what customers valued yesterday is no longer valued today)
-
-If you reposition: start at Step 4 (you already know customers and team).
-
-**Source phrasing:** "Check in on your positioning every six months OR when there has been a major event." It's a check, not a forced reposition. Adding a large competitor doesn't necessarily mean positioning should change.
+然后撰写统一的信息表达主文档。
 
 ---
 
-## Multi-Product Companies (Critical Rule)
+<a id="repositioning-triggers"></a>
+## 重新定位的触发因素
 
-If you have many products, you have multiple positioning challenges. Dunford's explicit rule:
+定期检查定位是否仍合适。重大事件触发时再重新定位，不按日历机械执行：
 
-**Each product needs its own positioning. The COMPANY can have positioning. The individual products each have their own. Don't conflate the two.**
+1. 新竞争者改变格局。
+2. 法规变化，例如隐私法影响品类。
+3. 经济环境转变，例如衰退改变客户重视的东西。
+4. 新技术颠覆品类，例如 AI 改变 CRM。
+5. 客户态度变化，例如“炫酷紫色灯光”的 CIO 故事——客户昨天重视的东西，今天已不再重视。
 
-Examples:
-- Microsoft (company) ≠ Word ≠ Excel ≠ Teams ≠ Azure
-- AgentSeal (company) ≠ CodeBurn (product)
+重新定位时，从第四步开始，因为你已经了解客户，也已组建团队。
 
-**Common mistake:** Treating product positioning as company positioning, or vice versa.
+**原始来源表述：** “每六个月，或发生重大事件时，检查你的定位。”这是检查，不是强制重新定位。新增一个大型竞争者，不一定意味着定位必须改变。
 
-For multi-product founders: run the 10-step process for each product. Company-level positioning emerges from the common thread (or stays as holding-brand if there isn't one).
+---
+
+<a id="multi-product-companies-critical-rule"></a>
+## 多产品公司：关键规则
+
+如果拥有多个产品，就有多个定位挑战。Dunford 的明确规则是：
+
+**每个产品都需要自己的定位。公司可以有定位，各个产品也有自己的定位，不要混淆两者。**
+
+例如：
+- Microsoft（公司）≠ Word ≠ Excel ≠ Teams ≠ Azure。
+- AgentSeal（公司）≠ CodeBurn（产品）。
+
+**常见错误：** 把产品定位当成公司定位，或反过来。
+
+对于拥有多产品的创始人：为每个产品执行十步流程。公司层面的定位从共同主线中浮现；如果没有共同主线，则保留为控股品牌。

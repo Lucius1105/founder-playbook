@@ -1,165 +1,173 @@
-# Examples - Made to Stick
+> 中文译文｜[英文对照](examples.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/made-to-stick/examples.md)。原项目整理：AgentSeal；书籍来源：《Made to Stick》— Chip Heath 与 Dan Heath；AI 辅助翻译。
 
-## The SUCCESs Audit Worksheet
+# 示例——Made to Stick
 
-Score any message against the six principles. Identify the 1-2 weakest areas and fix those first.
+## SUCCESs 审查工作表
 
-```
-MESSAGE: _________________________________________________
+按六项原则为信息评分，先修复最弱的一至两项。
 
-AUDIENCE: ________________________________________________
+```text
+信息：_________________________________________________
 
-GOAL (what should they do after hearing this?): ___________
+受众：_________________________________________________
 
-SCORING:
+目标，听完后希望他们做什么：_____________________________
 
-SIMPLE                                                    ___/5
-  [ ] Core message identifiable in one sentence
-  [ ] Could a newcomer make a correct decision using only this message?
-  [ ] No competing messages or buried leads
-  [ ] Uses schemas/analogies the audience already knows
+评分：
 
-UNEXPECTED                                                ___/5
-  [ ] Opens with something that violates expectations
-  [ ] Creates a knowledge gap the audience wants to fill
-  [ ] Surprise is connected to the core message (not gimmicky)
-  [ ] Curiosity is sustained throughout (not just a hook)
+简单                                                     ___/5
+  [ ] 一句话就能辨认核心信息。
+  [ ] 新人能否只靠这条信息作出正确决定？
+  [ ] 没有互相竞争的重点，主旨没有埋藏。
+  [ ] 使用受众已知的图式或类比。
 
-CONCRETE                                                  ___/5
-  [ ] Uses sensory language (can picture it, hear it, feel it)
-  [ ] Specific names, numbers, places (not generic categories)
-  [ ] Avoids jargon and abstract-speak
-  [ ] Audience can "examine with their senses"
+意外                                                     ___/5
+  [ ] 以违背预期的内容开场。
+  [ ] 制造受众想填补的知识缺口。
+  [ ] 惊讶与核心信息有关，不是噱头。
+  [ ] 全程保持好奇，不只是开头钩子。
 
-CREDIBLE                                                  ___/5
-  [ ] Source is believable (authority, anti-authority, or internal proof)
-  [ ] Statistics illustrate relationships, not standalone numbers
-  [ ] Details are vivid and meaningful (not just accurate)
-  [ ] Could pass a testable-credential check (audience can verify)
+具体                                                     ___/5
+  [ ] 使用能想象、听见、感到的感官语言。
+  [ ] 有具体姓名、数字、地点，不只泛泛分类。
+  [ ] 避免行话与抽象话。
+  [ ] 受众能用感官检视。
 
-EMOTIONAL                                                 ___/5
-  [ ] Focuses on an individual, not a mass
-  [ ] Avoids triggering analytical thinking before the emotional ask
-  [ ] Appeals to identity or self-interest (not just logic)
-  [ ] Uses fresh language (no semantic stretch / dead words)
+可信                                                     ___/5
+  [ ] 来源可信：权威、非传统权威或内部证据。
+  [ ] 统计展示关系，不是孤立数字。
+  [ ] 细节生动有意义，而不只是准确。
+  [ ] 能通过可验证证据检验，受众可自行核查。
 
-STORIES                                                   ___/5
-  [ ] Contains at least one narrative with character, tension, resolution
-  [ ] The story simulates the action you want the audience to take
-  [ ] Uses Challenge, Connection, or Creativity plot structure
-  [ ] Story was spotted from real life, not manufactured
+情感                                                     ___/5
+  [ ] 聚焦一个人，不是一群人。
+  [ ] 情感诉求前，不先激活分析思维。
+  [ ] 诉诸身份或个人利益，不只有逻辑。
+  [ ] 用新鲜语言，没有语义拉伸或空洞词。
 
-TOTAL: ___/30
+故事                                                     ___/5
+  [ ] 至少一个含角色、张力、解决过程的叙事。
+  [ ] 故事模拟你希望受众采取的行动。
+  [ ] 使用挑战、连接或创造情节。
+  [ ] 故事来自现实发现，而非编造。
 
-25-30: Strong sticky message. Minor refinements.
-18-24: Working but has gaps. Identify the 1-2 lowest scores and fix.
-Below 18: Needs significant rework. Start with Simple (find the core).
-```
+总分：___/30
 
----
-
-## Message Clinic Template
-
-Use this format to diagnose and improve any message. Works for pitches, emails, website copy, presentations, internal memos, fundraising appeals.
-
-```
-=== MESSAGE CLINIC ===
-
-SITUATION:
-What needs to be communicated and to whom?
-_________________________________________________
-
-CURRENT MESSAGE (Version 1):
-_________________________________________________
-_________________________________________________
-_________________________________________________
-
-DIAGNOSIS:
-Which SUCCESs principles are strong? Which are weak?
-Strong: _____________________________________________
-Weak: _______________________________________________
-
-REWRITE (Version 2 - fixing the weak principles):
-_________________________________________________
-_________________________________________________
-_________________________________________________
-
-BEFORE/AFTER COMPARISON:
-| Principle | V1 Score | V2 Score | What changed |
-|-----------|----------|----------|-------------|
-| Simple    |    /5    |    /5    |             |
-| Unexpected|    /5    |    /5    |             |
-| Concrete  |    /5    |    /5    |             |
-| Credible  |    /5    |    /5    |             |
-| Emotional |    /5    |    /5    |             |
-| Stories   |    /5    |    /5    |             |
+25—30：黏性很强，小幅调整即可。
+18—24：基本有效但有缺口，修复最低的一至两项。
+低于 18：需要大幅重做，从“简单”开始找核心。
 ```
 
 ---
 
-## Worked Example: Startup Pitch
+## 信息诊所模板
 
-### Version 1 (Before)
-"We're building an AI-powered platform that leverages machine learning algorithms to optimize supply chain logistics across enterprise organizations, reducing operational inefficiencies and driving bottom-line improvements through data-driven decision making."
+用于诊断改进推介、邮件、网站文案、演示、内部备忘、募捐诉求等任何信息。
 
-### Diagnosis
-- Simple: 2/5 - Too many buzzwords, no core
-- Unexpected: 1/5 - Sounds like every other startup pitch
-- Concrete: 1/5 - Pure abstraction ("leverages," "optimizes," "drives")
-- Credible: 1/5 - No proof, no specifics
-- Emotional: 1/5 - No one cares about "operational inefficiencies"
-- Stories: 0/5 - No narrative at all
+```text
+=== 信息诊所 ===
 
-### Version 2 (After)
-"Last year, a warehouse manager at one of our customers was spending 4 hours every morning figuring out which trucks to send where. Our software does it in 11 seconds. They now ship same-day on 94% of orders, up from 60%. We're the GPS for warehouses - tell us where the stuff needs to go, we find the fastest route."
-
-### Diagnosis
-- Simple: 4/5 - "GPS for warehouses" (generative analogy)
-- Unexpected: 4/5 - "4 hours down to 11 seconds" breaks expectations
-- Concrete: 5/5 - Warehouse manager, trucks, 11 seconds, 94%
-- Credible: 4/5 - Specific customer result, verifiable numbers
-- Emotional: 3/5 - You can feel the relief of that warehouse manager
-- Stories: 4/5 - Mini-narrative with character, problem, resolution
-
----
-
-## Worked Example: Fundraising Appeal
-
-### Version 1 (Statistics-Led)
-"Food insecurity affects 42 million Americans, including 13 million children. Our food bank distributed 8.2 million pounds of food last year across 15 counties. With your donation, we can expand operations to serve an additional 12,000 families."
-
-### Diagnosis
-- Credible: 4/5 (good statistics)
-- Everything else: weak. The Rokia Study tells us this approach reduces giving.
-
-### Version 2 (Individual + Testable)
-"Maria is 8. She goes to Jefferson Elementary. Every Friday, her teacher slips a backpack full of food into her cubby - enough for the weekend, because there's nothing at home. Last Friday, Maria whispered to her teacher: 'Can I get two? My little brother is hungry too.'
-
-We sent two.
-
-This year, we're sending backpacks to 340 kids like Maria at 12 schools. Each backpack costs $4.60. A $50 gift feeds a child for the entire school year.
-
-You can meet Maria's class at our open house on March 15th."
-
-### Diagnosis
-- Simple: 5/5 - One child, one need, one ask
-- Unexpected: 4/5 - "Can I get two?" breaks your heart and your schema
-- Concrete: 5/5 - Name, school, backpack, cubby, $4.60
-- Credible: 4/5 - Specific details + testable credential (come meet them)
-- Emotional: 5/5 - Individual focus, no analytical priming
-- Stories: 5/5 - Complete narrative arc
-
----
-
-## Commander's Intent Worksheet
-
-**For leaders, founders, and managers:**
-
-```
-CONTEXT: What decision/initiative is this for?
+情境：
+需要向谁传达什么？
 _________________________________________________
 
-BRAIN DUMP: Everything you want to communicate (list it all):
+当前信息，版本一：
+_________________________________________________
+_________________________________________________
+_________________________________________________
+
+诊断：
+哪些 SUCCESs 原则强，哪些弱？
+强项：___________________________________________
+弱项：___________________________________________
+
+改写，版本二：修复弱项。
+_________________________________________________
+_________________________________________________
+_________________________________________________
+
+前后比较：
+| 原则 | 版本一评分 | 版本二评分 | 改变了什么 |
+|------|------------|------------|------------|
+| 简单 |    /5      |    /5      |            |
+| 意外 |    /5      |    /5      |            |
+| 具体 |    /5      |    /5      |            |
+| 可信 |    /5      |    /5      |            |
+| 情感 |    /5      |    /5      |            |
+| 故事 |    /5      |    /5      |            |
+```
+
+---
+
+## 完整实例：创业推介
+
+### 版本一，改写前
+
+“我们正在构建 AI 驱动的平台，利用机器学习算法优化大型企业的供应链物流，通过数据驱动的决策，降低运营低效并改善利润表现。”
+
+### 诊断
+- 简单：2/5，流行词太多，没有核心。
+- 意外：1/5，和所有创业推介一样。
+- 具体：1/5，全是“利用”“优化”“驱动”等抽象表达。
+- 可信：1/5，没有证明或细节。
+- 情感：1/5，没人关心“运营低效”这个说法。
+- 故事：0/5，完全没有叙事。
+
+### 版本二，改写后
+
+“去年，一家客户的仓库经理每天早上花四小时，决定哪辆卡车该去哪里。我们的软件只需 11 秒。现在他们 94% 的订单当天发货，之前只有 60%。我们就是仓库的 GPS：告诉我们货物要去哪，我们找最快路线。”
+
+### 诊断
+- 简单：4/5，“仓库 GPS”是生成性类比。
+- 意外：4/5，“四小时变 11 秒”打破预期。
+- 具体：5/5，仓库经理、卡车、11 秒、94%。
+- 可信：4/5，具体客户成果、可验证数字。
+- 情感：3/5，能感受到仓库经理的轻松。
+- 故事：4/5，有角色、问题、解决的小叙事。
+
+---
+
+## 完整实例：募捐诉求
+
+### 版本一，统计先行
+
+“4,200 万美国人面临粮食不安全，其中包括 1,300 万儿童。去年我们的食物银行向 15 个县分发了 820 万磅食物。有了你的捐赠，我们可以扩大业务，再服务 12,000 个家庭。”
+
+### 诊断
+- 可信：4/5，统计不错。
+- 其余都弱。Rokia 研究告诉我们，这种做法会减少捐赠。
+
+### 版本二，个体加可验证证据
+
+“Maria 八岁，在 Jefferson 小学读书。每周五，老师都会把一书包食物放进她的储物格，够过周末，因为家里什么也没有。上周五，她悄悄问老师：‘能给我两个吗？我弟弟也饿。’
+
+我们送了两个。
+
+今年，我们给 12 所学校的 340 个像 Maria 一样的孩子送书包。每个成本 4.60 美元。捐 50 美元，就能让一个孩子整个学年吃上饭。
+
+3 月 15 日开放日，你可以来见 Maria 的班级。”
+
+> 译注：原文模板同时给出每个书包4.60美元与50美元覆盖整个学年的说法，缺少频次或补贴等计算条件，不能据此核实全年覆盖承诺。这里保留原数字以便对照。
+
+### 诊断
+- 简单：5/5，一个孩子、一个需求、一个请求。
+- 意外：4/5，“能给两个吗”同时触动内心、打破预期。
+- 具体：5/5，名字、学校、书包、储物格、4.60 美元。
+- 可信：4/5，具体细节加可验证证据，即亲自来见面。
+- 情感：5/5，聚焦个人，没有预先激活分析思维。
+- 故事：5/5，完整叙事弧线。
+
+---
+
+## 指挥官意图工作表
+
+**面向领导者、创始人、管理者：**
+
+```text
+情境：用于什么决策或行动？
+_________________________________________________
+
+自由列出所有想传达的内容：
 1. ________________________________________________
 2. ________________________________________________
 3. ________________________________________________
@@ -168,180 +176,178 @@ BRAIN DUMP: Everything you want to communicate (list it all):
 6. ________________________________________________
 7. ________________________________________________
 
-FORCED PRIORITIZATION: If your team remembers only ONE thing:
+强制排序：如果团队只能记住一件事：
 _________________________________________________
 
-TEST: Can a front-line employee use this to make a decision
-you'd agree with, without asking you?
-[ ] YES → This is your Commander's Intent
-[ ] NO  → It's too vague. Make it more concrete/specific.
+测试：一线员工能否不问你，就依此作出你认可的决定？
+[ ] 能 → 这就是指挥官意图。
+[ ] 不能 → 太模糊，需要更具体明确。
 
-COMMANDER'S INTENT (final):
+最终指挥官意图：
 _________________________________________________
 ```
 
-### Worked Examples
+### 完整示例
 
-| Context | Bad CI | Good CI |
+| 情境 | 差的意图 | 好的意图 |
 |---------|--------|---------|
-| Product launch | "Deliver a world-class product experience" | "Ship by March 1 with zero data-loss bugs, even if some UI polish is missing" |
-| Sales quarter | "Maximize revenue and customer satisfaction" | "Close 15 enterprise deals above $50K. Do not discount below $40K for any reason." |
-| Marketing campaign | "Increase brand awareness and drive engagement" | "Every prospect who visits the landing page should be able to explain what we do in one sentence." |
-| Hiring | "Find top talent who fit our culture" | "Hire 3 senior engineers who've built distributed systems at scale. Closing timeline: 6 weeks." |
+| 产品发布 | “交付世界级产品体验” | “3 月 1 日前发布，零数据丢失缺陷，即使界面尚欠打磨” |
+| 季度销售 | “最大化收入与客户满意度” | “成交 15 笔超过 50,000 美元的企业单；任何理由都不得低于 40,000 美元” |
+| 营销活动 | “提升品牌认知，促进参与” | “每位访问落地页的潜在客户，都能用一句话解释我们做什么” |
+| 招聘 | “找到符合文化的顶尖人才” | “六周内招到三名有大规模分布式系统经验的资深工程师” |
 
 ---
 
-## Statistic Reframing Worksheet
+## 统计重述工作表
 
-**Take any statistic and make it sticky using the Human-Scale Principle:**
+**用人类尺度原则，让任何统计更易记：**
 
+```text
+原始统计：
+_________________________________________________
+
+第一步：这个数字展示什么关系？
+_________________________________________________
+
+第二步：能否换成人能直觉理解的尺度？
+实物、日常经历、能感受到的时间。
+_________________________________________________
+
+第三步：能否用道具或视觉展示？
+_________________________________________________
+
+重述版本：
+_________________________________________________
 ```
-RAW STATISTIC:
-_________________________________________________
 
-STEP 1: What RELATIONSHIP does this statistic illustrate?
-_________________________________________________
+### 完整示例
 
-STEP 2: Can you reframe it in human-scale terms?
-(Physical objects, everyday experiences, time people can feel)
-_________________________________________________
-
-STEP 3: Can you demonstrate it with a prop or visual?
-_________________________________________________
-
-REFRAMED VERSION:
-_________________________________________________
-```
-
-### Worked Examples
-
-| Raw Statistic | Relationship | Reframed |
+| 原始统计 | 关系 | 重述 |
 |--------------|-------------|----------|
-| "37 grams of saturated fat in movie popcorn" | One bag = full day of unhealthy eating | "A whole day's worth: bacon and eggs for breakfast, Big Mac for lunch, steak dinner - that's one bag of popcorn" |
-| "5,000 nuclear warheads" | Scale-up from WWII to now | One BB in a bucket (Hiroshima), then pour 5,000 BBs - the roar goes on and on |
-| "Only 37% of employees know the company's goals" | Organizational dysfunction | "If a soccer team had these scores, only 4 of 11 would know which goal is theirs" |
-| "Our software is 99.99% accurate" | Precision at scale | "Like throwing a rock from New York to LA and hitting within 2/3 of an inch" |
-| "$500/year per employee for wireless" | Is it worth it? | "If wireless saves an employee 1-2 minutes per day, it's paid for itself" |
+| “电影院爆米花含 37 克饱和脂肪” | 一袋等于一整天不健康饮食 | “早餐培根鸡蛋、午餐巨无霸、晚餐牛排，一整天的量，都在一袋爆米花里” |
+| “5,000 枚核弹头” | 二战到现在的规模增长 | 桶里放一颗 BB 弹代表广岛，再倒 5,000 颗，让轰响持续 |
+| “只有 37% 员工知道公司目标” | 组织失能 | “若是足球队，十一人只有四人知道自家球门在哪” |
+| “软件准确率 99.99%” | 大尺度上的精度 | “像从纽约向洛杉矶扔石头，误差不到三分之二英寸” |
+| “无线网络每位员工每年 500 美元” | 是否值得 | “每天替员工省一至两分钟，就回本了” |
 
 ---
 
-## Three Whys Worksheet (Features → Emotions)
+## 三个为什么工作表：从功能到情感
 
-**Move from what your product DOES to why anyone should CARE:**
+**从产品做什么，走到人为什么要在意：**
 
-```
-FEATURE: ________________________________________________
+```text
+功能：_________________________________________________
 
-WHY #1: Why does this matter?
+第一个为什么：这为什么重要？
 _________________________________________________
 
-WHY #2: Why does THAT matter?
+第二个为什么：那又为什么重要？
 _________________________________________________
 
-WHY #3: Why does THAT matter? (Should reach emotional/identity level)
+第三个为什么：那又为什么重要？应到情感／身份层面。
 _________________________________________________
 
-EMOTIONAL CORE:
+情感核心：
 _________________________________________________
 ```
 
-### Worked Example
+### 完整示例
 
-```
-FEATURE: Our CRM auto-logs all customer interactions
+```text
+功能：CRM 自动记录所有客户互动。
 
-WHY #1: Reps don't waste time on data entry
-WHY #2: They spend more time actually talking to customers
-WHY #3: They feel like real salespeople, not administrators
+为什么一：销售不用把时间浪费在录入数据上。
+为什么二：有更多时间真正与客户交谈。
+为什么三：感觉自己是真正的销售，而非行政人员。
 
-EMOTIONAL CORE: "Stop being a data entry clerk. Get back to selling."
-```
-
----
-
-## Story Spotting Interview Template
-
-Use these prompts to find sticky stories in your organization:
-
-### For Customer Stories (Challenge Plot)
-```
-1. "Before you found us, what was the most frustrating part of [problem]?"
-2. "Can you describe a specific moment when you thought 'something has to change'?"
-3. "Walk me through what happened next - step by step."
-4. "What was the turning point?"
-5. "What does life look like now compared to before?"
-```
-
-### For Innovation Stories (Creativity Plot)
-```
-1. "Was there a moment when someone on the team had a breakthrough?"
-2. "What were you stuck on before that moment?"
-3. "What made them see it differently?"
-4. "How did the solution feel compared to what you expected?"
-```
-
-### For Team Stories (Connection Plot)
-```
-1. "Tell me about a time two people/groups who wouldn't normally work together 
-    had to collaborate."
-2. "What was the initial friction?"
-3. "What changed?"
-4. "What did you learn about each other?"
-```
-
-### For Springboard Stories
-```
-1. "Can you give me ONE example - one real person, one real place - where the 
-    change we're proposing already happened, even at a small scale?"
-2. "What specifically happened? (Names, places, details.)"
-3. "What was surprising about it?"
+情感核心：“别再当数据录入员，回去做销售。”
 ```
 
 ---
 
-## Semantic Stretch Checker
+## 故事发现访谈模板
 
-**Replace these dead words with concrete alternatives:**
+用这些问题，在组织中寻找有黏性的故事。
 
-| Dead Word | Why It's Dead | Replace With |
+### 客户故事：挑战情节
+```text
+1. “找到我们之前，［问题］最让你沮丧的是什么？”
+2. “能描述一个你觉得‘必须改变’的具体时刻吗？”
+3. “按顺序讲讲之后发生了什么。”
+4. “转折点是什么？”
+5. “与以前相比，现在的生活是什么样？”
+```
+
+### 创新故事：创造情节
+```text
+1. “团队中有没有人突然取得突破的时刻？”
+2. “那之前，你们卡在哪里？”
+3. “什么让他换了一个角度看？”
+4. “与预期相比，这个方案给人什么感觉？”
+```
+
+### 团队故事：连接情节
+```text
+1. “讲一次通常不会共事的两个人或群体，不得不合作的经历。”
+2. “最初的摩擦是什么？”
+3. “什么发生了改变？”
+4. “你们对彼此有了什么新认识？”
+```
+
+### 跳板故事
+```text
+1. “能给一个真实例子吗？一个人、一个地方，
+    我们倡议的改变已经发生，哪怕规模很小。”
+2. “具体发生什么？姓名、地点、细节。”
+3. “哪里令人惊讶？”
+```
+
+---
+
+## 语义拉伸检查器
+
+**把失去力量的词换成具体表达：**
+
+| 空洞词 | 为什么失效 | 换成 |
 |-----------|--------------|-------------|
-| Innovative | Every company claims this | [Specific thing you did that's new] |
-| Unique | Means "somewhat different" now | [Exactly how you're different] |
-| Quality | Completely hollow | [Specific standard: "hand-inspected," "zero-defect guarantee"] |
-| Solutions | The most overused word in B2B | [What the customer actually gets] |
-| Cutting-edge | 1990s buzzword | [The specific technology or approach] |
-| World-class | Unverifiable | [Specific credential or result] |
-| Synergy | Immediate credibility killer | [What actually happens when X meets Y] |
-| Leverage | Jargon for "use" | "Use" |
-| Optimize | Vague improvement claim | [Specific metric + improvement] |
-| Best-in-class | Every competitor says this | [Your Sinatra Test example] |
+| 创新 | 每家公司都这么说 | 你具体做了什么新事物 |
+| 独特 | 如今只表示“有点不同” | 到底怎样不同 |
+| 品质 | 完全空洞 | 具体标准：“人工逐件检查”“零缺陷保证” |
+| 解决方案 | B2B 最滥用的词 | 客户实际得到什么 |
+| 前沿 | 20 世纪 90 年代流行词 | 具体技术或方法 |
+| 世界级 | 无法验证 | 具体资历或结果 |
+| 协同效应 | 立即损害可信度 | X 与 Y 结合究竟发生什么 |
+| Leverage（借力） | “使用”的行话包装 | 直接说“使用” |
+| 优化 | 模糊改善主张 | 具体指标与改善幅度 |
+| 同类最佳 | 每个竞品都这么说 | 通过辛纳屈测试的案例 |
 
-**Test:** If your competitor could truthfully use the same word, it's dead. Find the concrete detail that only YOU can claim.
+**测试：**竞品若也能真实地用同一个词，它就失效了。找到只有你能声称的具体细节。
 
 ---
 
-## Gap Theory Curiosity Openers
+## 基于缺口理论的好奇开场
 
-Use these templates to open knowledge gaps at the start of pitches, presentations, or copy:
+用于推介、演示、文案开头，打开知识缺口：
 
-```
-THE QUESTION:
-"Which of these is more likely to kill you: [scary thing] or [mundane thing]?"
-(Answer is always the mundane thing)
+```text
+提问：
+“哪样更可能致命：［吓人的事］还是［平常的事］？”
+答案总是平常的那件事。
 
-THE PREDICTION CHALLENGE:
-"Before I tell you the answer, guess: how many [X] do you think [Y]?"
-(The real answer shocks)
+预测挑战：
+“揭晓前先猜猜：你觉得多少［X］会［Y］？”
+真实答案令人震惊。
 
-THE MYSTERY:
-"In [year], [company/person] did something nobody expected. [Tease result]. 
-Here's why it worked."
+谜团：
+“［年份］，［公司／人物］做了一件谁也没料到的事。
+［透露一点结果］。下面说说它为什么有效。”
 
-THE CONTRADICTION:
-"Everything you know about [topic] suggests [expected thing]. 
-But the data shows the opposite."
+矛盾：
+“你对［主题］的所有认识，都指向［预期结果］。
+但数据恰好相反。”
 
-THE UNKNOWN KNOWN:
-"You use [common thing] every day. But you probably don't know 
-[surprising fact about it]."
+熟悉中的未知：
+“你每天使用［常见事物］，却可能不知道
+［关于它的惊人事实］。”
 ```

@@ -1,434 +1,435 @@
 ---
 name: spin-selling
-description: "Applies Neil Rackham's SPIN methodology (Situation/Problem/Implication/Need-payoff questions) to major B2B sales. Use for complex multi-call sales cycles, enterprise deals where the customer must justify the decision to others, when objections are mounting, when calls end in vague continuations instead of advances, when traditional closing techniques are backfiring on large deals, or when designing discovery-call structure. Triggers include 'my deal isn't closing', 'too many objections', 'B2B sales coaching', 'discovery call structure', 'stuck in the middle of the sale'. Not for transactional sub-$50 sales, pure consumer impulse, or PLG self-serve products."
+description: "将 Neil Rackham 的 SPIN 方法（现状、问题、影响、需求收益提问）应用于大额 B2B 销售。适用于复杂的多次沟通销售周期、客户须向他人论证决策的企业交易、异议不断增加、会谈只有含糊的继续联系而没有推进、传统成交技巧在大单上适得其反，或需要设计需求探索会谈结构时。触发语包括‘我的单子迟迟不成交’‘异议太多’‘B2B 销售辅导’‘需求探索会谈结构’‘卡在销售中途’。不适用于低于 50 美元的交易型销售、纯消费者冲动购买，或产品驱动增长的自助式产品。"
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/spin-selling/SKILL.md)。原项目整理：AgentSeal；书籍来源：《SPIN Selling》— Neil Rackham；AI 辅助翻译。
 
+> **说明：**本技能是独立分析与评论，并非原书复制。它综合原书核心观点与现代创业实践，指出框架过时或不完整之处，并整合相邻学科的视角。完整论证与上下文请阅读原著。
 
-# SPIN Selling
+# SPIN Selling（SPIN 销售）
 
-> "The closing techniques that can be effective in smaller accounts will actually lose you business as the sales grow larger." - Neil Rackham
+> “在小客户上有效的成交技巧，随着交易规模增大，反而会让你失去生意。”——Neil Rackham
 
-## Core Insight
+## 核心洞见
 
-**Sales techniques that work in small sales (closing, objection handling, feature pitching) tend to backfire in large sales.**
+**小额销售中有效的技巧，如促成成交、处理异议、推介功能，在大额销售中往往适得其反。**
 
-| Dimension | Small Sale | Large Sale |
+| 维度 | 小额销售 | 大额销售 |
 |-----------|-----------|------------|
-| Selling cycle | Single call | Multi-call (months/years) |
-| Decision maker | Individual | Multiple stakeholders |
-| Customer's risk | Low (personal $) | High (career, public visibility) |
-| Post-sale relationship | None | Ongoing |
-| Need development | Instant | Slow, painful |
-| Effective pressure | Yes (closing works) | No (closing backfires) |
-| Top behavior | Closing/Features | Questioning/Need development |
+| 销售周期 | 一次会谈 | 多次会谈，持续数月或数年 |
+| 决策者 | 个人 | 多位利益相关者 |
+| 客户风险 | 低，个人金钱 | 高，涉及职业前途与公众评价 |
+| 售后关系 | 没有 | 持续存在 |
+| 需求发展 | 即时 | 缓慢、困难 |
+| 施压是否有效 | 是，成交技巧有效 | 否，成交施压适得其反 |
+| 最重要行为 | 成交技巧／功能介绍 | 提问／发展需求 |
 
-**Decision rule:** If you can't complete the sale in a single call, or if the customer must justify the decision to others, you're in a major sale. Use SPIN.
+**判断规则：**如果不能在一次会谈中成交，或者客户需要向他人解释决策，就属于大额销售，使用 SPIN。
 
 ---
 
-## The 4 Stages of Every Sales Call
+## 每次销售会谈的四个阶段
 
-| Stage | What Happens | Importance in Major Sales |
+| 阶段 | 发生什么 | 在大额销售中的重要性 |
 |-------|--------------|---------------------------|
-| **1. Preliminaries** | Opening, warming up | LOW (≤20% of call time) |
-| **2. Investigating** | Asking questions to develop needs | **HIGHEST** (this is where you win) |
-| **3. Demonstrating Capability** | Showing your solution | Medium (only after needs developed) |
-| **4. Obtaining Commitment** | Getting next-step action | Low (good investigating makes this easy) |
+| **1. 开场** | 开场、热身 | 低，不超过会谈时间的 20% |
+| **2. 探询** | 通过提问发展需求 | **最高，胜负在这里决定** |
+| **3. 展示能力** | 展示解决方案 | 中等，只在需求充分发展后进行 |
+| **4. 获得承诺** | 取得下一步行动 | 低，探询做得好，这一步就容易 |
 
 ---
 
-## SPIN: The 4 Question Types
+## SPIN：四种提问类型
 
-### S - Situation Questions
+### S——现状提问
 
-Background facts about the customer's current situation.
-- "What equipment are you using now?"
-- "How long have you had it?"
+了解客户当前状况的背景事实。
+- “目前使用什么设备？”
+- “用了多久？”
 
-**Research finding:** Negatively related to success. Inexperienced sellers ask too many.
+**研究发现：**与成功负相关。经验不足的销售问得太多。
 
-**Rule:** Minimum needed. Do homework first - never ask what you could research. Each must have a specific purpose.
+**规则：**只问必要的最少数量。先做功课，能查到的就不要问。每个问题都要有明确目的。
 
-> "There's a special place in hell reserved for wicked salespeople where they sit for all eternity being forced to answer their own Situation Questions."
+> “地狱里有个专门为坏销售准备的位置：让他们永远坐着，被迫回答自己提出的现状问题。”
 
-### P - Problem Questions
+### P——问题提问
 
-Probe for problems, difficulties, dissatisfactions.
-- "Are you satisfied with your present equipment?"
-- "What disadvantages does this approach have?"
-- "Is reliability an issue?"
+探查问题、困难、不满。
+- “对现有设备满意吗？”
+- “这种做法有什么缺点？”
+- “可靠性是否是个问题？”
 
-**Research finding:** Strong predictor in small sales. Foundational in large sales but not sufficient alone.
+**研究发现：**是小额销售成功的强预测因素，在大额销售中是基础，但单靠它不够。
 
-**Rule:** **Aim for 6+ Problem Questions per call.** Plan 3+ problems your product can solve before each call. Inexperienced sellers don't ask enough because they fear offending the customer.
+**规则：**每次会谈以至少六个问题提问为目标。会谈前准备至少三个产品能解决的问题。新手担心得罪客户，所以问得不够。
 
-### I - Implication Questions
+### I——影响提问
 
-Take a problem and explore its EFFECTS, CONSEQUENCES, IMPLICATIONS.
-- "What effect does that have on output?"
-- "What's the cost of doing nothing?"
-- "Could this affect your competitiveness?"
+针对一个问题，探查它的影响、后果、含义。
+- “它对产量有什么影响？”
+- “不处理的成本是多少？”
+- “这会影响竞争力吗？”
 
-**Research finding:** **Strongest predictor of success in major sales.** Only 1 in 20 questions in average sales call is an Implication Question. Harder to ask. MUST be planned in advance.
+**研究发现：**这是大额销售成功的最强预测因素。普通销售会谈中，平均二十个问题才有一个是影响提问。它更难问，必须提前准备。
 
-**Purpose:** Take a problem the buyer perceives as small and build it large enough to justify expensive action.
+**目的：**把买家认为很小的问题，充分发展到足以证明高成本行动合理。
 
-> "Even the smartest people we've studied find it hard to ask Implication Questions unless they've planned them in advance."
+> “即便我们研究过最聪明的人，如果不提前准备，也很难提出影响问题。”
 
-### N - Need-Payoff Questions (NPQ)
+### N——需求收益提问（NPQ）
 
-Get the customer to articulate the VALUE/BENEFITS of solving the problem.
-- "How would solving this help you?"
-- "Why is that important?"
-- "Would it be useful if...?"
-- "What other ways could this help?"
+让客户亲口说明解决问题的价值和收益。
+- “解决它会怎样帮助你？”
+- “为什么这很重要？”
+- “如果能……，会有用吗？”
+- “还有哪些方面会受益？”
 
-**Research finding:** Top performers ask materially more NPQs than average reps (Rackham's "10x" figure is rhetorical, no published baseline). Calls with high NPQs are rated by customers as POSITIVE, CONSTRUCTIVE, HELPFUL.
+**研究发现：**优秀销售的需求收益提问显著多于普通销售；Rackham 所说的“十倍”是修辞性表达，没有公开基线。此类问题较多的会谈，被客户评价为积极、建设性、有帮助。
 
-**Two effects:**
-1. Shifts attention from problem (negative) to solution (positive)
-2. Customer tells YOU the benefits - far more persuasive
+**两个效果：**
+1. 将注意力从负面问题转向正面解决方案。
+2. 让客户告诉你收益，远比你说服他们有力。
 
-**Critical:** Don't ask NPQs about needs you CAN'T meet. Amplifies a need that benefits your competitor.
+**关键：**不要对自己无法满足的需求提需求收益问题，否则会放大一个有利于竞争对手的需求。
 
-### Quincy's Rule (Implication vs Need-payoff)
+### Quincy 法则（影响与需求收益的区别）
 
-The hardest distinction. An 8-year-old solved it instantly:
+这是最难区分的一组，但一个八岁孩子立刻就分清了：
 
-> **"Implication Questions are always sad. Need-payoff Questions are always happy."**
+> **“影响问题总是让人难过，需求收益问题总是让人开心。”**
 
-| Question Type | Focus | Tone |
+| 提问类型 | 焦点 | 基调 |
 |---------------|-------|------|
-| Implication | Problem-centered | Sad (makes problem bigger) |
-| Need-payoff | Solution-centered | Happy (makes solution attractive) |
+| 影响 | 以问题为中心 | 难过，让问题变大 |
+| 需求收益 | 以解决方案为中心 | 开心，让解决方案有吸引力 |
 
 ---
 
-## The SPIN Logic Chain
+## SPIN 逻辑链
 
-```
-Situation (background) → Problem (find difficulty) →
-Implied Need ("we have this problem") →
-Implication (make it bigger) → Need-payoff (build value of solving) →
-Explicit Need ("I want X") → Benefit ("we deliver X") →
-Order/Advance
+```text
+现状（背景）→ 问题（发现困难）→
+隐含需求（“我们有这个问题”）→
+影响（让问题的重要性显现）→ 需求收益（建立解决它的价值）→
+明确需求（“我想要 X”）→ 利益（“我们能提供 X”）→
+订单／推进
 ```
 
-**SPIN is a guideline, not a rigid formula.** Top performers use it flexibly. If the customer opens with an Explicit Need, jump to Need-payoff.
+**SPIN 是指南，不是僵硬公式。**高手灵活使用。客户一开始就提出明确需求时，可以直接进入需求收益提问。
 
 ---
 
-## Implied vs Explicit Needs (The Key Distinction)
+## 隐含需求与明确需求（关键区别）
 
-### Two Categories Used in Practice
+### 实践中的两类需求
 
-| Need Type | Definition | Example |
+| 需求类型 | 定义 | 例子 |
 |-----------|------------|---------|
-| **Implied** | Problems, difficulties, dissatisfactions | "Our system is unreliable" |
-| **Explicit** | Specific wants, desires, intentions | "We need a more reliable system" |
+| **隐含需求** | 问题、困难、不满 | “我们的系统不可靠” |
+| **明确需求** | 具体的愿望、欲求、意图 | “我们需要更可靠的系统” |
 
-### Buying Signals - Critical Distinction
+### 购买信号：重要区别
 
-**In major sales, Implied Needs are NOT buying signals.** Inexperienced reps misread "we have a problem with X" as a buy signal. It isn't.
+**大额销售中，隐含需求不是购买信号。**新手容易把“我们在 X 上有问题”误当作购买信号，其实不是。
 
-The real buying signal in major sales is an Explicit Need:
-- "We're going to do something about X"
-- "We're looking for a system with these characteristics"
+大额销售的真实购买信号是明确需求：
+- “我们要对 X 采取行动。”
+- “我们正在找具备这些特征的系统。”
 
-### Research Statistics
+### 研究数据
 
-| Sales Type | Implied Needs Predict Success? | Explicit Needs Predict Success? |
+| 销售类型 | 隐含需求能预测成功吗？ | 明确需求能预测成功吗？ |
 |------------|-------------------------------|--------------------------------|
-| Small (646 deals) | YES (2x more in successful) | Less critical |
-| Large (1,406 deals, $27K avg) | NO (no correlation) | YES (2x more in successful) |
+| 小额，646 笔交易 | 能，成功会谈中出现量是两倍 | 没那么关键 |
+| 大额，1,406 笔交易，均值 27,000 美元 | 不能，没有相关性 | 能，成功会谈中出现量是两倍 |
 
-**The fundamental insight:** In major sales, success comes from CONVERTING Implied Needs into Explicit Needs using Implication and NPQs.
+**根本洞见：**大额销售的成功，来自用影响和需求收益提问，把隐含需求转化为明确需求。
 
 ---
 
-## FAB Redefined (Features / Advantages / Benefits)
+## 重新定义 FAB：特征、优势、利益
 
-Traditional FAB training is wrong for major sales.
+传统 FAB 培训不适合大额销售。
 
-| Behavior | Definition | Small Sales | Large Sales |
+| 行为 | 定义 | 小额销售 | 大额销售 |
 |----------|------------|-------------|-------------|
-| **Features** | Facts about the product | Slightly positive | Neutral or negative |
-| **Advantages** | Show how product can be used or help | Positive | **Slightly positive early, decreases over cycle** |
-| **Benefits** | Show how product meets an EXPLICIT NEED expressed by customer | Very positive | **Very positive** |
+| **特征** | 产品事实 | 略有正效应 | 中性或负效应 |
+| **优势** | 展示产品如何使用、如何帮助 | 正效应 | **早期略有正效应，随周期推进而减弱** |
+| **利益** | 展示产品如何满足客户已表达的明确需求 | 强正效应 | **强正效应** |
 
-### The Critical Definition Difference
+### 定义上的关键区别
 
-Most sales training calls "Type A Benefits" what Rackham calls **Advantages** (showing how product helps). True Benefits require the customer to FIRST express an Explicit Need.
+多数销售培训所谓的“A 类利益”，在 Rackham 这里是**优势**，即展示产品如何帮助。真正的利益，要求客户先表达明确需求。
 
-**Wrong (Advantage):** "Because our system uses high-reliability components, it solves your reliability problem."
-- Reliability problem is an Implied Need (not yet Explicit).
+**错误，属于优势：**“我们的系统使用高可靠性组件，因此能解决你的可靠性问题。”
+- 可靠性问题是隐含需求，还不是明确需求。
 
-**Right (Benefit):** Customer says: "We need a more reliable system." → Seller: "Our system is built specifically for reliability and would meet that need."
+**正确，属于利益：**客户说“我们需要更可靠的系统”之后，销售说：“我们的系统专门为可靠性打造，能够满足这个需求。”
 
 ---
 
-## Closing: The Counterintuitive Truth
+## 成交技巧：反直觉的真相
 
-| Study | Finding |
+| 研究 | 发现 |
 |-------|---------|
-| Office equipment (190 calls) | High-close: 37% success. Low-close: 70% success |
-| Photo store (cheap goods) | Closing increased success: 72% → 76% |
-| Photo store (expensive goods) | Closing DECREASED success: 42% → 33% |
-| Customer satisfaction (n=145) | Closed customers: 5.8/10. Non-closed: 7.7/10 |
-| Professional buyer survey (n=54) | 34 of 54 said closing makes them LESS likely to buy |
+| 办公设备，190 次会谈 | 高频使用成交技巧者成功率 37%，低频使用者 70% |
+| 摄影器材店，便宜商品 | 成交技巧使成功率从 72% 升至 76% |
+| 摄影器材店，昂贵商品 | 成交技巧使成功率从 42% 降至 33% |
+| 客户满意度，145 人 | 被使用成交技巧的客户为 5.8/10，未使用者 7.7/10 |
+| 专业采购者调查，54 人 | 54 人中有 34 人表示，成交技巧会使他们更不愿购买 |
 
-**Pressure rule:** Pressure helps with small decisions, hurts with large ones.
+**压力规则：**施压有助于小决策，却损害大决策。
 
-### The American Airlines Counter-Finding (Important Caveat)
+### 美国航空的相反发现（重要限制）
 
-In a 575-call study (small-sale environment), success rates by closes per call:
-- **0 closes: 22%** success
-- **1 close: 61%** success (peak)
-- **2 closes: ~40%**
-- **3+ closes: <20%**
+一项包含 575 次会谈的小额销售研究显示，每次会谈成交尝试次数对应的成功率：
+- **零次：22%。**
+- **一次：61%，最高点。**
+- **两次：约 40%。**
+- **三次以上：低于 20%。**
 
-**Zero closing also fails.** Even in major sales, you must propose SOME commitment. The right number is one - propose a clear, realistic next step.
+**完全不提出成交请求也会失败。**即便大额销售，也必须提出某种承诺。适宜次数是一次：提出一个清晰、现实的下一步。
 
-### What Top Performers Do Instead (Obtaining Commitment)
+### 优秀销售会怎么做：获得承诺
 
-1. **Concentrate Attention on Investigating** - "You don't require closing techniques with a customer who wants to buy."
-2. **Check That Key Concerns Are Covered** - "Before we go further, could I check whether there are any areas you'd like me to tell you more about?"
-3. **Summarize the Benefits** - in long calls customers lose track
-4. **Propose a Commitment (Don't Ask, Tell)** - "Then the most logical next step would be for you and your accountant to come and see one of these systems in operation."
+1. **集中精力探询：**“面对想买的客户，你不需要成交技巧。”
+2. **检查关键顾虑是否已覆盖：**“继续之前，我想确认一下，还有哪些方面你希望进一步了解？”
+3. **总结利益：**长会谈中客户容易忘记重点。
+4. **提出承诺建议，不要只笼统询问：**“那么，最合理的下一步，是请你和会计一起看看这样一套系统的实际运行。”
 
-**Two characteristics of good commitment proposals:**
-1. The commitment ADVANCES the sale
-2. It's the HIGHEST realistic commitment the customer can give
+**好的承诺建议有两个特点：**
+1. 能推进销售。
+2. 是客户现实中能够给出的最高程度承诺。
 
 ---
 
-## The 4 Possible Call Outcomes
+## 会谈的四种可能结果
 
-| Outcome | Definition | Success? |
+| 结果 | 定义 | 算成功吗？ |
 |---------|------------|----------|
-| **Order** | Firm commitment to buy | YES |
-| **Advance** | Specific action moves sale forward | YES |
-| **Continuation** | Sale continues, no specific action agreed | NO |
-| **No-sale** | Customer actively refuses | NO |
+| **订单** | 明确承诺购买 | 是 |
+| **推进** | 以具体行动推动交易前进 | 是 |
+| **延续** | 销售仍在继续，但没有约定具体行动 | 否 |
+| **不成交** | 客户主动拒绝 | 否 |
 
-**Examples of Advances:** demo attendance, intro to higher decision-maker, agreed trial, technical-team meeting, letter of intent.
+**推进示例：**参加演示、引荐更高层决策者、同意试用、与技术团队会面、签署意向书。
 
-**Examples of Continuations (DEADLY):** "Thank you, please visit again," "Fantastic presentation. Let's meet again sometime," "We liked it. We'll be in touch."
+**危险的延续示例：**“谢谢，下次再来。”“演示很棒，有空再见。”“我们挺喜欢，会联系你的。”
 
-**Decision rule:** Judge call success by customer ACTIONS, not WORDS. Compliments are not a sign of success.
+**判断规则：**用客户的行动判断会谈成败，不用言语。赞美不是成功信号。
 
-> "In most major-account sales forces, fewer than 10% of calls result in an Order or No-sale."
+> “多数大客户销售团队中，不到 10% 的会谈会直接产生订单或明确拒绝。”
 
 ---
 
-## Setting Call Objectives
+## 设置会谈目标
 
-| Bad (Continuation) | Good (Advance) |
+| 差目标，只有延续 | 好目标，形成推进 |
 |---------------------|----------------|
-| "Build the relationship" | "Get her to come to the demo" |
-| "Collect information" | "Get a meeting with his boss" |
-| "Make a good impression" | "Get an introduction to Planning" |
+| “建立关系” | “让她来参加演示” |
+| “收集信息” | “约到与他老板的会谈” |
+| “留下好印象” | “获得向规划部门的引荐” |
 
-> "If a call's worth making, it's got to do something - to push the sale forward."
+> “一次会谈如果值得进行，就必须产生作用，推动交易向前。”
 
 ---
 
-## Objections: Prevention vs Handling
+## 异议：预防与处理
 
-> "Objections, contrary to common belief, are more often CREATED BY THE SELLER than the customer."
+> “与普遍看法相反，异议更常由销售者而非客户制造。”
 
-### The Linda Marsh Correlation
+### Linda Marsh 发现的相关性
 
-| Seller Behavior | Most Probable Customer Response |
+| 销售者行为 | 最可能的客户回应 |
 |-----------------|--------------------------------|
-| Features | Price concerns |
-| Advantages | Objections |
-| Benefits | Approval |
+| 特征 | 价格顾虑 |
+| 优势 | 异议 |
+| 利益 | 认可 |
 
-**Pattern:** Problem Question → Implied Need → Advantage → Objection.
+**模式：**问题提问 → 隐含需求 → 优势 → 异议。
 
-When you offer a solution before the customer feels the problem deeply, they push back. The cost feels too high relative to the developed need.
+客户尚未深刻感受到问题，你就给方案，他们就会反对。与尚未充分发展的需求相比，成本显得过高。
 
-### The Bold Experiment
+### 大胆的实验
 
-Selected 8 salespeople with 10x average objection rates. Trained them in objection PREVENTION. Taught SPIN questioning to develop Explicit Needs and offer Benefits.
-**Result: 55% reduction in objections.**
+选择八名异议发生率达平均值十倍的销售员，培训他们预防异议：用 SPIN 提问发展明确需求，再陈述利益。
+**结果：异议减少 55%。**
 
-### Two Sure Signs You're Causing Objections
+### 两个明确迹象表明异议由你造成
 
-1. **Objections early in the call** = talking solutions before developing needs
-2. **Objections about value** ("It's too expensive") = need not built strongly enough
+1. **会谈初期就有异议：**需求尚未发展，就开始谈解决方案。
+2. **关于价值的异议，如“太贵了”：**需求没有建立得足够强。
 
-**Cure:** Cut Features/Advantages. Add Problem, Implication, NPQ to build value.
-
----
-
-## Opening the Call (Preliminaries)
-
-### What Doesn't Work in Major Sales
-
-1. **Relating to personal interests** (golf trophy, family photo) - senior buyers don't care about your golf game
-2. **Opening benefit statements** ("Let me show you how to save thousands...") - traps you into early product details
-
-### What Works - Three Things to Establish
-
-1. Who you are
-2. Why you're there (NOT product details)
-3. Your right to ask questions
-
-### Three Rules
-
-1. **Get down to business quickly** - ≤20% of call time on Preliminaries
-2. **Don't talk about solutions too soon** - no products in the first half
-3. **Concentrate on questions, not openings** - plan questions, not opening lines
+**补救：**减少特征和优势介绍，增加问题、影响、需求收益提问，建立价值。
 
 ---
 
-## How to Implement: 4 Golden Rules of Skill Learning
+## 开场阶段
 
-### Rule 1: Practice Only ONE Behavior at a Time
+### 大额销售中什么无效
 
-> "Work on one thing at a time, and get it right." - Tom Landry
+1. **借私人兴趣拉关系：**例如高尔夫奖杯、家庭照片。高层买家不关心你的球技。
+2. **以利益陈述开场：**“让我告诉你怎样省下几千……”这会使你过早陷入产品细节。
 
-### Rule 2: Try the New Behavior at Least 3 Times
+### 什么有效：确立三件事
 
-200 golfers studied: 157 of 200 said they scored WORSE after their first lesson. The skill needs breaking in.
+1. 你是谁。
+2. 为什么来，不是介绍产品细节。
+3. 你为什么有资格提问。
 
-### Rule 3: Quantity Before Quality
+### 三条规则
 
-Don't worry about asking the perfect question. Ask LOTS of questions. Quality follows quantity.
+1. **尽快进入正题：**开场不超过会谈时间的 20%。
+2. **不要过早谈方案：**前半场不谈产品。
+3. **关注问题，而非开场白：**准备提问，不要只准备开场台词。
 
-### Rule 4: Practice in SAFE Situations
+---
 
-> "New skills go in SMALL accounts and well-known customers. Never in important sales."
+## 如何实施：技能学习的四条黄金规则
 
-### Implementation Sequence
+### 规则一：一次只练一种行为
 
-| Phase | Focus |
+> “一次专注一件事，并把它做好。”——Tom Landry
+
+### 规则二：新行为至少试三次
+
+对 200 名高尔夫球手的研究发现，157 人说第一节课后成绩更差。技能需要磨合。
+
+### 规则三：先数量，后质量
+
+别担心问题不够完美，先多问，质量会随着数量提高。
+
+### 规则四：在安全场景中练习
+
+> “新技能应在小客户和熟悉客户身上练，绝不要在重要交易中初试。”
+
+### 实施顺序
+
+| 阶段 | 重点 |
 |-------|-------|
-| 1 | Just ask MORE questions (mostly Situation, that's fine) |
-| 2 | Plan and ask Problem Questions (aim for 6+ per call) |
-| 3 | Move to Implication Questions (after PQs feel comfortable) |
-| 4 | Add Need-payoff Questions last |
+| 1 | 先多提问，多数是现状问题也没关系 |
+| 2 | 准备并提出问题提问，每次会谈以六个以上为目标 |
+| 3 | 问题提问熟练后，转向影响提问 |
+| 4 | 最后加入需求收益提问 |
 
 ---
 
-## Decision Trees
+## 决策树
 
-### "Is this a major sale?"
+### “这是大额销售吗？”
 
-```
-Will it complete in a single call?
-├─ YES → Small sale. Use traditional techniques (close, features, etc.)
-└─ NO  → Will customer need to justify to others?
-        ├─ YES → Major sale. Use SPIN.
-        └─ NO  → Is the spend significant ($) for the buyer?
-                ├─ YES → Use SPIN-lite (PQ + needs)
-                └─ NO  → Small sale techniques fine
-```
-
-### "Why isn't this deal closing?"
-
-```
-Are you getting lots of objections?
-├─ YES → Likely cause: too many Advantages too early
-│        Cut Features/Advantages, add PQ/IQ/NPQ
-└─ NO  → Are calls ending in Continuations (no specific next step)?
-        ├─ YES → Call objectives are weak. Set Advance objectives.
-        └─ NO  → Is customer not feeling enough urgency?
-                └─ Add Implication Questions to develop the problem
+```text
+能在一次会谈中完成吗？
+├─ 能 → 小额销售，可用传统成交技巧、功能介绍等。
+└─ 不能 → 客户需要向他人解释决策吗？
+        ├─ 需要 → 大额销售，用 SPIN。
+        └─ 不需要 → 对买家而言，这笔支出显著吗？
+                ├─ 是 → 用简化 SPIN：问题提问 + 需求。
+                └─ 否 → 小额销售技巧可用。
 ```
 
-### "When to use which question type?"
+### “为什么这单还没成交？”
 
+```text
+异议很多吗？
+├─ 是 → 可能原因：太早讲了太多优势。
+│        减少特征与优势，增加问题／影响／需求收益提问。
+└─ 否 → 会谈是否总以没有具体下一步的“延续”结束？
+        ├─ 是 → 目标太弱，应设置推进目标。
+        └─ 否 → 客户是否缺乏紧迫感？
+                └─ 增加影响提问，充分发展问题。
 ```
-Just met customer / new to account?
-├─ Light on Situation Questions (do homework first)
-└─ Started conversation?
-   ├─ Customer aware of problems → Problem Questions
-   ├─ Customer dismissive of severity → Implication Questions
-   └─ Customer excited about solving → Need-payoff Questions
+
+### “何时用哪种问题？”
+
+```text
+刚认识客户，或刚接手这个客户？
+├─ 少问现状，先做功课。
+└─ 已开始对话？
+   ├─ 客户意识到问题 → 问题提问。
+   ├─ 客户轻视问题严重性 → 影响提问。
+   └─ 客户热切希望解决 → 需求收益提问。
 ```
 
 ---
 
-## Critical Numbers & Rules of Thumb
+## 关键数字与经验规则
 
-| Number | Rule |
+| 数字 | 规则 |
 |--------|------|
-| **27%** | Sales lift gap (Motorola, dollar value) - see [cases.md](cases.md#motorola-canada-study-1981---the-cleanest-validation) for full breakdown and caveats |
-| **63%** | New-business order increase from SPIN training (Motorola) - see [cases.md](cases.md#motorola-canada-study-1981---the-cleanest-validation) |
-| **6+** | Problem Questions per call - quantity target |
-| **20%** | Maximum % of call time spent on Preliminaries |
-| **3** | Minimum times to try a new behavior before judging |
-| **<10%** | Major-account calls that result in Order or No-sale (rest = Advances/Continuations) |
-| **7.8** | Average calls per major-sale cycle |
-| **55%** | Reduction in objections from objection-prevention training |
-| **1 in 20** | Average questions that are Implication Questions in typical sales calls |
-| **10x** | Top performers ask this many more NPQs (rhetorical, no published baseline) |
+| **27%** | Motorola 销售额提升差距；完整分解与限制见 [cases.md](cases.md#motorola-canada-study-1981---the-cleanest-validation) |
+| **63%** | Motorola 的 SPIN 培训带来新业务订单增长；见 [cases.md](cases.md#motorola-canada-study-1981---the-cleanest-validation) |
+| **6 个以上** | 每次会谈的问题提问数量目标 |
+| **20%** | 开场占会谈时间的上限 |
+| **3 次** | 判断新行为前的最少尝试次数 |
+| **低于 10%** | 大客户会谈中直接产生订单或明确拒绝的比例，其余是推进或延续 |
+| **7.8 次** | 大额销售周期的平均会谈次数 |
+| **55%** | 异议预防培训带来的异议减少幅度 |
+| **二十分之一** | 普通销售会谈中，影响提问占全部问题的平均比例 |
+| **10 倍** | 优秀销售多问需求收益问题的说法，属修辞性表达，无公开基线 |
 
 ---
 
-## Quick Reference Checklist
+## 快速检查表
 
-**Before every major-sales call:**
-- [ ] Researched enough to skip basic Situation Questions
-- [ ] Planned 3+ Problem Questions
-- [ ] Planned Implication Questions for each problem
-- [ ] Planned a few Need-payoff Questions
-- [ ] Set OBJECTIVE that requires customer action (Advance, not Continuation)
-- [ ] Planned how to summarize and propose commitment
+**每次大额销售会谈之前：**
+- [ ] 调研充分，可以跳过基础现状问题。
+- [ ] 准备至少三个问题提问。
+- [ ] 为每个问题准备影响提问。
+- [ ] 准备几个需求收益问题。
+- [ ] 设置需要客户行动的目标，即推进而非延续。
+- [ ] 准备如何总结、如何提出承诺建议。
 
-**During the call:**
-- [ ] Preliminaries <20% of time
-- [ ] Asking questions, not telling
-- [ ] Building need with Implications before offering solutions
-- [ ] Converting Implied Needs into Explicit Needs
-- [ ] Asking NPQs to make customer articulate value
+**会谈中：**
+- [ ] 开场少于 20% 的时间。
+- [ ] 以提问为主，而非单向讲述。
+- [ ] 给方案前，先用影响提问建立需求。
+- [ ] 将隐含需求转为明确需求。
+- [ ] 用需求收益提问让客户亲口表达价值。
 
-**After the call:**
-- [ ] Got an Order or Advance? (or just a Continuation?)
-- [ ] Which specific question had most impact?
-- [ ] What would I do differently next time?
-
----
-
-## The Big Idea
-
-> "Success rests on minute behavioral details. The hundreds of minute behavioral details in a call decide whether it succeeds."
-
-The win isn't the close. It isn't the personality. It isn't the strategy. **It's the questions you ask.**
+**会谈后：**
+- [ ] 获得订单或推进了吗，还是只有延续？
+- [ ] 哪个具体问题影响最大？
+- [ ] 下次会改变什么？
 
 ---
 
-## Supporting Files
+## 核心思想
 
-- **[frameworks.md](frameworks.md)** - Full 3-stage need development model, value equation, FAB extended, BP buyer anecdote, "plan-do-review" loop, common mistakes (18-item list)
-- **[cases.md](cases.md)** - Easiflo $120K canonical chained-Implication transcript; British Petroleum yacht photo; Tom Landry skill-learning case; Quincy's Rule origin; failed validation attempts (intellectual honesty)
-- **[examples.md](examples.md)** - Question-planning templates; Implication Question generator; NPQ stock library; pre-call planning sheet; post-call review template
-- **[integration.md](integration.md)** - Adaptation for B2C/SaaS/cultural contexts (Fuji Xerox 74% Japan study), competing methodologies (Challenger/MEDDPICC/Sandler/Gap Selling), conflicts with Mom Test/$100M Offers/Crossing the Chasm, evidence and limitations
+> “成功取决于细微行为。一场会谈中的数百个细微行为，决定其成败。”
+
+胜负不在成交技巧、性格或策略，**而在你问的问题。**
 
 ---
 
-## When SPIN Fails (Don't Use Here)
+## 配套文件
 
-| Context | Why SPIN Fails | Use Instead |
+- **[frameworks.md](frameworks.md)：**完整的三阶段需求发展模型、价值方程、FAB 扩展、BP 采购者轶事、“计划—执行—复盘”循环、十八项常见错误。
+- **[cases.md](cases.md)：**Easiflo 120,000 美元交易的经典连续影响提问对话；英国石油游艇照片；Tom Landry 技能学习案例；Quincy 法则起源；失败的验证尝试，体现研究坦诚。
+- **[examples.md](examples.md)：**提问规划模板、影响问题生成器、需求收益问题库、会前计划表、会后复盘模板。
+- **[integration.md](integration.md)：**B2C／SaaS／文化适配，包括 Fuji Xerox 日本研究的 74%；Challenger、MEDDPICC、Sandler、Gap Selling 等竞争方法；与 Mom Test、$100M Offers、Crossing the Chasm 的冲突；证据与局限。
+
+---
+
+## SPIN 何时失效：不要在这些场景照搬
+
+| 情境 | 为什么 SPIN 失效 | 替代方法 |
 |---------|----------------|-------------|
-| **Cold call (<2 min)** | No time for chained questions | Hook + value prop + meeting ask |
-| **RFP procurement** | Buyer wants price, not problems | Direct response + differentiation |
-| **PLG / freemium SaaS** | User pre-qualified themselves | Activation + expansion playbook |
-| **Inbound MQL (read 4 assets)** | Already in solution mode | Skip Investigating, fit/Benefit |
-| **Committee buying** | Single-call SPIN insufficient | MEDDPICC + Champion enablement |
-| **Founder selling at $0-$1M** | Optimization premature | Mom Test + offer iteration |
-| **Pure transactional <$50** | Small sales techniques work | Closing/Features fine |
-| **Highly technical to expert buyer** | "Just show me the product" | Lead with Features (the "Features appetite") |
+| **少于两分钟的陌生电话** | 没时间连续提问 | 开场钩子 + 价值主张 + 约会请求 |
+| **招标采购 RFP** | 买家要价格，不要讨论问题 | 直接回应 + 差异化 |
+| **产品驱动增长／免费增值 SaaS** | 用户已自行筛选 | 激活 + 扩展方法 |
+| **已读四份资料的入站营销合格线索** | 已在方案模式 | 跳过探询，讨论匹配与利益 |
+| **委员会采购** | 单次 SPIN 不够 | MEDDPICC + 支持内部推动者 |
+| **收入 0—100 万美元阶段的创始人销售** | 过早优化 | Mom Test + 报价迭代 |
+| **低于 50 美元的纯交易型销售** | 小额销售技巧有效 | 成交技巧／功能介绍即可 |
+| **向专家买家卖高技术产品** | “直接给我看产品” | 先谈特征，满足其“特征胃口” |
 
-Full table and modern (post-1988) adaptations: see [integration.md](integration.md).
+完整表格与 1988 年之后的现代适配见 [integration.md](integration.md)。
 
 ---
 
-## Note on Evidence
+## 证据说明
 
-SPIN's empirical base is largely Huthwaite-internal: ~35,000 calls of broader research across 27 countries, but only n=42 (Motorola Canada) and n=55 (Multinational Business-Machines) are clean SPIN-specific validation studies. Both showed real productivity gains. **No independent peer-reviewed replication.** Treat SPIN as a strong prior for major sales, not gospel. Full evidence detail and Rackham's 6 failed validation attempts: see [integration.md](integration.md#evidence-and-limitations). For the Motorola validation study and its caveats, see [cases.md](cases.md#motorola-canada-study-1981---the-cleanest-validation).
+SPIN 的实证基础主要来自 Huthwaite 内部：广泛研究覆盖 27 国、约 35,000 次会谈，但真正针对 SPIN、较干净的验证研究只有 Motorola 加拿大的 42 人和跨国办公设备公司的 55 人。两者都显示真实的生产率提升。**没有独立、经过同行评审的重复验证。**把 SPIN 当作大额销售中有力的初始判断，不要奉为绝对真理。完整证据及 Rackham 六次失败的验证尝试见 [integration.md](integration.md#evidence-and-limitations)；Motorola 验证研究及其限制见 [cases.md](cases.md#motorola-canada-study-1981---the-cleanest-validation)。

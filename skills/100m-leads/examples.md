@@ -1,393 +1,434 @@
-# 100m-leads - Templates and Examples
+> 中文译文｜[英文对照](examples.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/100m-leads/examples.md)。原项目整理：AgentSeal；原书：Alex Hormozi《$100M Leads》；AI 辅助翻译。
 
-## Email Templates
+<a id="100m-leads---templates-and-examples"></a>
+# 100m-leads — 模板与示例
 
-### Cold Email (Outreach)
+<a id="email-templates"></a>
+## 邮件模板
 
-```
-Subject: Quick question about [their specific thing]
-
-Hey [Name],
-
-[1 sentence showing you researched them - reference 
-specific recent post, news, achievement, etc.]
-
-I help [their type of company] with [specific outcome].
-
-[One sentence of credibility - client name, result, 
-or specific track record]
-
-Would you be open to a quick chat this week?
-
-[Your name]
-```
-
-### Cold Email Bump (Day 3)
+<a id="cold-email-outreach"></a>
+### 陌生开发邮件
 
 ```
-Subject: Re: [original subject]
+主题：想请教一个关于[对方具体业务]的小问题
 
-Hey [Name],
+你好，[姓名]：
 
-Wanted to bump this in case it got buried.
+[用一句话表明你了解过对方：提及近期某条具体动态、新闻或成绩等]
 
-Quick question - is [their problem] something you're 
-actively working on, or is it on the back burner?
+我帮助[对方这类公司]实现[具体结果]。
 
-Either answer is fine.
+[用一句话提供可信度：客户名称、成果或具体过往记录]
 
-[Your name]
+你这周方便简单聊一下吗？
+
+[你的姓名]
 ```
 
-### Cold Email New Angle (Day 7)
+<a id="cold-email-bump-day-3"></a>
+### 陌生开发提醒邮件（第3天）
 
 ```
-Subject: [Different specific angle]
+主题：回复：[原主题]
 
-Hey [Name],
+你好，[姓名]：
 
-Different angle: I just published [specific resource 
-relevant to them - not a pitch]. Thought of you 
-specifically because [reason].
+担心上一封被其他邮件盖住，再提醒一下。
 
-Link: [resource link]
+想简单问问：[对方的问题]是你们正在处理的事，还是暂时放在后面？
 
-Worth a 15-min chat to talk through it?
+两种情况都没关系。
 
-[Your name]
+[你的姓名]
 ```
 
-### Cold Email Break-Up (Day 14)
+<a id="cold-email-new-angle-day-7"></a>
+### 陌生开发新角度邮件（第7天）
 
 ```
-Subject: Closing the loop
+主题：[另一个具体角度]
 
-Hey [Name],
+你好，[姓名]：
 
-I'm closing my followups on this thread - figured 
-you're slammed and this isn't the right moment.
+换个角度：我刚发布了[与对方相关的具体资料，不是推销]。
+因为[原因]，特别想到了你。
 
-If [problem] becomes a priority, my calendar is here: [link]
+链接：[资料链接]
 
-Best of luck either way.
+要不要花15分钟聊聊其中的内容？
 
-[Your name]
+[你的姓名]
 ```
 
-The break-up email often outperforms the initial outreach for response rate, because the social pressure flips.
-
-## Warm Outreach Templates
-
-### Reactivation (lost touch contact)
+<a id="cold-email-break-up-day-14"></a>
+### 陌生开发结束跟进邮件（第14天）
 
 ```
-Hey [Name],
+主题：这次先跟进到这里
 
-Random message but you popped into my head this morning. 
-How are things at [their company / project]?
+你好，[姓名]：
 
-[Optional: specific reference to last interaction]
+这封之后，我就先不继续跟进了。
+猜你最近很忙，现在可能不是合适的时间。
+
+如果[问题]之后成为重点，可以在这里约时间：[链接]
+
+无论如何，祝一切顺利。
+
+[你的姓名]
 ```
 
-Don't pitch in this message. The point is to re-warm.
+结束跟进邮件的回复率常高于首次触达，因为互动中的社会压力发生了变化。
 
-### After Reconnect, Soft Ask
+<a id="warm-outreach-templates"></a>
+## 熟人触达模板
 
-```
-Btw - I'm working on [specific thing I do]. Don't 
-worry if it's not relevant, but if you know anyone 
-struggling with [specific problem], would love an intro.
-```
-
-### Direct Ask (ACA Format)
+<a id="reactivation-lost-touch-contact"></a>
+### 重新联系（失联一段时间的联系人）
 
 ```
-Hey [Name],
+你好，[姓名]：
 
-Saw your post about [thing] - really liked your point 
-about [specific detail]. (ACKNOWLEDGE)
+有点突然，不过今天早上想起了你。
+[对方公司或项目]最近怎么样？
 
-You've built one of the best [category] businesses 
-I've watched. (COMPLIMENT)
-
-Quick question - is [specific problem your product solves] 
-something you've thought about for [their company]? Happy 
-to share what I've been seeing across other [industry] 
-folks. (ASK)
+[可选：提及上次互动中的一件具体事情]
 ```
 
-## Content Templates
+这条消息里不要推销，目的是恢复联系。
 
-### Thread Hook Templates
+<a id="after-reconnect-soft-ask"></a>
+### 恢复联系后，轻轻提出请求
 
-| Hook Type | Template |
+```
+顺便说一下，我最近在做[具体事情]。
+如果不相关也没关系；不过，如果你认识正在为[具体问题]发愁的人，
+很希望你能帮忙介绍一下。
+```
+
+<a id="direct-ask-aca-format"></a>
+### 直接请求（ACA 格式）
+
+```
+你好，[姓名]：
+
+看到你关于[事情]的动态，很喜欢你提到的[具体细节]。
+（关注对方）
+
+在我关注的[品类]企业里，你做得非常出色。
+（真诚赞赏）
+
+想请教一下：[产品解决的具体问题]是不是你为[对方公司]考虑过的事？
+我很愿意分享最近在其他[行业]同行那里看到的情况。
+（提出请求）
+```
+
+<a id="content-templates"></a>
+## 内容模板
+
+<a id="thread-hook-templates"></a>
+### 串文开场模板
+
+| 开场类型 | 模板 |
 |-----------|----------|
-| Counterintuitive | "Most [audience] do X. They're wrong. Here's why:" |
-| Personal cost | "I spent $X learning this. Here's what I'd skip:" |
-| List | "7 [things] every [audience] should know:" |
-| Story | "Last week, [thing happened]. Here's what I learned:" |
-| Mistake | "The #1 mistake I see in [industry]:" |
-| Contrast | "Bad [audience] do X. Great [audience] do Y." |
+| 反直觉 | “大多数[人群]都会做 X。他们错了，原因是……” |
+| 亲身付出的代价 | “我花了 X 美元学会这些。以下弯路可以跳过……” |
+| 清单 | “每个[人群]都该知道的7件事……” |
+| 故事 | “上周发生了[事情]。我从中学到……” |
+| 错误 | “我在[行业]看到的头号错误……” |
+| 对比 | “做得差的[人群]做 X，做得好的做 Y。” |
 
-### Long Post Structure
-
-```
-[Hook - first line, 1-2 sentences, must stop scroll]
-
-[Promise - what reader will learn]
-
-[Context - why this matters]
-
-[Main content - bullets, list, or numbered steps]
-
-[Specific example or case]
-
-[Takeaway / CTA]
-```
-
-### LinkedIn Story Post
+<a id="long-post-structure"></a>
+### 长文结构
 
 ```
-[Specific moment that triggered the lesson]
+[钩子：开头1—2句，必须让人停下来]
 
-[What happened]
+[承诺：读者会学到什么]
 
-[What I thought was the problem]
+[背景：为什么重要]
 
-[What turned out to be the real problem]
+[正文：要点、清单或编号步骤]
 
-[The lesson]
+[具体例子或案例]
 
-[Question for engagement]
+[收获或行动号召]
 ```
 
-## Paid Ad Scripts
-
-### Short-Form Video Ad (Hook-Value-CTA)
-
-```
-HOOK (0-3 sec):
-"If you're a [specific avatar], stop scrolling."
-or
-"[Counterintuitive claim that targets your audience]"
-
-VALUE (3-20 sec):
-[2-3 specific points, told fast]
-[Show the result, not the process]
-[Address one objection]
-
-CTA (last 3-5 sec):
-"[Specific next step] - link in bio."
-or
-"[Specific resource] - tap learn more."
-```
-
-### Long-Form Direct Response Script
+<a id="linkedin-story-post"></a>
+### LinkedIn 故事帖
 
 ```
-PROBLEM AGITATION:
-[Open with the specific painful situation]
-[2-3 sentences of "this is awful when..."]
+[触发这次领悟的具体时刻]
 
-CONSEQUENCE:
-[What happens if they don't solve it]
+[发生了什么]
 
-INTRODUCE SOLUTION:
-[Brief - "Here's what I do/built"]
+[我起初以为问题是什么]
 
-PROOF:
-[Customer result]
-[Customer result]
-[Customer result]
+[后来发现真正的问题是什么]
 
-REMOVE OBJECTIONS:
-[Common objection 1 → addressed]
-[Common objection 2 → addressed]
+[学到的教训]
 
-OFFER:
-[What they get specifically]
-
-GUARANTEE:
-[Risk reversal]
-
-CTA:
-[One specific next step]
+[邀请互动的问题]
 ```
 
-## Lead Magnet Templates
+<a id="paid-ad-scripts"></a>
+## 付费广告脚本
 
-### "Reveal Problems" Template
-
-```
-Title: The [Specific Audience] [Specific Outcome] Diagnostic
-
-Format: 5-minute self-assessment
-
-Output: Personalized score + top 3 issues identified + 
-recommended next step
-```
-
-Examples that fit this template:
-- "The 5-Minute Sales Pipeline Diagnostic"
-- "The Founder Burnout Score"
-- "The B2B Conversion Audit"
-
-### "Sample/Trial" Template
+<a id="short-form-video-ad-hook-value-cta"></a>
+### 短视频广告（吸引—价值—行动号召）
 
 ```
-Format: 14-day full access OR 3 free uses OR 1 unit of value
+吸引（0—3秒）：
+“如果你是[具体目标人群]，先别划走。”
+或
+“[针对目标人群的反直觉主张]”
 
-Onboarding: Day 1 quick win → Day 3 deeper feature → 
-Day 7 ROI moment → Day 14 conversion ask
+价值（3—20秒）：
+[快速讲出2—3个具体要点]
+[展示结果，而非过程]
+[回应一个顾虑]
 
-Conversion mechanism: When they hit usage limit OR 
-trial ends, show specific upgrade offer
+行动号召（最后3—5秒）：
+“[具体下一步]，链接在简介里。”
+或
+“[具体资料]，点击了解更多。”
 ```
 
-### "One Step of Multi-Step" Template
+<a id="long-form-direct-response-script"></a>
+### 长版直接转化脚本
 
 ```
-Format: A specific deliverable that solves one piece of 
-a larger problem your offer addresses
+强化问题感受：
+[用具体的痛苦场景开头]
+[用2—3句描述“当……时，真的很难受”]
 
-Example structure:
-- Problem: [Big painful thing]
-- Multi-step solution: [Steps 1-5]
-- Lead magnet: Provides Step 1 fully done
-- Reveals: Steps 2-5 still need to be done
-- Core offer: Provides Steps 2-5 (or 1-5)
+后果：
+[如果不解决，会怎样]
+
+引入方案：
+[简短说明：“这是我在做或开发的东西”]
+
+证据：
+[客户成果]
+[客户成果]
+[客户成果]
+
+消除顾虑：
+[常见顾虑1 → 回应]
+[常见顾虑2 → 回应]
+
+方案：
+[具体能得到什么]
+
+保证：
+[如何降低客户风险]
+
+行动号召：
+[一个具体的下一步]
 ```
 
-Examples:
-- Free competitor analysis (reveals you need positioning work)
-- Free sales script (reveals you need full sales training)
-- Free first month (reveals you need year-long engagement)
+<a id="lead-magnet-templates"></a>
+## 引流品模板
 
-## Checklists
+<a id="reveal-problems-template"></a>
+### “揭示问题”模板
 
-### Pre-Spending Checklist
+```
+标题：[特定人群]的[特定结果]诊断
 
-Before any paid acquisition spend:
+形式：5分钟自测
 
-- [ ] Can articulate WHO you help (specific avatar)
-- [ ] Can articulate WHAT problem you solve
-- [ ] Have gotten 10 customers manually
-- [ ] Have proof / testimonials
-- [ ] Offer is clear and compelling
-- [ ] Conversion tracking is set up
-- [ ] Unit economics support paid (LTGP:CAC math)
+输出：个性化评分＋最重要的3个问题＋建议下一步
+```
 
-### Channel Mastery Checklist
+符合这个模板的例子：
 
-See the full checklist in **[frameworks.md → Channel Mastery Checklist](frameworks.md)**.
+- “5分钟销售管道诊断”。
+- “创始人倦怠评分”。
+- “企业客户转化审计”。
 
-### Cold Outreach Quality Checklist
+<a id="sampletrial-template"></a>
+### “样品／试用”模板
 
-Per-message:
-- [ ] Used their name correctly
-- [ ] Referenced something specific
-- [ ] Made it about them, not you
-- [ ] Clear, easy ask
-- [ ] No more than 5 sentences
-- [ ] Subject line is curiosity-inducing
+```
+形式：14天完整访问，或3次免费使用，或1个单位的价值
 
-Per-campaign:
-- [ ] List is 1000+ targeted names
-- [ ] Multi-touch sequence (4+ touches)
-- [ ] Multi-channel where possible
-- [ ] Tracking opens / clicks / replies
-- [ ] Iterating message based on data
+引导：第1天快速见效 → 第3天体验深入功能 →
+第7天看到投入回报 → 第14天提出购买请求
 
-### Content Posting Checklist
+转化机制：达到使用上限或试用结束时，展示具体升级方案
+```
 
-Per post:
-- [ ] Strong first line (hook)
-- [ ] Specific not generic
-- [ ] One main idea
-- [ ] Clear takeaway
-- [ ] Engagement question OR clear CTA
+<a id="one-step-of-multi-step-template"></a>
+### “多步骤中的一步”模板
 
-Per week:
-- [ ] Met posting frequency target
-- [ ] Mix of content types (how-to / story / contrarian / etc.)
-- [ ] Engaged with comments within 1 hour
-- [ ] Tracked which posts drove DMs/leads
+```
+形式：提供一份具体成果，解决完整方案所处理的大问题中的一部分
 
-### Paid Ads Checklist
+结构示例：
+- 问题：[重要且痛苦的问题]
+- 多步骤解决方案：[第1—5步]
+- 引流品：完整交付第1步
+- 揭示：第2—5步仍需完成
+- 核心方案：提供第2—5步，或第1—5步
+```
 
-- [ ] Tracking pixel installed and tested
-- [ ] Conversion events configured
-- [ ] Audience is well-defined
-- [ ] Creative passes "first 3 seconds" test
-- [ ] CTA is unambiguous
-- [ ] Landing page matches ad promise
-- [ ] Spend ramps slowly (not 10x overnight)
-- [ ] Multiple creative variants in rotation
+示例：
 
-## Worked LTGP:CAC Example
+- 免费竞品分析，揭示需要做定位工作。
+- 免费销售脚本，揭示需要完整销售培训。
+- 免费第一个月，揭示需要全年持续合作。
 
-**Business:** Online coaching program at $500/month.
+<a id="checklists"></a>
+## 检查清单
 
-**Step 1 - Calculate LTGP**
+<a id="pre-spending-checklist"></a>
+### 投入资金前的清单
 
-| Input | Value |
+任何付费获客支出之前：
+
+- [ ] 能明确说出帮助谁，目标人群具体。
+- [ ] 能明确说出解决什么问题。
+- [ ] 已通过人工方式获得10位客户。
+- [ ] 有证据或客户证言。
+- [ ] 方案清晰、有吸引力。
+- [ ] 已建立转化追踪。
+- [ ] 单位经济模型支持付费获客，LTGP:CAC 算得过来。
+
+<a id="channel-mastery-checklist"></a>
+### 渠道掌握程度检查清单
+
+完整清单见 **[框架文档：渠道掌握程度检查清单](frameworks.md#channel-mastery-checklist)**。
+
+<a id="cold-outreach-quality-checklist"></a>
+### 陌生开发质量清单
+
+每条消息：
+
+- [ ] 正确使用对方姓名。
+- [ ] 提及具体事情。
+- [ ] 围绕对方，而非只讲自己。
+- [ ] 请求明确、容易回应。
+- [ ] 不超过5句话。
+- [ ] 主题能引起好奇。
+
+每次活动：
+
+- [ ] 名单包含1,000名以上目标联系人。
+- [ ] 至少4次触达的序列。
+- [ ] 条件允许时使用多个渠道。
+- [ ] 追踪打开、点击、回复。
+- [ ] 根据数据调整消息。
+
+<a id="content-posting-checklist"></a>
+### 内容发布清单
+
+每条内容：
+
+- [ ] 第一句有吸引力。
+- [ ] 内容具体，不泛泛而谈。
+- [ ] 只有一个主要观点。
+- [ ] 有明确收获。
+- [ ] 有互动问题或清晰行动号召。
+
+每周：
+
+- [ ] 达到目标发布频率。
+- [ ] 混合教程、故事、反常识等内容类型。
+- [ ] 一小时内回应评论。
+- [ ] 跟踪哪些内容带来私信或线索。
+
+<a id="paid-ads-checklist"></a>
+### 付费广告清单
+
+- [ ] 已安装并测试追踪像素。
+- [ ] 已配置转化事件。
+- [ ] 受众定义明确。
+- [ ] 素材通过“前3秒”测试。
+- [ ] 行动号召没有歧义。
+- [ ] 落地页兑现广告承诺。
+- [ ] 逐步增加预算，不一夜提高10倍。
+- [ ] 轮换使用多个素材变体。
+
+<a id="worked-ltgpcac-example"></a>
+## LTGP:CAC 完整算例
+
+**业务：** 每月500美元的在线教练项目。
+
+**第1步：计算终身毛利 LTGP。**
+
+| 输入 | 数值 |
 |-------|-------|
-| Monthly price | $500 |
-| Avg customer lifetime | 8 months |
-| Gross margin | 70% |
-| **LTGP** | **$500 × 8 × 0.70 = $2,800** |
+| 月费 | 500美元 |
+| 平均客户持续时间 | 8个月 |
+| 毛利率 | 70% |
+| **LTGP** | **500美元 × 8 × 0.70＝2,800美元** |
 
-**Step 2 - Set max CAC**
+**第2步：设定最高获客成本 CAC。**
 
-Healthy 3:1 ratio means CAC must stay below LTGP ÷ 3:
+若要达到健康的3:1比率，CAC 不得高于 LTGP÷3：
 
-$2,800 ÷ 3 = **~$933 max CAC**
+2,800美元÷3＝**最高约933美元**。
 
-**Step 3 - Evaluate channels**
+**第3步：评估渠道。**
 
-| Channel | Cost per lead | Lead-to-customer rate | CAC | Verdict |
+| 渠道 | 单条线索成本 | 线索转客户比例 | CAC | 判断 |
 |---------|--------------|----------------------|-----|---------|
-| Cold email | $50/lead | 5% | $50 ÷ 0.05 = **$1,000** | Too expensive (above $933 ceiling) |
-| Content + warm outreach | $20/lead | 8% | $20 ÷ 0.08 = **$250** | Healthy (3.5x better than ceiling) |
+| 陌生邮件 | 50美元 | 5% | 50美元÷0.05＝**1,000美元** | 太贵，超过933美元上限 |
+| 内容＋熟人触达 | 20美元 | 8% | 20美元÷0.08＝**250美元** | 健康，原文称“比上限好3.5倍” |
 
-The cold email channel isn't broken - the math just says it can't profitably acquire this customer at current conversion. Fix options: improve the cold email conversion rate above ~5.4%, reduce cost per lead below ~$46, or increase LTGP (higher price, longer retention, better margin).
+> 译注：按表内数字，933÷250约为3.73；原文写3.5倍，这里保留原说法并标出差异。
 
-**Fill-in version**
+陌生邮件渠道并非失效，而是按当前转化率无法达到目标获客回报。可选修正：把邮件转化率提高到约5.4%以上，把单条线索成本降到约46美元以下，或通过提价、延长留存、提高毛利增加 LTGP。
+
+**填空版：**
 
 ```
-Monthly price: $________
-Avg customer lifetime: ________ months
-Gross margin: ________%
+月费：________美元
+平均客户持续时间：________个月
+毛利率：________%
 
-LTGP = $________ × ________ × ________% = $________
+LTGP＝________美元 × ________ × ________%＝________美元
 
-Max CAC (3:1) = $________ ÷ 3 = $________
+最高 CAC（3:1）＝________美元 ÷ 3＝________美元
 
-Channel A: cost per lead $________ × conversion ________% = CAC $________
-Channel B: cost per lead $________ × conversion ________% = CAC $________
+渠道 A：单条线索成本________美元 × 转化率________%＝CAC________美元
+渠道 B：单条线索成本________美元 × 转化率________%＝CAC________美元
 ```
 
-## Hook Library (Cross-Channel)
+> 译注：上方填空版保留了原文的乘号，但与前文算例矛盾。实际应为 **CAC＝单条线索成本÷转化率**，转化率按小数代入。
 
-### Pattern Interrupts
-- "Most [audience] do this wrong."
-- "I'm going to ruin [common belief] for you."
-- "Stop doing [common practice]."
-- "This is uncomfortable to admit:"
-- "Unpopular opinion:"
+<a id="hook-library-cross-channel"></a>
+## 跨渠道开场钩子库
 
-### Curiosity Gaps
-- "The [adjective] way to [outcome] (it's not what you think)"
-- "Why [counterintuitive claim]"
-- "The [number] [things] [authority figure] won't tell you"
-- "[Specific result] in [short timeframe] - here's how"
+<a id="pattern-interrupts"></a>
+### 打破惯常认知
 
-### Direct Promise
-- "How to [specific outcome] without [common pain]"
-- "[Specific outcome] for [specific audience] in [timeframe]"
-- "From [bad state] to [good state] in [timeframe]"
+- “大多数[人群]都把这件事做错了。”
+- “我要打破你对[常见信念]的看法。”
+- “别再做[常见做法]了。”
+- “承认这件事有点难……”
+- “一个不太讨喜的观点……”
 
-### Story Openers
-- "[Specific moment]. That's when I realized..."
-- "Last [time period], I [specific event]..."
-- "[Year] ago, I [bad situation]. Today, [good situation]."
+<a id="curiosity-gaps"></a>
+### 制造好奇缺口
+
+- “实现[结果]的[形容词]方法，可能和你想的不一样。”
+- “为什么[反直觉主张]。”
+- “[权威人物]不会告诉你的[数量]件事。”
+- “在[很短时间]内取得[具体结果]，方法如下。”
+
+<a id="direct-promise"></a>
+### 直接承诺
+
+- “如何不经历[常见痛苦]，也能实现[具体结果]。”
+- “让[特定人群]在[时间]内实现[具体结果]。”
+- “在[时间]内，从[不佳状态]走到[理想状态]。”
+
+<a id="story-openers"></a>
+### 故事开头
+
+- “[具体时刻]，我才意识到……”
+- “上个[时间段]，我经历了[具体事件]……”
+- “[若干年]前，我还处于[糟糕处境]。今天，[好的处境]。”

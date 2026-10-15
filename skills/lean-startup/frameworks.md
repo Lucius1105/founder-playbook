@@ -1,532 +1,626 @@
-# Frameworks - The Lean Startup
+> 中文译文｜[英文对照](frameworks.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/lean-startup/frameworks.md)。原项目整理：AgentSeal；书籍来源：《The Lean Startup》— Eric Ries；AI辅助翻译。
 
-## Build-Measure-Learn - Detailed Breakdown
+<a id="frameworks---the-lean-startup"></a>
+# 框架——The Lean Startup
 
-### Planning in Reverse
+<a id="build-measure-learn---detailed-breakdown"></a>
+## 构建—衡量—学习：详细拆解
 
-The loop reads Build-Measure-Learn, but you **plan in reverse order**:
+<a id="planning-in-reverse"></a>
+### 反向规划
 
+循环叫构建—衡量—学习，规划却要**倒过来**：
+
+```text
+规划顺序，反向：
+1. 学习：需要学到什么？
+   “客户想要自动化合同追踪吗？”
+
+2. 衡量：哪些数据能证实或证伪？
+   “七天内，从注册到活跃使用的转化率超过40%。”
+
+3. 构建：获取这些数据，最少需要做什么？
+   “落地页＋为十位客户提供人工礼宾服务。”
+
+执行顺序，正向：
+1. 构建MVP。
+2. 衡量客户行为。
+3. 判断假设是否成立，从中学习。
 ```
-PLANNING ORDER (reverse):
-1. LEARN: What do we need to learn?
-   "Do customers want automated contract tracking?"
 
-2. MEASURE: What data would prove or disprove this?
-   "Signup-to-active-use conversion rate above 40% within 7 days"
+<a id="the-build-phase"></a>
+### 构建阶段
 
-3. BUILD: What is the minimum we need to build to get that data?
-   "Landing page + manual concierge service for 10 customers"
+应该做什么：
 
-EXECUTION ORDER (forward):
-1. BUILD the MVP
-2. MEASURE customer behavior
-3. LEARN whether the hypothesis holds
-```
+- 检验当前假设所需的最小产品／实验。
+- 不是完整愿景，不是“1.0”，也不是那个让你不好意思的产品。
+- 指导问题是：正在检验什么假设？
 
-### The Build Phase
+常见错误：
 
-What to build:
-- The minimum product/experiment needed to test the current hypothesis
-- NOT the full vision. NOT "v1.0." NOT the product you're embarrassed by.
-- Guided by: what assumption are we testing?
+- 做得太多，“既然都做了，不如再加……”
+- 为想象中的质量标准开发。
+- 对实验过度设计。
+- 总等“再多一个功能”才交付。
 
-Common mistakes:
-- Building too much ("while we're at it, let's also add...")
-- Building for imaginary quality standards
-- Over-engineering the experiment
-- Waiting for "one more feature" before shipping
+<a id="the-measure-phase"></a>
+### 衡量阶段
 
-### The Measure Phase
+应该衡量什么：
 
-What to measure:
-- The specific metric tied to your leap-of-faith assumption
-- Cohort-based, not cumulative
-- Actionable (you can trace cause to effect)
+- 与信念飞跃式假设绑定的具体指标。
+- 使用同期群指标，而非累计指标。
+- 指标可行动，能追溯因果。
 
-Common mistakes:
-- Measuring vanity metrics (total signups, page views, gross revenue)
-- Measuring too many things at once
-- Not establishing a baseline first
-- Comparing against the plan instead of against the baseline
+常见错误：
 
-### The Learn Phase
+- 衡量注册总数、页面浏览量、总收入等虚荣指标。
+- 同时衡量太多东西。
+- 不先建立基线。
+- 与计划比较，而非与基线比较。
 
-What counts as learning:
-- A validated or invalidated hypothesis, backed by data
-- A specific decision: pivot, persevere, or run another experiment
-- A change in future behavior based on what was discovered
+<a id="the-learn-phase"></a>
+### 学习阶段
 
-What does NOT count:
-- "We learned a lot" without specifics
-- Anecdotal customer quotes without behavioral data
-- Rationalizing why the experiment didn't work
+什么才算学习：
 
-> "Validated learning is not after-the-fact rationalization or a good story designed to hide failure. It is a rigorous method for demonstrating progress when one is embedded in the soil of extreme uncertainty."
+- 用数据证实或证伪一个假设。
+- 作出明确决定：转型、坚持，或再做实验。
+- 根据发现改变未来行为。
+
+什么不算：
+
+- 没有细节地说“学到了很多”。
+- 只有零散客户原话，没有行为数据。
+- 为实验无效寻找合理化解释。
+
+> “经验证的学习不是事后合理化，也不是为掩盖失败编出的好故事。它是在极端不确定环境中，严格证明进展的方法。”
 
 ---
 
-## Leap-of-Faith Assumptions - Deep Dive
+<a id="leap-of-faith-assumptions---deep-dive"></a>
+## 深入理解信念飞跃式假设
 
-### Value Hypothesis
+<a id="value-hypothesis"></a>
+### 价值假设
 
-Tests whether the product delivers value to customers once they're using it.
+检验客户使用后，产品是否带来价值。
 
-**Leading indicators of value:**
-- Repeat usage without prompting
-- Willingness to pay (especially switching from free to paid)
-- High engagement per session
-- Organic word-of-mouth ("have you tried X?")
-- Customer upset when product is removed or degraded
+**价值的领先指标：**
 
-**Lagging indicators (weaker):**
-- Revenue (can be driven by sales effort, not product value)
-- NPS (can be gamed, not always predictive)
-- Feature requests (can indicate interest without value delivery)
+- 无需提醒就反复使用。
+- 愿意付费，尤其从免费转为付费。
+- 每次使用的参与度高。
+- 自发口碑：“你试过 X 吗？”
+- 产品被移除或降级时，客户感到不满。
 
-### Growth Hypothesis
+**较弱的滞后指标：**
 
-Tests how new customers discover the product.
+- 收入，可能来自销售努力而非产品价值。
+- NPS，可被操纵，也不总有预测力。
+- 功能请求，可能只表示兴趣，不表示已交付价值。
 
-**Four sources of sustainable growth:**
-1. **Word of mouth** - embedded in product; enthusiastic customers drive awareness
-2. **Side effect of usage** - using the product exposes non-users (fashion, status, viral loops)
-3. **Funded advertising** - revenue from existing customers funds acquisition of new ones
-4. **Repeat purchase/use** - subscription, consumable, habitual use
+<a id="growth-hypothesis"></a>
+### 增长假设
 
-Each source maps to an engine of growth (see below).
+检验新客户怎样发现产品。
 
-### Analogs and Antilogs
+**可持续增长的四个来源：**
 
-Before running experiments, study prior art:
+1. **口碑**：嵌入产品，热情客户带来认知。
+2. **使用的副作用**：使用时让非用户看见，例如时尚、身份展示、病毒循环。
+3. **有收入支持的广告**：现有客户收入资助新客户获取。
+4. **重复购买／使用**：订阅、消耗品、习惯性使用。
 
-| Tool | Purpose | Example (iPod) |
+每个来源都对应一种增长引擎，见下文。
+
+<a id="analogs-and-antilogs"></a>
+### 正向类比与反向类比
+
+做实验之前，研究前例：
+
+| 工具 | 目的 | iPod 示例 |
 |---|---|---|
-| **Analog** | Something similar that succeeded - proves part of the hypothesis | Walkman proved people want personal portable music |
-| **Antilog** | Something similar that failed - warns where the hypothesis might break | Napster proved people want digital music but showed the business model problem |
+| **正向类比** | 类似成功，证明部分假设 | Walkman 证明人们想要个人便携音乐 |
+| **反向类比** | 类似失败，提醒假设可能在哪断裂 | Napster 证明人们想要数字音乐，也显露商业模式问题 |
 
-Use analogs to build confidence. Use antilogs to identify the specific assumptions you must test.
+用正向类比增加信心，用反向类比找出必须检验的具体假设。
 
-> "If you're starting a new company, the analogs and antilogs provide the intellectual framework for planning."
-
----
-
-## Minimum Viable Product - Selection Framework
-
-### MVP Decision Matrix
-
-```
-UNCERTAINTY TYPE             BEST MVP TYPE
-------------------------------------------------------------------------
-"Do people want this?"       Smoke test (landing page, fake door)
-                             Video MVP (explainer video + signup)
-
-"Will people pay?"           Wizard of Oz (manual backend, real frontend)
-                             Concierge (manual everything, one customer)
-
-"Which approach works?"      Split test (A/B on a live product)
-                             Single-feature MVP (one feature, full quality)
-
-"Can we deliver at scale?"   Not an MVP question - this is engineering risk.
-                             Build a technical prototype separately.
-```
-
-### The Concierge MVP - Detailed
-
-Instead of building software, deliver the value proposition manually for a single customer. Then another. Then another.
-
-**When it works:** When the cost of building is high and the value proposition is unclear. By delivering manually, you learn exactly what customers need before writing a line of code.
-
-**When it doesn't:** When the value proposition IS the technology (e.g., "faster than humanly possible"). In that case, a Wizard of Oz MVP (automated frontend, manual backend) is better.
-
-### The Video MVP - Detailed
-
-Create a short video demonstrating the product concept. Measure demand by tracking signups, shares, or pre-orders.
-
-**Rules:**
-- Under 3 minutes
-- Show the product solving a real problem (not a feature tour)
-- Include a clear call to action (signup, email, pre-order)
-- The metric is the conversion rate on the CTA, not video views
-
-### MVP Quality and the "Ship Something Terrible" Misconception
-
-Ries does NOT say "ship garbage." He says: **"If we do not know who the customer is, we do not know what quality is."**
-
-Your assumptions about quality may be wrong. Ship the MVP, and customer behavior will tell you which quality dimensions actually matter.
-
-> "Customers don't care about our development methodology, our approach to structuring the engineering team, or our internal planning documents."
-
-Common fear: "competitors will copy us if we ship early." Ries's response: the reality of startups is that competitors are rarely paying attention, and even if they are, the learning you gain from real customers is worth more than competitive secrecy.
+> “创办新公司时，正向与反向类比提供了规划所需的思考框架。”
 
 ---
 
-## Innovation Accounting - Three Milestones in Practice
+<a id="minimum-viable-product---selection-framework"></a>
+## 最小可行产品：选择框架
 
-### Milestone 1: Establish the Baseline
+<a id="mvp-decision-matrix"></a>
+### MVP 决策矩阵
 
-**How:**
-1. Build an MVP
-2. Get it in front of real customers (not friends, not investors)
-3. Measure current state of the growth model
+```text
+不确定性类型                  最合适的MVP
+────────────────────────────────────────────────────
+“人们想要吗？”               烟雾测试：落地页、假门入口。
+                              视频MVP：解释视频＋注册。
 
-**What to measure at baseline:**
-- Conversion rates at each step of the funnel
-- Customer retention / churn rate
-- Revenue per customer
-- Referral rate (if applicable)
-- Feature engagement rates
+“人们会付钱吗？”             绿野仙踪式：真实前台、人工后台。
+                              礼宾式：全部人工，一次一位客户。
 
-**The baseline will be terrible.** That's the point. You need a starting point, not a good number.
+“哪种做法有效？”             分组测试：线上产品A/B。
+                              单功能MVP：一个功能、完整质量。
 
-### Milestone 2: Tune the Engine
+“能规模化交付吗？”           不是MVP问题，而是工程风险。
+                              单独建立技术原型。
+```
 
-**How:**
-1. Make changes designed to improve metrics from baseline toward the ideal
-2. Each change = one experiment testing one hypothesis
-3. Track whether changes actually move the numbers
+<a id="the-concierge-mvp---detailed"></a>
+### 礼宾式 MVP 详解
 
-**Rules:**
-- One change at a time (or use split tests if testing multiple)
-- Compare cohorts, not totals
-- Every experiment has a success criteria defined BEFORE running it
-- Time-box experiments
+不先开发软件，而是为一位客户手工交付价值，然后下一位，再下一位。
 
-**The critical question:** Is the metric moving in the right direction at a sufficient rate?
+**何时有效：**构建成本高、价值主张不清时。通过人工交付，在写一行代码前就准确了解客户需要什么。
 
-### Milestone 3: Pivot or Persevere
+**何时无效：**价值主张本身就是技术，例如“比人类所能做到的更快”。这种情况下，前台自动、后台人工的绿野仙踪式 MVP 更好。
 
-If tuning is working (metrics are improving toward the ideal) --> persevere.
+<a id="the-video-mvp---detailed"></a>
+### 视频 MVP 详解
 
-If tuning has stalled (you're making changes but metrics aren't moving) --> pivot.
+制作简短视频演示产品概念，通过注册、分享、预购衡量需求。
 
-> "A pivot is not just an exhortation to change. It is a special kind of structured change designed to test a new fundamental hypothesis."
+**规则：**
+
+- 少于三分钟。
+- 展示解决真实问题，而非功能巡览。
+- 有清楚行动指引：注册、留下邮件、预购。
+- 指标是行动指引的转化率，不是视频播放量。
+
+<a id="mvp-quality-and-the-ship-something-terrible-misconception"></a>
+### MVP 质量与“交付很糟糕的东西”的误解
+
+Ries 并不是说“交付垃圾”，而是说：**“不知道客户是谁，就不知道质量是什么。”**
+
+你对质量的假设可能错了。交付 MVP，让客户行为告诉你哪些质量维度真正重要。
+
+> “客户不在乎开发方法、工程团队结构，也不在乎内部规划文件。”
+
+常见担忧：“太早交付，竞争者会抄袭。”Ries 的回答是：现实中竞争者很少关注你，即使关注，从真实客户得到的学习，也比竞争保密更有价值。
 
 ---
 
-## Metrics Framework - Vanity vs. Actionable
+<a id="innovation-accounting---three-milestones-in-practice"></a>
+## 创新核算：三个里程碑的实践
 
-### The Cohort Analysis Method
+<a id="milestone-1-establish-the-baseline"></a>
+### 里程碑 1：建立基线
 
-Instead of looking at cumulative totals, group customers by when they joined and track behavior over time.
+**怎么做：**
 
-```
-CUMULATIVE (vanity):
-  Jan: 100 users
-  Feb: 250 users      <-- looks like growth!
-  Mar: 370 users
+1. 做出 MVP。
+2. 交给真实客户，不是朋友或投资者。
+3. 衡量增长模型的当前状态。
 
-COHORT (actionable):
-  Jan cohort:  100 joined, 40 active month 2, 25 active month 3 (75% churn)
-  Feb cohort:  150 joined, 70 active month 2, 45 active month 3 (70% churn)
-  Mar cohort:  120 joined, 65 active month 2, ???
+**基线衡量内容：**
 
-  --> Churn is improving slightly (75% -> 70%)
-  --> But growth of NEW customers is slowing (150 -> 120)
-  --> Total users going up masks TWO problems
-```
+- 漏斗每一步转化率。
+- 客户留存／流失率。
+- 人均收入。
+- 推荐率，如适用。
+- 功能参与率。
 
-### Split Testing (A/B Testing)
+**基线会很糟糕。**这正是目的，你需要起点，不是好看的数字。
 
-Ship two versions simultaneously. Measure which performs better against your target metric.
+<a id="milestone-2-tune-the-engine"></a>
+### 里程碑 2：调优引擎
 
-**Rules:**
-- Test ONE variable at a time
-- Measure behavioral outcomes, not opinions
-- Run until statistically significant
-- The control group matters - always have one
+**怎么做：**
 
-### The Three A's - Expanded
+1. 做能让指标从基线向理想状态改善的修改。
+2. 每个修改等于一个实验，检验一个假设。
+3. 追踪修改是否真正改变数字。
 
-**Actionable:** The metric must demonstrate clear cause and effect. If a metric doesn't tell you what to do differently, it's vanity.
+**规则：**
 
-**Accessible:** Use simple formats. Cohort-based reports everyone can read. At IMVU, Ries replaced complex dashboards with simple cohort reports accessible to every employee.
+- 一次改一件事；多项测试时使用分组实验。
+- 比较同期群，不比较总数。
+- 每个实验在运行前就定义成功标准。
+- 限定实验时间。
 
-> "Reports should be drawn directly from master data, not from an intermediate system."
+**关键问题：**指标是否以足够快的速度朝正确方向移动？
 
-**Auditable:** You must be able to spot-check the data against real customers. Talk to the people behind the numbers. "Managers must be able to test the data by talking to customers themselves."
+<a id="milestone-3-pivot-or-persevere"></a>
+### 里程碑 3：转型或坚持
 
----
+调优有效，指标向理想状态改善，就坚持。
 
-## The Ten Pivots - Detailed Catalog
+调优停滞，持续改动却不改变指标，就转型。
 
-### 1. Zoom-In Pivot
-A single feature of the current product becomes the entire product.
-**Signal:** One feature drives all the engagement while the rest is ignored.
-
-### 2. Zoom-Out Pivot
-The entire product becomes just one feature of a larger product.
-**Signal:** Customers keep asking for something bigger; your product isn't sufficient alone.
-
-### 3. Customer Segment Pivot
-The product is right, but for a different customer than originally planned.
-**Signal:** Unexpected customer segment adopts the product while the target segment doesn't.
-
-### 4. Customer Need Pivot
-The target customer has a real problem, but not the one you're solving.
-**Signal:** During customer conversations, you discover a bigger, more urgent problem.
-
-### 5. Platform Pivot
-A change from an application to a platform (or vice versa).
-**Signal:** Third-party developers want to build on your product, or your "platform" only has one useful app.
-
-### 6. Business Architecture Pivot
-Switch from high-margin/low-volume (B2B) to low-margin/high-volume (consumer), or vice versa.
-**Signal:** Sales complexity doesn't match the product's value proposition, or consumer pricing can't sustain the business.
-
-### 7. Value Capture Pivot
-The monetization or revenue model changes.
-**Signal:** Customers love the product but won't pay the current way; or a different revenue model is more sustainable.
-
-### 8. Engine of Growth Pivot
-Switch between sticky, viral, or paid growth.
-**Signal:** The current engine is stalling; a different engine might be more natural for the product.
-
-### 9. Channel Pivot
-Change the distribution mechanism.
-**Signal:** The product reaches customers more efficiently through a different channel than originally planned.
-
-### 10. Technology Pivot
-Same solution delivered using a different underlying technology.
-**Signal:** A new technology can achieve the same result with superior price, performance, or experience.
+> “转型不只是呼吁改变，而是一种为检验新的基本假设而设计的结构化变化。”
 
 ---
 
-## Three Engines of Growth - Detailed Mechanics
+<a id="metrics-framework---vanity-vs-actionable"></a>
+## 指标框架：虚荣与可行动
 
-### The Sticky Engine
+<a id="the-cohort-analysis-method"></a>
+### 同期群分析法
 
-**Mechanic:** Customers who start using the product continue using it. Growth comes from high retention and low churn.
+不要只看累计总数，按加入时间分组，并追踪各组随时间变化的行为。
 
-**Math:**
-```
-Growth rate = new customer acquisition rate - churn rate
+```text
+累计指标，虚荣：
+  1月：100名用户。
+  2月：250名用户。 ← 看起来在增长！
+  3月：370名用户。
 
-If you acquire 10% new customers/month and lose 8% to churn:
-  Net growth = 2% per month
+同期群指标，可行动：
+  1月组：100人加入，第2个月40人活跃，第3个月25人，流失75%。
+  2月组：150人加入，第2个月70人活跃，第3个月45人，流失70%。
+  3月组：120人加入，第2个月65人活跃，之后未知。
 
-To grow faster: reduce churn OR increase acquisition.
-Reducing churn is usually more impactful.
-```
-
-**Key metric:** Churn rate (and its inverse: retention rate)
-
-**Dominant strategy:** Invest in product quality, engagement, and customer success. Acquisition matters less than retention.
-
-### The Viral Engine
-
-**Mechanic:** Each customer brings in one or more additional customers as a natural side effect of using the product.
-
-**Math:**
-```
-Viral coefficient (k) = infections per customer
-  k = (% of users who invite) x (% of invitees who convert)
-
-If 50% of users invite and 20% of invitees convert:
-  k = 0.50 x 0.20 = 0.10
-
-For 100 initial users with k = 0.10:
-  100 -> 10 -> 1 -> 0 = 111 total (viral fizzle)
-
-For 100 initial users with k = 0.60:
-  100 -> 60 -> 36 -> 22 -> 13 -> 8 -> 5 -> 3 -> 2 -> 1 = 250 total
-
-For 100 initial users with k = 1.10:
-  100 -> 110 -> 121 -> 133 -> ... (exponential growth)
+  → 流失略有改善：75%→70%。
+  → 新增客户却在减速：150→120。
+  → 用户总量上升，掩盖了两个问题。
 ```
 
-**Critical threshold:** k > 1.0 = viral growth. k < 1.0 = viral decay.
+<a id="split-testing-ab-testing"></a>
+### 分组测试（A/B 测试）
 
-**Warning:** Small changes in k produce massive changes in outcome. Going from k=0.9 to k=1.1 is the difference between fizzle and explosion. **Do not try to optimize for virality with marketing. Optimize the product so that using it naturally exposes non-users.**
+同时推出两个版本，衡量哪个在目标指标上表现更好。
 
-**Key metric:** Viral coefficient (k) and viral cycle time
+**规则：**
 
-### The Paid Engine
+- 一次测试一个变量。
+- 衡量行为结果，而非意见。
+- 运行到具有统计显著性。
+- 对照组很重要，始终保留。
 
-**Mechanic:** Spend money to acquire customers. Growth comes from reinvesting revenue into acquisition.
+<a id="the-three-as---expanded"></a>
+### 三个 A 详解
 
-**Math:**
-```
-Profitable when: LTV > CPA
-  LTV = lifetime value of a customer
-  CPA = cost per acquisition
+**可行动：**指标必须显示清晰因果。如果它不能告诉你应该改变什么，就是虚荣指标。
 
-Marginal profit per customer = LTV - CPA
-Growth rate = marginal profit reinvested into acquisition
+**易理解：**格式简单，让所有人能读懂同期群报告。在 IMVU，Ries 用人人可查看的简单同期群报告替代复杂仪表盘。
 
-If LTV = $100 and CPA = $30:
-  Marginal profit = $70
-  Reinvest $70 -> acquire 2.3 more customers -> each worth $70 marginal...
+> “报告应直接来自主数据，而非中间系统。”
 
-To grow faster: increase LTV (pricing, upsell, retention)
-  OR decrease CPA (better targeting, conversion optimization)
-```
-
-**Key metric:** LTV/CPA ratio
-
-**Warning:** Paid engine breaks when competitors bid up CPA or when your LTV decreases. It is the most fragile engine.
-
-### Engine Focus Rule
-
-> "Startups should focus on just one engine of growth."
-
-Trying to run multiple engines simultaneously dilutes effort and makes it impossible to know what's working. Once one engine is running, you can consider layering on another - but not before.
+**可审计：**能够针对真实客户抽查数据，与数字背后的人交谈。“管理者必须能够亲自联系客户来检验数据。”
 
 ---
 
-## Small Batches - Toyota Production System for Startups
+<a id="the-ten-pivots---detailed-catalog"></a>
+## 十种转型：详细目录
 
-### The Envelope Experiment
+<a id="1-zoom-in-pivot"></a>
+### 1. 放大式转型
 
-Which is faster for stuffing 100 envelopes: fold all 100, stuff all 100, seal all 100, stamp all 100 (large batch)? Or fold-stuff-seal-stamp one at a time (small batch)?
+现有产品中的一个功能成为整个产品。
+**信号：**所有参与都来自某个功能，其余功能被忽略。
 
-**Counter-intuitively, small batch wins.** Large batch creates invisible overhead: sorting, stacking, re-handling. And if the envelopes don't fit? In small batch, you find out on envelope #1. In large batch, you find out after folding all 100.
+<a id="2-zoom-out-pivot"></a>
+### 2. 缩小式转型
 
-### SMED (Single-Minute Exchange of Die)
+整个产品变成更大产品的一个功能。
+**信号：**客户不断要求更大的东西，单靠当前产品不够。
 
-Toyota's Shigeo Shingo reduced die changeover times from hours to minutes. This made small production runs economical. The startup equivalent: reduce deployment friction so you can ship changes in minutes, not weeks.
+<a id="3-customer-segment-pivot"></a>
+### 3. 客户细分转型
 
-### Continuous Deployment
+产品是对的，但适合的客户不是最初计划中的人。
+**信号：**意外客群开始采用，而目标客群没有。
 
-At IMVU, Ries's team deployed code changes **50 times per day**. Each change:
-- Was small enough to understand its impact
-- Was monitored by automated tests
-- Could be rolled back immediately if problems emerged
-- Created an "immune system" that got stronger over time
+<a id="4-customer-need-pivot"></a>
+### 4. 客户需求转型
 
-### The Andon Cord
+目标客户确有问题，但不是你正在解决的那个。
+**信号：**对话中发现更大、更紧迫的问题。
 
-Toyota's famous pull cord that any worker can yank to stop the entire production line when a defect is spotted. In startups:
-- Anyone can halt a deployment that breaks something
-- Stopping to fix is faster than shipping broken + patching later
-- Builds quality into the process rather than inspecting it in afterward
+<a id="5-platform-pivot"></a>
+### 5. 平台转型
 
-### Pull, Don't Push
+从应用转为平台，或反过来。
+**信号：**第三方开发者想基于产品开发，或所谓平台只有一个有用应用。
 
-Toyota's just-in-time system: don't build inventory ahead of demand. In startups:
-- Don't build features ahead of validated demand
-- Don't plan sprints based on a roadmap nobody validated
-- Each experiment "pulls" exactly the work needed to test the current hypothesis
-- WIP (work in progress) is waste if it hasn't been validated
+<a id="6-business-architecture-pivot"></a>
+### 6. 商业架构转型
+
+从高利润低销量的 B2B，转向低利润高销量的消费业务，或反过来。
+**信号：**销售复杂度与价值主张不匹配，或消费者价格无法支撑业务。
+
+<a id="7-value-capture-pivot"></a>
+### 7. 价值获取转型
+
+改变变现或收入模式。
+**信号：**客户喜欢产品，却不愿按当前方式付费；或另一收入模式更可持续。
+
+<a id="8-engine-of-growth-pivot"></a>
+### 8. 增长引擎转型
+
+在黏性、病毒式、付费增长间切换。
+**信号：**当前引擎停滞，另一引擎可能更适合产品。
+
+<a id="9-channel-pivot"></a>
+### 9. 渠道转型
+
+改变分销机制。
+**信号：**不同于原计划的渠道，能更高效地触达客户。
+
+<a id="10-technology-pivot"></a>
+### 10. 技术转型
+
+用不同底层技术交付同一方案。
+**信号：**新技术能以更好的价格、性能或体验达到同样结果。
 
 ---
 
-## Five Whys - Detailed Method
+<a id="three-engines-of-growth---detailed-mechanics"></a>
+## 三种增长引擎：详细机制
 
-### The Proportional Investment Principle
+<a id="the-sticky-engine"></a>
+### 黏性引擎
 
-At each level of the five whys, make an investment **proportional to the severity** of the symptom. Small symptom = small fix. Deep root cause = bigger investment.
+**机制：**开始使用的客户持续使用，增长来自高留存、低流失。
 
-```
-Example (IMVU):
-1. Feature disabled for customers. Why?
-   --> Server failed.
-   Fix: restart server (5 minutes)
+**计算：**
 
-2. Why did the server fail?
-   --> Obscure subsystem used wrong.
-   Fix: refactor the subsystem (few hours)
+```text
+增长率＝新客户获取率－流失率。
 
-3. Why was the subsystem used wrong?
-   --> Engineer didn't know the right way.
-   Fix: brief the engineer (30 minutes)
+每月新增客户10%，流失8%：
+  每月净增长＝2%。
 
-4. Why didn't the engineer know?
-   --> Never trained.
-   Fix: start first hour of training program (1 hour setup)
-
-5. Why wasn't he trained?
-   --> Manager thinks training is waste of time.
-   Fix: conversation with manager (uncomfortable but necessary)
+要更快增长，降低流失，或增加获客。
+通常降低流失的影响更大。
 ```
 
-### Getting Started Rules
+**关键指标：**流失率，以及相对应的留存率。
 
-1. **Be tolerant of all mistakes the first time**
-2. **Never allow the same mistake to be made twice**
+**主导策略：**投资产品质量、参与度、客户成功。获客不如留存重要。
 
-This simplified system works for teams new to Five Whys. It builds the muscle without overwhelming the team.
+<a id="the-viral-engine"></a>
+### 病毒式引擎
 
-### Five Whys Master
+**机制：**每个客户自然使用产品时，带来一个或更多新客户。
 
-Appoint a dedicated facilitator for each area using Five Whys:
-- Senior enough to ensure follow-through
-- Not so senior they can't attend regularly
-- Tracks proportional investments and whether they pay off
-- Prevents descent into Five Blames
+**计算：**
 
-### Common Pitfalls
+```text
+病毒系数k＝每位客户带来的“感染”数。
+  k＝发出邀请的用户比例×受邀者转化比例。
 
-| Pitfall | Symptom | Fix |
+如果50%的用户邀请别人，20%的受邀者转化：
+  k＝0.50×0.20＝0.10。
+
+100名初始用户，k＝0.10：
+  100→10→1→0，总计111，传播熄火。
+
+100名初始用户，k＝0.60：
+  100→60→36→22→13→8→5→3→2→1，总计250。
+
+100名初始用户，k＝1.10：
+  100→110→121→133→……，指数增长。
+```
+
+> 译注：上游公式未列出每位邀请者的平均邀请人数；两项比例相乘本身不可能超过 1，因而与下文 k>1 的情形不完全衔接。此处保留原式；实际计算应把每位用户带来的邀请数量纳入，不能直接照抄这一简化公式。
+
+**关键门槛：**k>1.0 为病毒式增长，k<1.0 为病毒式衰减。
+
+**提醒：**k 的小幅变化会造成巨大结果差异。0.9 到 1.1，就是熄火与爆发的差别。**不要试图单靠营销优化病毒传播；应优化产品，让使用过程自然触达非用户。**
+
+**关键指标：**病毒系数 k 与病毒循环时间。
+
+<a id="the-paid-engine"></a>
+### 付费引擎
+
+**机制：**花钱获客，把收入再投入获客以增长。
+
+**计算：**
+
+```text
+盈利条件：LTV>CPA。
+  LTV＝客户生命周期价值。
+  CPA＝单次获客成本。
+
+每位客户边际利润＝LTV－CPA。
+增长率＝重新投入获客的边际利润。
+
+如果LTV＝100美元，CPA＝30美元：
+  边际利润＝70美元。
+  再投入70美元→获取约2.3位新客户→每位又贡献70美元边际利润……
+
+要更快增长：提高LTV，通过定价、升级销售、留存；
+或者降低CPA，通过更准定向、转化优化。
+```
+
+**关键指标：**LTV／CPA 比率。
+
+**提醒：**竞争者抬高 CPA，或你的 LTV 下降，都会让付费引擎失效。它是最脆弱的引擎。
+
+<a id="engine-focus-rule"></a>
+### 引擎聚焦规则
+
+> “创业公司应只聚焦一个增长引擎。”
+
+同时运行多个引擎会分散精力，也无法判断什么有效。先让一个运转起来，再考虑叠加另一个，而不是提前。
+
+---
+
+<a id="small-batches---toyota-production-system-for-startups"></a>
+## 小批量：创业公司的丰田生产方式
+
+<a id="the-envelope-experiment"></a>
+### 信封实验
+
+装 100 个信封，哪种更快？先折完 100 张，再全部装入、封口、贴邮票，是大批量；还是每次完成一个的折、装、封、贴，是小批量？
+
+**反直觉的是，小批量获胜。**大批量有看不见的整理、堆叠、重复搬运成本。如果信封尺寸不合适，小批量在第一个就发现，大批量却要折完 100 张才知道。
+
+<a id="smed-single-minute-exchange-of-die"></a>
+### SMED：快速换模
+
+丰田的新乡重夫把模具更换从数小时缩短到数分钟，使小批量生产划算。创业中的对应做法是降低部署阻力，让变更几分钟就能发布，而非数周。
+
+<a id="continuous-deployment"></a>
+### 持续部署
+
+IMVU 的 Ries 团队**每天部署 50 次**代码变更。每次变更：
+
+- 足够小，能理解影响。
+- 有自动化测试监控。
+- 出现问题可以立即回滚。
+- 逐渐形成越来越强的“免疫系统”。
+
+<a id="the-andon-cord"></a>
+### 安灯拉绳
+
+丰田著名的拉绳机制：任何工人发现缺陷，都能拉绳停止整条生产线。对应创业实践：
+
+- 任何人都能暂停造成故障的部署。
+- 停下修复，比带病上线后再补丁更快。
+- 把质量嵌入流程，而非事后检查出来。
+
+<a id="pull-dont-push"></a>
+### 拉动，而非推动
+
+丰田准时制不在需求前囤积库存。创业中：
+
+- 不在验证需求之前堆功能。
+- 不依据未经验证的路线图安排冲刺。
+- 每个实验只“拉动”检验当前假设所需的工作。
+- 未经验证的在制品 WIP 就是浪费。
+
+---
+
+<a id="five-whys---detailed-method"></a>
+## 五问法：详细方法
+
+<a id="the-proportional-investment-principle"></a>
+### 相称投入原则
+
+每层追问都投入**与症状严重程度相称**的资源。小症状小修复，深层根因投入更多。
+
+```text
+示例，IMVU：
+1. 客户功能被禁用，为什么？
+   → 服务器故障。
+   修复：重启服务器，五分钟。
+
+2. 服务器为什么故障？
+   → 某个少有人懂的子系统用错了。
+   修复：重构子系统，几小时。
+
+3. 为什么用错子系统？
+   → 工程师不知道正确用法。
+   修复：向工程师讲解，30分钟。
+
+4. 工程师为什么不知道？
+   → 从未培训。
+   修复：启动培训课程的第一小时，准备一小时。
+
+5. 为什么没培训？
+   → 经理认为培训浪费时间。
+   修复：与经理谈话，不舒服但必要。
+```
+
+<a id="getting-started-rules"></a>
+### 入门规则
+
+1. **所有第一次发生的错误，都要宽容。**
+2. **绝不允许同一个错误发生两次。**
+
+这套简化制度适合刚接触五问法的团队，既能练习，又不至于压垮大家。
+
+<a id="five-whys-master"></a>
+### 五问法负责人
+
+每个采用五问法的领域都指定专门主持人：
+
+- 资历足以确保跟进。
+- 职位又不至于高到无法定期参加。
+- 追踪相称投入及其回报。
+- 防止滑向“五次责怪”。
+
+<a id="common-pitfalls"></a>
+### 常见陷阱
+
+| 陷阱 | 症状 | 修正 |
 |---|---|---|
-| **Five Blames** | Finger-pointing instead of root cause analysis | Senior people go first: "shame on us for making it so easy" |
-| **Starting with baggage** | Trying to solve legacy problems first | Start with NEW problems only; old ones surface naturally |
-| **Missing participants** | Key people not in the room | Everyone affected by the problem attends; especially senior leadership |
-| **Too broad** | Trying to fix everything at once | Pick one narrow class of problems; expand later |
-| **No follow-through** | Proportional investments identified but not made | Five Whys master tracks completion |
+| **五次责怪** | 相互指责，不分析根因 | 资深者先说：“是我们让错误太容易发生。” |
+| **先翻旧账** | 一开始就解决历史问题 | 只从新问题开始，旧问题会自然浮现 |
+| **参与者缺席** | 关键人不在场 | 所有受影响者参加，尤其高层 |
+| **范围太宽** | 试图一次修好所有问题 | 先选一类狭窄问题，之后扩展 |
+| **没有跟进** | 确定了投入，却未执行 | 负责人追踪完成情况 |
 
 ---
 
-## Innovation Sandbox - For Established Companies
+<a id="innovation-sandbox---for-established-companies"></a>
+## 创新沙盒：用于成熟企业
 
-### The Seven Rules
+<a id="the-seven-rules"></a>
+### 七条规则
 
-1. Any team can create a true split-test that affects only the sandboxed parts of the product, or certain customer segments or territories
-2. One team must see the whole experiment through from end to end
-3. No experiment can run longer than a specified time limit
-4. No experiment can affect more than a specified number of customers (as a % of total base)
-5. Every experiment is evaluated on a single standard report of five to ten actionable metrics
-6. Every team and product in the sandbox uses the same metrics for evaluation
-7. Any team running an experiment must monitor customer reactions and abort if something catastrophic happens
+1. 任何团队都能建立真实分组测试，但只影响产品的沙盒部分、特定客户群或区域。
+2. 必须由同一团队从头到尾完成实验。
+3. 每项实验不得超过规定时限。
+4. 每项实验影响的客户，不得超过按总客户群比例规定的数量。
+5. 每项实验都用同一标准报告评估，包含 5—10 个可行动指标。
+6. 沙盒中的所有团队与产品使用相同评价指标。
+7. 实验团队必须监控客户反应；出现灾难性情况时中止。
 
-### Why Sandbox, Not Skunkworks
+<a id="why-sandbox-not-skunkworks"></a>
+### 为什么用沙盒，而不是秘密研发小组
 
-**Skunkworks (hidden innovation):** Protects the startup team but alienates the parent org. Managers feel ambushed when innovation surfaces. Leads to political sabotage.
+**秘密研发小组，即隐藏式创新：**保护创业团队，却疏远母组织。创新出现时，管理者觉得遭到突然袭击，引发内部政治阻挠。
 
-**Sandbox (open innovation):** Contains the blast radius while keeping innovation visible. Managers see what's happening. Success is measured by the same standards. Reintegration is natural.
+**沙盒，即公开式创新：**控制影响范围，同时让创新可见。管理者知道发生什么，成功按相同标准衡量，重新融入组织自然发生。
 
-> "The challenge here is to create a mechanism for empowering innovation teams out in the open."
+> “挑战是建立一种机制，让创新团队在公开环境中获得授权。”
 
 ---
 
-## Four Kinds of Work (Management Portfolio)
+<a id="four-kinds-of-work-management-portfolio"></a>
+## 四类工作（管理组合）
 
-As products mature, companies must manage four simultaneous types of work:
+随着产品成熟，公司必须同时管理四类工作：
 
-| Phase | Activity | Manager Profile |
+| 阶段 | 活动 | 管理者画像 |
 |---|---|---|
-| **1. Innovation** | Finding new customers, new markets, new business models | Entrepreneur: visionary, scrappy, comfortable with chaos |
-| **2. Growth** | Scaling what works, conquering new segments | Growth leader: execution-focused, data-driven |
-| **3. Optimization** | Line extensions, incremental upgrades, margin improvement | Optimizer: process-oriented, efficiency-focused |
-| **4. Legacy** | Operating costs, infrastructure maintenance, cost reduction | Operator: reliability-focused, cost-conscious |
+| **1. 创新** | 寻找新客户、新市场、新商业模式 | 创业者：有愿景、善于就地解决问题、能接受混沌 |
+| **2. 增长** | 扩大有效做法，进入新客群 | 增长负责人：聚焦执行、数据驱动 |
+| **3. 优化** | 产品线延伸、渐进升级、提高利润率 | 优化者：流程导向、重视效率 |
+| **4. 存量** | 运营成本、基础设施维护、降本 | 运营者：重视可靠性、关注成本 |
 
-**The talent trap:** Companies tend to promote innovators into growth/optimization roles. Innovators hate these roles and do them badly. Let people choose the phase that suits their temperament.
+**人才陷阱：**公司常把创新者晋升到增长／优化岗位。创新者讨厌这些工作，也做不好。让人选择适合其性情的阶段。
 
-> "Entrepreneurship should be considered a viable career path for innovators inside large organizations."
+> “对大组织内部的创新者而言，创业应被视为一条可行职业路径。”
 
 ---
 
-## Adaptive Organization - Speed Regulators
+<a id="adaptive-organization---speed-regulators"></a>
+## 自适应组织：速度调节机制
 
-### The Paradox of Slowing Down to Speed Up
+<a id="the-paradox-of-slowing-down-to-speed-up"></a>
+### 为加快而先放慢的悖论
 
-Adaptive processes (training, Five Whys, small batches) initially feel like they slow you down. But they create **speed regulators** that prevent catastrophic failures and compound over time.
+培训、五问法、小批量等自适应流程，一开始让人感觉变慢，却建立了**速度调节机制**，防止灾难性失败，并随时间产生累积收益。
 
+```text
+没有速度调节机制：
+  冲刺→崩溃→救火→冲刺→更大崩溃→……
+  平均速度低，大部分时间用于返工和危机。
+
+有速度调节机制：
+  小步→检查→调整→小步→检查→……
+  平均速度高，稳定前进，返工很少。
 ```
-WITHOUT speed regulators:
-  Sprint → Crash → Firefight → Sprint → Bigger Crash → ...
-  Average velocity: LOW (most time spent on rework and crises)
 
-WITH speed regulators:
-  Small step → Check → Adjust → Small step → Check → ...
-  Average velocity: HIGH (steady progress, minimal rework)
-```
+<a id="training-as-investment"></a>
+### 把培训视为投资
 
-### Training as Investment
+IMVU 为每位新工程师安排导师和培训，看似对创业公司很昂贵，但：
 
-At IMVU, every new engineer was assigned a mentor and put through a training program. Seemed expensive for a startup. But:
-- New hires broke fewer things
-- Fewer interruptions for existing engineers
-- Each training improvement compounded over time
-- The Five Whys sessions that built the training were themselves learning
+- 新员工造成的故障更少。
+- 现有工程师受打扰更少。
+- 每次培训改善都会长期累积收益。
+- 建立培训的五问法复盘本身也是学习。
 
-> "At no point did we drop everything to focus solely on training. Instead, we made incremental improvements to the process constantly, each time reaping incremental benefits."
+> “我们从未放下一切只做培训，而是持续渐进改进流程，每次获得相应的渐进收益。”

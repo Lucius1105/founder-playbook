@@ -1,275 +1,276 @@
 ---
 name: influence
-description: Cialdini's seven principles of compliance (the classic six — reciprocation, commitment-consistency, social proof, liking, authority, scarcity — plus Unity, added 2016) and Pre-Suasion. Use when crafting ethical persuasion (marketing, sales, negotiation), defending against manipulation, or designing systems that need cooperation. Includes replication-crisis caveats and known factual corrections (Bickman parking-meter numbers, Hofling modern replication, Drive Carefully condition disambiguation, Genovese myth).
+description: 西奥迪尼关于顺从的七项原则，包括经典六项——互惠、承诺与一致、社会认同、喜好、权威、稀缺——以及 2016 年加入的共同体原则和先发影响力。适用于设计合乎道德的说服方式（营销、销售、谈判）、防范操纵，或设计需要合作的系统。包含可重复性危机的注意事项及已知事实纠正：Bickman 停车计时器实验数据、Hofling 现代重复研究、“小心驾驶”实验条件辨析和 Genovese 传说。
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/influence/SKILL.md)。原项目整理：AgentSeal；书籍来源：《Influence》及《Pre-Suasion》— Robert Cialdini；AI 辅助翻译。
 
+> **说明：**本技能是独立分析与评论，并非原书的复制。它将书中的核心观点与现代创业实践综合起来，指出框架过时或不完整之处，并整合相邻学科的视角。完整论证与上下文请阅读原著。
 
-# Influence
+# Influence（《影响力》）
 
-> "Click-whirr. The triggers fire and we react automatically." - Robert Cialdini
+> “咔哒—嗡。触发器一启动，我们就自动作出反应。”——Robert Cialdini（罗伯特·西奥迪尼）
 
-## When to Use
+## 何时使用
 
-- Crafting persuasion (marketing, sales copy, negotiation)
-- Defending against manipulation (recognizing when you're being clicked)
-- Designing systems that need cooperation
-- Diagnosing why some campaigns work and others don't
+- 设计说服方式：营销、销售文案、谈判。
+- 防范操纵：识别自己何时被触发了自动反应。
+- 设计需要合作的系统。
+- 诊断为什么有的营销活动有效，有的无效。
 
-## Critical Caveats (Read First)
+## 重要注意事项（先读）
 
-**This skill is about a 1984 book with significant replication issues. Several specific cited numbers are wrong or contested. Treat the principles as TACTICAL RECOGNITION FRAMEWORKS, not precise math.**
+**本技能讨论的是一本 1984 年出版、引用研究存在显著可重复性问题的书。其中若干具体数字有误或存在争议。应把这些原则当作识别策略的框架，不要当作精确数学。**
 
-### Known Replication Concerns
+### 已知的可重复性问题
 
-| Issue | Status |
+| 问题 | 状态 |
 |-------|--------|
-| **Kitty Genovese "38 witnesses" myth** | Factually false. Manning, Levine & Collins (2007, *American Psychologist*) debunked. Most "witnesses" couldn't see/hear, several DID call police. Cialdini repeats the false narrative; this skill DOES NOT use Genovese as evidence. We rely only on the lab studies (Latane & Darley) which DO replicate. |
-| **Bargh-style priming** | Largely failed to replicate |
-| **Ego depletion** | Failed multiple replications |
-| **Milgram 65%** | From ONE of 24 conditions. Range was 0-92%. Burger 2009 partial replication ~70% (capped at 150V). Perry 2012 archival critique disputes Milgram's reporting. |
-| **Romeo-Juliet effect** | Contested by Sinclair (2014) |
-| **Halo-effect numbers** | Generally shrunken on replication |
-| **"Because" experiment** | Effect collapses for higher-cost requests |
-| **DITF backfire condition** | If first request is too extreme, you appear unreasonable and lose the second |
-| **Hofling 95%** | Original 1966 number. Modern replications find 16-30% (nurses now have explicit refusal training). |
-| **Bystander effect in clear emergencies** | Fischer et al. 2011 meta-analysis: groups DO help more when threat is clear. Reverses original finding. |
+| **Kitty Genovese“38 名目击者”的传说** | 事实错误。Manning、Levine 与 Collins（2007，*American Psychologist*）已揭穿。大多数“目击者”无法看到或听到袭击，且确实有几人报警。西奥迪尼重复了错误叙事；本技能不把 Genovese 案作为证据，只依据能够重复验证的 Latane 与 Darley 实验室研究 |
+| **Bargh 式启动效应** | 大多未能重复验证 |
+| **自我损耗** | 多次重复研究失败 |
+| **Milgram 的 65%** | 仅来自 24 种条件中的一种，范围为 0%—92%。Burger 2009 年部分重复研究约为 70%，电击上限为 150V。Perry 2012 年的档案研究质疑 Milgram 的报告方式 |
+| **罗密欧与朱丽叶效应** | Sinclair（2014）提出质疑 |
+| **光环效应的数值** | 重复研究中的效应大小普遍缩小 |
+| **“因为”实验** | 当请求成本更高时，效应消失 |
+| **先大后小的反噬条件** | 如果第一个请求过于极端，你会显得不讲道理，连第二个请求也会遭到拒绝 |
+| **Hofling 的 95%** | 这是 1966 年的原始数据。现代重复研究发现比例为 16%—30%，因为护士如今接受明确的拒绝指令培训 |
+| **明确紧急情况下的旁观者效应** | Fischer 等人 2011 年的元分析发现，威胁明确时，群体确实更愿意帮助，这与最初结论相反 |
 
-### WEIRD Bias
+### WEIRD 样本偏差
 
-Most experiments used Western, Educated, Industrialized, Rich, Democratic college students. "Universal across cultures" overclaims. East Asian collectivist cultures often show different social proof and authority dynamics.
+多数实验采用西方、受过教育、工业化、富裕、民主社会的大学生样本。声称结论“跨文化普遍适用”过于夸大。东亚集体主义文化中的社会认同与权威机制，常有不同表现。
 
-### Bottom Line
+### 应如何看待
 
-The 6+1 principles are real and useful as a tactical recognition framework. Specific effect sizes are unreliable. **Treat as "these are the levers" - not "this is the precise math."**
+这“六加一”项原则真实存在，作为识别策略的框架很有用，但具体效应大小不可靠。**把它理解成“可使用这些杠杆”，不要理解成“这是精确的计算公式”。**
 
-## The Core Insight: Click-Whirr
+## 核心洞见：咔哒—嗡
 
-Animals (and humans) often act on **fixed action patterns** triggered by single features. One trigger feature → automatic compliance, even when situation doesn't warrant it.
+动物和人类常会因某个单一特征，触发**固定行为模式**。一个触发特征出现，就可能自动顺从，即便当时的情境并不值得这样做。
 
-> "The future will see an increased use of decisional shortcuts. As the pace of modern life accelerates and information mounts, we'll be forced to use them more, not less."
+> “未来，人们将更多地使用决策捷径。随着现代生活节奏加快、信息量增加，我们将被迫更多而不是更少地使用它们。”
 
-The 6+1 principles are humanity's most powerful heuristics - which makes them the most powerful persuasion levers.
+这六加一项原则是人类最有力的启发式规则，也因此成为最有力的说服杠杆。
 
-## The Seven Principles
+## 七项原则
 
-| # | Principle | Core Rule |
+| 序号 | 原则 | 核心规则 |
 |---|-----------|-----------|
-| 1 | **Reciprocation** | When someone gives, we feel obligated to return |
-| 2 | **Commitment & Consistency** | Once committed, we behave consistently |
-| 3 | **Social Proof** | We determine what's correct by what others think is correct |
-| 4 | **Liking** | We comply with people we like |
-| 5 | **Authority** | We comply with authority figures, often without question |
-| 6 | **Scarcity** | Opportunities seem more valuable when limited |
-| 7 | **Unity** (added 2016) | We comply more with people we share IDENTITY with |
+| 1 | **互惠** | 别人给予我们东西时，我们会觉得有义务回报 |
+| 2 | **承诺与一致** | 一旦作出承诺，我们就倾向于保持行为一致 |
+| 3 | **社会认同** | 我们根据他人认为什么正确，来判断什么正确 |
+| 4 | **喜好** | 我们更愿意答应喜欢的人 |
+| 5 | **权威** | 我们服从权威人物，而且常常不加质疑 |
+| 6 | **稀缺** | 机会受限时，会显得更有价值 |
+| 7 | **共同体**（2016 年加入） | 对具有共同身份认同的人，我们更容易顺从 |
 
-Plus the bonus: **Contrast** (sequential items - second seems more different than it is).
+还有一项附加机制：**对比**。先后出现两个事物时，第二个会显得比实际更不一样。
 
-Detailed experiments and mechanics for each principle: see [principles.md](principles.md).
+各原则的详细实验与机制见 [principles.md](principles.md)。
 
-## The Inner-Choice Insight (Critical)
+## 内在选择的洞见（关键）
 
-For Commitment & Consistency, four conditions strengthen a commitment:
+对于“承诺与一致”，四个条件会强化承诺：
 
-| Condition | Why It Works |
+| 条件 | 为什么有效 |
 |-----------|--------------|
-| **Active** | Doing > saying. Writing > thinking |
-| **Public** | Witnesses lock you in |
-| **Effortful** | More effort, more value |
-| **Uncoerced** | Must feel CHOSEN freely |
+| **主动** | 做比说有力；写下来比只在心里想有力 |
+| **公开** | 见证者会把你锁定在承诺上 |
+| **费力** | 投入越多，感知价值越高 |
+| **不受强迫** | 必须感觉是自己自由选择的 |
 
-**Cialdini elevates "uncoerced inner choice" as more important than the other three combined.** Bribes/threats don't create real commitment; only freely-chosen action does. This is why coercive tactics (high-pressure sales, induced obedience) produce compliance but not durable commitment.
+**西奥迪尼认为，“不受强迫的内在选择”比其他三项加起来更重要。**贿赂和威胁不会产生真正的承诺；只有自由选择的行动才会。这就是为什么高压销售、诱导服从等强迫性策略能带来顺从，却无法形成持久承诺。
 
-## Pre-Suasion (2016)
+## 先发影响力（2016）
 
-> "What we present FIRST changes how the audience experiences what comes NEXT."
+> “我们首先呈现什么，会改变受众体验随后内容的方式。”
 
-The persuasive moment isn't only when you make the ask. It's the moments BEFORE, when you set up the listener's mental state.
+说服不只发生在提出请求的那一刻，也发生在之前为听者营造心理状态的时刻。
 
-- "Are you adventurous?" before pitching a new product → adventurous people accept more
-- Anchoring high before asking small ($50K mentioned before $5K request)
-- Background music in stores (French wine sales up when French music plays)
+- 推介新产品前先问“你喜欢冒险吗？” → 喜欢冒险的人更容易接受。
+- 提小请求之前先设高锚点：提出 5,000 美元的请求前，先提 50,000 美元。
+- 商店里的背景音乐：播放法国音乐时，法国葡萄酒销量上升。
 
-Detailed Pre-Suasion examples: see [pre-suasion.md](pre-suasion.md).
+详细例子见 [pre-suasion.md](pre-suasion.md)。
 
-## How Principles Combine (Real Power)
+## 原则如何组合（真正的力量）
 
-The principles compound. Effective persuasion uses MULTIPLE principles together.
+这些原则会相互增强。有效说服通常同时使用多项原则。
 
-**Tupperware Party = ALL 6:**
-- Hostess gives free gifts (Reciprocity)
-- Public commitment to buy (Commitment)
-- "Susan loves this product!" (Social Proof + Liking)
-- Hostess is your friend (Liking)
-- Consultant has credentials (Authority)
-- "Limited time at the party" (Scarcity)
+**特百惠聚会 = 六项全用：**
+- 女主人赠送免费礼品：互惠。
+- 公开承诺购买：承诺。
+- “Susan 很喜欢这个产品！”：社会认同与喜好。
+- 女主人是你的朋友：喜好。
+- 顾问有资历：权威。
+- “仅限聚会期间”：稀缺。
 
-**Cult Recruitment = stacked principles:**
-- Love bombing = Liking + Reciprocity
-- Public testimonials = Commitment + Social Proof
-- "We're chosen" = Scarcity (special)
-- Leader as authority = Authority
+**邪教招募 = 原则叠加：**
+- 以密集关怀进行“爱轰炸”：喜好与互惠。
+- 公开作见证：承诺与社会认同。
+- “我们是被选中的人”：稀缺，强调特殊性。
+- 领袖被当作权威：权威。
 
-## Decision Trees
+## 决策树
 
-### Am I being manipulated?
+### 我正在被操纵吗？
 
-```
-Do I feel an unusual urgency to comply?
-├─ YES → Likely Reciprocity, Commitment, or Scarcity
-│        Stop. Apply the diagnostic question for that principle.
-└─ NO → Do I feel oddly drawn to this person/product?
-        ├─ YES → Likely Liking or Authority
-        │        Separate the dealer from the deal.
-        └─ NO → Probably legitimate
-```
-
-### Which principle should I use in marketing?
-
-```
-What problem are you solving?
-├─ "Why should they trust us?" → Authority + Social Proof
-├─ "Why should they buy now?" → Scarcity (genuine, not manufactured)
-├─ "Why should they pay premium?" → Liking + Authority
-├─ "Why should they refer others?" → Reciprocity + Commitment
-├─ "Why should they choose us over X?" → Social Proof from SIMILAR customers
-└─ "Why should they not churn?" → Commitment + Consistency
+```text
+我是否感到一种不寻常的紧迫感，必须答应？
+├─ 是 → 很可能是互惠、承诺或稀缺在起作用
+│        停下来，使用该原则对应的诊断问题。
+└─ 否 → 我是否莫名被这个人或产品吸引？
+        ├─ 是 → 很可能是喜好或权威在起作用
+        │        把交易对象与交易本身分开判断。
+        └─ 否 → 很可能是正常的说服。
 ```
 
-## Single-Person Bystander Defense (Critical Technique)
+### 营销时应该用哪项原则？
 
-When in distress in a crowd, **single out one person:**
+```text
+你要解决什么问题？
+├─ “他们为什么要信任我们？” → 权威 + 社会认同
+├─ “他们为什么现在就买？” → 稀缺，必须真实，不能人为捏造
+├─ “他们为什么愿意付溢价？” → 喜好 + 权威
+├─ “他们为什么愿意转介绍？” → 互惠 + 承诺
+├─ “他们为什么选我们而不选 X？” → 来自相似客户的社会认同
+└─ “他们为什么不流失？” → 承诺 + 一致
+```
 
-> "YOU in the blue shirt - call 911."
+## 点名求助：应对旁观者效应的关键技巧
 
-This is one of the most important techniques in the book. Generic appeals to a crowd produce diffusion of responsibility (Latane & Darley lab studies). Direct appeal to a specific individual short-circuits the diffusion.
+在人群中遇到困难时，**明确点出一个人：**
 
-## Critical Numbers (With Caveats)
+> “穿蓝衬衫的那位——请拨打 911。”
 
-| Number | Rule | Caveat |
+这是书中最重要的技巧之一。向人群笼统求助会导致责任分散，Latane 与 Darley 的实验室研究支持这一点。直接向某个具体的人求助，可以切断责任分散。
+
+## 关键数字（附限制说明）
+
+| 数字 | 规则／结果 | 限制说明 |
 |--------|------|--------|
-| **6+1** | Universal principles | Unity added in 2016 |
-| **65%** | Milgram compliance | From 1 of 24 conditions; range 0-92% |
-| **94%** | "Because" + meaningless reason | Effect collapses for higher-cost requests |
-| **76%** | Drive Carefully billboard agreement | After agreeing to small 3-inch sign first. Petition-only condition was ~50%. |
-| **6x** | Sales increase with scarcity + exclusivity (Knishinsky) | Verified in source |
-| **35%** | DAV response with free address labels (vs 18%) | Verified |
-| **92%** | Bickman parking-meter compliance in security uniform | Verified in source |
-| **42%** | Bickman parking-meter compliance in street clothes | Verified in source. (NOT 19% - that figure is unverified.) |
-| **3.5x** | Suit jaywalker followers vs sloppy clothes | Verified |
-| **4** | Conditions strengthening commitment | Inner choice / uncoerced is more important than other three combined |
+| **6+1** | 普遍性原则 | 共同体原则于 2016 年加入 |
+| **65%** | Milgram 实验中的服从率 | 来自 24 种条件中的一种；全范围为 0%—92% |
+| **94%** | “因为”加上没有实际意义的理由 | 请求成本更高时，效应消失 |
+| **76%** | 同意放置“小心驾驶”大型告示牌 | 前提是先同意放置 3 英寸小标牌；仅签请愿书的条件约为 50% |
+| **6 倍** | 稀缺加专属信息带来的销量增长，Knishinsky 研究 | 原始来源可核查 |
+| **35%** | DAV 附送免费地址标签后的回应率，对照为 18% | 已核验 |
+| **92%** | Bickman 停车计时器任务中，面对保安制服时的服从率 | 原始来源可核查 |
+| **42%** | Bickman 停车计时器任务中，面对便装时的服从率 | 原始来源可核查。不是 19%，后一个数字未经验证 |
+| **3.5 倍** | 穿西装者乱穿马路时的跟随人数，相对于衣着邋遢者 | 已核验 |
+| **4** | 强化承诺的条件数 | 内在选择／不受强迫比其余三项加起来更重要 |
 
-## Common Mistakes
+## 常见错误
 
-1. **Confusing volume with quality of social proof** - "10,000 customers" matters less than "10,000 customers SIMILAR to you"
-2. **Faking the principles** - Manufactured scarcity, paid reviews, fake authority - all eventually backfire
-3. **Using one principle when multiple stack** - Masters always combine 3+
-4. **Forgetting reciprocity expects symmetry** - Small gift triggers small reciprocity, not huge purchase
-5. **Asking for commitment too big, too fast** - Foot-in-the-door wins; door-in-the-face is a separate tactic with backfire risk
-6. **Using authority you don't have** - "We're the leaders" without proof = pushback
-7. **Scarcity without specificity** - "Limited time!" forever = no scarcity
-8. **Liking without similarity** - Generic friendliness < perceived similarity
-9. **Forgetting the click-whirr is automatic** - Don't over-explain; the trigger does the work
-10. **Using these on smart, alert prospects** - These work on shortcuts. Educated buyers know the moves and will feel reactance against obvious stacking.
+1. **混淆社会认同的数量与质量：**“10,000 名客户”不如“10,000 名与你相似的客户”重要。
+2. **伪造原则所需的条件：**人为稀缺、付费好评、虚假权威，最终都会反噬。
+3. **可以叠加时却只用一种原则：**高手通常会组合三种以上。
+4. **忘记互惠期待对等：**小礼物触发小回报，不会理所当然带来大额购买。
+5. **过早要求过大的承诺：**登门槛更有效；先大后小是另一种技巧，并且有反噬风险。
+6. **使用自己并不拥有的权威：**没有证据却声称“我们是领导者”，会招致反感。
+7. **稀缺却没有具体限制：**永远“限时”，就不再稀缺。
+8. **有友好，却没有相似性：**泛泛的友善不如对方感受到的相似性。
+9. **忘记咔哒—嗡是自动反应：**不要过度解释，让触发因素发挥作用。
+10. **把这些技巧用在聪明且警觉的潜在客户身上：**这些方法依赖心理捷径。熟悉这些技巧的买家会识破套路，并对明显的叠加产生逆反。
 
-## Worked Example: Stacked Principles in Cold Outreach
+## 实例：在陌生客户开发中叠加原则
 
-A short B2B SaaS cold email that layers four principles in six sentences, then an anti-example showing the same message stripped of all of them.
+下面是一封简短的 B2B SaaS 陌生开发邮件，在六句话中叠加了四项原则；随后给出移除这些原则后的反例。
 
-**The email:**
+**邮件：**
 
-> Subject: quick resource on [their pain point]
+> 主题：一份关于［对方痛点］的简短资料
 >
-> Hi [Name], I put together a two-page breakdown of how teams like [similar company] cut their onboarding time by 40% - sending it to you no strings attached. `← Reciprocity: leads with concrete value before any ask`
+> 你好，［姓名］。我整理了一份两页分析，介绍像［相似公司］这样的团队如何把入职培训时间缩短 40%，免费发给你，不附带任何条件。`← 互惠：提出任何请求之前，先提供具体价值`
 >
-> I noticed [their company] recently expanded the engineering team; that usually means onboarding overhead spikes. `← Liking (similarity/relevance): shows you've done homework, signals shared context`
+> 我注意到［对方公司］最近扩大了工程团队，这通常意味着入职培训的负担会增加。`← 喜好（相似性／相关性）：表明你做过功课，传递共同情境`
 >
-> We've helped six companies in [their space] go from three-week ramp to under one week - the case studies are in the doc. `← Social Proof: peers in same industry, specific outcome`
+> 我们已帮助［对方行业］的六家公司，把上手周期从三周缩短到不到一周，文档里有这些案例。`← 社会认同：同行业的同类公司，以及具体结果`
 >
-> I'm [Name], co-founder of [Product] - we've been building onboarding tooling for four years and published the original research behind the 40% figure. `← Authority: real credential, not just a title`
+> 我是［姓名］，［产品］的联合创始人。我们开发入职培训工具已有四年，也发表了上述 40% 数据背后的原始研究。`← 权威：真实资历，而不只是头衔`
 >
-> Would a 20-minute call this week make sense? `← Commitment & Consistency (small ask): low-cost first step keeps the foot-in-the-door sequence alive`
+> 这周安排一次 20 分钟的通话，是否合适？`← 承诺与一致（小请求）：低成本的第一步，让登门槛的过程得以继续`
 >
-> Either way, the doc is yours.
+> 无论如何，这份资料都送给你。
 
-**Why it works:** Every sentence does a job. The gift opens the loop (Reciprocity), relevance signals similarity (Liking), peers close the uncertainty gap (Social Proof), credentials justify trust (Authority), and the ask is deliberately small (Commitment entry point). No principle is faked - the doc is real, the case studies are real, the credentials are real.
+**为什么有效：**每句话都有作用。礼物启动互惠回路，相关性传递相似感，同行案例减少不确定性，资历提供信任依据，而请求被有意控制得很小，作为承诺的入口。没有伪造任何条件：文档、案例、资历都是真实的。
 
-**Anti-example (no principles):**
+**反例（没有使用这些原则）：**
 
-> Subject: Increase your team's productivity
+> 主题：提升你团队的生产力
 >
-> Hi [Name], I'm reaching out because I think our product could be a great fit for your company. We have a lot of happy customers and a proven track record. We offer a demo at your convenience. Let me know if you're interested in learning more about our solution.
+> 你好，［姓名］。联系你是因为我认为我们的产品可能非常适合贵公司。我们有很多满意的客户，也有经过验证的业绩。我们可以在你方便的时候提供演示。如果你有兴趣进一步了解我们的解决方案，请告诉我。
 
-The anti-example triggers nothing. There is no gift, no proof from similar companies, no credentials, no small commitment step, and no demonstrated knowledge of their situation. It reads like every other cold email in the inbox and gets deleted.
+这个反例没有触发任何机制：没有礼物，没有相似公司的证据，没有资历，没有小承诺步骤，也没有表明自己了解对方处境。它与收件箱里的其他陌生开发邮件毫无区别，结果就是被删除。
 
-## When NOT to Use This Skill (Ethically)
+## 何时不应使用本技能（伦理边界）
 
-**Honest application is fine:**
-- Genuine reciprocity (real value first)
-- Real social proof from real customers
-- True authority (verifiable expertise)
-- Genuine scarcity ("I really do have only 3 spots")
+**诚实使用没有问题：**
+- 真实互惠：先提供真实价值。
+- 来自真实客户的真实社会认同。
+- 真实权威：可核验的专业能力。
+- 真实稀缺：“我确实只剩三个名额。”
 
-**Manipulation is not:**
-- Fake scarcity ("limited time" forever)
-- Manufactured social proof (paid reviews, AI-generated testimonials)
-- False authority (fake credentials, actor-in-lab-coat)
-- Coerced commitment (high-pressure tactics)
+**操纵不可取：**
+- 虚假稀缺：永远“限时”。
+- 制造社会认同：付费好评、AI 生成的客户证言。
+- 虚假权威：假资历、穿白大褂的演员。
+- 强迫承诺：高压策略。
 
-> "When practitioners use these principles to deceive, they're mining a deep social trust that makes us all worse off."
+> “当从业者用这些原则欺骗人时，他们正在挖掘并耗损深层的社会信任，最终让所有人的处境变差。”
 
-The book is partly a defense manual against bad-faith use.
+这本书也有一部分是在教人防御恶意运用。
 
-## Modern Application (2026)
+## 现代应用（2026）
 
-| Where Strong | Where Buyers Resist More |
+| 效果较强的地方 | 买家更容易抗拒的地方 |
 |--------------|--------------------------|
-| Sales conversations | Sophisticated B2B buyers (know all 6) |
-| Marketing copy | Software developers (resistant to obvious manipulation) |
-| Negotiation (reciprocity of concessions) | Repeated tactics lose power (100th "limited time" fades) |
-| Online retail (review systems) | Trust-erosion era (decades of fake reviews) |
-| Social media (likes, FOMO) | AI-generated reviews breaking social proof reliability |
+| 销售对话 | 成熟的 B2B 买家，熟悉全部六项原则 |
+| 营销文案 | 软件开发者，抵触明显操纵 |
+| 谈判，例如让步的互惠 | 重复使用的策略会失效，第 100 次“限时”已没有冲击力 |
+| 网络零售，例如评论系统 | 信任被侵蚀的时代，已有数十年的虚假评论 |
+| 社交媒体，例如点赞和错失恐惧 | AI 生成的评论破坏了社会认同的可靠性 |
 
-## Defense Audit (When Buying)
+## 买方防御审查
 
-- [ ] Did someone give me something before asking? (Reciprocity)
-- [ ] Am I committing because I committed earlier? (Consistency)
-- [ ] Am I doing this because everyone else is? (Social Proof)
-- [ ] Am I influenced because I like the salesperson? (Liking)
-- [ ] Am I deferring to someone's "expert" status? (Authority)
-- [ ] Am I rushing because of artificial urgency? (Scarcity)
+- [ ] 对方是否先给了我什么，然后才提出请求？（互惠）
+- [ ] 我现在作出承诺，是否只是因为之前已经承诺过？（一致）
+- [ ] 我这样做，是否因为其他人都这么做？（社会认同）
+- [ ] 我是否因为喜欢销售人员而受到影响？（喜好）
+- [ ] 我是否在服从某人的“专家”身份？（权威）
+- [ ] 我是否因为人为制造的紧迫感而匆忙决定？（稀缺）
 
-**If 2+ are yes → step back, sleep on it, decide tomorrow.**
+**如果有两项以上为“是”，就退一步，睡一觉，明天再决定。**
 
-## Self-Audit (Marketing/Sales)
+## 营销／销售自查
 
-- [ ] Trigger reciprocity (free value first)?
-- [ ] Social proof (from SIMILAR customers)?
-- [ ] Establish authority (real credentials, awards, experience)?
-- [ ] Liking layer (similarity, contact, association)?
-- [ ] Create commitment (small steps before big ask)?
-- [ ] Legitimate scarcity (real, not manufactured)?
+- [ ] 是否先提供免费价值，以触发互惠？
+- [ ] 是否使用了相似客户的社会认同？
+- [ ] 是否用真实资历、奖项、经验建立了权威？
+- [ ] 是否具备喜好因素：相似性、接触、关联？
+- [ ] 是否在大请求之前，以小步骤创造承诺？
+- [ ] 稀缺是否真实，而非人为捏造？
 
-## The Big Idea
+## 核心思想
 
-These 6+1 principles are humanity's most powerful psychological shortcuts. They evolved because they USUALLY serve us well - we'd be paralyzed without them. The same shortcuts can be weaponized.
+这六加一项原则是人类最有力的心理捷径。它们之所以演化出来，是因为通常对我们有用；没有它们，我们会难以作出行动。同样的捷径也可能被武器化。
 
-**The framework gives you:**
-1. **Awareness** - Recognize when you're being clicked
-2. **Defense** - Stop the automatic response
-3. **Application** - Use the principles ethically
-4. **Diagnosis** - Understand WHY some campaigns work
+**这个框架提供四种能力：**
+1. **觉察：**识别自己何时被触发。
+2. **防御：**停止自动反应。
+3. **应用：**合乎道德地使用原则。
+4. **诊断：**理解某些营销活动为何有效。
 
-The principles are amoral - they describe how influence WORKS, not how it SHOULD work. The ethical question is yours.
+原则本身不带道德立场：它们描述影响如何起作用，而非应该如何起作用。伦理判断由你负责。
 
-> "Anywhere we do not have time, energy, or motivation to think carefully and analytically, we'll resort to shortcuts."
+> “只要没有时间、精力或动机去仔细分析思考，我们就会诉诸捷径。”
 
-In a world drowning in information, shortcuts will only matter more.
+在信息泛滥的世界里，这些捷径只会变得更加重要。
 
-## Supporting Files
+## 配套文件
 
-- **[principles.md](principles.md)** - Full 6+1 principles with experiments, sub-factors, manipulative tactics, defenses
-- **[pre-suasion.md](pre-suasion.md)** - The 2016 update: framing, anchoring, priming questions, environmental cues
-- **[replication-notes.md](replication-notes.md)** - Specific failed/contested studies in detail (Bickman correction, Hofling modern replications, Milgram variations, Genovese debunked, Romeo-Juliet, Bargh, ego depletion, Drive Carefully condition disambiguation)
-- **[integration.md](integration.md)** - How principles interact with Mom Test, SPIN Selling, $100M Offers, $100M Leads, Obviously Awesome, Crossing the Chasm, Blue Ocean Strategy, Monetizing Innovation; honest conflicts
+- **[principles.md](principles.md)：**完整的六加一项原则，包括实验、子因素、操纵策略和防御方法。
+- **[pre-suasion.md](pre-suasion.md)：**2016 年更新内容：框架、锚定、铺垫问题与环境线索。
+- **[replication-notes.md](replication-notes.md)：**具体研究失败或争议的详情：Bickman 纠正、Hofling 现代重复研究、Milgram 条件变化、Genovese 传说被推翻、罗密欧与朱丽叶效应、Bargh、自我损耗、“小心驾驶”实验条件辨析。
+- **[integration.md](integration.md)：**与 Mom Test、SPIN Selling、$100M Offers、$100M Leads、Obviously Awesome、Crossing the Chasm、Blue Ocean Strategy、Monetizing Innovation 的交互关系及真实冲突。

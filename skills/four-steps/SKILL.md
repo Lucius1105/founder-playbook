@@ -1,568 +1,633 @@
 ---
 name: four-steps
-description: "Applies Steve Blank's Customer Development methodology from The Four Steps to the Epiphany. Use when a startup is searching for customers and a business model before scaling. Covers Customer Discovery, Customer Validation, Customer Creation, and Company Building. Triggers include 'we built it but no one's buying', 'should we hire salespeople yet', 'how do we find our first customers', 'we're burning cash and sales aren't scaling', 'are we in a new or existing market', 'when do we scale'. NOT for companies that have already crossed the chasm into mainstream (use Crossing the Chasm instead), not for optimizing an existing sales funnel, not for product development methodology (this is its companion, not replacement)."
+description: "应用 Steve Blank 在 The Four Steps to the Epiphany 中提出的客户开发方法，适用于创业公司在扩大规模前寻找客户与商业模式。涵盖客户探索、客户验证、客户创造、公司建设。触发问题包括：产品做出来却没人买、是否该招聘销售、如何寻找首批客户、现金不断消耗而销售无法扩大、属于新市场还是现有市场、何时扩张。不适用于已跨越鸿沟进入主流市场的公司（改用 Crossing the Chasm），也不用于优化现有销售漏斗或替代产品开发方法；本方法是产品开发的配套流程。"
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/four-steps/SKILL.md)。原项目整理：AgentSeal；书籍来源：《The Four Steps to the Epiphany》— Steve Blank；AI辅助翻译。
 
+> **说明：**本技能是独立分析与评论，并非原书的复制品。它结合现代创业实践梳理书中核心思想，指出框架中过时或不完整的部分，并融入相邻领域的观点。如需完整论证与背景，请阅读原书。
 
-# The Four Steps to the Epiphany
+<a id="the-four-steps-to-the-epiphany"></a>
+# The Four Steps to the Epiphany（创业四步法）
 
-> "Startups that survive the first few tough years do not follow the traditional product-centric launch model. Through trial and error, hiring and firing, successful startups all invent a parallel process to product development. I call this process 'Customer Development.'" - Steve Blank
+> “熬过最初几年艰难时期的创业公司，并不遵循传统的产品中心型推出模式。通过试错、招聘与解雇，成功的创业公司都会发明一套与产品开发并行的流程。我把它称为‘客户开发’。”——Steve Blank
 
-## Should You Use This Skill?
+<a id="should-you-use-this-skill"></a>
+## 你应该使用本技能吗？
 
-```
-Are you searching for customers and a business model (not executing a known one)?
-├─ YES → This skill is for you
-└─ NO  → You have paying customers and a repeatable sales process?
-         ├─ YES, but stuck before mainstream → Use Crossing the Chasm
-         ├─ YES, scaling fine → You're past this. Use Company Building concepts only
-         └─ NO, still pre-product → Start here at Customer Discovery
+```text
+你是在寻找客户与商业模式，而非执行已知模式吗？
+├─ 是 → 本技能适合你。
+└─ 否 → 你有付费客户和可重复的销售流程吗？
+         ├─ 有，但卡在主流市场之前 → 用 Crossing the Chasm。
+         ├─ 有，扩张也顺利 → 已超过本技能阶段，只使用公司建设概念。
+         └─ 没有，仍在产品诞生之前 → 从这里的客户探索开始。
 
-Have you validated that people will pay for your product?
-├─ NO  → Start at Customer Discovery (Step 1)
-└─ YES → Can you describe a repeatable sales process?
-         ├─ NO  → You're in Customer Validation (Step 2)
-         └─ YES → Have you matched your launch to your Market Type?
-                  ├─ NO  → You're in Customer Creation (Step 3)
-                  └─ YES → Company Building (Step 4)
+已验证人们愿意为产品付费吗？
+├─ 没有 → 从客户探索，第1步开始。
+└─ 有 → 能描述可重复的销售流程吗？
+         ├─ 不能 → 处于客户验证，第2步。
+         └─ 能 → 推出方式与市场类型匹配了吗？
+                  ├─ 没有 → 处于客户创造，第3步。
+                  └─ 有 → 公司建设，第4步。
 ```
 
 ---
 
-## The Core Insight
+<a id="the-core-insight"></a>
+## 核心洞见
 
-**9 out of 10 new product introductions fail.** Not because the products don't work - because the companies never found customers.
+**十次新产品推出中有九次失败。**不是因为产品不能用，而是因为公司从未找到客户。
 
-The Product Development model (Concept → Build → Test → Launch) was designed for manufacturing in the early 1900s and adopted by consumer packaged goods in the 1950s. It works when you're launching a new product into an existing market with known customers. **Most startups have neither.**
+产品开发模型——概念 → 构建 → 测试 → 推出——于 20 世纪初为制造业设计，20 世纪 50 年代被消费包装品行业采用。将新产品推出到客户已知的现有市场时，它很有效。**多数创业公司两个条件都不具备。**
 
-```
-PRODUCT DEVELOPMENT (what everyone does):
-  Concept/Seed ──→ Product Dev ──→ Alpha/Beta ──→ Launch
-                                                    ↑
-                                              "Where are the
-                                               customers?"
+```text
+产品开发（大家通常的做法）：
+  概念／种子 ──→ 产品开发 ──→ Alpha／Beta测试 ──→ 推出
+                                                     ↑
+                                               “客户在哪里？”
 
-CUSTOMER DEVELOPMENT (what winners do - in parallel):
+客户开发（成功者并行进行的工作）：
   ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐
-  │ Customer │←──→│ Customer │←──→│ Customer │───→│ Company  │
-  │ Discovery│    │Validation│    │ Creation │    │ Building │
+  │ 客户探索 │←──→│ 客户验证 │←──→│ 客户创造 │───→│ 公司建设 │
   └──────────┘    └──────────┘    └──────────┘    └──────────┘
        ↻               ↻               ↻
-    iterate          iterate         iterate
+      迭代            迭代            迭代
 ```
 
-Customer Development is a **companion** to Product Development, not a replacement. Each step is an **iterative circle** - going backwards is natural and valuable, not failure.
+客户开发是产品开发的**配套流程**，不是替代品。每一步都是**迭代循环**：往回走很自然，也有价值，不代表失败。
 
-> "It's OK to screw it up if you plan to learn from it." - the heart of the methodology.
+> “只要打算从中学习，搞砸也没关系。”——这是方法的核心。
 
 ---
 
-## The Ten Flaws of the Product Development Model
+<a id="the-ten-flaws-of-the-product-development-model"></a>
+## 产品开发模型的十个缺陷
 
-| # | Flaw | Consequence |
+| 编号 | 缺陷 | 后果 |
 |---|------|-------------|
-| 1 | **Where are the customers?** | Greatest risk is customer/market development, not product development |
-| 2 | **Focus on first customer ship date** | FCS means Engineering is done, not that you understand customers |
-| 3 | **Execution instead of learning** | Sales/marketing hired for what they know, not what they can learn |
-| 4 | **No meaningful sales/marketing milestones** | "Hire, fire, repeat" substitutes for real progress metrics |
-| 5 | **Product dev used to measure sales** | Clock to tell temperature - measures the wrong thing |
-| 6 | **Product dev used to measure marketing** | All plans made in "a vacuum of real customer feedback" |
-| 7 | **Premature scaling** | Fully staffing sales/marketing before knowing if anyone will buy |
-| 8 | **Death spiral** | Premature scaling → burn rate → missed numbers → fire VP Sales → fire VP Marketing → fire CEO |
-| 9 | **Not all startups are alike** | Four Market Types need radically different strategies |
-| 10 | **Unrealistic expectations** | "Build it and the customers will come" is not a strategy, it's a prayer |
+| 1 | **客户在哪里？** | 最大风险在客户／市场开发，而非产品开发 |
+| 2 | **聚焦首次客户交付日期** | FCS 意味着工程完成，不意味着已经理解客户 |
+| 3 | **执行取代学习** | 招销售／营销人员看他们已经知道什么，而非能学会什么 |
+| 4 | **没有有意义的销售／营销里程碑** | “招聘、解雇、再来一遍”替代真正的进展指标 |
+| 5 | **用产品开发衡量销售** | 像用时钟测温度，衡量对象错误 |
+| 6 | **用产品开发衡量营销** | 所有计划都在“缺少真实客户反馈的真空”里制定 |
+| 7 | **过早扩张** | 尚不知道有没有人买，就配齐销售／营销人员 |
+| 8 | **死亡螺旋** | 过早扩张 → 烧钱 → 不达预期 → 解雇销售副总裁 → 解雇营销副总裁 → 解雇 CEO |
+| 9 | **并非所有创业公司都一样** | 四种市场类型需要截然不同的策略 |
+| 10 | **不切实际的预期** | “做出来客户自然会来”不是策略，而是祈祷 |
 
-> "In a startup, no facts exist inside the building, only opinions."
+> “创业公司的办公室里没有事实，只有意见。”
 
 ---
 
-## The Four Market Types
+<a id="the-four-market-types"></a>
+## 四种市场类型
 
-**Everything depends on Market Type.** It changes how you find customers, how you launch, how you spend, and how long it takes to become profitable.
+**一切都取决于市场类型。**它改变寻找客户、推出产品、花钱的方式，也改变盈利所需时间。
 
-| Market Type | Definition | Competitors | Time to Profit | Key Risk |
+| 市场类型 | 定义 | 竞争者 | 盈利时间 | 关键风险 |
 |---|---|---|---|---|
-| **Existing** | Higher performance than what's currently offered | Known incumbents define the market | 12-18 months | Cost of entry (Lanchester rules) |
-| **New** | Enables something customers couldn't do before | Non-consumption / other startups | 3-7 years | Market may never materialize |
-| **Resegmented (Low-cost)** | "Good enough" at substantially lower price | Incumbents who abandon low margins | 18-36 months | Must be profitable at low price |
-| **Resegmented (Niche)** | Radical enough to change the rules for a subset | Incumbents who defend profitable core | 18-36 months | Segmentation must be spot-on |
+| **现有市场** | 性能高于当前供给 | 已知的现有企业定义市场 | 12—18 个月 | 进入成本，适用兰彻斯特规则 |
+| **新市场** | 让客户做到过去做不到的事 | 不消费／其他创业公司 | 3—7 年 | 市场可能永远不会出现 |
+| **重新细分：低成本** | 以显著更低价格提供“够用”的产品 | 放弃低利润业务的现有企业 | 18—36 个月 | 必须在低价下盈利 |
+| **重新细分：利基** | 对某个子群体而言，创新足以改变规则 | 保护高利润核心业务的现有企业 | 18—36 个月 | 客群细分必须准确 |
 
-> "Market Type changes everything a company does."
+> “市场类型改变公司所做的一切。”
 
-### How to Tell Which Type You're In
+<a id="how-to-tell-which-type-youre-in"></a>
+### 如何判断自己属于哪种类型
 
+```text
+是否有现成公司在销售可比较的产品？
+├─ 没有 → 新市场。
+│          没有竞争者，也没有现成客户。
+└─ 有 → 你是否在同样基础上竞争，例如功能、性能？
+         ├─ 是 → 现有市场。
+         │        必须在已知维度上更好。
+         └─ 否 → 是否面向某个客户子群体？
+                  ├─ 是，以更低价格服务 → 重新细分：低成本。
+                  └─ 是，解决特定需求 → 重新细分：利基。
 ```
-Are there existing companies selling comparable products?
-├─ NO  → NEW MARKET
-│        (No competitors, but also no existing customers)
-└─ YES → Are you competing on the same basis (features, performance)?
-         ├─ YES → EXISTING MARKET
-         │        (You must be better on known dimensions)
-         └─ NO  → Are you targeting a subset of customers?
-                  ├─ YES, at lower price → RESEGMENTED (LOW-COST)
-                  └─ YES, for a specific need → RESEGMENTED (NICHE)
-```
 
-### The Handspring/Palm Test
+<a id="the-handspringpalm-test"></a>
+### Handspring／Palm 检验
 
-Same team, same CEO (Donna Dubinsky), same product category, three years apart:
-- **Handspring (1999, existing market)**: PDA market was billion-dollar. Differentiated on expandability. $170M revenue in 12 months. Customers knew what a PDA was.
-- **Palm (1996, new market)**: PDA market didn't exist. If Palm had used Handspring's "drive demand from competitors" playbook: zero dollars in sales. Had to educate customers about what a PDA could do.
+同样团队、同样 CEO Donna Dubinsky、同样产品品类，前后相隔三年：
 
-**Identical products and team. Wrong Market Type strategy = death.**
+- **Handspring（1999 年，现有市场）：**PDA 已是十亿美元市场，通过可扩展性差异化，12 个月收入 1.7 亿美元。客户知道 PDA 是什么。
+- **Palm（1996 年，新市场）：**PDA 市场不存在。如果 Palm 使用 Handspring 的“从竞争者那里吸引需求”打法，销售额会是零，必须先教育客户 PDA 能做什么。
+
+**产品与团队相同，市场类型策略错误就意味着死亡。**
 
 ---
 
-## Step 1: Customer Discovery
+<a id="step-1-customer-discovery"></a>
+## 第 1 步：客户探索
 
-> "The goal of Customer Discovery is finding out who the customers for your product are and whether the problem you believe you are solving is important to them."
+> “客户探索的目标，是弄清楚产品的客户是谁，以及你认为正在解决的问题，对他们是否重要。”
 
-### What You Are NOT Doing
-- Collecting feature lists from prospects
-- Running focus groups to define the product
-- Writing a Marketing Requirements Document
-- Understanding the needs of ALL customers
+<a id="what-you-are-not-doing"></a>
+### 你不是在做什么
 
-### What You ARE Doing
-- Testing whether your **founders' vision** matches a real, painful problem
-- Building the product iteratively for the **few**, not the many
-- Getting outside the building
+- 从潜在客户那里收集功能清单。
+- 召开焦点小组来定义产品。
+- 编写营销需求文档。
+- 了解所有客户的需求。
 
-> "The initial product specification comes from the founders' vision, not the sum of a set of focus groups."
+<a id="what-you-are-doing"></a>
+### 你正在做什么
 
-### Earlyvangelists - The Most Important Customers You'll Ever Know
+- 检验**创始人的愿景**是否对应真实而痛苦的问题。
+- 迭代开发面向**少数人**、而非多数人的产品。
+- 走出办公室。
 
-Not all early customers are equal. You need **earlyvangelists** - visionary customers who:
+> “最初的产品规格来自创始人的愿景，而非一系列焦点小组意见的总和。”
 
-| # | Characteristic | Why It Matters |
+<a id="earlyvangelists---the-most-important-customers-youll-ever-know"></a>
+### 早期核心客户：你会认识的最重要客户
+
+并非所有早期客户都一样。你需要 **earlyvangelists，即早期核心客户**，他们是符合以下特征的愿景型客户：
+
+| 编号 | 特征 | 为什么重要 |
 |---|---|---|
-| 1 | Has a problem | Not latent - they know it exists |
-| 2 | Understands the problem | Can articulate it and its cost |
-| 3 | Actively searching for a solution | Has a timetable |
-| 4 | Has cobbled together an interim solution | Proves the pain is real enough to act on |
-| 5 | Has or can acquire budget | Can actually buy |
+| 1 | 有问题 | 不是潜在问题，他们知道问题存在 |
+| 2 | 理解问题 | 能表达问题与其成本 |
+| 3 | 主动寻找解决方案 | 有时间表 |
+| 4 | 已拼凑临时方案 | 证明痛苦真实到足以行动 |
+| 5 | 有预算或能取得预算 | 实际能买 |
 
-The customer pain hierarchy:
+客户痛点层次：
 
+```text
+“什么问题？”                       → 潜在需求，两年内无用。
+“对，很糟糕。我给大家发水。”        → 主动需求，却只处理症状。
+“每年损失50万美元，要在Y前有X。”    → 已想清方案，开始接近。
+“向IT提了需求，他们拼了个东西，     → 已有自制方案，对，就是这种客户。
+  但总是崩溃。”
+“给供应商准备了50万美元预算。”      → 已有预算，最佳客户。
 ```
-"What problem?"                    → Latent need. Useless for 2 years.
-"Yes, terrible. I hand out water." → Active, but only papering symptoms.
-"Losing $500K/yr. Need X by Y."   → Visualized solution. Getting warm.
-"Wrote a req to IT, they cobbled   → HAS A HOMEMADE SOLUTION. YES.
- something but it keeps crashing."
-"Budgeted $500K for a vendor."     → HAS BUDGET. ULTIMATE CUSTOMER.
-```
 
-### The Four Phases of Customer Discovery
+<a id="the-four-phases-of-customer-discovery"></a>
+### 客户探索的四个阶段
 
-| Phase | Activity | Key Question |
+| 阶段 | 活动 | 关键问题 |
 |---|---|---|
-| **0** | Get Buy-In | Does the team agree to this process? |
-| **1** | State Your Hypotheses | What do we believe about customer, problem, product, pricing, channel, market, competition? |
-| **2** | Test the Problem | Do customers recognize and care about this problem? |
-| **3** | Test the Product | Does our product concept solve their problem? Will they pay? |
-| **4** | Verify | Iterate or proceed to Customer Validation? |
+| **0** | 取得认同 | 团队同意这套流程吗？ |
+| **1** | 陈述假设 | 我们对客户、问题、产品、价格、渠道、市场、竞争有什么判断？ |
+| **2** | 检验问题 | 客户认识到并在意这个问题吗？ |
+| **3** | 检验产品 | 产品概念能解决问题吗？客户愿意付费吗？ |
+| **4** | 核实 | 继续迭代，还是进入客户验证？ |
 
-**Six hypotheses to articulate before leaving the building:**
-1. Customer & Problem Hypothesis
-2. Product Hypothesis
-3. Distribution & Pricing Hypothesis
-4. Demand Creation Hypothesis
-5. Market Type Hypothesis
-6. Competitive Hypothesis
+**走出办公室前要明确的六类假设：**
 
-### Pass/Fail
+1. 客户与问题假设。
+2. 产品假设。
+3. 分销与定价假设。
+4. 需求创造假设。
+5. 市场类型假设。
+6. 竞争假设。
 
-> "If, and only if, you are successful in this step do you proceed to Customer Validation."
+<a id="passfail"></a>
+### 通过／失败
 
-Passing means: founders' vision matches a real, painful, paid-for problem. Failing means: iterate within Discovery or exit.
+> “当且仅当这一步成功，才进入客户验证。”
 
----
-
-## Step 2: Customer Validation
-
-> "Customer Validation is where the rubber meets the road."
-
-### The Goal
-
-Build a **repeatable sales roadmap** - "the playbook of the proven and repeatable sales process that has been field-tested by successfully selling the product to early customers."
-
-### What You Are NOT Doing
-- Staffing a sales team
-- Executing a sales plan
-- Executing a "sales strategy"
-- Generating revenue (that's a side effect, not the goal)
-
-> "Building a roadmap to sales success, rather than building a sales organization, is the heart of Customer Validation."
-
-### Sales Roadmap vs. Sales Pipeline
-
-A **pipeline** is the funnel (leads → suspects → prospects → closes → orders). Mature companies need it.
-
-A **roadmap** answers: Who influences? Who recommends? Who decides? Who has budget? Who sabotages? How many calls per sale? Average cycle? What selling strategy? Key customer problems? Profile of the optimal earlyvangelist?
-
-> "It is impossible to build a sales pipeline without first having developed a sales roadmap."
-
-### Core Questions Customer Validation Must Answer
-
-1. Do we have product/market fit?
-2. Do we understand the sales process?
-3. Is the sales process **repeatable**?
-4. Can we **prove** it's repeatable? (Proof = full-price orders)
-5. Can we get orders with the current product?
-6. Have we positioned correctly?
-7. Do we have a workable channel?
-8. Can we scale profitably?
-
-### The Validation Team
-
-**Founders/CEO must be in front of customers through at least the first iteration.** Delegating to VP of Sales is often fatal.
-
-- In enterprise/B2B, if no founder can close: hire a **"Sales Closer"** (NOT a VP of Sales)
-- Sales Closer profile: regional-manager background, great Rolodex, comfortable with ambiguity, not interested in building an org
-
-### Pass/Fail - The Canonical Pivot
-
-Three conditions to pass:
-1. **Repeatable** customers
-2. **Repeatable** sales process
-3. **Profitable** business model
-
-> "If you can't find enough paying customers in the Customer Validation step, the model returns you to Customer Discovery to rediscover what customers want and will pay for."
-
-This is the **pivot** - predating the term's popularization. Failure here is not failure; it's learning. Most startups cycle through Steps 1-2 at least twice.
+通过意味着创始人愿景对应真实、痛苦、有人愿意付费的问题；失败意味着继续在探索中迭代，或退出。
 
 ---
 
-## Step 3: Customer Creation
+<a id="step-2-customer-validation"></a>
+## 第 2 步：客户验证
 
-> "Customer Creation builds on the success of the company's initial sales. Its goal is to create end-user demand and drive that demand into the company's sales channel."
+> “客户验证，才是真正上路检验的时候。”
 
-### Why It Comes AFTER Validation
+<a id="the-goal"></a>
+### 目标
 
-> "No serious spending in marketing until the company has a proven and repeatable sales roadmap."
+建立**可重复的销售路线图**——“通过向早期客户成功销售，在实地检验过、已经证明可重复的销售流程手册”。
 
-Cash protection: this step is placed after Validation to move heavy marketing spending after the point where a startup has its first customers.
+<a id="what-you-are-not-doing-1"></a>
+### 你不是在做什么
 
-### The Fatal Error
+- 配备销售团队。
+- 执行销售计划。
+- 执行一套“销售策略”。
+- 创造收入，收入是副产品，不是目标。
 
-Most startups execute the same launch playbook regardless of Market Type. **This is the #1 Customer Creation mistake.**
+> “建立通往销售成功的路线图，而非建立销售组织，是客户验证的核心。”
 
-### Customer Creation Strategy by Market Type
+<a id="sales-roadmap-vs-sales-pipeline"></a>
+### 销售路线图与销售管道
 
-| Building Block | Existing Market | New Market | Resegmented Market |
+**销售管道**是漏斗：线索 → 待识别客户 → 潜在客户 → 成交 → 订单。成熟企业需要它。
+
+**路线图**回答：谁影响？谁推荐？谁决策？谁有预算？谁阻挠？每单需要多少次会谈？平均周期？什么销售策略？关键客户问题？最佳早期核心客户画像？
+
+> “没有先建立销售路线图，就不可能建立销售管道。”
+
+<a id="core-questions-customer-validation-must-answer"></a>
+### 客户验证必须回答的核心问题
+
+1. 产品与市场匹配了吗？
+2. 理解销售流程了吗？
+3. 销售流程**可重复**吗？
+4. 能**证明**可重复吗？证据就是全价订单。
+5. 现有产品能拿到订单吗？
+6. 定位正确吗？
+7. 渠道可行吗？
+8. 能盈利地扩大规模吗？
+
+<a id="the-validation-team"></a>
+### 验证团队
+
+**至少在第一轮迭代中，创始人／CEO 必须亲自面对客户。**把工作交给销售副总裁通常是致命的。
+
+- 企业／B2B 中，如果没有创始人能成交，聘请一名**“成交型销售人员”**，而非销售副总裁。
+- 此人的画像：有区域经理背景、人脉丰富、能接受不确定性、不热衷搭建组织。
+
+<a id="passfail---the-canonical-pivot"></a>
+### 通过／失败：典型转型
+
+通过的三个条件：
+
+1. **可重复**的客户。
+2. **可重复**的销售流程。
+3. **可盈利**的商业模式。
+
+> “如果在客户验证中找不到足够付费客户，模型会让你返回客户探索，重新发现客户想要并愿意付费的东西。”
+
+这就是**转型（pivot）**，早于该术语的流行。这里失败不是失败，而是学习。多数创业公司至少会经过两轮第 1—2 步循环。
+
+---
+
+<a id="step-3-customer-creation"></a>
+## 第 3 步：客户创造
+
+> “客户创造建立在初期销售成功的基础上，目标是创造终端用户需求，并把需求引入公司的销售渠道。”
+
+<a id="why-it-comes-after-validation"></a>
+### 为什么它在验证之后
+
+> “公司尚未拥有经过证明、可重复的销售路线图之前，不要在营销上投入大笔资金。”
+
+这是为了保护现金：将这一阶段放在验证之后，让大额营销支出发生在创业公司取得首批客户之后。
+
+<a id="the-fatal-error"></a>
+### 致命错误
+
+多数创业公司不管市场类型如何，都执行同一套推出打法。**这是客户创造的头号错误。**
+
+<a id="customer-creation-strategy-by-market-type"></a>
+### 不同市场类型的客户创造策略
+
+| 构成 | 现有市场 | 新市场 | 重新细分市场 |
 |---|---|---|---|
-| **Year 1 Goal** | Market share | Market adoption | Market share + segment education |
-| **Positioning** | Differentiation (faster, cheaper, better) | Vision and passion ("what could be") | Segmentation (unique valued spot) |
-| **Launch Type** | Onslaught (full frontal) | Early Adopter (targeted, low-cost) | Niche (focused onslaught) |
-| **Demand Creation** | Drive demand into channel | Educate about the market | Educate + drive demand |
+| **第一年目标** | 市场份额 | 市场采用 | 市场份额＋细分市场教育 |
+| **定位** | 差异化，更快、更便宜、更好 | 愿景与热情，描绘可能未来 | 细分，找到独特且有价值的位置 |
+| **推出类型** | 全面猛攻，正面攻击 | 早期采用者，定向、低成本 | 利基，集中猛攻 |
+| **需求创造** | 将需求引入渠道 | 开展市场教育 | 教育＋驱动需求 |
 
-### New Lanchester Strategy (Market Entry Cost)
+<a id="new-lanchester-strategy-market-entry-cost"></a>
+### 新兰彻斯特战略（市场进入成本）
 
-Military operations research applied to market entry:
+将军事运筹研究应用于市场进入：
 
-| Leader's Market Share | Implication | Cost of Entry |
+| 领导者份额 | 含义 | 进入成本 |
 |---|---|---|
-| **≥74%** (monopoly) | Do NOT attack head-on | 3× their budget - unaffordable |
-| **≥41%** (clear leader) | Very difficult | Resegment or create new market |
-| **26-41%** (unstable) | Some opportunity | 1.7× weakest player's budget |
-| **<26%** (fragmented) | Market ripe for entry | Affordable entry possible |
+| **≥74%**，垄断 | 不要正面攻击 | 其预算的三倍，负担不起 |
+| **≥41%**，明确领导者 | 非常困难 | 重新细分或创造新市场 |
+| **26%—41%**，不稳定 | 有些机会 | 最弱竞争者预算的 1.7 倍 |
+| **<26%**，分散 | 适合进入 | 可能以可承受成本进入 |
 
-> "Your goal is to become No. 1 in something important to your customer."
+> “你的目标，是在某个对客户重要的方面成为第一。”
 
-### First Mover Advantage Is a Myth
+<a id="first-mover-advantage-is-a-myth"></a>
+### 先发优势是个神话
 
-Golder & Tellis (1993), 500 brands in 50 categories:
-- **47% of market pioneers failed**
-- Early market leaders (entered ~13 years later on average) had **8% failure rate**
+Golder 与 Tellis 于 1993 年研究了 50 个品类中的 500 个品牌：
 
-> "The issue is not being first to market, but understanding the type of market your company is going to enter."
+- **市场开拓者失败率为 47%。**
+- 早期市场领导者平均晚约 13 年进入，**失败率为 8%。**
 
-### The Three Launch Types
+> “问题不在于第一个进入市场，而在于理解公司将要进入哪种市场。”
 
-**Onslaught (Existing Market)**: Full-frontal assault. Maximum exposure. Heavy upfront spending. Only correct for capturing share in an existing market.
+<a id="the-three-launch-types"></a>
+### 三种推出类型
 
-**Early Adopter (New Market)**: Targeted, low-cost. Goal is mind share, not market share. Education campaign targeting earlyvangelists. Create a "tipping point." New markets take **3-7 years** to become profitable.
+**全面猛攻（现有市场）：**正面攻击、最大曝光、前期重投入。只适合夺取现有市场份额。
 
-**Niche (Resegmented Market)**: All demand-creation dollars focused on one identifiable segment. If the segment is speculative, treat as new market instead.
+**早期采用者（新市场）：**定向、低成本。目标是心智份额，而非市场份额。面向早期核心客户开展教育，创造“引爆点”。新市场需要 **3—7 年**才能盈利。
 
-### Messengers (from Gladwell's "Law of the Few")
+**利基（重新细分市场）：**所有需求创造资金集中到一个可识别的客群。如果客群还只是推测，就按新市场处理。
 
-Three types to educate before launch:
-1. **Experts** - industry analysts, product reviewers, consultants. Value independence.
-2. **Evangelists** - paying customers who are unabashedly enthusiastic. "You can't get them off the phone."
-3. **Connectors** - bloggers, conference organizers, thought leaders who bridge multiple worlds.
+<a id="messengers-from-gladwells-law-of-the-few"></a>
+### 传播者（来自 Gladwell 的“少数人法则”）
 
-### Phase Summary
+推出前，应让三类人了解产品：
 
-| Phase | Activity |
+1. **专家**：行业分析师、产品评测者、顾问，重视独立性。
+2. **布道者**：付费客户，毫不掩饰自己的热情，“电话一聊就停不下来”。
+3. **连接者**：跨越多个圈子的博主、大会组织者、思想领袖。
+
+<a id="phase-summary"></a>
+### 阶段概览
+
+| 阶段 | 活动 |
 |---|---|
-| **1** | Get Ready to Launch - choose Market Type, set year-1 goals |
-| **2** | Position Company and Product - audits, match positioning to Market Type |
-| **3** | Launch - select launch type, audiences, messengers, craft sticky messages, measure |
-| **4** | Create Demand - match demand strategy to year-1 objectives, measure, iterate |
+| **1** | 准备推出：选择市场类型，设定第一年目标 |
+| **2** | 为公司与产品定位：开展审计，让定位匹配市场类型 |
+| **3** | 推出：选择类型、受众、传播者，制作有黏性的信息，进行衡量 |
+| **4** | 创造需求：让需求策略匹配第一年目标，衡量、迭代 |
 
 ---
 
-## Step 4: Company Building
+<a id="step-4-company-building"></a>
+## 第 4 步：公司建设
 
-> "Company Building is where the company transitions from its informal, learning and discovery-oriented Customer Development team into formal departments with VPs of Sales, Marketing and Business Development."
+> “公司建设，是企业从非正式、面向学习探索的客户开发团队，转变为拥有销售、营销、业务拓展副总裁的正式部门。”
 
-### The Two Failure Modes
+<a id="the-two-failure-modes"></a>
+### 两种失败模式
 
-1. **Entrepreneur refuses to adapt**: insists "more of the same" chaos works at scale
-2. **Investors replace founders with "professionals"**: bureaucracy kills innovation DNA
+1. **创业者拒绝适应**：坚持认为扩大后继续沿用同样混沌方式也能行。
+2. **投资者用‘职业经理人’替换创始人**：官僚化杀死创新基因。
 
-Both are wrong. The answer is a **mission-centric organization** - the third alternative between startup chaos and corporate rigidity.
+两者都错。答案是**以使命为中心的组织**，在创业混沌与大企业僵化之间的第三条路。
 
-### Three Stages of Company Evolution
+<a id="three-stages-of-company-evolution"></a>
+### 公司演化的三个阶段
 
-| Stage | Organizational Form | Activities |
+| 阶段 | 组织形式 | 活动 |
 |---|---|---|
-| **1** (Discovery/Validation) | Customer + Product Development teams | Learning and discovery |
-| **2** (Company Building) | Mission-centric organization | Cross the chasm |
-| **3** (Large company) | Process-centric organization | Repeatable/scalable execution |
+| **1**，探索／验证 | 客户开发＋产品开发团队 | 学习与探索 |
+| **2**，公司建设 | 以使命为中心的组织 | 跨越鸿沟 |
+| **3**，大公司 | 以流程为中心的组织 | 可重复、可规模化的执行 |
 
-### The Four Phases
+<a id="the-four-phases"></a>
+### 四个阶段
 
-| Phase | Activity |
+| 阶段 | 活动 |
 |---|---|
-| **1** | Reach mainstream customers - match growth curve to Market Type |
-| **2** | Review management, build mission-centric organization |
-| **3** | Transition Customer Development team into functional departments |
-| **4** | Build fast-response departments (OODA loops) |
+| **1** | 触达主流客户，让增长曲线匹配市场类型 |
+| **2** | 审视管理层，建立以使命为中心的组织 |
+| **3** | 将客户开发团队转为职能部门 |
+| **4** | 建立快速响应的部门与 OODA 循环 |
 
-### Mainstream Customers by Market Type
+<a id="mainstream-customers-by-market-type"></a>
+### 不同市场类型中的主流客户
 
-- **Existing market**: Linear ramp. No real chasm. Use positioning to differentiate. Relentless execution.
-- **New market**: Hockey stick. Long flat period. Husband resources, evangelize, grow market. Risk: market may be a chimera.
-- **Resegmented market**: Hybrid. Some early sales mask the need to convert mainstream. Use branding AND positioning.
+- **现有市场：**线性爬升，没有真正鸿沟。通过定位形成差异，持续有力地执行。
+- **新市场：**曲棍球杆曲线，长期平坦。节约资源、传播理念、培育市场。风险是市场可能只是幻象。
+- **重新细分市场：**混合型，一些早期销售会掩盖转化主流客户的必要性。品牌和定位都要用。
 
-### Mission-Centric Management (from USMC Warfighting Doctrine)
+<a id="mission-centric-management-from-usmc-warfighting-doctrine"></a>
+### 使命中心式管理（来自美国海军陆战队作战条令）
 
-Five components:
-1. **Mission Intention** - every mission has tasks AND intention. Intention is more enduring.
-2. **Employee Initiative** - taking initiative is part of the implicit employment contract.
-3. **Mutual Trust** - good news fast, bad news faster. Never punish the messenger.
-4. **"Good Enough" Decision-Making** - "A good plan violently executed now is better than a perfect plan next week." (Patton)
-5. **Mission Synchronization** - peer-wise cross-departmental coordination, not top-down staff meetings.
+五个组成部分：
 
-### When Founders Should Stay
+1. **使命意图**：每项使命都有任务与意图，意图更持久。
+2. **员工主动性**：主动行动属于隐含雇佣契约的一部分。
+3. **相互信任**：好消息快传，坏消息更快；永不惩罚报信者。
+4. **“足够好”的决策**：“现在果断执行一个好计划，胜过下周执行完美计划。”——Patton。
+5. **使命协同**：部门之间对等协调，而非自上而下的员工会议。
 
-Blank rejects the "kick the founder out" reflex:
-- Within 3 years every company faces a competitive innovation challenge
-- The corporate DNA for innovation that founders carry is precisely what's needed
-- Many startups die after founders are ejected because process-oriented replacements gut innovation
+<a id="when-founders-should-stay"></a>
+### 创始人何时应该留下
 
-> "The long-term success of a startup requires founder continuity long past the point when conventional wisdom says the founders should be replaced."
+Blank 反对条件反射式地“踢走创始人”：
 
----
+- 三年内，每家公司都会遭遇竞争性创新挑战。
+- 此时需要的，恰恰是创始人携带的企业创新基因。
+- 许多创业公司在创始人被赶走后死亡，因为流程导向的替代者掏空了创新能力。
 
-## Decision Trees
-
-### "Which step are we in?"
-
-```
-Do you know who your customers are and what problem you solve?
-├─ NO  → CUSTOMER DISCOVERY (Step 1)
-└─ YES → Can you sell repeatably at a profit?
-         ├─ NO  → Have you sold to anyone?
-         │        ├─ NO  → Still CUSTOMER DISCOVERY
-         │        └─ YES → CUSTOMER VALIDATION (Step 2)
-         └─ YES → Are you driving demand and growing?
-                  ├─ NO  → CUSTOMER CREATION (Step 3)
-                  └─ YES → COMPANY BUILDING (Step 4)
-```
-
-### "Should we hire salespeople?"
-
-```
-Do you have a proven, repeatable sales roadmap?
-├─ NO  → DO NOT HIRE SALESPEOPLE
-│        Founders sell. Maybe one Sales Closer.
-└─ YES → Are you past Customer Validation?
-         ├─ NO  → Still NO. Iterate first.
-         └─ YES → Now you can staff a sales org.
-```
-
-### "What Market Type are we?"
-
-```
-Can customers already do what your product does (via competitors)?
-├─ NO  → NEW MARKET
-│        • Year 1 goal: adoption, not share
-│        • Launch: early adopter (low-cost, targeted)
-│        • Timeline: 3-7 years to profit
-│        • Danger: onslaught launch will burn all your cash
-└─ YES → Are you competing on the same dimensions?
-         ├─ YES → EXISTING MARKET
-         │        • Year 1 goal: market share
-         │        • Launch: onslaught (if you can afford Lanchester rules)
-         │        • Timeline: 12-18 months to profit
-         └─ NO  → RESEGMENTED MARKET
-                  • Low-cost or niche?
-                  • Year 1 goal: share + education
-                  • Launch: niche (focused onslaught)
-```
+> “创业公司的长期成功，要求创始人持续参与，远远超过传统观点认为应该替换他们的时点。”
 
 ---
 
-## Critical Numbers & Rules of Thumb
+<a id="decision-trees"></a>
+## 决策树
 
-| Number | Rule |
+<a id="which-step-are-we-in"></a>
+### “我们处于哪一步？”
+
+```text
+知道客户是谁，以及解决什么问题吗？
+├─ 不知道 → 客户探索，第1步。
+└─ 知道 → 能重复且盈利地销售吗？
+           ├─ 不能 → 曾经卖给任何人吗？
+           │          ├─ 没有 → 仍在客户探索。
+           │          └─ 有 → 客户验证，第2步。
+           └─ 能 → 正在驱动需求并增长吗？
+                    ├─ 没有 → 客户创造，第3步。
+                    └─ 有 → 公司建设，第4步。
+```
+
+<a id="should-we-hire-salespeople"></a>
+### “应该招聘销售吗？”
+
+```text
+有经过证明、可重复的销售路线图吗？
+├─ 没有 → 不要招聘销售。
+│          创始人亲自卖，最多加一名成交型销售人员。
+└─ 有 → 已经通过客户验证了吗？
+         ├─ 没有 → 仍然不要，先迭代。
+         └─ 有 → 现在可以配备销售组织。
+```
+
+<a id="what-market-type-are-we"></a>
+### “我们是什么市场类型？”
+
+```text
+客户是否已能通过竞争对手做到你的产品所做的事？
+├─ 不能 → 新市场。
+│          • 第一年目标：采用，而非份额。
+│          • 推出：早期采用者，低成本、定向。
+│          • 时间：3—7年盈利。
+│          • 危险：全面猛攻会耗尽现金。
+└─ 能 → 是否在同样维度竞争？
+         ├─ 是 → 现有市场。
+         │        • 第一年目标：市场份额。
+         │        • 推出：全面猛攻，前提是承担得起兰彻斯特规则对应成本。
+         │        • 时间：12—18个月盈利。
+         └─ 否 → 重新细分市场。
+                  • 低成本还是利基？
+                  • 第一年目标：份额＋教育。
+                  • 推出：利基，集中猛攻。
+```
+
+---
+
+<a id="critical-numbers--rules-of-thumb"></a>
+## 关键数字与经验规则
+
+| 数字 | 规则 |
 |--------|------|
-| **9 of 10** | New product introductions that fail |
-| **3-7 years** | Time for a new market to generate profit |
-| **12-18 months** | Time for an existing market startup to generate cash |
-| **3×** | Spending needed to attack a monopolist (Lanchester) |
-| **1.7×** | Spending needed to attack weakest player in fragmented market |
-| **74%** | Market share threshold = effective monopoly |
-| **41%** | Market share threshold = guaranteed for new market creator |
-| **26%** | Below this, no player has real market influence |
-| **47%** | Market pioneer failure rate (Golder & Tellis) |
-| **8%** | Early market leader failure rate |
-| **~13 years** | Average late entry of early market leaders after pioneers |
-| **>50%** | Startups where founding CEO is removed |
-| **~9 months** | Half-life of a startup VP of Sales post first customer ship |
-| **≥2 cycles** | Minimum iterations through Steps 1-2 for most startups |
+| **十之九** | 新产品推出失败的比例 |
+| **3—7 年** | 新市场产生利润所需时间 |
+| **12—18 个月** | 现有市场创业公司产生现金所需时间 |
+| **三倍** | 进攻垄断者所需支出，兰彻斯特规则 |
+| **1.7 倍** | 在分散市场攻击最弱企业所需支出 |
+| **74%** | 市场份额门槛，意味着事实垄断 |
+| **41%** | 市场份额门槛，原文称对新市场创造者有保障 |
+| **26%** | 低于此值，没有企业具有真正的市场影响力 |
+| **47%** | 市场开拓者失败率，Golder 与 Tellis |
+| **8%** | 早期市场领导者失败率 |
+| **约 13 年** | 早期市场领导者平均比开拓者晚进入的时间 |
+| **超过 50%** | 创始 CEO 被撤换的创业公司比例 |
+| **约九个月** | 首次客户交付后，创业公司销售副总裁的半衰期 |
+| **至少两轮** | 多数创业公司经过第 1—2 步的最低迭代轮数 |
 
 ---
 
-## Common Failure Patterns
+<a id="common-failure-patterns"></a>
+## 常见失败模式
 
-| Pattern | Mechanism | Cure |
+| 模式 | 机制 | 修正 |
 |---------|-----------|------|
-| **"Build it and they will come"** | No customer development process; assume product launch = customer acquisition | Customer Discovery before scaling |
-| **Premature scaling** | Hiring full sales/marketing orgs before validating customers | Stay lean through Steps 1-2; "staff that fits in a phone booth" |
-| **Death spiral** | Premature scaling → burn rate → missed numbers → fire VPs → fire CEO | Don't scale until you have a repeatable sales roadmap |
-| **Wrong Market Type** | Using existing-market tactics in a new market (or vice versa) | Definitively determine Market Type; match every activity to it |
-| **Onslaught in new market** | Massive launch spending for customers who don't exist yet | Early adopter launch; preserve cash; focus on adoption not share |
-| **Branding as strategy** | Substituting "brand" for precise Customer Creation activities | Market Type-matched positioning, launch, and demand creation |
-| **Delegating to VP of Sales** | Founders stop talking to customers | Founders in front of customers through at least first iteration |
-| **Feature-list driven product** | MRD from focus groups instead of founder vision + customer validation | "First product for the few, not the many" |
-| **Kicking out founders** | Process-oriented replacements gut innovation | Mission-centric organization; keep founders, add complementary execs |
-| **Confusing pipeline with roadmap** | Measuring funnel metrics before knowing who buys or how | Build sales roadmap first; pipeline comes after |
+| **“做出来，客户就会来。”** | 没有客户开发，假设产品推出等于获客 | 扩张前先客户探索 |
+| **过早扩张** | 客户未经验证就配齐销售与营销组织 | 第 1—2 步保持精简，“全体员工能挤进电话亭” |
+| **死亡螺旋** | 过早扩张 → 烧钱 → 业绩未达标 → 解雇副总裁 → 解雇 CEO | 有可重复销售路线图才扩张 |
+| **市场类型错误** | 把现有市场战术用于新市场，或反过来 | 明确市场类型，让每项活动匹配 |
+| **在新市场全面猛攻** | 花大量推出费用触达尚不存在的客户 | 面向早期采用者，保留现金，关注采用而非份额 |
+| **把品牌当作策略** | 用“品牌”替代具体客户创造活动 | 定位、推出、需求创造均匹配市场类型 |
+| **委托给销售副总裁** | 创始人不再接触客户 | 至少第一轮迭代亲自面对客户 |
+| **功能清单驱动产品** | 用焦点小组的营销需求文档，替代创始愿景＋客户验证 | “首个产品面向少数人，而非多数人。” |
+| **赶走创始人** | 流程导向的替代者掏空创新 | 使命中心组织，留下创始人，补充互补高管 |
+| **混淆管道与路线图** | 尚不知道谁买、怎么买，就衡量漏斗指标 | 先建立路线图，之后才建管道 |
 
 ---
 
-## The Webvan Cautionary Tale
+<a id="the-webvan-cautionary-tale"></a>
+## Webvan 的警示
 
-$800M raised. Automated warehouses. $40M per distribution center. IPO at $8.5B market cap (larger than top 3 grocery chains combined). Bankrupt in 24 months.
+融资 8 亿美元，建设自动化仓库，每个配送中心耗资 4,000 万美元。IPO 市值 85 亿美元，高于前三大杂货连锁总和，24 个月后破产。
 
-What went wrong, step by step:
-1. **No Customer Discovery** - assumed customers wanted online grocery delivery; never validated
-2. **No Customer Validation** - committed to $1B Bechtel deal for 26 distribution centers before meaningful feedback
-3. **Wrong Market Type** - treated a new/resegmented market as an existing one
-4. **Premature scaling** - $18M proprietary software + $40M warehouse before shipping a single item
-5. **Death spiral** - 2,500 orders/day vs. 8,000 forecasted; 30% capacity utilization; $612.7M accumulated deficit
+问题逐步发生：
 
-Counter-example: **Tesco** - used existing UK retail stores as launching pad, learned what customers wanted, found a profitable model. By 2002: 85,000 orders/week, $559M in sales. Fraction of Webvan's investment.
+1. **没有客户探索**：假设客户需要线上杂货配送，从未验证。
+2. **没有客户验证**：尚未获得有意义的反馈，就与 Bechtel 签订 10 亿美元、建设 26 个配送中心的协议。
+3. **市场类型错误**：把新市场／重新细分市场当现有市场。
+4. **过早扩张**：发出首件商品前，已投入 1,800 万美元自研软件及 4,000 万美元建设仓库。
+5. **死亡螺旋**：日订单 2,500，而预测 8,000；产能利用率 30%；累计亏损 6.127 亿美元。
 
-> "Explicitly or implicitly, Tesco understood the process embodied by the Customer Development model."
+反例 **Tesco**：以现有英国门店为起点，了解客户需求，找到可盈利模式。2002 年每周 85,000 单，销售额 5.59 亿美元，投资只是 Webvan 的一小部分。
 
----
-
-## Modern Relevance (2006 → 2026)
-
-The framework's core ideas are durable. The specific examples and some assumptions are dated.
-
-### When Four Steps STILL Applies
-
-- Any startup searching for customers and a business model
-- Enterprise software with multi-stakeholder buying
-- Hardware and physical products requiring customer education
-- Deeptech / biotech with long development cycles (partial - Ch 1 explicitly excludes some biotech)
-- Any product requiring behavior change in conservative industries
-
-### Where the Framework Shows Its Age
-
-- **PLG/bottoms-up SaaS** - Customer Validation can happen via free tier metrics rather than founder-led sales calls. The iterative loop is faster.
-- **No internet-era distribution** - written before app stores, cloud marketplaces, social distribution. Channel assumptions are dated.
-- **Lean Startup accelerated the iteration loop** - Eric Ries (one of Blank's first implementers at IMVU) formalized the Build-Measure-Learn loop with MVPs, making the iteration cycle faster and more explicit.
-- **AI-native products** - mass consumer adoption can precede enterprise sales, breaking the earlyvangeist → mainstream sequence.
-- **Two-sided marketplaces** - chicken-and-egg dynamics don't map cleanly to the four steps.
-
-### What Blank Got Permanently Right
-
-- Customer Development as a parallel, recursive process alongside Product Development
-- Market Type as the master variable that changes everything
-- Premature scaling as the default killer of startups
-- Founders must be in front of customers, not behind desks
-- The pivot from Customer Validation back to Customer Discovery
-- "No facts inside the building, only opinions"
+> “无论是否明确意识到，Tesco 都理解了客户开发模型所体现的过程。”
 
 ---
 
-## Quick Reference Checklist
+<a id="modern-relevance-2006--2026"></a>
+## 当代适用性（2006 → 2026）
 
-**Customer Discovery:**
-- [ ] Founders' vision articulated as testable hypotheses
-- [ ] Six hypothesis categories written down
-- [ ] Talked to customers outside the building
-- [ ] Found earlyvangelists (points 4-5 on the pain hierarchy)
-- [ ] Problem validated as real, painful, worth paying for
-- [ ] Product concept validated as solving the problem
-- [ ] Business model sketched
+框架核心思想经久不衰，具体案例与部分假设已经过时。
 
-**Customer Validation:**
-- [ ] Founders/CEO personally selling (not delegated)
-- [ ] Sales roadmap documented (not just a pipeline)
-- [ ] Full-price orders from earlyvangelists (not free/discounted)
-- [ ] Sales process proven repeatable (not one-off heroics)
-- [ ] Profitable business model validated
-- [ ] Market Type tentatively identified
-- [ ] Positioning tested with early customers
+<a id="when-four-steps-still-applies"></a>
+### Four Steps 仍适用的场景
 
-**Customer Creation:**
-- [ ] Market Type definitively chosen
-- [ ] Year-1 objectives match Market Type
-- [ ] Positioning matches Market Type (differentiation / vision / segmentation)
-- [ ] Launch type matches Market Type (onslaught / early adopter / niche)
-- [ ] Demand creation aligned with sales goals
-- [ ] Messengers identified and educated (experts, evangelists, connectors)
-- [ ] Measurement plan in place
+- 任何正在寻找客户与商业模式的创业公司。
+- 涉及多方采购决策的企业软件。
+- 需要教育客户的硬件与实体产品。
+- 开发周期长的深科技／生物科技，部分适用；第一章明确排除某些生物科技。
+- 保守行业中需要改变行为的任何产品。
 
-**Company Building:**
-- [ ] Mainstream customer strategy matches Market Type
-- [ ] Mission-centric organization (not chaos, not bureaucracy)
-- [ ] Departmental missions written BEFORE staffing
-- [ ] Founders retained with complementary exec hires
-- [ ] Fast-response (OODA) loops in every department
-- [ ] "Good enough" decision-making culture established
+<a id="where-the-framework-shows-its-age"></a>
+### 框架显得过时的地方
+
+- **产品驱动增长／自下而上的 SaaS：**客户验证可通过免费层指标完成，而不一定是创始人主导的销售通话，迭代更快。
+- **没有互联网时代的分销方式：**写于应用商店、云市场、社交分发之前，渠道假设已经过时。
+- **Lean Startup 加速迭代循环：**Eric Ries 在 IMVU 是 Blank 最早的实践者之一，他通过 MVP 正式化构建—衡量—学习，使循环更快、更明确。
+- **AI 原生产品：**大规模消费者采用可能先于企业销售，打破早期核心客户到主流的顺序。
+- **双边市场：**先有鸡还是先有蛋的动态，无法清晰套入四步。
+
+<a id="what-blank-got-permanently-right"></a>
+### Blank 始终说对的地方
+
+- 客户开发是与产品开发并行、递归进行的过程。
+- 市场类型是改变一切的主变量。
+- 过早扩张是创业公司最常见的杀手。
+- 创始人必须面对客户，而非坐在办公桌后。
+- 从客户验证返回客户探索的转型。
+- “办公室里没有事实，只有意见。”
 
 ---
 
-## The Big Idea
+<a id="quick-reference-checklist"></a>
+## 速查清单
 
-> "Products developed with senior management out in front of customers early and often - win. Products handed off to a sales and marketing organization that has only been tangentially involved in the new product development process lose. It's that simple."
+**客户探索：**
 
-Customer Development is not a process for finding features. It's a process for finding **customers, a market, and a viable business model** - the three things that actually determine whether a startup lives or dies.
+- [ ] 将创始人愿景表达为可检验的假设。
+- [ ] 写下六类假设。
+- [ ] 走出办公室与客户交谈。
+- [ ] 找到痛点层次第 4—5 层的早期核心客户。
+- [ ] 验证问题真实、痛苦、值得付费。
+- [ ] 验证产品概念能解决问题。
+- [ ] 勾画商业模式。
 
-The four steps are iterative, not linear. Going backwards is learning, not failure. The whole process can be done by a team that fits in a phone booth. And no amount of funding can accelerate it.
+**客户验证：**
 
-> "You cannot create a market or customer demand where there isn't any customer interest."
+- [ ] 创始人／CEO 亲自销售，而非委托别人。
+- [ ] 记录销售路线图，而不只是管道。
+- [ ] 获得早期核心客户的全价订单，而非免费或折扣。
+- [ ] 证明销售流程可重复，而非一次英雄式努力。
+- [ ] 验证商业模式可盈利。
+- [ ] 初步识别市场类型。
+- [ ] 与早期客户检验定位。
+
+**客户创造：**
+
+- [ ] 最终确定市场类型。
+- [ ] 第一年目标匹配市场类型。
+- [ ] 定位匹配市场类型：差异化／愿景／细分。
+- [ ] 推出方式匹配市场类型：全面猛攻／早期采用者／利基。
+- [ ] 需求创造与销售目标一致。
+- [ ] 识别并教育专家、布道者、连接者等传播者。
+- [ ] 已制定衡量计划。
+
+**公司建设：**
+
+- [ ] 主流客户策略匹配市场类型。
+- [ ] 建立以使命为中心的组织，既不是混沌，也不是官僚体系。
+- [ ] 配备人员前写好部门使命。
+- [ ] 留住创始人，招聘互补高管。
+- [ ] 每个部门都有快速响应的 OODA 循环。
+- [ ] 建立“足够好”的决策文化。
 
 ---
 
-## Supporting Files
+<a id="the-big-idea"></a>
+## 核心思想
 
-- **[frameworks.md](frameworks.md)** - Detailed Customer Discovery phases (0-4), six hypothesis templates, earlyvangelist identification, Customer Validation phases, sales roadmap construction, Market-Type questionnaire, New Lanchester rules, positioning by Market Type, launch selection, demand creation measurement
-- **[cases.md](cases.md)** - Webvan ($800M → bankruptcy), PhotosToYou (new-market branding disaster), FastOffice (death spiral through Plans B-D), InLook (premature VP Sales hiring), Design Within Reach ($180M success), Tesco (Webvan's antithesis), Furniture.com ($34M marketing vs $10.9M revenue), BetaSheet (founder/professional management tension)
-- **[examples.md](examples.md)** - Earlyvangelist pain hierarchy scoring, Market Type decision tree, sales roadmap template, Customer Validation pass/fail criteria, positioning templates by Market Type, launch type selection, Lanchester cost-of-entry calculator
-- **[integration.md](integration.md)** - Relationship to Crossing the Chasm (Four Steps covers what happens BEFORE the chasm), relationship to Lean Startup (Ries formalized Blank's process), conflicts with Mom Test (vision-first vs customer-first tension), conflicts with $100M Offers (offer-first vs discovery-first), Market Type vs TALC mapping
+> “高管早早且频繁地面对客户，开发出的产品会赢。把产品交给只在新产品开发中略有参与的销售营销组织，则会输。就是这么简单。”
+
+客户开发不是寻找功能的过程，而是寻找**客户、市场和可行商业模式**的过程；这三件事才真正决定创业公司的生死。
+
+四步是迭代而非线性的，往回走是学习而非失败。整套流程可以由一支能挤进电话亭的小团队完成，再多资金也无法让它加速。
+
+> “没有客户兴趣的地方，你无法凭空创造市场或客户需求。”
 
 ---
 
-## Honest Scope of the Book
+<a id="supporting-files"></a>
+## 配套文件
 
-- **Published:** 2005, Third Edition 2006
-- **Examples:** Mostly late 1990s / early 2000s tech (Webvan, Palm, Handspring, PhotosToYou). Many companies no longer exist.
-- **Empirical base:** Author's experience with 8 startups + VC advisory + teaching. Anecdotes and case studies, not statistical research.
-- **Where it shines:** Pre-product/market-fit startups, enterprise B2B, any situation where "who are our customers?" is genuinely unknown.
-- **Where it's weak:** PLG/freemium (iteration cycle is faster than the book assumes), consumer apps with viral distribution, two-sided marketplaces.
-- **Successor work:** *The Startup Owner's Manual* (2012) is Blank's updated, more prescriptive version. *The Lean Startup* (Eric Ries, 2011) formalized many concepts with Build-Measure-Learn and MVPs.
-- **Author's context:** Blank was a serial entrepreneur (8 startups including E.piphany), then became a professor at Stanford, Berkeley, and Columbia. The book emerged from his teaching.
+- **[frameworks.md](frameworks.md)**：客户探索第 0—4 阶段详解、六类假设模板、早期核心客户识别、客户验证各阶段、销售路线图构建、市场类型问卷、新兰彻斯特规则、按市场类型定位、推出方式选择、需求创造衡量。
+- **[cases.md](cases.md)**：Webvan 从 8 亿美元融资到破产、PhotosToYou 的新市场品牌灾难、FastOffice 从 B 到 D 计划的死亡螺旋、InLook 过早招聘销售副总裁、Design Within Reach 的 1.8 亿美元成功、Tesco 作为 Webvan 反例、Furniture.com 的 3,400 万美元营销投入与 1,090 万美元收入、BetaSheet 的创始人与职业管理层张力。
+- **[examples.md](examples.md)**：早期核心客户痛点层次评分、市场类型决策树、销售路线图模板、客户验证通过／失败标准、按市场类型定位模板、推出方式选择、兰彻斯特进入成本计算器。
+- **[integration.md](integration.md)**：与 Crossing the Chasm 的关系——Four Steps 处理鸿沟之前；与 Lean Startup 的关系——Ries 正式化 Blank 的流程；与 Mom Test 的愿景优先／客户优先张力；与 $100M Offers 的方案优先／探索优先冲突；市场类型与 TALC 的对应。
 
-The framework is foundational. The specific tactics and examples are dated. The core thesis - that customer and market discovery is a separate, iterative process that must run in parallel with product development - remains as true in 2026 as it was in 2005.
+---
+
+<a id="honest-scope-of-the-book"></a>
+## 如实说明本书的适用范围
+
+- **出版：**2005 年，第三版于 2006 年出版。
+- **案例：**大多是 20 世纪 90 年代末、21 世纪初科技企业，例如 Webvan、Palm、Handspring、PhotosToYou。许多公司已不存在。
+- **经验基础：**作者八次创业的经历，加上风投顾问和教学经验；以轶事与案例为主，不是统计研究。
+- **长处：**产品与市场匹配之前的创业公司、企业 B2B，以及真正不知道“客户是谁”的任何情形。
+- **不足：**PLG／免费增值，迭代速度快于书中假设；病毒式传播的消费应用；双边市场。
+- **后续著作：***The Startup Owner's Manual*（2012）是 Blank 更新、更具体的指导版本；Eric Ries 的 *The Lean Startup*（2011）用构建—衡量—学习和 MVP 正式化了许多概念。
+- **作者背景：**Blank 是连续创业者，共创办八家企业，包括 E.piphany，之后在 Stanford、Berkeley、Columbia 任教。本书源于他的教学。
+
+框架具有奠基意义，具体战术和案例已显年代感。其核心命题——客户与市场探索是独立、迭代、必须与产品开发并行的流程——在 2026 年仍与 2005 年一样成立。

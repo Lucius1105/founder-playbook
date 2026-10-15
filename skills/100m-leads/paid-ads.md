@@ -1,198 +1,231 @@
-# 100m-leads - Paid Advertising Deep Dive
+> 中文译文｜[英文对照](paid-ads.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/100m-leads/paid-ads.md)。原项目整理：AgentSeal；原书：Alex Hormozi《$100M Leads》；AI 辅助翻译。
 
-## When to Run Paid Ads
+<a id="100m-leads---paid-advertising-deep-dive"></a>
+# 100m-leads — 付费广告详解
 
-Paid is the highest-leverage channel for scale, but the most expensive to learn on. Don't start here unless:
-- You have 10+ paying customers
-- Your offer converts warm traffic
-- You have budget you can afford to lose during the testing phase
-- Your unit economics support paid acquisition (LTGP:CAC math works)
+<a id="when-to-run-paid-ads"></a>
+## 何时投放付费广告
 
-## 4 Things to Check Before Choosing a Platform
+付费广告很适合放大规模，但也是学习成本最高的渠道。除非满足以下条件，否则不要从这里开始：
 
-1. You've used it and gotten value as a consumer
-2. You can target people interested in your stuff
-3. You know how to format ads for that platform
-4. You have minimum budget to place an ad
+- 已有10位以上付费客户。
+- 现有方案能转化熟悉你的流量。
+- 有一笔测试期即使亏掉也能承受的预算。
+- 单位经济模型支持付费获客，LTGP:CAC 的账算得过来。
 
-## Targeting: Find Needles in Haystacks
+<a id="4-things-to-check-before-choosing-a-platform"></a>
+## 选择平台前检查4件事
 
-Two methods, used together:
+1. 你作为消费者用过这个平台，并从中获得过价值。
+2. 能在平台上定向触达对你的产品感兴趣的人。
+3. 知道该平台适用的广告形式。
+4. 有达到最低投放要求的预算。
 
-### 1. Lookalike Audiences
+<a id="targeting-find-needles-in-haystacks"></a>
+## 定向：大海捞针
 
-Upload your list, platform finds similar people.
+以下两种方法配合使用。
 
-| List | Quality |
+<a id="1-lookalike-audiences"></a>
+### 1. 相似受众
+
+上传你的名单，让平台寻找相似的人。
+
+| 名单 | 质量 |
 |------|---------|
-| Current paying customers | Best |
-| Warm outreach contacts | OK |
-| Cold outreach leads | Fallback |
+| 现有付费客户 | 最好 |
+| 熟人触达联系人 | 尚可 |
+| 陌生开发线索 | 备用选择 |
 
-### 2. Factor Targeting
+<a id="2-factor-targeting"></a>
+### 2. 按特征定向
 
-- Age, income, gender
-- Interests
-- Location
-- Time of day
-- Behaviors
+- 年龄、收入、性别。
+- 兴趣。
+- 地点。
+- 一天中的时段。
+- 行为。
 
-Exclude people who never buy (e.g., past disqualified leads). Include interests related to your offer.
+排除不会购买的人，例如此前确认不符合条件的线索；纳入与方案相关的兴趣。
 
-## Callout Types (Get Attention First)
+<a id="callout-types-get-attention-first"></a>
+## 点名目标人群的方式（先吸引注意）
 
-| Type | Example |
+| 类型 | 示例 |
 |------|---------|
-| **Labels** | "Clark County Moms" / "Gym Owners" / "Remote Workers" |
-| **Yes-Questions** | "Do you wake up to pee more than once a night?" |
-| **If-Then** | "If you run $100K/mo in ads, we can save you 20%" |
-| **Ridiculous Results** | "Woman lost 50lbs eating pizza and fired her trainer" |
+| **身份标签** | “克拉克县的妈妈们”“健身房老板”“远程工作者” |
+| **容易回答‘是’的问题** | “你每晚会起夜超过一次吗？” |
+| **如果—那么** | “如果你每月广告花费10万美元，我们能帮你节省20%。” |
+| **令人惊讶的结果** | “一位女士边吃披萨边减掉50磅，还解雇了教练。” |
 
-### Nonverbal Callouts
+<a id="nonverbal-callouts"></a>
+### 非语言提示
 
-| Type | How |
+| 类型 | 做法 |
 |------|-----|
-| Contrast | Bright colors, movement |
-| Likeness | Look like your customer |
-| Scene | Show the problem visually |
+| 对比 | 鲜明颜色、动态画面 |
+| 相似感 | 让出镜者看起来像目标客户 |
+| 场景 | 用画面呈现问题 |
 
-## Platform Selection
+<a id="platform-selection"></a>
+## 平台选择
 
-| Platform | Best For | Targeting Strength |
+| 平台 | 最适合 | 定向优势 |
 |----------|----------|--------------------|
-| Meta (FB/IG) | B2C, visual products | Interest/behavior |
-| Google | High-intent searches | Keywords |
-| LinkedIn | B2B, high-ticket | Job title, company |
-| YouTube | Education, brand | Interest + retargeting |
-| TikTok | Younger demos, viral | Interest/behavior |
+| Meta（Facebook/Instagram） | 面向消费者的业务、视觉化产品 | 兴趣与行为 |
+| Google | 购买意向强的搜索 | 关键词 |
+| LinkedIn | 企业客户、高客单价 | 职位、公司 |
+| YouTube | 教育、品牌 | 兴趣与再营销 |
+| TikTok | 较年轻人群、传播型内容 | 兴趣与行为 |
 
-## The Ad Formula
+<a id="the-ad-formula"></a>
+## 广告公式
 
 ```
-Callout → Value → CTA
+点名目标人群 → 价值 → 行动号召
 ```
 
-| Section | Time | Goal |
+| 部分 | 时间 | 目标 |
 |---------|------|------|
-| **Callout** | 0-3 sec | Get the right people to notice |
-| **Value** | 3-20 sec | Why should they care? Benefits huge, costs tiny |
-| **CTA** | End | Tell them exactly what to do next |
+| **点名目标人群** | 0—3秒 | 让对的人注意到 |
+| **价值** | 3—20秒 | 为什么值得关注？收益大，成本小 |
+| **行动号召** | 结尾 | 明确告诉对方下一步做什么 |
 
-## The Three Phases of Paid Ads
+<a id="the-three-phases-of-paid-ads"></a>
+## 付费广告的三个阶段
 
-### Phase 1: Track Money
+<a id="phase-1-track-money"></a>
+### 阶段1：跟踪资金
 
-Set up tracking BEFORE spending $1.
+花第一美元之前，先建立追踪。
 
-You need to know:
-- Cost per click
-- Cost per lead
-- Lead-to-customer conversion rate
-- Cost per customer
-- Customer lifetime value (LTGP)
+你需要知道：
 
-Without this, you can't tell what's working.
+- 每次点击成本。
+- 每条线索成本。
+- 线索转为客户的比例。
+- 每位客户的获客成本。
+- 客户终身价值，原文使用 LTGP，即终身毛利。
 
-### Phase 2: Lose Money
+没有这些数据，就无法判断哪些投放有效。
 
-You will lose on most ads. Budget enough to learn:
-- Roughly 2x your 30-day customer cash for testing is a directional starting point
-- Specific numbers depend on your CAC, market, and risk tolerance
+<a id="phase-2-lose-money"></a>
+### 阶段2：亏钱
 
-The "lose money" phase is real and expected. Plan for it; don't panic.
+大多数广告都会亏损。要给学习留出足够预算：
 
-### Phase 3: Print Money
+- 大致以客户前30天带来的现金收入的2倍作为测试预算起点。
+- 具体金额取决于获客成本、市场和风险承受能力。
 
-When profitable, reverse-budget from goals.
+“亏钱”阶段是真实且可预期的。提前规划，不必惊慌。
 
-Instead of: "I'll spend $X and see what happens"
-Do: "I want N customers; that requires $X spend; here's the budget"
+<a id="phase-3-print-money"></a>
+### 阶段3：持续赚钱
 
-## Testing Rules
+开始盈利后，从目标倒推预算。
 
-| Situation | Action |
+不要说：“先花 X 美元看看。”
+
+而应说：“我想获得 N 位客户，需要花 X 美元，这就是预算。”
+
+<a id="testing-rules"></a>
+## 测试规则
+
+| 情况 | 行动 |
 |-----------|--------|
-| Ad getting leads but not profitable | Let spend reach ~2x your 30-day customer profit before killing |
-| Ad getting zero leads | Kill at 1x your 30-day customer profit |
-| Ad profitable | Scale per More Better New |
+| 广告带来线索但尚未盈利 | 支出达到客户前30天利润的约2倍，再考虑停掉 |
+| 广告完全没带来线索 | 支出达到客户前30天利润的1倍时停掉 |
+| 广告盈利 | 按“更多、更好、更新”放大 |
 
-These thresholds are guidance, not gospel. Adjust to your specific economics.
+这些阈值只是指导，需按自身经济模型调整。
 
-## Ad Budget Tiers
+> 译注：原文在不同段落分别采用“现金收入”“利润”和“客户成本”作为停投基准，口径并不一致。本译文保留差异，实际使用前需统一计算口径。
 
-Specific dollar tiers depend heavily on industry, market, and offer ticket size. Below is directional only - actual budgets vary by orders of magnitude across business types.
+<a id="ad-budget-tiers"></a>
+## 广告预算阶段
 
-| Stage | Daily Budget Range | Focus |
+具体金额高度依赖行业、市场和方案客单价。下表仅提供方向，不同业务的实际预算可能相差几个数量级。
+
+| 阶段 | 每日预算范围 | 重点 |
 |-------|--------------------|-------|
-| Testing | Small (test creative cheaply) | Find winning creative |
-| Scaling | Mid (push winners harder) | Optimize and expand |
-| Mature | Large (full audience reach) | Audience expansion, retargeting layers |
+| 测试 | 较小，低成本测试素材 | 找到有效素材 |
+| 放量 | 中等，对赢家增加投入 | 优化与扩展 |
+| 成熟 | 较大，覆盖完整受众 | 扩展人群，增加再营销层次 |
 
-A $500/day budget is "scaling" for a $99 SaaS but "testing" for a $50K B2B service. Calibrate to your unit economics.
+每天500美元，对99美元的 SaaS 产品可能是在放量，对5万美元的企业服务却可能只是测试。按自身单位经济模型校准。
 
-## The Money Math: LTGP:CAC
+<a id="the-money-math-ltgpcac"></a>
+## 收益计算：LTGP:CAC
 
-**LTGP** = Lifetime Gross Profit (revenue minus cost of delivery)
-**CAC** = Cost to Acquire Customer
+**LTGP**＝客户终身毛利，即收入减去交付成本。
 
-| Ratio | Status |
+**CAC**＝获得一位客户的成本。
+
+| 比率 | 状态 |
 |-------|--------|
-| <3:1 | Struggling to scale |
-| 3:1 | Minimum viable |
-| >3:1 | Ready to scale |
+| 小于3:1 | 难以放大规模 |
+| 3:1 | 最低可行水平 |
+| 大于3:1 | 可以准备放量 |
 
-**Note:** Hormozi specifically uses LTGP, not LTV. The difference matters - LTGP nets out delivery cost, giving a more honest picture of acquisition leverage.
+**注意：** Hormozi 特别使用 LTGP，而非 LTV。差异很重要：LTGP 扣除交付成本，更能反映获客投入的真实回报空间。
 
-If CAC is above 3x industry average, fix ads. If below, fix the business model (raise LTGP via upsells, retention, pricing).
+如果 CAC 超过行业平均水平的3倍，先修正广告；如果低于这一水平，先修正业务模型，通过追加销售、留存和定价提高 LTGP。
 
-## Client Financed Acquisition
+<a id="client-financed-acquisition"></a>
+## 用客户回款支持获客
 
-If a customer pays you back in 30 days, you can fund acquisition with a credit card and reinvest infinitely.
+原文主张：如果客户在30天内帮你收回获客投入，就可以用信用卡垫付，再不断将回款投入获客。
 
-How to engineer it:
-- Higher upfront pricing
-- Order bumps at checkout
-- Day-1 upsells
-- Annual prepay options
-- Initial setup fee
+可采用的方法：
 
-The faster the cash recovery, the faster you can scale ad spend.
+- 提高前期价格。
+- 在结账时提供加购选项。
+- 第一天就提供升级购买。
+- 提供年度预付选项。
+- 收取初始设置费。
 
-## Metrics That Matter
+回款越快，就越能快速扩大广告投入。
 
-Specific thresholds vary by industry. Below are common rules of thumb, not hard targets:
+> 译注：原文使用“无限再投入”的表述；现实仍受授信、现金流、退款和获客表现变化等约束，该表述不构成无限扩张保证。
 
-| Metric | Generally Good | Generally Concerning |
+<a id="metrics-that-matter"></a>
+## 重要指标
+
+具体阈值因行业而异。以下是常见经验值，不是硬性目标：
+
+| 指标 | 通常较好 | 通常值得警惕 |
 |--------|----------------|----------------------|
-| CTR (click-through rate) | Higher = stronger creative | Below industry baseline = creative issue |
-| CPM (cost per 1000) | Lower for your audience | Way above industry = targeting issue |
-| Cost per lead | Less than ~10% of product price | More than ~20% of product price |
+| 点击率（CTR） | 越高通常意味着素材越有吸引力 | 低于行业基线，提示素材问题 |
+| 千次展示成本（CPM） | 对目标人群而言较低 | 远高于行业，提示定向问题 |
+| 单条线索成本 | 低于产品价格的约10% | 高于产品价格的约20% |
 
-CTR/CPM thresholds are highly platform-dependent and shift over time. Use industry benchmarks for your specific platform/vertical, not absolute numbers.
+CTR 和 CPM 高度依赖平台，也会随时间变化。应参考所在平台、细分行业的基准，而非绝对数字。
 
-## Common Paid Ad Mistakes
+<a id="common-paid-ad-mistakes"></a>
+## 常见付费广告错误
 
-| Mistake | Fix |
+| 错误 | 修正 |
 |---------|-----|
-| Spending without tracking | Build the analytics stack first |
-| Killing ads too fast | Give the algorithm time to learn |
-| Killing ads too slow | If 2x customer-cost spent, it's broken |
-| Beautiful creative, weak hook | Hook in first 3 seconds matters more than polish |
-| Targeting too narrow | Lookalikes typically beat narrow factor targeting |
-| One creative running forever | Creative fatigue is real; rotate |
-| No retargeting | Retargeting layers compound conversion |
-| Ad-account banned | Follow platform policies, especially in regulated verticals |
+| 没有追踪就花钱 | 先搭好数据分析工具 |
+| 太快停掉广告 | 给算法学习时间 |
+| 太晚停掉广告 | 花到客户成本的2倍仍不行，说明存在问题 |
+| 素材漂亮，开头乏力 | 前3秒的吸引力比精致程度更重要 |
+| 定向太窄 | 相似受众通常优于过窄的特征定向 |
+| 一套素材一直用 | 素材疲劳确实存在，要轮换 |
+| 没有再营销 | 分层再营销可提高整体转化 |
+| 广告账户被封 | 遵守平台规则，受监管行业尤其如此 |
 
-## Scaling Decisions
+<a id="scaling-decisions"></a>
+## 放量决策
 
-When an ad is profitable, the question becomes: scale how?
+广告开始盈利后，要决定怎样放大：
 
-| Approach | When to Use |
+| 方法 | 使用时机 |
 |----------|-------------|
-| Increase daily budget | When ad is comfortably profitable, slowly (10-20% increases) |
-| Duplicate ad in new ad set | Test if performance was account or audience driven |
-| Expand audience | When the original audience is saturating |
-| New creative variants | When CTR drops (creative fatigue) |
-| New platforms | When current platform is mastered |
+| 提高每日预算 | 盈利空间充足时，缓慢提高，每次约10%—20% |
+| 在新广告组复制广告 | 测试效果来自账户还是人群 |
+| 扩大受众 | 原有人群趋于饱和时 |
+| 增加素材变体 | CTR 下降、出现素材疲劳时 |
+| 增加新平台 | 当前平台已被掌握时 |
 
-Don't 10x the budget overnight. The algorithm will rebalance and likely break the performance.
+不要一夜之间把预算提高10倍。算法会重新调整，很可能破坏原有表现。

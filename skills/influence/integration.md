@@ -1,96 +1,98 @@
-# Influence - Integration with Other Skills
+> 中文译文｜[英文对照](integration.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/influence/integration.md)。原项目整理：AgentSeal；书籍来源：《Influence》及《Pre-Suasion》— Robert Cialdini；AI 辅助翻译。
 
-## Skill Integration Table
+# 影响力——与其他技能的整合
 
-| Skill | Relationship |
+## 技能整合表
+
+| 技能 | 关系 |
 |-------|--------------|
-| **Mom Test** | Mom Test EXPLICITLY rejects compliments and reciprocity-for-honesty. Use Mom Test to AVOID triggering these in customer research |
-| **SPIN Selling** | SPIN's discovery + Cialdini's principles = powerful B2B sales (use principles ETHICALLY). But see honest conflict below |
-| **$100M Offers** | Hormozi explicitly stacks scarcity + urgency + bonuses (reciprocity) - direct application of Cialdini |
-| **$100M Leads** | Lead magnets = reciprocity in action |
-| **Obviously Awesome** | Authority + social proof = positioning evidence |
-| **Crossing the Chasm** | Pragmatist's need for references = social proof from similar customers |
-| **Blue Ocean Strategy** | Blue Ocean reframes context. Cialdini operates within context. Less directly related |
-| **Monetizing Innovation** | Buyer Utility Map / Three Tiers - psychological insights compatible with Cialdini |
+| **Mom Test（《妈妈测试》）** | 明确反对把恭维当作信息，也反对以互惠换取诚实回答。客户研究时，用 Mom Test 避免触发这些机制 |
+| **SPIN Selling（《SPIN 销售》）** | SPIN 的需求探索加上西奥迪尼的原则，可以形成强大的 B2B 销售方法，但必须合乎道德地使用；也要看下文列出的真实冲突 |
+| **$100M Offers（《一亿美元报价》）** | Hormozi 明确叠加稀缺、紧迫感和赠品（互惠），这是西奥迪尼原则的直接应用 |
+| **$100M Leads（《一亿美元获客》）** | 引流赠品，就是互惠的实际应用 |
+| **Obviously Awesome（《显而易见的卓越》）** | 权威加社会认同，构成定位证据 |
+| **Crossing the Chasm（《跨越鸿沟》）** | 务实派需要客户推荐，实质是来自相似客户的社会认同 |
+| **Blue Ocean Strategy（《蓝海战略》）** | 蓝海战略重构情境，西奥迪尼的方法在既定情境内发挥作用，两者直接关系较少 |
+| **Monetizing Innovation（《创新变现》）** | 买方效用图／三个层次：其中的心理洞察与西奥迪尼的原则相容 |
 
-## Honest Conflicts (Real Ones)
+## 正视冲突（确实存在的冲突）
 
-### Cialdini endorses pressure tactics (scarcity, deadline, commitment). SPIN Selling EXPLICITLY rejects them in major sales.
+### 西奥迪尼认可施压策略（稀缺、截止日期、承诺），而 SPIN Selling 明确反对在大额销售中使用它们
 
-SPIN's research shows pressure BACKFIRES with sophisticated B2B buyers.
+SPIN 的研究显示，面对成熟的 B2B 买家，施压会适得其反。
 
-**Resolution:** Cialdini's tactics work best in transactional sales, mass marketing, low-stakes decisions. SPIN territory (multi-stakeholder, complex, high-trust, long-cycle) requires the OPPOSITE approach.
+**处理方式：**西奥迪尼的策略最适合交易型销售、大众营销和低风险决策。SPIN 适用的场景——多位利益相关者、复杂决策、高度信任要求、长周期——需要相反的做法。
 
-| Use Cialdini for | Use SPIN for |
+| 西奥迪尼适用于 | SPIN 适用于 |
 |------------------|--------------|
-| Retail/SMB | Enterprise |
-| Single-decision-maker | Multi-stakeholder |
-| Low-complexity products | Multi-million-dollar deals |
-| Mass marketing | Account-based selling |
+| 零售／中小企业 | 大型企业 |
+| 单一决策者 | 多位利益相关者 |
+| 复杂度低的产品 | 数百万美元交易 |
+| 大众营销 | 面向重点客户的销售 |
 
-### Cialdini's principles are MANIPULATION TARGETS for Mom Test.
+### 对 Mom Test 而言，西奥迪尼的原则是需要防范的操纵机制
 
-Mom Test treats Cialdini's triggers as DATA POLLUTION to avoid in customer research. If your Mom Test research triggers reciprocity ("you bought my coffee, I'll say nice things") → you've invalidated the data.
+Mom Test 将西奥迪尼的触发机制视为客户研究中应避免的**数据污染**。如果你的 Mom Test 研究触发了互惠——“你请我喝咖啡，我就说几句好话”——数据就已经失效。
 
-**Resolution:** Use Mom Test FIRST (problem discovery, no triggers). Use Cialdini AFTER (persuasion, triggers welcome). Different stages, different rules.
+**处理方式：**先用 Mom Test 探索问题，不触发这些机制；之后再用西奥迪尼的方法说服对方，此时可以使用触发机制。不同阶段，规则不同。
 
-### Cialdini stacks all 6 levers. Sophisticated buyers detect this and reactance fires.
+### 西奥迪尼会叠加全部六种杠杆；成熟买家察觉后会产生逆反
 
-$100M Offers stacks scarcity + bonuses + commitment + social proof in one offer. Works on cold consumer traffic. BACKFIRES on sophisticated buyers (developers, executives, anyone who's read Cialdini).
+$100M Offers 把稀缺、赠品、承诺和社会认同叠加在一个报价中。这对陌生的消费者流量有效，但对成熟买家——开发者、高管、任何读过西奥迪尼著作的人——会适得其反。
 
-**Resolution:** Match tactic density to buyer sophistication.
-- Less-sophisticated audiences = more layering acceptable
-- Sophisticated audiences = single-principle, subtle application
+**处理方式：**让策略的密度与买家的成熟程度相匹配。
+- 对这些技巧不太熟悉的受众，可以接受较多层叠加。
+- 对成熟受众，宜只用一种原则，运用得细腻一些。
 
-### Cialdini's scarcity. Crossing the Chasm pragmatist buyers DISTRUST scarcity.
+### 西奥迪尼提倡稀缺，而《跨越鸿沟》中的务实型买家不信任稀缺宣传
 
-Pragmatists want established markets, references, leaders. "Limited time!" reads as desperation.
+务实派希望看到成熟市场、客户推荐和市场领导者。“限时！”在他们眼里像是急于求成。
 
-**Resolution:** Use scarcity for visionary/early-adopter sales (limited beta, exclusive access). For pragmatist mainstream, use authority and social proof instead.
+**处理方式：**向愿景型客户或早期采用者销售时，可以用稀缺，例如限量测试资格、专属访问权。面对务实的主流客户，应使用权威和社会认同。
 
-### Cialdini's authority works. Modern buyers detect fake authority instantly.
+### 权威原则有效，但现代买家会立即识别虚假权威
 
-Doctor in TV ads no longer works (Sanka's "I'm not a doctor but I play one on TV" was 1980s). Real expert credentials needed today.
+电视广告里的医生形象已经不再奏效。Sanka 广告中“我不是医生，但我在电视上演医生”的说法属于 20 世纪 80 年代。如今需要真正的专家资历。
 
-**Resolution:** Modern authority = verifiable expertise (peer-reviewed work, real titles, verifiable accomplishments). Faking it backfires harder than ever.
+**处理方式：**现代权威意味着可验证的专业能力：经过同行评审的成果、真实职衔、可核验的成就。伪造权威会比以往更严重地反噬自己。
 
-## Tactical Combinations
+## 策略组合
 
-### Mom Test → Cialdini Sequence
+### Mom Test → 西奥迪尼的使用顺序
 
-1. **Mom Test phase (no triggers):** Validate problem with target customers. Use Mom Test rules to extract honest signal.
-2. **Positioning phase (Obviously Awesome):** Use Mom Test data to find best-fit segment, frame value.
-3. **Offer phase (Cialdini ethical application):** Use principles to design persuasive offers AT the validated segment.
+1. **Mom Test 阶段（不触发说服机制）：**向目标客户验证问题，用 Mom Test 规则提取真实信号。
+2. **定位阶段（Obviously Awesome）：**利用 Mom Test 数据找到最匹配的细分客户，界定价值。
+3. **报价阶段（合乎道德地运用西奥迪尼）：**针对已经验证的细分客户，运用这些原则设计有说服力的报价。
 
-Don't mix stages - reciprocity in customer research → biased data.
+不要混用阶段：在客户研究中触发互惠，会造成数据偏差。
 
-### SPIN + Cialdini (Calibrated)
+### SPIN + 西奥迪尼（适度调整）
 
-For B2B sales:
-- Use SPIN structure (Situation, Problem, Implication, Need-payoff) for the sales conversation itself
-- Use Cialdini for low-stakes adjacent moments (intro reciprocity gift, social proof in case studies, authority in credentials)
-- DON'T use scarcity/urgency in the close - it backfires in major sales
+用于 B2B 销售时：
+- 销售对话本身采用 SPIN 结构：现状、问题、影响、需求收益。
+- 在外围、低风险的接触点使用西奥迪尼原则：初次接触时的小礼物与互惠、案例中的社会认同、资历中的权威。
+- 成交阶段**不要**用稀缺或紧迫感施压；在大额销售中会适得其反。
 
-### Hormozi Stack + Cialdini
+### Hormozi 的叠加方法 + 西奥迪尼
 
-Hormozi's $100M Offers explicitly applies Cialdini:
-- Stacked bonuses → reciprocity
-- Guarantees → reduce reactance
-- Urgency/scarcity → loss aversion
-- Social proof testimonials → conformity
+Hormozi 的 $100M Offers 明确应用了西奥迪尼的原则：
+- 叠加赠品 → 互惠。
+- 保证 → 减少逆反。
+- 紧迫感／稀缺 → 损失厌恶。
+- 客户证言形成的社会认同 → 从众。
 
-Works on cold traffic. Match application to audience sophistication. Developer-focused dev tool? Strip the stack down.
+这对陌生流量有效。要根据受众成熟度调整。如果是面向开发者的开发工具，就应减少叠加。
 
-## Modern Defense Tools (For Buyers)
+## 现代买家的防御工具
 
-- Snopes / fact-checking (against fake authority)
-- Review aggregation sites (against fake social proof)
-- Cooling-off laws (against commitment manipulation)
-- "Stop, think, breathe" before clicking "buy" (against scarcity)
+- Snopes／事实核查：应对虚假权威。
+- 评论聚合网站：应对虚假社会认同。
+- 冷静期法律：应对承诺操纵。
+- 点击“购买”前“停下来、想一想、深呼吸”：应对稀缺诱导。
 
-## When Cialdini Is Less Useful
+## 西奥迪尼方法作用较小的场景
 
-- **Genuinely revolutionary products** (the product capability shock IS the persuasion)
-- **Network-effect products** (adoption snowballs from value, not from triggers)
-- **Long-cycle B2B with technical buyers** (SPIN territory; pressure backfires)
-- **Distribution-led growth** (TikTok, Stripe, Linear-style: positioning + product win, not Cialdini stacking)
+- **真正革命性的产品：**产品能力带来的震撼，本身就是说服力。
+- **具有网络效应的产品：**采用规模因价值而滚雪球增长，而不是依赖心理触发。
+- **技术型买家参与的长周期 B2B：**属于 SPIN 适用领域，施压会反噬。
+- **分发驱动的增长：**例如 TikTok、Stripe、Linear 这类模式，靠定位与产品取胜，而非叠加西奥迪尼技巧。

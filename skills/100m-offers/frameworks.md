@@ -1,232 +1,271 @@
-# 100m-offers - Detailed Frameworks
+> 中文译文｜[英文对照](frameworks.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/100m-offers/frameworks.md)。原项目整理：AgentSeal；书籍来源：《$100M Offers》— Alex Hormozi；AI辅助翻译。
 
-## Step-by-Step: The Full Build
+<a id="100m-offers---detailed-frameworks"></a>
+# 100m-offers——详细框架
 
-### Step 1: Define Dream Outcome
+<a id="step-by-step-the-full-build"></a>
+## 完整搭建流程
 
-What transformation do they desperately want?
+<a id="step-1-define-dream-outcome"></a>
+### 第 1 步：定义理想结果
 
-**Format:** `[Specific result] in [timeframe] so that [emotional benefit/status change]`
+客户迫切想获得怎样的转变？
 
-Pull the exact words from mom-test interviews. Don't invent. Customers buy based on language they already use about their pain.
+**格式：**`在[时间范围]内实现[具体结果]，从而[情感收益／身份变化]。`
 
-### Step 2: List ALL Obstacles
+从 mom-test 访谈中提取原话，不要编造。客户会根据自己本就用来描述痛苦的语言作出购买决定。
 
-Aim for **15+ minimum**. The book pushes large lists - the more obstacles you address, the more "this solves my whole problem" the offer feels.
+<a id="step-2-list-all-obstacles"></a>
+### 第 2 步：列出所有障碍
 
-#### 4 Obstacle Categories
+目标是**至少 15 个**。书中鼓励列长清单：解决的障碍越多，方案越让人感觉“这解决了我的整个问题”。
 
-| Category | What It Blocks | Examples |
+<a id="4-obstacle-categories"></a>
+#### 四类障碍
+
+| 类别 | 阻碍什么 | 示例 |
 |----------|----------------|----------|
-| **Knowledge Gaps** | What they don't KNOW | "I don't know what to eat", "I don't know which leads convert" |
-| **Skill Deficiencies** | What they can't DO | "I can't cook healthy meals", "I can't write good cold emails" |
-| **Environmental/External Barriers** | External factors | "My family won't eat this food", "My team is overloaded" |
-| **Psychological Blocks** | Mindset issues | "I always quit after 2 weeks", "I'm afraid of looking foolish" |
+| **知识缺口** | 不知道什么 | “我不知道该吃什么。”“我不知道哪些线索会转化。” |
+| **技能不足** | 不会做什么 | “我不会做健康餐。”“我不会写好的陌生开发邮件。” |
+| **环境／外部障碍** | 外部因素 | “家人不吃这些食物。”“团队工作已经超负荷。” |
+| **心理阻碍** | 心态问题 | “我总是坚持两周就放弃。”“我怕显得很傻。” |
 
-Source note: Hormozi uses "External" for the third category. "Environmental" is a more specific framing of the same idea.
+来源说明：Hormozi 对第三类使用“External（外部）”。“环境”是对同一概念更具体的表达。
 
-### Step 3: Create Solutions (How-To Reversal)
+<a id="step-3-create-solutions-how-to-reversal"></a>
+### 第 3 步：形成方案（反转为“如何”）
 
-For each obstacle, prepend "How to..." and reverse it into a positive solution statement.
+给每个障碍加上“如何……”，反转成积极的解决方案陈述。
 
-| Obstacle | "How to..." Reversal |
+| 障碍 | 反转为“如何……” |
 |----------|----------------------|
-| Buying healthy food is confusing | How to make buying healthy food easy and enjoyable |
-| I always quit | How to make quitting impossible with daily accountability |
-| My family won't eat this food | How to get your family excited about new meals |
+| 买健康食品让人困惑 | 如何让购买健康食品轻松又愉快 |
+| 我总是放弃 | 如何通过每日监督，让放弃变得不可能 |
+| 家人不吃这些食物 | 如何让家人期待新的餐食 |
 
-This step matters because the obstacle is the customer's pain language; the reversal is what your offer literally promises.
+这一步很重要：障碍是客户表达痛苦的语言，反转后的方案就是你在销售方案中作出的具体承诺。
 
-### Step 4: Design Delivery Vehicles
+<a id="step-4-design-delivery-vehicles"></a>
+### 第 4 步：设计交付方式
 
-Decide HOW each solution is delivered. The book describes a "delivery cube" with multiple axes - the practical version has roughly these dimensions:
+决定每个方案怎样交付。书中用多轴的“交付立方体”描述它，实用版本大致包含以下维度：
 
-| Dimension | Options |
+| 维度 | 选项 |
 |-----------|---------|
-| Personal Attention | 1-on-1 / Small Group / One-to-Many |
-| Effort Level | DFY (Done For You) / DWY (Done With You) / DIY |
-| Support Medium | In-person / Video / Phone / Email / Chat |
-| Live Format | Calls, office hours, workshops |
-| Recorded Format | Course, audio, written, templates |
-| Response Time | Immediate / Same day / 24hr / 48hr |
-| Speed of Delivery | Day 1 / Week 1 / Just-in-time |
-| Availability | 24/7 / Business hours / By appointment |
-| Personalization | Custom / Semi-custom / Template |
-| Duration | Lifetime / 12mo / 6mo / 90 days |
+| 个别关注程度 | 一对一／小组／一对多 |
+| 客户投入程度 | DFY（替你做）／DWY（陪你做）／DIY（自己做） |
+| 支持媒介 | 面对面／视频／电话／邮件／聊天 |
+| 实时形式 | 通话、答疑时段、工作坊 |
+| 录制或预制形式 | 课程、音频、文字、模板 |
+| 响应时间 | 即时／当天／24 小时／48 小时 |
+| 交付速度 | 第一天／第一周／需要时及时提供 |
+| 可用时段 | 全天候／工作时间／预约制 |
+| 个性化程度 | 定制／半定制／模板 |
+| 时长 | 终身／12 个月／6 个月／90 天 |
 
-For each solution, choose where you sit on each axis. The combination is your delivery vehicle.
+为每个方案在每条轴上选定位置，这些选择的组合就是交付方式。
 
-### Step 5: Trim & Stack (Value-Cost Matrix)
+<a id="step-5-trim--stack-value-cost-matrix"></a>
+### 第 5 步：删减与叠加（价值成本矩阵）
 
-Score every candidate component on two dimensions, each 1-10:
+对每个候选组成部分按两个维度评分，每项 1—10 分：
 
-#### Value to Customer
-| Score | Meaning |
+<a id="value-to-customer"></a>
+#### 对客户的价值
+
+| 分数 | 含义 |
 |-------|---------|
-| 9-10 | Critical - directly delivers dream outcome |
-| 7-8 | Important - significantly accelerates progress |
-| 5-6 | Helpful - supports progress |
-| 1-4 | Nice-to-have - minimal impact |
+| 9—10 | 关键：直接带来理想结果 |
+| 7—8 | 重要：显著加快进展 |
+| 5—6 | 有帮助：支持进展 |
+| 1—4 | 有了更好：影响很小 |
 
-#### Cost to Deliver
-| Score | Meaning |
+<a id="cost-to-deliver"></a>
+#### 交付成本
+
+| 分数 | 含义 |
 |-------|---------|
-| 9-10 | Extremely expensive (many hours per client) |
-| 7-8 | Expensive (regular 1-on-1 time) |
-| 5-6 | Moderate (some personal time, mostly scalable) |
-| 1-4 | Low cost (templates, automation, recorded) |
+| 9—10 | 极高：每位客户需要很多工时 |
+| 7—8 | 高：定期投入一对一时间 |
+| 5—6 | 中等：需要部分个人时间，大部分可规模化 |
+| 1—4 | 低：模板、自动化、录制内容 |
 
-#### Decision Rules
+<a id="decision-rules"></a>
+#### 决策规则
 
-| Value | Cost | Decision |
+| 价值 | 成本 | 决策 |
 |-------|------|----------|
-| 8+ | 1-7 | KEEP in core offer |
-| 8+ | 8-10 | KEEP only if differentiator |
-| 6-7 | 1-4 | MOVE to bonuses |
-| 6-7 | 8-10 | CUT |
-| 1-5 | Any | CUT |
+| 8 以上 | 1—7 | 保留为核心方案 |
+| 8 以上 | 8—10 | 只有构成差异化时才保留 |
+| 6—7 | 1—4 | 转为赠品 |
+| 6—7 | 8—10 | 删除 |
+| 1—5 | 任意 | 删除 |
 
-**Target:** 6-10 strong components. Resist the urge to keep everything.
+**目标：**6—10 个有力的组成部分。克制把所有东西都保留下来的冲动。
 
-### Step 6: Add Enhancements
+<a id="step-6-add-enhancements"></a>
+### 第 6 步：增加增强要素
 
-Layer in:
-- **Guarantees** - Remove risk
-- **Scarcity** - Limited spots
-- **Urgency** - Deadline
-- **Bonuses** - Stack value
+逐层加入：
 
-See "Enhancements" section below for detail.
+- **保障**：消除风险。
+- **稀缺性**：名额有限。
+- **紧迫感**：截止日期。
+- **赠品**：叠加价值。
 
-## Bundle Naming Pattern
+详见下方“增强要素”部分。
 
-For each component:
+<a id="bundle-naming-pattern"></a>
+## 组合内容命名模式
 
+每个组成部分都按以下步骤命名：
+
+```text
+[问题] → [方案陈述] → [有吸引力的组合名称]
 ```
-[Problem] → [Solution Statement] → [Sexy Bundle Name]
-```
 
-**Example:**
-- Problem: Buying healthy food is hard
-- Solution: How to buy food fast, easy, cheap
-- Sexy Name: **Foolproof Bargain Grocery System**
+**示例：**
 
-### Naming Rules
-- Communicate benefit, not feature
-- Make it specific
-- Add power words: Foolproof, Ultimate, Rapid, Proven, Complete, Total
+- 问题：购买健康食品很难。
+- 方案：如何快速、轻松、便宜地采购食品。
+- 有吸引力的名称：**零失误省钱采购系统**。
 
-## The MAGIC Naming Formula (Whole-Offer Naming)
+<a id="naming-rules"></a>
+### 命名规则
 
-For naming the entire offer:
+- 传达收益，而非功能。
+- 表达具体。
+- 加入有力量的词：零失误、终极、快速、经过验证、完整、全面。
 
-| Letter | Element | Examples |
+<a id="the-magic-naming-formula-whole-offer-naming"></a>
+## MAGIC 命名公式（整体销售方案命名）
+
+给完整方案命名时使用：
+
+| 字母 | 要素 | 示例 |
 |--------|---------|----------|
-| **M**agnet | The hook | Rapid, Proven, Ultimate, Exclusive |
-| **A**vatar | Ideal client | Busy Executives, Mid-Market CFOs |
-| **G**oal | Desired outcome | Revenue Growth, Lead Generation |
-| **I**nterval | Duration/timeline | 6-Week, 90-Day, 12-Month |
-| **C**ontainer | Bundle word | Blueprint, System, Accelerator, Framework |
+| **M**agnet：吸引点 | 吸引注意的切入点 | 快速、经过验证、终极、专属 |
+| **A**vatar：客户画像 | 理想客户 | 忙碌高管、中型企业 CFO |
+| **G**oal：目标 | 期望结果 | 收入增长、获取销售线索 |
+| **I**nterval：时间区间 | 时长／时间表 | 六周、90 天、12 个月 |
+| **C**ontainer：载体 | 描述组合的词 | 蓝图、系统、加速器、框架 |
 
-**Formula:** `[Magnet] [Interval] [Goal] [Container] for [Avatar]`
+**公式：**`面向[客户画像]的[吸引点][时间区间][目标][载体]。`
 
-**Examples:**
-- "The 90-Day Revenue Growth Accelerator for Mid-Market SaaS CEOs"
-- "The Proven 6-Week Lead Generation Blueprint for Solo Consultants"
-- "The Ultimate 12-Month Hiring System for Tech Startups"
+**示例：**
 
-Source note: Hormozi has used several letter expansions for MAGIC across his content. The labels above are functional and align with the framework's intent. Verify exact wording against the latest edition if precision matters.
+- “中型 SaaS 企业 CEO 的 90 天收入增长加速器”。
+- “独立顾问经过验证的六周获客蓝图”。
+- “科技创业公司终极 12 个月招聘系统”。
 
-## Enhancements: Guarantees
+来源说明：Hormozi 在不同内容中对 MAGIC 各字母使用过多种展开方式。以上标签采用功能性表述，符合框架意图。如果需要精确措辞，请核对最新版原书。
 
-Risk reversal. The bigger the guarantee, the bigger the price you can charge.
+<a id="enhancements-guarantees"></a>
+## 增强要素：保障
 
-### Types of Guarantees
+把风险从客户身上转移走。保障越大，能够收取的价格越高。
 
-| Type | Example | Use When |
+<a id="types-of-guarantees"></a>
+### 保障类型
+
+| 类型 | 示例 | 何时使用 |
 |------|---------|----------|
-| Unconditional money-back | "Full refund within 30 days, no questions asked" | Confident in delivery, low fraud risk |
-| Conditional | "Lose 20 lbs in 60 days or full refund" | Specific outcome you can deliver |
-| Anti-Guarantee | "All sales final - here's why we mean it" | Premium positioning, high-screen |
-| Implied | "If you don't see results, we'll keep working until you do" | Service businesses |
-| Service guarantee | "Next month free if you don't hit X" | Recurring offers |
+| 无条件退款 | “30 天内全额退款，不问原因。” | 对交付有信心、欺诈风险低 |
+| 有条件保障 | “60 天减掉 20 磅，否则全额退款。” | 能够交付明确结果 |
+| 反保障 | “一经售出，不予退款——我们是认真的，原因如下。” | 高端定位、严格筛选客户 |
+| 隐含保障 | “如果没看到效果，我们就继续服务，直到有效。” | 服务型企业 |
+| 服务保障 | “没达到 X，下个月免费。” | 持续收费的方案 |
 
-### Designing a Guarantee
+<a id="designing-a-guarantee"></a>
+### 设计保障
 
-Ask: "What would I have to guarantee to make a skeptic say yes?"
+问自己：“我要保证什么，才能让一个怀疑者愿意答应？”
 
-Then: build the operations to actually deliver on it. A guarantee you can't honor at scale will sink the business.
+随后搭建真正能兑现承诺的运营能力。如果保障无法在规模化后履行，它会拖垮企业。
 
-## Enhancements: Scarcity
+<a id="enhancements-scarcity"></a>
+## 增强要素：稀缺性
 
-Real or perceived limit on availability.
+真实或被感知到的供应限制。
 
-| Type | Example |
+| 类型 | 示例 |
 |------|---------|
-| Limited spots | "Only 10 client slots open this quarter" |
-| Cohort cap | "First 50 enrollees only" |
-| Capacity constraint | "Our team can only onboard 3 clients per month" |
+| 名额有限 | “本季度只开放十个客户名额。” |
+| 班级人数上限 | “仅限前 50 名报名者。” |
+| 产能限制 | “团队每月只能接入三位新客户。” |
 
-**Rule:** Scarcity must be true. Fake scarcity destroys trust on second purchase.
+**规则：**稀缺性必须真实。虚假稀缺会在第二次购买时摧毁信任。
 
-## Enhancements: Urgency
+<a id="enhancements-urgency"></a>
+## 增强要素：紧迫感
 
-Time-bound reason to act now.
+给出一个有时间限制的理由，让客户现在行动。
 
-| Type | Example |
+| 类型 | 示例 |
 |------|---------|
-| Deadline | "Enrollment closes Friday at midnight" |
-| Price increase | "Price goes up $500 in 14 days" |
-| Bonus expiration | "Today's bonuses are gone after this week" |
-| Cohort start | "Next cohort starts March 1, then no enrollment until July" |
+| 截止日期 | “周五午夜停止报名。” |
+| 提价 | “14 天后涨价 500 美元。” |
+| 赠品到期 | “本周过后，今天的赠品就没有了。” |
+| 开班时间 | “下一期 3 月 1 日开班，此后直到 7 月才再次招生。” |
 
-## Enhancements: Bonuses
+<a id="enhancements-bonuses"></a>
+## 增强要素：赠品
 
-Stacked extra value beyond the core offer.
+在核心方案之外叠加额外价值。
 
-### When to Use Bonuses
-- A component scored 6-7 value, 1-4 cost (per matrix above)
-- Something useful that would distract from the main pitch
-- Surprise-and-delight elements
+<a id="when-to-use-bonuses"></a>
+### 何时用赠品
 
-### Bonus Stacking Rules
-- Each bonus should solve a specific obstacle
-- Each bonus needs its own dollar value
-- Stack 3-5 bonuses, not 15 (more = less believable)
-- Best bonus: removes a specific objection
+- 按上述矩阵，某部分价值为 6—7 分、成本为 1—4 分。
+- 某个内容有用，但放在主推介中会分散注意。
+- 带来意外惊喜的内容。
 
-## Pricing Psychology Deep Dive
+<a id="bonus-stacking-rules"></a>
+### 赠品叠加规则
 
-### Why Premium Pricing Works
+- 每个赠品都应解决一个具体障碍。
+- 每个赠品都需要独立标示金额价值。
+- 叠加 3—5 项，不要 15 项；太多反而不可信。
+- 最好的赠品能消除一个具体的购买顾虑。
 
-| Effect | Mechanism |
+<a id="pricing-psychology-deep-dive"></a>
+## 深入理解定价心理
+
+<a id="why-premium-pricing-works"></a>
+### 高价为什么有效
+
+| 效应 | 机制 |
 |--------|-----------|
-| Signal | Price as proxy for quality |
-| Selection | Filters in committed customers, filters out tire-kickers |
-| Investment | Customers value what they paid for; high price = high engagement |
-| Margin for delivery | Premium revenue funds premium experience |
+| 信号 | 用价格代表质量 |
+| 筛选 | 筛入愿意投入的客户，筛掉只看不买的人 |
+| 投入 | 客户更重视自己花钱买的东西；高价意味着更高参与度 |
+| 交付利润空间 | 高端收入支持高端体验 |
 
-### The Anchoring Display
+<a id="the-anchoring-display"></a>
+### 锚定展示
 
-Always present:
+始终呈现：
 
+```text
+你将获得：[带价值金额的清单]
+总价值：   X 美元
+你的价格： Y 美元
+节省：     Z 美元（XX%）
 ```
-What you get: [list with values]
-Total Value:  $X
-Your Price:   $Y
-You Save:     $Z (XX%)
-```
 
-Without all three numbers, the prospect is comparing $Y to nothing.
+没有这三个数字，潜在客户就只能把 Y 美元与空白比较。
 
-## Critical Warning Section
+<a id="critical-warning-section"></a>
+## 关键提醒
 
-### Specific Numbers in This Skill
+<a id="specific-numbers-in-this-skill"></a>
+### 本技能中的具体数字
 
-The book emphasizes:
-- Solving every obstacle (not most)
-- Stacking value far above price
-- Premium pricing
-- Aggressive guarantees
+书中强调：
 
-Specific multipliers and percentages cited in coaching content (e.g. "10x value", "2-3x conversion lift") are directional rules of thumb. Treat them as targets, not promises. Real conversion lift depends heavily on baseline, market, and offer fit.
+- 解决每一个障碍，而不只是大部分。
+- 将价值叠加到远高于价格的程度。
+- 高价定价。
+- 强有力的保障。
+
+教练内容中出现的具体倍数和百分比，例如“十倍价值”“转化率提高 2—3 倍”，属于方向性的经验法则。应把它们当作目标，而非承诺。实际转化率提升高度依赖原有水平、市场与方案匹配度。

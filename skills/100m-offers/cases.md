@@ -1,124 +1,150 @@
-# 100m-offers - Case Studies
+> 中文译文｜[英文对照](cases.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/100m-offers/cases.md)。原项目整理：AgentSeal；书籍来源：《$100M Offers》— Alex Hormozi；AI辅助翻译。
 
-## The Hormozi Gym Example
+<a id="100m-offers---case-studies"></a>
+# 100m-offers——案例研究
 
-This is the most-cited case study in Hormozi's content. The exact dollar figures vary across his talks and written content, so they should be treated as illustrative, not precise.
+<a id="the-hormozi-gym-example"></a>
+## Hormozi 的健身房案例
 
-### The Setup
+这是 Hormozi 内容中最常被引用的案例。他的演讲与文字中，具体金额并不完全一致，因此应视为示意，而非精确数据。
 
-**Competitor offer:** ~$500/month basic personal training (industry-typical for the time and market)
+<a id="the-setup"></a>
+### 背景
 
-**Hormozi's offer:** Premium high-ticket annual package with substantial obstacle-solving stack
+**竞争对手的方案：**每月约 500 美元的基础私教服务，符合当时当地的行业常见水平。
 
-### What He Stacked
+**Hormozi 的方案：**高端、高客单价的年度套餐，叠加大量用于解决障碍的内容。
 
-For weight-loss clients, Hormozi addressed every obstacle a customer might face, not just "I want to lose weight":
+<a id="what-he-stacked"></a>
+### 他叠加了什么
 
-- Personalized meal plans (Knowledge gap)
-- Grocery shopping guides (Skill deficiency)
-- Meal prep instructions (Skill deficiency)
-- Accountability buddy (Psychological block)
-- Weekly check-ins (Psychological block)
-- Travel workout plans (Environmental barrier)
-- Restaurant eating system (Environmental barrier)
-- Aggressive guarantee tied to outcome
+对于减重客户，Hormozi 处理客户可能遇到的每个障碍，而不只是“我想减肥”：
 
-### Why It Worked
+- 个性化膳食计划（知识缺口）。
+- 食品采购指南（技能不足）。
+- 备餐说明（技能不足）。
+- 监督伙伴（心理阻碍）。
+- 每周跟进（心理阻碍）。
+- 旅行健身计划（环境障碍）。
+- 外出就餐系统（环境障碍）。
+- 与结果挂钩的强保障。
 
-Customers who'd failed at lower-priced programs had failed because every reason for failure (knowledge, skill, environment, psychology) was unaddressed. By solving ALL the obstacles, Hormozi removed every "this won't work for me" excuse.
+<a id="why-it-worked"></a>
+### 为什么有效
 
-The premium price wasn't a barrier - it was a signal that this offer was different from the cheap programs that hadn't worked.
+在低价项目中失败的客户，失败原因是知识、技能、环境、心理等每一类问题都没有得到处理。通过解决所有障碍，Hormozi 消除了每一个“这对我没用”的理由。
 
-### Lessons (Verifiable)
+高价没有成为障碍，反而传递出一个信号：这个方案与此前无效的便宜项目不同。
 
-1. **Solve every obstacle, not most.** The cheap competitors solved 1-2 obstacles. The premium offer solved all of them.
-2. **Premium pricing is a feature, not a bug.** Customers who'd failed at $500/mo programs paid more because the price signaled "this one is different."
-3. **Guarantees enable premium pricing.** Without the guarantee, the price would have been a barrier; with it, the offer felt risk-free.
+<a id="lessons-verifiable"></a>
+### 可核验的启示
 
-### Source-Verification Notes
+1. **解决每个障碍，而非大部分。**低价竞争者只解决一两个障碍，高端方案解决全部。
+2. **高价是特性，不是缺陷。**在每月 500 美元项目中失败的客户愿意付更多，因为价格传递了“这次不一样”的信号。
+3. **保障支持高价。**没有保障，价格会成为障碍；有了保障，方案看起来就没有风险。
 
-The specific dollar figures ($16K, $42K, etc.) and revenue multipliers ("84x") have appeared in various Hormozi talks and may not be consistent across sources. The pattern (premium pricing, exhaustive obstacle-solving, aggressive guarantee) is consistently present and is the actionable lesson. Treat specific multipliers as approximate.
+<a id="source-verification-notes"></a>
+### 来源核验说明
 
-## Pattern Case: SaaS Conversion Rescue
+16,000 美元、42,000 美元等具体金额，以及“84 倍”等收入倍数，出现在 Hormozi 的不同演讲中，各来源可能不一致。稳定出现、可供行动借鉴的是模式本身：高价、穷尽式解决障碍、强保障。应把具体倍数视为近似数字。
 
-### Before
-A SaaS company offers a flat $99/month plan. Conversion from trial to paid is ~5%.
+<a id="pattern-case-saas-conversion-rescue"></a>
+## 模式示例：挽救 SaaS 转化率
 
-The offer to a trial user is essentially: "Subscribe to keep using the product."
+<a id="before"></a>
+### 调整前
 
-### After (Grand Slam Offer Applied)
+一家 SaaS 公司提供统一的每月 99 美元套餐。试用转付费率约为 5%。
 
-The company restructures the offer:
+试用用户看到的方案基本就是：“订阅，才能继续使用产品。”
 
-- 90-day onboarding with weekly 1-on-1 calls (high value, moderate cost)
-- Custom integration setup (high value, high cost - kept as differentiator)
-- Industry-specific playbook library (high value, low cost - bonus)
-- 60-day money-back guarantee tied to specific outcome
-- Annual prepay only (premium positioning)
-- Total stated value: ~$15,000
-- Annual price: $4,800
+<a id="after-grand-slam-offer-applied"></a>
+### 调整后（应用大满贯方案）
 
-### Result Pattern
+公司重新组织方案：
 
-Conversion typically lifts in this kind of restructure, though specific numbers vary by business. The mechanism is the same as the gym example: every reason a trial user might bail is now addressed in the offer.
+- 90 天上手辅导，每周一对一通话（高价值、中等成本）。
+- 定制集成设置（高价值、高成本，因构成差异化而保留）。
+- 行业专属操作手册库（高价值、低成本，作为赠品）。
+- 与具体结果挂钩的 60 天退款保障。
+- 仅支持年度预付（高端定位）。
+- 标示总价值：约 15,000 美元。
+- 年度价格：4,800 美元。
 
-This case is illustrative of the pattern; specific numbers are not from Hormozi's book and shouldn't be cited as such.
+<a id="result-pattern"></a>
+### 结果模式
 
-## Pattern Case: Service Business Repackaging
+这类重组通常会提升转化，但具体数字因业务而异。机制与健身房案例相同：试用者可能退出的每个原因，现在都在方案中得到处理。
 
-### Before
-A consultant charges $150/hour for "marketing consulting." Closes ~10% of qualified leads. Constantly negotiates on price.
+本案例用于说明模式；具体数字并非来自 Hormozi 的书，不应这样引用。
 
-### After
+<a id="pattern-case-service-business-repackaging"></a>
+## 模式示例：服务业务重新包装
 
-Rebuilds the offer:
-- "The 90-Day Revenue Growth Accelerator for Mid-Market SaaS CEOs"
-- 12 strategy calls (1-on-1)
-- Custom 30-page growth playbook (DFY)
-- Funnel audit + recommendations (one-time)
-- Weekly office hours access
-- Slack channel access for 90 days
-- 30-day satisfaction guarantee
-- Total stated value: ~$30,000
-- Price: $9,000
+<a id="before-1"></a>
+### 调整前
 
-### Why It Worked
+一位顾问按每小时 150 美元提供“营销咨询”，合格线索成交率约 10%，经常需要就价格讨价还价。
 
-The hourly framing put the consultant in commodity competition. The packaged offer:
-- Made comparison difficult (no other consultant has this exact stack)
-- Justified premium pricing (multi-component value display)
-- Filtered to higher-quality clients (low-tier was screened out by price)
+<a id="after"></a>
+### 调整后
 
-## The Common Thread
+重新设计方案：
 
-Across these patterns, the same mechanism repeats:
+- “中型 SaaS 企业 CEO 的 90 天收入增长加速器”。
+- 12 次一对一策略通话。
+- 定制的 30 页增长操作手册（替客户完成）。
+- 一次销售漏斗审计与建议。
+- 每周答疑时段。
+- 90 天 Slack 频道使用权限。
+- 30 天满意保障。
+- 标示总价值：约 30,000 美元。
+- 价格：9,000 美元。
 
-1. **Identify what they actually want** (dream outcome from mom-test)
-2. **List every reason they might fail** (15+ obstacles)
-3. **Provide a solution to each** (delivery vehicles)
-4. **Cut anything not 8+ value** (trim ruthlessly)
-5. **Display the math** (total value > price)
-6. **Remove risk** (guarantee)
-7. **Force a decision** (scarcity/urgency)
+<a id="why-it-worked-1"></a>
+### 为什么有效
 
-Run this loop on any offer and the pattern holds.
+按小时计费让顾问陷入同质化竞争。包装后的方案：
 
-## Anti-Pattern Cases
+- 难以比较：没有其他顾问提供完全一样的组合。
+- 为高价提供依据：展示多个组成部分的价值。
+- 筛选出更高质量的客户：价格筛掉低端客户。
 
-### "Just lower the price"
+<a id="the-common-thread"></a>
+## 共同机制
 
-A founder sees low conversion, panics, drops the price 30%. Conversion improves slightly. Margin collapses. Cheap customers complain more. The business is now doing more work for less money.
+这些模式中，同一机制反复出现：
 
-**Why it's wrong:** Low conversion is rarely a price problem. It's an offer problem. Lower price doesn't solve unaddressed obstacles - it just attracts a worse customer profile.
+1. **明确客户真正想要什么**，即用 mom-test 得到的理想结果。
+2. **列出每个可能失败的原因**，至少 15 个障碍。
+3. **为每个原因提供方案**，设计交付方式。
+4. **删掉价值不到 8 分的内容**，果断删减。
+5. **展示计算**，总价值高于价格。
+6. **消除风险**，提供保障。
+7. **促成决定**，运用稀缺性与紧迫感。
 
-### "Add more features"
+对任何销售方案运行这套循环，模式都成立。
 
-A product team responds to low conversion by adding 20 features over 6 months. Conversion barely moves.
+<a id="anti-pattern-cases"></a>
+## 反面案例
 
-**Why it's wrong:** More features ≠ more perceived value. The 20 new features included most low-value, high-cost components that should have been cut. The offer got bloated, not better.
+<a id="just-lower-the-price"></a>
+### “直接降价就好了”
 
-### "Build a Grand Slam Offer for an unvalidated market"
+创始人看到转化率低，慌了，降价 30%。转化略有提高，利润率却崩塌。低价客户抱怨更多，企业现在做更多工作，却赚更少的钱。
 
-A founder spends 2 months crafting a beautifully stacked offer for a problem nobody actually has. The offer is technically perfect. Nobody buys.
+**错在哪里：**低转化很少是价格问题，通常是方案问题。降价不能解决尚未处理的障碍，只会吸引更不理想的客户。
 
-**Why it's wrong:** The framework assumes product-market fit. Without a validated market, even a perfect offer fails. Use mom-test first.
+<a id="add-more-features"></a>
+### “再加一些功能”
+
+产品团队为应对低转化，在六个月内新增 20 个功能，转化率却几乎没变化。
+
+**错在哪里：**更多功能不等于更高感知价值。新增的 20 个功能大多是本应删掉的低价值、高成本内容。方案变臃肿了，并没有更好。
+
+<a id="build-a-grand-slam-offer-for-an-unvalidated-market"></a>
+### “为未经验证的市场打造大满贯方案”
+
+创始人花两个月，为一个实际上没人遇到的问题精心设计了层层叠加的方案。从技术上看，方案完美无缺，却无人购买。
+
+**错在哪里：**框架默认已经实现产品与市场匹配。市场未经验证，再完美的方案也会失败。先使用 mom-test。

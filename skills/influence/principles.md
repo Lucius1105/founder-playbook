@@ -1,432 +1,442 @@
-# Influence - The Seven Principles in Detail
+> 中文译文｜[英文对照](principles.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/influence/principles.md)。原项目整理：AgentSeal；书籍来源：《Influence》及《Pre-Suasion》— Robert Cialdini；AI 辅助翻译。
 
-## Contents
+# 影响力——七项原则详解
 
-1. [The Contrast Principle (Bonus)](#the-contrast-principle-bonus)
-2. [Reciprocation](#1-reciprocation)
-3. [Commitment and Consistency](#2-commitment-and-consistency)
-4. [Social Proof](#3-social-proof)
-5. [Liking](#4-liking)
-6. [Authority](#5-authority)
-7. [Scarcity](#6-scarcity)
-8. [Unity](#7-unity-added-by-cialdini-in-2016--pre-suasion)
+## 目录
 
----
-
-## The Contrast Principle (Bonus)
-
-Two things presented sequentially → second seems MORE different from first than it actually is.
-
-**3 buckets demo:** Right hand in cold water, left hand in hot water for 30 seconds. Then both hands in lukewarm water. Right hand feels HOT, left hand feels COLD. Same water.
-
-**Real estate "setup houses":** Show overpriced/awful house first, then the actual target.
-**Car dealers:** Sell the car, then upsell options. $500 seat warmer feels small after a $30,000 commitment.
+1. [对比原则（附加）](#the-contrast-principle-bonus)
+2. [互惠](#1-reciprocation)
+3. [承诺与一致](#2-commitment-and-consistency)
+4. [社会认同](#3-social-proof)
+5. [喜好](#4-liking)
+6. [权威](#5-authority)
+7. [稀缺](#6-scarcity)
+8. [共同体](#7-unity-added-by-cialdini-in-2016--pre-suasion)
 
 ---
 
-## 1. Reciprocation
+<a id="the-contrast-principle-bonus"></a>
+## 对比原则（附加）
 
-**Core rule:** When someone gives, we feel obligated to return. Universal across all cultures studied.
+两个事物先后呈现时，第二个会显得与第一个差异更大，超过实际差异。
 
-> "There is no human society that does not subscribe to the rule." - Sociologist Alvin Gouldner
+**三桶水演示：**右手放入冷水、左手放入热水，保持 30 秒，然后把双手都放入温水。同一桶水，右手觉得热，左手觉得冷。
 
-### Why It Works
-- Biologically wired (Tiger & Fox: created human social systems)
-- Powerful enough that we feel obligated even for UNWANTED gifts
-- Can override liking (people repay favors even from people they dislike)
-
-### Key Experiments
-
-[Regan, 1971] found that subjects who received a small unsolicited favor (a soft drink) were roughly twice as likely to comply with a later request, compared to a control group. The effect persisted even when subjects disliked the person who gave the favor, indicating reciprocity can override personal liking.
-
-[Disabled American Veterans study] found that including small free gifts (address labels) with a fundraising letter nearly doubled the response rate (from 18% to 35%), demonstrating that even token, unsolicited gifts trigger reciprocity.
-
-### Door-in-the-Face Technique (Reciprocity of Concessions)
-
-Make a LARGE request first that will be refused. Then make the actual smaller request. The "concession" triggers reciprocity.
-
-[Cialdini et al., 1975] found that preceding a moderate request with a large, refused request tripled compliance (from 17% to 50%). The "concession" from the large to the small request triggered reciprocal concession from the target.
-
-**Backfire condition (not in book):** If the first request is too extreme, the requester appears unreasonable and people refuse the second too. Calibrate the anchor.
-
-### Defenses
-- Don't blanket-refuse all gifts - many are genuine
-- Mentally redefine genuine gifts vs compliance traps - if someone gives a gift then asks for something, the gift was a sales tool, not a gift
-- Children are especially susceptible: even a child who receives an unsolicited gift may pressure a parent to reciprocate on the giver's behalf.
-
-### How Marketers Exploit
-- Free samples (Costco)
-- Free trials (SaaS)
-- Lead magnets (free PDFs, courses)
-- Anchoring high then "compromising" (negotiation)
-- Gifts before the sales pitch
+**房产销售的“铺垫房”：**先展示价格过高或条件很差的房子，再展示真正想卖的目标房。
+**汽车经销商：**先卖车，再加售选装件。作出 30,000 美元的购买承诺后，500 美元的座椅加热就显得很便宜。
 
 ---
 
-## 2. Commitment and Consistency
+<a id="1-reciprocation"></a>
+## 1. 互惠
 
-**Core rule:** Once we make a commitment, we feel pressure to behave consistently with it.
+**核心规则：**别人给予我们东西时，我们觉得有义务回报。在所有被研究过的文化中都存在。
 
-> "Consistency is the hobgoblin of little minds, adored by little statesmen." - Emerson (full quote, not just "foolish consistency")
+> “不存在不遵循这条规则的人类社会。”——社会学家 Alvin Gouldner
 
-We desire consistency because:
-1. Socially valued (looking flaky is bad)
-2. Useful shortcut (avoid re-evaluating)
-3. Hiding place from troubling realizations
+### 为什么有效
+- 有生物机制基础。Tiger 与 Fox 认为，这种机制创造了人类社会系统。
+- 强大到即便礼物并非我们想要，也会感到亏欠。
+- 能压过喜好：即使不喜欢给予好处的人，人们也会回报。
 
-### Key Experiments
+### 关键实验
 
-[Knox & Inkster, 1968] found that racetrack bettors rated their horse's chances significantly higher immediately after placing a bet than immediately before. The act of committing financially increased confidence in the decision.
+［Regan，1971］发现，事先未经请求收到小恩惠——一瓶汽水——的被试，后来答应请求的可能性约为对照组的两倍。即使被试不喜欢施惠者，效应依然存在，说明互惠可以压过个人喜好。
 
-[Schein, 1956] documented that Chinese captors during the Korean War used escalating small commitments -- beginning with minor written criticisms, then public readings, then signatures -- to shift prisoners' beliefs over time. The technique relied on consistency pressure, not physical coercion.
+［美国伤残退伍军人协会研究］发现，募款信中附上地址标签这样的小礼物，回应率几乎翻倍，从 18% 增至 35%。这表明即便只是象征性、未经请求的礼物，也会触发互惠。
 
-[Freedman & Fraser, 1966] found that homeowners who had previously agreed to a small related request (posting a 3-inch sign) were dramatically more likely to accept a large request (a lawn billboard): 76% vs. 17% for a cold ask. A prior commitment on a different topic (a petition) produced ~50% compliance -- elevated but lower, showing same-topic commitment carries over more strongly.
+### 先大后小技巧（让步的互惠）
 
-[Sherman, 1980] found that subjects who were first asked hypothetically whether they would volunteer for a cause were 700% more likely to actually volunteer when contacted days later, compared to a control group with no prior hypothetical commitment.
+先提出一个会遭到拒绝的大请求，再提出真正想要的小请求。这个“让步”会触发互惠。
 
-### The 4 Conditions That Make Commitments More Powerful
+［Cialdini 等，1975］发现，在中等请求之前先提出一个遭到拒绝的大请求，服从率会从 17% 增至 50%，约为三倍。从大请求退到小请求的“让步”，会触发对方作出对应让步。
 
-| Condition | Why It Works |
+**反噬条件（原书未提）：**如果第一个请求过于极端，请求者会显得不讲道理，第二个请求也会遭到拒绝。应校准锚点。
+
+### 防御方法
+- 不必一概拒绝礼物，很多礼物是真心的。
+- 在心里区分真诚馈赠与顺从陷阱：如果对方送礼后就索取某事，那份礼物是销售工具，而非单纯礼物。
+- 儿童尤其容易受影响：即使礼物不是孩子主动索要的，孩子也可能为了回报送礼者而向父母施压。
+
+### 营销者如何利用
+- 免费试吃，例如 Costco。
+- 免费试用，例如 SaaS。
+- 引流赠品，例如免费 PDF、课程。
+- 先设高锚点，再“妥协”，常见于谈判。
+- 销售推介之前先送礼物。
+
+---
+
+<a id="2-commitment-and-consistency"></a>
+## 2. 承诺与一致
+
+**核心规则：**一旦作出承诺，我们就感到必须与之保持一致。
+
+> “一致性是小头脑的心魔，深受小政治家喜爱。”——Emerson（原文将此标作完整引语，而不只引用“愚蠢的一致性”）
+
+我们追求一致，因为：
+1. 社会重视它：显得反复无常不好。
+2. 它是有用的捷径：可以避免重新评估。
+3. 它能让我们躲开令人不安的认识。
+
+### 关键实验
+
+［Knox 与 Inkster，1968］发现，赛马下注者刚下注后，对所选马匹胜算的评分，明显高于刚下注前。投入金钱这一承诺行为，增强了对决策的信心。
+
+［Schein，1956］记录，朝鲜战争期间的中方俘虏管理者通过逐步升级的小承诺改变战俘信念：从写几句轻微批评开始，再到公开朗读，随后签名。技巧依赖的是保持一致的压力，而非身体强迫。
+
+［Freedman 与 Fraser，1966］发现，先答应相关小请求——放置 3 英寸标牌——的屋主，更可能接受把大型告示牌放到草坪上的大请求：76%，而直接提出大请求时为 17%。先在不同主题上承诺，即签署请愿书，服从率约为 50%；同样有所提升，但较低，说明同主题承诺的迁移作用更强。
+
+［Sherman，1980］发现，与没有作出假设性承诺的对照组相比，先被问到是否愿意为某项事业做志愿者的被试，几天后真正被联系时，实际参加志愿工作的可能性高出 700%。
+
+### 使承诺更有力的四个条件
+
+| 条件 | 为什么有效 |
 |-----------|--------------|
-| **Active** | Doing > saying. Writing > thinking |
-| **Public** | Witnesses lock you in (group hand-raising > private vote) |
-| **Effortful** | More effort, more value (hazing, fraternity initiations) |
-| **Uncoerced** | We must feel CHOSEN freely. Bribes/threats don't create real commitment |
+| **主动** | 做比说有力，写下来比只在心里想有力 |
+| **公开** | 见证者锁定承诺；集体举手比私下投票更有力 |
+| **费力** | 投入越多，价值感越高，如入会磨炼、兄弟会入会仪式 |
+| **不受强迫** | 必须感觉是自己自由选择；贿赂和威胁不会产生真实承诺 |
 
-**Cialdini explicitly elevates "uncoerced inner choice" as more important than the other three combined.** The other three create compliance; only inner choice creates durable commitment.
+**西奥迪尼明确认为，“不受强迫的内在选择”比其余三项加起来更重要。**其余三项带来顺从，只有内在选择才创造持久承诺。
 
-This is why:
-- Amway makes salespeople write goals down
-- Door-to-door sales have customers fill out the contract themselves
-- Cults require effortful initiations
-- "Foot-in-the-door" works (small commitment first)
+因此：
+- 安利要求销售人员写下目标。
+- 上门销售让客户自己填写合同。
+- 邪教要求参加费力的入会仪式。
+- “登门槛”有效，因为它先取得小承诺。
 
-### Manipulative Techniques
+### 操纵技巧
 
-**Foot-in-the-Door:** Small request → bigger request
+**登门槛：**小请求 → 更大请求。
 
-**Low-Ball Technique:**
-- Get commitment to product
-- AFTER commitment, reveal the real (higher) cost
-- Customer keeps commitment despite changed terms
-- Used by car dealers, gym memberships
+**低球技巧：**
+- 先让客户承诺购买产品。
+- 承诺之后，再透露真正、更高的成本。
+- 即使条件改变，客户仍维持承诺。
+- 汽车经销商、健身房会员销售都会使用。
 
-**Bait and Switch:**
-- Advertise low-priced item to get them in
-- Once committed, "sell out" of cheap, push expensive
+**诱饵与调包：**
+- 用低价商品广告吸引顾客进来。
+- 顾客作出承诺后，廉价商品就“售罄”，转而推销昂贵商品。
 
-**Toy Company January Trick:**
-- Christmas: heavy advertising for new toy → create undersupply intentionally
-- Parents promise the original to kids "later"
-- February: re-advertise the original toy
-- Kids hold parents to the promise
-- Toy company sells TWICE the units
+**玩具公司的“一月技巧”：**
+- 圣诞节：大力宣传新玩具，再故意制造供货不足。
+- 父母向孩子承诺“以后”买原本那款。
+- 二月：重新宣传原款玩具。
+- 孩子要求父母兑现承诺。
+- 玩具公司因此卖出两倍数量。
 
-### Defenses
+### 防御方法
 
-**Two-Signal System:**
-1. **Stomach signal** (sense of being manipulated): Stop. Acknowledge it.
-2. **Heart-of-hearts signal** (deep gut): "Knowing what I now know, would I make this choice again?"
+**双信号系统：**
+1. **胃部信号**，即感觉正在被操纵：停下，承认这种感觉。
+2. **内心深处的信号**，即深层直觉：“知道了现在这些信息，我还会再次作出这个选择吗？”
 
-**The Diagnostic Question:**
-> "Knowing what I now know, if I could go back in time, would I make the same commitment?"
+**诊断问题：**
+> “知道了现在这些信息，如果可以回到过去，我还会作出同样的承诺吗？”
 
-If no → walk away regardless of social pressure.
+如果不会，就离开，不必理会社会压力。
 
-**The first-flash-of-feeling method:** Trust your initial gut reaction before rationalization kicks in.
-
----
-
-## 3. Social Proof
-
-**Core rule:** We determine what's correct by finding out what other people think is correct.
-
-> "Where many minds are of the same opinion, all are wrong." - Bertrand Russell
-
-### Why It Works
-- Reduces uncertainty (especially in ambiguous situations)
-- Social acceptance
-- Cognitive shortcut
-
-### Key Experiments (Lab-Verified)
-
-**Canned Laughter:** Despite audience self-reports of finding it annoying, laugh tracks reliably increase laughter and humor ratings -- a pure social-proof heuristic.
-
-**Bartenders & Buskers:** Pre-seeding a tip jar with bills increases subsequent tips from patrons.
-
-[Bandura, Ross & Jones, 1969] found that children afraid of dogs who observed a peer interacting happily with a dog showed a lasting reduction in fear -- 67% would interact with dogs afterward. Film of the same interaction produced comparable results.
-
-[O'Connor, 1969] found that showing socially withdrawn preschoolers a film of similar children playing happily produced measurable social engagement improvements lasting 6+ weeks after a single viewing.
-
-[Latane & Darley, 1968] established that as the number of bystanders increases, individual likelihood of helping decreases. In their "smoke-filled room" study, 75% of solo subjects reported smoke, compared to only 10% when two passive confederates were present. Defense: in an emergency, single out one person ("YOU in the blue shirt -- call 911").
-
-**Modern update:** [Fischer et al., 2011] meta-analysis found the bystander effect reverses in clearly dangerous emergencies -- groups do help more when threat is unambiguous. The effect is real but smaller in magnitude than originally claimed.
-
-### Note on Genovese
-
-The Kitty Genovese "38 witnesses" story (1964) is largely fabricated by the *NYT*. Manning, Levine & Collins (2007) debunked the myth. **This skill does not use Genovese as evidence.** The underlying psychology (pluralistic ignorance, bystander diffusion) is real - confirmed by the Latane & Darley lab studies above and by Fischer et al. 2011 - but the mythologized Genovese narrative is not the evidence.
-
-### The Similarity Booster
-
-Social proof is dramatically stronger when proof comes from people LIKE us.
-
-[Hornstein et al., 1968] found in a lost-wallet field study that wallets were returned more often when the apparent prior owner was similar to the finder.
-
-[Phillips, 1974] found that publicized suicides are followed by a measurable spike in suicide rates over the following two weeks, with the effect strongest when the publicized individual is demographically similar to the at-risk population. (Phillips' specific magnitude estimates are contested in subsequent reanalyses; the directional finding is more robust than the numbers.)
-
-[Festinger, Riecken & Schachter, 1956] documented that members of a doomsday cult became more evangelical after their prophecy failed, likely because the depth of their prior commitment required social validation to sustain their beliefs. (Note: Festinger's account is contested by historians as overdramatized.)
-
-### How Marketers Exploit
-- Customer testimonials (especially from similar-looking customers)
-- "85% of dentists recommend..."
-- Crowd shots in ads
-- "Best-seller" labels
-- Social media follower counts
-- Reviews
-- Activity feeds ("3 people are looking at this right now")
-
-### Defenses
-- Recognize when uncertainty is being weaponized
-- Look for "social proof in similar situation" specifically
-- When social proof seems off, trust your evaluation
+**第一瞬间感受法：**在合理化解释启动之前，相信自己最初的直觉反应。
 
 ---
 
-## 4. Liking
+<a id="3-social-proof"></a>
+## 3. 社会认同
 
-**Core rule:** We comply with people we like.
+**核心规则：**我们通过了解别人认为什么正确，来判断什么正确。
 
-> "You will be more persuasive to your friends than to your enemies." - Henry Boettinger
+> “当许多人意见一致时，他们全都错了。”——Bertrand Russell
 
-### Sub-Factor 1: Physical Attractiveness (The Halo Effect)
+### 为什么有效
+- 减少不确定性，尤其在模糊情境中。
+- 获得社会接纳。
+- 提供认知捷径。
 
-Attractive people perceived as more talented, kind, honest, intelligent.
+### 关键实验（有实验室验证）
 
-- Canadian Federal Election: Attractive candidates received 2.5x more votes
-- PA Criminal Trials: Attractive defendants received lighter sentences
-- Hiring: Identical resume + attractive photo = much higher callbacks
+**罐头笑声：**尽管受众自述觉得烦人，录制笑声仍会稳定地增加发笑次数和幽默评分，这是一种纯粹的社会认同捷径。
 
-(Note: original halo-effect numbers have shrunk on replication. Direction holds; magnitude smaller than originally reported.)
+**酒保与街头艺人：**事先在小费罐里放几张纸币，会增加之后顾客给的小费。
 
-### Sub-Factor 2: Similarity
+［Bandura、Ross 与 Jones，1969］发现，害怕狗的儿童看到同龄人与狗愉快互动后，恐惧会持续减弱；之后有 67% 愿意与狗互动。观看相同互动的影片也有相近结果。
 
-We like people similar in opinions, background, lifestyle, dress.
+［O'Connor，1969］发现，让社交退缩的学龄前儿童看类似儿童快乐玩耍的影片，仅观看一次，就能带来可测量的社交参与改善，持续超过六周。
 
-[Emswiller, Deaux & Willits, 1971] found that a stranger's compliance with a small request (lending a dime) doubled when the requester was dressed similarly to the target, compared to when their dress style was mismatched.
+［Latane 与 Darley，1968］发现，旁观者人数越多，个体帮助他人的可能性越低。在“烟雾弥漫的房间”实验中，独处被试有 75% 报告烟雾；身边有两名毫无反应的实验同谋时，仅 10% 报告。防御方法：紧急时明确点名一个人——“穿蓝衬衫的那位，请拨打 911。”
 
-**Mirror-and-match:** Salespeople trained to mirror posture, speech patterns, dress.
+**现代更新：**［Fischer 等，2011］的元分析发现，在明显危险的紧急情况下，旁观者效应会反转；威胁明确时，群体确实更愿意帮助。该效应存在，但程度小于最初声称的大小。
 
-### Sub-Factor 3: Compliments
+### 关于 Genovese 的说明
 
-We're suckers for flattery, even when we know it's manipulation.
+1964 年 Kitty Genovese 案的“38 名目击者”故事，大部分由《纽约时报》编造。Manning、Levine 与 Collins（2007）揭穿了这一传说。**本技能不把 Genovese 案当作证据。**多元无知、旁观者责任分散等心理机制确实存在，上述 Latane 与 Darley 的实验室研究和 Fischer 等人 2011 年的研究提供了支持；但被神话化的 Genovese 叙事并不是证据。
 
-**Joe Girard**, Guinness record-holding car salesman, attributed his success to sending every past customer a monthly card containing only the message "I like you." Simple, repeated flattery at scale drove extraordinary repeat business and referrals.
+### 相似性会增强效应
 
-### Sub-Factor 4: Contact and Cooperation
+当社会认同来自与我们相似的人，作用会显著增强。
 
-**Mere Exposure Effect:** We like things more after seeing them more.
+［Hornstein 等，1968］在丢失钱包的实地研究中发现，如果钱包所显示的原主人与捡到者相似，归还的比例会更高。
 
-[Sherif et al., 1954] found in the Robbers Cave field experiment that intergroup competition created hostility between groups of boys, but introducing shared goals requiring cooperation converted the hostility into friendship.
+［Phillips，1974］发现，自杀事件被公开报道后的两周内，自杀率会出现可测量的上升；当报道中的人物与高风险群体在人口特征上相似时，效应最强。（Phillips 对具体幅度的估计，在后来的重新分析中受到质疑；方向性结论比具体数字更稳健。）
 
-[Aronson et al., 1978] developed the "jigsaw classroom" technique, where each student holds one piece of required information. This forced interdependence reduced racial tension and improved academic performance.
+［Festinger、Riecken 与 Schachter，1956］记录，一个末日教派的预言失败后，成员反而更热衷传教，可能因为他们之前投入的承诺很深，需要社会认可来维持信念。（注意：历史学家质疑 Festinger 的叙事有过度戏剧化的问题。）
 
-**Good Cop / Bad Cop:**
-- Bad cop intimidates
-- Good cop (by contrast) seems supportive
-- Good cop's influence amplified by bad cop's contrast
+### 营销者如何利用
+- 客户证言，尤其是来自看起来与目标客户相似的人。
+- “85% 的牙医推荐……”
+- 广告中的人群画面。
+- “畅销”标签。
+- 社交媒体粉丝数。
+- 评论。
+- 活动动态：“现在有三个人正在查看。”
 
-### Sub-Factor 5: Conditioning and Association
-
-Pavlov's principle. We associate good/bad feelings with whatever's nearby.
-
-**Persian Messengers:** Bringer of bad news executed. Bringer of good news rewarded.
-**Modern Weatherman Hate Mail:** Forecasters get death threats over rain forecasts.
-**Cars With Models:** Research shows that the same car rated alongside an attractive model is perceived as faster and more appealing. Subjects deny the model influenced their judgment.
-
-**Tupperware Parties:** Combine multiple compliance levers -- a friend as hostess (liking), games (positive association), group attendance (social proof) -- into a single sales format.
-
-### Sub-Factor 6: Sports Fan Behavior (BIRG)
-
-[Cialdini et al., 1976] coined "Basking in Reflected Glory" (BIRG) after finding that university students were significantly more likely to wear school apparel after team wins and to use "we" for wins but "they" for losses. People associate themselves with successful others to enhance their own perceived status.
-
-### Defenses
-
-> "Monitor the EFFECT, not the CAUSES."
-
-If you find yourself liking someone too much, too quickly, in a transactional context - **separate the dealer from the deal.**
-
-Ask: "Would I buy this from a stranger I disliked at the same price?"
+### 防御方法
+- 识别不确定性何时被当作操纵工具。
+- 特别寻找“相似情境中的社会认同”。
+- 如果社会认同看起来不对劲，相信自己的评估。
 
 ---
 
-## 5. Authority
+<a id="4-liking"></a>
+## 4. 喜好
 
-**Core rule:** We comply with authority figures, often without question.
+**核心规则：**我们更愿意答应自己喜欢的人。
 
-### Milgram Obedience Experiments (1961)
+> “你对朋友的说服力，会大于对敌人的说服力。”——Henry Boettinger
 
-[Milgram, 1963] found that subjects instructed by an authority figure to administer escalating electric shocks to a protesting learner (actually an actor) showed striking obedience. In the most-cited condition, 65% complied to the maximum level. However, Milgram ran 24 conditions with compliance ranging from 0% to 92% -- the single "65%" figure obscures massive variation driven by proximity of authority, presence of dissenting peers, and other factors.
+### 子因素一：外貌吸引力（光环效应）
 
-Key finding: removing or undermining the authority figure (moving them out of the room, introducing a disagreeing second authority, or substituting a peer) caused compliance to plummet.
+外貌有吸引力的人，会被认为更有才华、更善良、诚实、聪明。
 
-**Modern context:** [Burger, 2009] partially replicated the result (~70% compliance, capped at 150V for ethics). [Perry, 2012] archival critique disputes aspects of Milgram's data integrity.
+- 加拿大联邦选举：有吸引力的候选人获得的票数为其他候选人的 2.5 倍。
+- 宾夕法尼亚州刑事审判：有吸引力的被告获得较轻刑罚。
+- 招聘：相同简历搭配有吸引力的照片，会获得更多回访。
 
-### Modern Examples
+（注意：原始光环效应数字在重复研究中有所缩小。方向仍然成立，程度小于最初报告。）
 
-[Cohen & Davis, 1981] documented a case where a nurse misread a physician's abbreviation ("R ear" as "Rear") and administered medication rectally without questioning the instruction -- illustrating blind compliance with perceived medical authority.
+### 子因素二：相似性
 
-[Hofling et al., 1966] found that 95% of nurses in a field study were prepared to administer an unsafe dose of an unfamiliar drug based solely on a phone call from an unknown doctor. Critical caveat: modern replications find much lower rates (~16-30%) due to updated refusal training and protocols.
+我们喜欢与自己观点、背景、生活方式、穿着相似的人。
 
-[Wilson, 1968] found that the same person was estimated as 2.5 inches taller when introduced as a professor than when introduced as a student, demonstrating how authority titles distort even physical perception.
+［Emswiller、Deaux 与 Willits，1971］发现，陌生人提出借一枚 10 美分硬币的小请求时，如果穿着与对方相似，答应的比例是穿着风格不同条件下的两倍。
 
-### The 3 Symbols of Authority
+**镜像与匹配：**销售人员会被训练模仿对方姿势、说话模式和穿着。
 
-| Symbol | How It Triggers Compliance |
+### 子因素三：赞美
+
+即使知道是操纵，我们仍容易被奉承打动。
+
+**Joe Girard** 是保持吉尼斯纪录的汽车销售员。他把成功归功于每月给每一位老客户寄一张只写着“我喜欢你”的卡片。简单、重复、规模化的恭维，带来了非凡的复购与转介绍。
+
+### 子因素四：接触与合作
+
+**单纯接触效应：**看到某个东西越多，越容易喜欢它。
+
+［Sherif 等，1954］在罗伯斯山洞实地实验中发现，群体间竞争会使男孩群体彼此敌对；引入必须合作完成的共同目标后，敌意转化为友谊。
+
+［Aronson 等，1978］提出“拼图课堂”技巧：每位学生掌握完成任务所必需的一部分信息。这种被迫相互依赖，减少了种族紧张，也提升了学习表现。
+
+**好警察／坏警察：**
+- 坏警察恐吓。
+- 相比之下，好警察显得支持你。
+- 坏警察形成的对比，放大了好警察的影响力。
+
+### 子因素五：条件作用与联想
+
+巴甫洛夫原理：我们把好坏感受与同时出现的事物联系起来。
+
+**波斯信使：**带来坏消息者被处死，带来好消息者获奖赏。
+**现代天气预报员的仇恨邮件：**预报下雨也会收到死亡威胁。
+**汽车与模特：**研究发现，同一辆车与有吸引力的模特一起展示时，会被认为更快、更有魅力。被试否认模特影响了自己的判断。
+
+**特百惠聚会：**把多种顺从杠杆融合进同一种销售形式：朋友担任女主人带来喜好，游戏建立积极联想，集体参加形成社会认同。
+
+### 子因素六：球迷行为（BIRG）
+
+［Cialdini 等，1976］发现，校队获胜后，大学生更可能穿学校服饰；谈获胜时用“我们”，谈失败时用“他们”。研究者据此提出“沐浴于反射的荣光”（Basking in Reflected Glory，BIRG）。人们通过与成功者建立关联，提高自己在他人眼中的地位。
+
+### 防御方法
+
+> “监测效果，不必逐一追查原因。”
+
+在交易情境中，如果发现自己过快、过度地喜欢某个人，**把交易对象与交易本身分开判断。**
+
+问自己：“如果是我不喜欢的陌生人以同样价格卖这件东西，我还会买吗？”
+
+---
+
+<a id="5-authority"></a>
+## 5. 权威
+
+**核心规则：**我们服从权威人物，而且常常不加质疑。
+
+### Milgram 服从实验（1961）
+
+［Milgram，1963］发现，被权威人物指示对抗议中的“学习者”——实际是演员——施加不断增强电击时，被试表现出惊人的服从。在最常引用的条件中，65% 一直服从到最高强度。但 Milgram 实际设置了 24 种条件，服从率从 0% 到 92% 不等；单独的“65%”掩盖了权威距离、异议同伴在场等因素带来的巨大变化。
+
+关键发现：移除或削弱权威人物，例如让其离开房间、引入意见不同的第二位权威，或者让同辈替代，都会使服从率骤降。
+
+**现代背景：**［Burger，2009］部分重复了结果，服从率约 70%，基于伦理考虑电击上限为 150V。［Perry，2012］的档案分析质疑了 Milgram 数据完整性的部分问题。
+
+### 现代例子
+
+［Cohen 与 Davis，1981］记录过一例：护士把医生写的“R ear”（右耳）误读成“Rear”（臀后部），于是经直肠给药，完全没有质疑指令。这说明人会盲目服从自己认定的医疗权威。
+
+［Hofling 等，1966］在实地研究中发现，仅凭陌生医生的一通电话，就有 95% 的护士准备给予不熟悉药物的不安全剂量。重要限制：现代重复研究发现比例低得多，约 16%—30%，原因是拒绝指令培训和操作规程更新了。
+
+［Wilson，1968］发现，同一个人被介绍为教授时，估计身高比被介绍为学生时高出 2.5 英寸，说明权威头衔甚至会扭曲对身体的感知。
+
+### 权威的三种符号
+
+| 符号 | 如何触发服从 |
 |--------|----------------------------|
-| **Titles** | Dr., Professor, CEO, MD - title alone changes treatment |
-| **Clothing** | Uniforms, business suits, lab coats |
-| **Trappings** | Cars, watches, offices |
+| **头衔** | 博士、教授、首席执行官、医生；头衔本身就会改变待遇 |
+| **服装** | 制服、商务西装、实验室白大褂 |
+| **外在配置** | 汽车、手表、办公室 |
 
-### Bickman's Studies
+### Bickman 的研究
 
-[Bickman, 1974] found that compliance with arbitrary requests from a stranger (e.g., giving a coin to a third party) jumped from 42% to 92% when the requester wore a security guard uniform instead of street clothes. Same person, same words -- only the clothing changed.
+［Bickman，1974］发现，陌生人提出随意请求，如给第三方一枚硬币，穿保安制服时服从率为 92%，穿便装时为 42%。同一个人、同样的话，变化的只有衣服。
 
-[Lefkowitz, Blake & Mouton, 1955] found that pedestrians were 3.5x more likely to jaywalk following a confederate wearing a business suit than one in casual clothes, demonstrating that clothing-based authority cues influence behavior even in trivial contexts.
+［Lefkowitz、Blake 与 Mouton，1955］发现，行人跟随穿商务西装的实验同谋乱穿马路的可能性，是跟随便装同谋时的 3.5 倍。即便在琐碎场景中，服装形成的权威线索也会影响行为。
 
-### The Apparent Counter-Interest Tactic
+### 表面违背自身利益的策略
 
-**Anecdotal, not a controlled study.** The pattern: a salesperson steers a customer away from one option (appearing to sacrifice commission), then recommends a higher-margin alternative. By seeming to work against their own interest on a small item, they gain trust for the larger recommendation. Modern version: sales reps who say "Honestly, this isn't the right fit for you," then upsell.
+**这是轶事，并非对照实验。**常见模式是：销售员劝客户不要选某款商品，看起来牺牲了佣金，然后推荐利润更高的替代品。通过在小项目上表现得违背自身利益，为更大的推荐赢得信任。现代版本是销售代表先说“老实说，这个不适合你”，再推销更贵的方案。
 
-### Defenses
+### 防御方法
 
-Two questions:
-1. **"Is this person truly an expert in this domain?"** (Doctor selling investments? No.)
-2. **"How truthful can I expect this expert to be?"** (Are they paid to push this?)
+问两个问题：
+1. **“此人真是这个领域的专家吗？”**医生推销投资产品？不是。
+2. **“我能期待这位专家有多诚实？”**他是否收了钱才推这个？
 
-If the answer to either is "no" or "not really" → ignore the authority cue.
-
----
-
-## 6. Scarcity
-
-**Core rule:** Opportunities seem more valuable when their availability is limited.
-
-### Why It Works
-- Loss aversion (we hate losing more than we love gaining)
-- Scarcity = high demand = good (heuristic shortcut)
-- Restricted access triggers psychological reactance
-
-### Key Experiments
-
-[Worchel, Lee & Adewole, 1975] found that identical cookies were rated as more desirable and better-tasting when presented in a nearly empty jar (2 remaining) versus a full jar. Perceived scarcity alone changed the subjective experience.
-
-[Knishinsky, 1982] found that beef wholesalers purchased twice as much when told supply might be scarce, and six times as much when additionally told the scarcity information itself was exclusive. Scarcity of the product combined with scarcity of the information produced the strongest effect.
-
-**Three-Eyed Stamp:** A misprinted Washington stamp sold for thousands of dollars -- the manufacturing defect created scarcity, which created value.
-
-### Psychological Reactance Theory (Brehm, 1966)
-
-When freedom to do something is restricted, we want it MORE.
-
-[Brehm, 1977] found that toddlers (especially 2-year-old boys) were 3x more likely to reach for a toy placed behind a barrier than an equally accessible toy, demonstrating reactance to restricted freedom from a very early age.
-
-[Driscoll, Davis & Lipetz, 1972] found that parental opposition to a romantic relationship was correlated with increased intensity of romantic feelings ("Romeo and Juliet effect"). (Note: contested by [Sinclair et al., 2014] on replication grounds.)
-
-[Broeder, 1959] found in a mock-jury study that jurors told to disregard inadmissible evidence actually weighted it more heavily than jurors who received the same evidence without restriction -- forbidden information had more influence, not less ($33K baseline vs. $46K when evidence was ruled inadmissible).
-
-**Streisand Effect:** Modern internet version. Trying to suppress info amplifies it.
-
-### The 2 Manipulative Tactics
-
-**1. Limited Number Tactic:**
-- "Only 5 left in stock"
-- Appliance store fake-out: "Sold out" then magically finds one (commission)
-
-**2. Deadline Tactic:**
-- "Sale ends Friday"
-- "Limited time offer"
-- Boiler-room scams: "Decision in next 5 minutes or it's gone" (Daniel Gulban lost $18,000)
-
-### When Scarcity Is Strongest
-
-**Newly Scarce > Always Scarce:**
-[Worchel et al., 1975] also found that cookies that transitioned from abundant to scarce during the experiment were rated most desirable of all -- newly restricted access is more powerful than consistently limited access.
-
-**Davies Revolution Thesis:**
-- Revolutions happen NOT in conditions of constant deprivation
-- They happen when people had something then it was taken away
-- French Revolution, Russian Revolution, 1960s civil rights movement, 1991 Soviet coup
-- Pattern: rising prosperity → expectations → setback → revolution
-
-### Defenses
-
-**Two-Stage Defense:**
-
-Stage 1: **Recognize the arousal cue** (your heart speeds up when you hear "limited time"). Treat the arousal itself as a STOP signal.
-
-Stage 2: **Ask the right question.**
-- NOT: "Do I want it more because it's scarce?" (yes, you do)
-- INSTEAD: "Do I want it for its USE, or just to POSSESS it?"
-
-If you only want it because it's about to disappear → walk away. Scarcity doesn't change utility.
+如果任一个答案是“否”或“不太是”，就忽略权威线索。
 
 ---
 
-## 7. Unity (Added by Cialdini in 2016 / Pre-Suasion)
+<a id="6-scarcity"></a>
+## 6. 稀缺
 
-**Core rule:** We comply more with people we share IDENTITY with - not just similarity, but a sense of shared "we."
+**核心规则：**可获得性受限时，机会显得更有价值。
 
-This goes beyond Liking's similarity factor. Liking says "people like you and me." Unity says "people who ARE us."
+### 为什么有效
+- 损失厌恶：我们对损失的厌恶，强于对同等获得的喜爱。
+- “稀缺 = 需求高 = 好东西”是一种启发式捷径。
+- 获取受限会引发心理逆反。
 
-### The Difference from Liking
+### 关键实验
 
-| Liking (similarity) | Unity (identity) |
+［Worchel、Lee 与 Adewole，1975］发现，同样的饼干，放在几乎空了、只剩两块的罐子里，比放在满罐里时被评价为更想要、更好吃。仅仅感知到稀缺，就改变了主观体验。
+
+［Knishinsky，1982］发现，牛肉批发商听说供应可能紧缺后，采购量变为两倍；如果又被告知“紧缺消息本身是独家的”，采购量则变为六倍。产品稀缺与信息稀缺相结合，效果最强。
+
+**三眼邮票：**一枚华盛顿头像印错的邮票卖出数千美元。制造缺陷创造了稀缺，稀缺创造了价值。
+
+### 心理逆反理论（Brehm，1966）
+
+做某件事的自由受限时，我们反而更想做。
+
+［Brehm，1977］发现，幼儿尤其是两岁男孩，伸手去拿障碍物后面玩具的可能性，是拿另一件同样可获取玩具的三倍。这表明很小的孩子就会对自由受限产生逆反。
+
+［Driscoll、Davis 与 Lipetz，1972］发现，父母反对恋爱关系与恋爱感情增强相关，即“罗密欧与朱丽叶效应”。（注意：［Sinclair 等，2014］根据重复研究提出了质疑。）
+
+［Broeder，1959］在模拟陪审团实验中发现，被告知忽略不予采纳证据的陪审员，实际上比正常接触同样证据、未受限制的陪审员赋予它更大权重。被禁止的信息，影响更大而非更小：基线金额为 33,000 美元，证据被判定不可采纳时为 46,000 美元。
+
+**史翠珊效应：**互联网时代的版本：试图压制信息，反而放大其传播。
+
+### 两种操纵策略
+
+**1. 限量策略：**
+- “库存仅剩五件。”
+- 家电商店的假动作：先说“售罄”，再奇迹般找到一件，以促成交易获得佣金。
+
+**2. 截止日期策略：**
+- “促销周五结束。”
+- “限时优惠。”
+- 高压电话销售骗局：“五分钟内决定，否则机会就没了。”Daniel Gulban 因此损失 18,000 美元。
+
+### 稀缺何时最有力
+
+**刚变稀缺，比一直稀缺更有力：**
+［Worchel 等，1975］还发现，在实验中由充足变得稀缺的饼干，被评为最令人想要。刚刚受到限制的获取机会，比始终有限的机会影响更强。
+
+**Davies 革命论：**
+- 革命并不发生在持续匮乏的条件下。
+- 它发生在人们曾拥有某种东西，后来又被夺走时。
+- 例子包括法国大革命、俄国革命、20 世纪 60 年代民权运动、1991 年苏联政变。
+- 模式是：繁荣上升 → 期待提高 → 遭遇挫折 → 革命。
+
+### 防御方法
+
+**两阶段防御：**
+
+第一阶段：**识别唤起信号。**例如听到“限时”时心跳加快。把这种兴奋本身当作停止信号。
+
+第二阶段：**问对问题。**
+- 不问：“我是不是因为它稀缺才更想要？”——答案确实是。
+- 改问：“我是想使用它，还是只想拥有它？”
+
+如果想买只是因为它快消失了，就离开。稀缺不会改变使用价值。
+
+---
+
+<a id="7-unity-added-by-cialdini-in-2016--pre-suasion"></a>
+## 7. 共同体（西奥迪尼于 2016 年《先发影响力》中加入）
+
+**核心规则：**对具有共同身份认同的人，我们更容易顺从。这不仅是相似，而是共享“我们”的感觉。
+
+这超越了喜好原则中的相似性。喜好说的是“像你我这样的人”，共同体说的是“本来就是我们的人”。
+
+### 与喜好的区别
+
+| 喜好（相似性） | 共同体（身份认同） |
 |---------------------|-------------------|
-| "We have similar tastes" | "We are family" |
-| Fellow customer | Fellow alumnus |
-| Same age | Same religion |
-| Same hobby | Same nationality |
-| **Cooperation** | **Identification** |
+| “我们的品味相似” | “我们是一家人” |
+| 同为客户 | 同为校友 |
+| 同龄 | 同一宗教 |
+| 相同爱好 | 同一国籍 |
+| **合作** | **认同** |
 
-### Examples
+### 例子
 
-- **Family:** Strongest unity. People will die for blood family.
-- **National identity:** Soldiers fight for "country."
-- **Religious identity:** Powerful unity (often manipulated by cults)
-- **University alumni:** Strong financial and political support
-- **"As a fellow [X]..."** opener triggers unity faster than any other liking trigger
+- **家庭：**最强的共同体。人们会为血亲牺牲生命。
+- **国家认同：**士兵为“国家”作战。
+- **宗教认同：**强大的共同体，常被邪教操纵。
+- **大学校友：**提供强大的财务和政治支持。
+- **“作为同样身为［X］的人……”：**这种开场白比其他喜好触发更快地激活共同体。
 
-### Strategic Use
+### 策略应用
 
-- **"As a fellow founder..."** (in startup pitches)
-- **"As a fellow parent..."** (in education marketing)
-- **"As a fellow developer..."** (in dev tools sales)
+- **“作为同样创业的人……”：**用于创业推介。
+- **“作为同样为人父母的人……”：**用于教育营销。
+- **“作为同样做开发的人……”：**用于开发工具销售。
 
-The opener of "fellow [X]" claims shared identity, which is much stronger than "person like you."
+“同为［X］”的开场声称共享身份，比“像你这样的人”强得多。
 
-### Key Experiment
+### 关键实验
 
-[Cialdini et al.] found that students shown feedback from a reviewer who shared their hometown were significantly more compliant with the reviewer's suggestions than those told the reviewer was from a different town. A purely incidental identity overlap -- with no bearing on review quality -- changed the outcome.
+［Cialdini 等］发现，得知评审者与自己来自同一故乡的学生，比得知评审者来自不同城镇的学生，更愿意采纳对方建议。一个与评审质量无关、纯属偶然的身份重合，就改变了结果。
 
-### The Mechanism
+### 作用机制
 
-Unity works through **shared identity**, not shared opinions. The distinction matters:
+共同体依赖**共享身份**，而非共享观点。区别很重要：
 
-- **Liking (similarity):** "We think alike / act alike / dress alike" - **acting together**
-- **Unity (identity):** "We are the same kind of person / belong to the same group" - **being together**
+- **喜好（相似性）：**“我们想法、行为、穿着相似”——**一起行动**。
+- **共同体（身份认同）：**“我们是同一类人，属于同一个群体”——**同属一体**。
 
-You can like someone you disagree with. You cannot share Unity with someone who is not "one of us." This is why Unity is more powerful than similarity for in-group compliance - the target isn't just a friendly face, they are *us*.
+你可以喜欢观点不同的人，但无法与“不属于我们”的人共享共同体认同。因此，在群体内部的顺从上，共同体比相似性更强：对方不只是友善的面孔，而是*我们自己*。
 
-### Failure Mode: Manufactured Unity Backfires
+### 失败模式：制造共同体会反噬
 
-Claiming shared identity you don't actually have is one of the fastest ways to lose credibility. The opener "As a fellow [profession]..." sent cold from a stranger - with no actual shared history, community, or identification - reads as manipulative, not bonding. People recognize the pattern instantly, and it activates skepticism rather than compliance. Fake unity is worse than no unity because it signals that you know the lever exists and are trying to pull it dishonestly.
+声称拥有实际上并不共享的身份，是最快丧失可信度的方式之一。陌生人上来就说“作为同样从事［职业］的人……”，却没有真实共同经历、社群或认同，会被视为操纵，而不是建立联系。人们立刻识别这种模式，激活怀疑而非顺从。虚假的共同体比没有共同体更糟，因为它暴露出你知道这个杠杆，并正试图不诚实地拉动它。
 
-### Honest Caveat: Thin Evidence Base
+### 坦诚的限制说明：证据基础较薄
 
-Unity was introduced in the 2016 book *Pre-Suasion* (not the original 1984 *Influence*), and incorporated into the updated 2021 edition of *Influence*. It is the newest of the seven principles and has the **thinnest evidence base**. The original six principles rest on decades of replicated laboratory and field work. Unity rests primarily on Cialdini's theoretical argument and a smaller set of supporting studies. Treat it as a well-reasoned hypothesis with supporting evidence - not as a conclusion with the same empirical weight as Reciprocity or Social Proof.
+共同体原则最初出现在 2016 年的 *Pre-Suasion*（《先发影响力》），而不是 1984 年原版 *Influence*（《影响力》），并被收入 2021 年更新版《影响力》。它是七项原则中最新的一项，**证据基础最薄**。原始六项原则建立在数十年、经过重复验证的实验室与实地研究之上；共同体主要依赖西奥迪尼的理论论证和规模较小的一组支持性研究。应把它视为有证据支持、论证合理的假说，不要赋予它与互惠或社会认同同等的实证分量。
 
-### Defenses
+### 防御方法
 
-- **Distinguish identity from manipulation** - Is this person actually a fellow [X] or just claiming it?
-- **Notice when identity is being used to disable evaluation** - "We're family, you wouldn't say no to family..."
-- **The strongest unity (family) often blocks the most evaluation**
+- **区分真实身份与操纵：**这个人真与我是同一类［X］，还是只是这么声称？
+- **留意身份何时被用来阻止评估：**“我们是一家人，你不会拒绝家人吧……”
+- **最强的共同体——家庭——往往也最能阻碍独立评估。**

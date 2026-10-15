@@ -1,296 +1,298 @@
-# SPIN Selling - Templates & Worked Examples
+> 中文译文｜[英文对照](examples.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/spin-selling/examples.md)。原项目整理：AgentSeal；书籍来源：《SPIN Selling》— Neil Rackham；AI 辅助翻译。
 
-Practical templates referenced from [SKILL.md](SKILL.md).
+# SPIN 销售——模板与完整实例
+
+由 [SKILL.md](SKILL.md) 引用的实用模板。
 
 ---
 
-## Pre-Call Planning Sheet
+## 会前计划表
 
-Use this BEFORE every major-sales call.
+每次大额销售会谈前使用。
 
-```
-ACCOUNT: ________________________________
-CONTACT: _______________________ Title: __________
-CALL DATE: ___________ Stage of cycle: ____ of ~7.8 calls
+```text
+客户：________________________________
+联系人：_______________________ 职衔：__________
+会谈日期：___________ 销售周期阶段：约 7.8 次会谈中的第 ____ 次
 
-CALL OBJECTIVE (must require customer ACTION = Advance, not Continuation):
+会谈目标：必须要求客户行动，形成推进，而非延续。
 ___________________________________________________
 
-What's the BEST realistic Advance I could get?
+现实中能争取到的最佳推进是什么？
 ___________________________________________________
 
-What's the FALLBACK Advance if BEST doesn't land?
+如果最佳推进没实现，备选推进是什么？
 ___________________________________________________
 
-SITUATION QUESTIONS - keep MINIMUM. List ONLY what I can't research:
+现状问题：保持最少，只列无法自行查明的。
 1. ____________________
 2. ____________________
-3. ____________________ (Stop. If more, do homework first.)
+3. ____________________（到此为止，更多就先做功课。）
 
-PROBLEM QUESTIONS - aim for 6+:
-Problems my product solves:
+问题提问：以六个以上为目标。
+产品能解决的问题：
 A. ____________________
 B. ____________________
 C. ____________________
 
-Question for each:
-A. "Are you experiencing ___?" / "Is ___ an issue?"
+每个问题对应的提问：
+A. “你正在遇到___吗？”／“___是个问题吗？”
 B. ____________________
 C. ____________________
 
-IMPLICATION QUESTIONS - plan in advance:
-For Problem A:
-- "So what?" answer:  __________
-- Implication question: "What's the cost of ____?"
-- 2nd-order: "And how does that affect _____?"
+影响提问：提前准备。
+针对问题 A：
+- “那又怎样？”的答案：__________
+- 影响问题：“____的成本是多少？”
+- 第二层影响：“它又怎样影响_____？”
 
-For Problem B:
-- "So what?" answer: __________
-- Implication question: ________
+针对问题 B：
+- “那又怎样？”的答案：__________
+- 影响问题：________
 
-NEED-PAYOFF QUESTIONS:
-- "How would solving this help you?"
-- "Why is that important?"
-- "Would it be useful if [specific feature]?" (only for needs I CAN meet)
+需求收益问题：
+- “解决它会怎样帮助你？”
+- “为什么这很重要？”
+- “如果能［具体功能］，会有用吗？”仅针对能够满足的需求。
 
-COMMITMENT PROPOSAL:
-- "Then the most logical next step would be ____________"
+承诺建议：
+- “那么，最合理的下一步是____________。”
 
-POST-CALL REVIEW (fill in after):
-- Got Order/Advance/Continuation/No-sale: _______
-- Which question had most impact: _______
-- What I'd do differently next time: _______
+会后复盘：
+- 结果是订单／推进／延续／不成交：_______
+- 哪个问题影响最大：_______
+- 下次会改变什么：_______
 ```
 
 ---
 
-## Implication Question Generator
+## 影响问题生成器
 
-Stuck on Implication Questions? Use this template.
+想不出影响问题时，用此模板。
 
-### Step 1: List the Problem
+### 第一步：列出问题
 
-Problem: ___________________________________________
+问题：___________________________________________
 
-### Step 2: Imagine Customer Saying "So what? It's not that serious."
+### 第二步：想象客户说“那又怎样？没那么严重”
 
-### Step 3: Brainstorm 5 Reasons It IS Serious
+### 第三步：想出五个说明它确实严重的原因
 
-| # | Reason | Affects |
+| 序号 | 原因 | 影响 |
 |---|--------|---------|
-| 1 | ____ | (cost / quality / speed / morale / risk) |
+| 1 | ____ | 成本／质量／速度／士气／风险 |
 | 2 | ____ | |
 | 3 | ____ | |
 | 4 | ____ | |
 | 5 | ____ | |
 
-### Step 4: Turn Each Reason Into a Question
+### 第四步：把每个原因变成问题
 
-Reason 1: ____ → "What does this ____ cost / mean / affect?"
-Reason 2: ____ → "Has this ____ ever caused ____?"
-Reason 3: ____ → "How does ____ impact your team's ____?"
-Reason 4: ____ → "What's the downstream effect on ____?"
-Reason 5: ____ → "If this continues, will it affect ____?"
+原因一：____ → “这个____花多少钱／意味着什么／影响什么？”
+原因二：____ → “这个____是否曾导致____？”
+原因三：____ → “____怎样影响你团队的____？”
+原因四：____ → “对____有什么后续影响？”
+原因五：____ → “如果持续下去，会影响____吗？”
 
-### Step 5: Sequence Them
+### 第五步：排序
 
-The chain should escalate. Each question implies the next. Like the Easiflo example: turnover → training cost → bottleneck → overtime → quality → outsourcing → lost personal time.
-
----
-
-## Need-Payoff Question Stock Library
-
-Generic NPQs that work across calls. Keep these in your back pocket.
-
-### Generic NPQs
-
-- "How would solving this help you?"
-- "Why is that important?"
-- "Would it be useful if [specific feature your product offers]?"
-- "What other ways could this help?"
-- "What would that mean for your team?"
-- "If you could solve this completely, what would change for you?"
-- "Is there any other reason this matters?"
-- "Who else would benefit if this were fixed?"
-
-### Avoid These (They're Implications, Not NPQs)
-
-- "What's the cost of doing nothing?"  ← Implication (sad)
-- "What problems does this cause?"  ← Implication (sad)
-- "How does this hurt your team?"  ← Implication (sad)
-
-### Quincy's Rule Test
-
-Before asking, check:
-- Does this question make the buyer think about a PROBLEM growing? → Implication
-- Does it make the buyer think about a SOLUTION's value? → Need-payoff
+问题链应逐步深入，每个问题引出下一个。像 Easiflo 案例：人员流失 → 培训成本 → 瓶颈 → 加班 → 质量 → 外包 → 个人时间损失。
 
 ---
 
-## FAB Translation Drill
+## 需求收益问题库
 
-Take any product spec. Translate it through Features → Advantages → Benefits.
+适用于不同会谈的通用问题，随时备用。
 
-### Example: Industrial Pump with Variable-Speed Motor
+### 通用问题
 
-| Layer | Statement | Use When |
+- “解决它会怎样帮助你？”
+- “为什么这很重要？”
+- “如果能［产品提供的具体功能］，会有用吗？”
+- “还有哪些方面会受益？”
+- “这对团队意味着什么？”
+- “如果彻底解决，对你会有什么改变？”
+- “这件事重要，还有其他原因吗？”
+- “解决之后，还有谁会受益？”
+
+### 避免误分：以下是影响问题，不是需求收益问题
+
+- “不采取行动的成本是什么？”← 影响，让人难过。
+- “它造成了什么问题？”← 影响，让人难过。
+- “它怎样伤害你的团队？”← 影响，让人难过。
+
+### Quincy 法则测试
+
+开口前检查：
+- 它让买家想到问题扩大了吗？→ 影响问题。
+- 它让买家想到解决方案的价值了吗？→ 需求收益问题。
+
+---
+
+## FAB 转换练习
+
+任选产品规格，把它转为特征 → 优势 → 利益。
+
+### 示例：带变速电机的工业泵
+
+| 层次 | 表述 | 使用时机 |
 |-------|-----------|----------|
-| **Feature** | "Our pump has a variable-speed motor with 0.1-Hz precision control." | Technical buyer, expert appetite |
-| **Advantage** | "The variable-speed motor lets you match output to demand precisely, saving energy when partial flow is needed." | Early in cycle (use sparingly) |
-| **Benefit** | Customer: "We're paying too much in energy costs at low-demand times." → Seller: "Our variable-speed motor matches output to demand exactly - it would directly address that energy cost." | Customer has expressed Explicit Need |
+| **特征** | “我们的泵配有变速电机，控制精度为 0.1 Hz。” | 技术型买家、专家想了解细节时 |
+| **优势** | “变速电机可使输出精准匹配需求，在只需部分流量时节能。” | 周期早期，谨慎使用 |
+| **利益** | 客户：“低需求时段的能源支出太高。”销售：“变速电机让输出精准匹配需求，直接解决这笔能源成本。” | 客户已经表达明确需求 |
 
-### The Drill
+### 练习
 
-For your product, list 5 features. For each, write:
-1. The bare Feature (just the spec)
-2. The Advantage (how it helps - generic)
-3. The Benefit (how it meets a SPECIFIC customer-stated need)
+列出产品的五项特征，逐项写：
+1. 纯特征，只写规格。
+2. 优势，泛化地说明如何有帮助。
+3. 利益，说明如何满足客户亲口提出的具体需求。
 
-If you can't write the Benefit because no customer has stated a matching need yet, that's the signal: don't pitch it. Build the need first using Problem and Implication Questions.
+如果写不出利益，因为还没有客户说出相应需求，这就是信号：先别推销，用问题和影响提问建立需求。
 
 ---
 
-## Call Opening Templates
+## 会谈开场模板
 
-### What NOT to Say (Major Sales)
+### 大额销售中不要这么说
 
-- "Beautiful office. Did you decorate this yourself?" (personal interest)
-- "Let me show you how we can save you thousands of dollars..." (premature benefit)
-- "Tell me about your role and your business." (lazy Situation Question)
+- “办公室真漂亮，你自己布置的吗？”私人兴趣式开场。
+- “让我告诉你，我们怎样帮你节省几千美元……”过早陈述利益。
+- “介绍一下你的职位和业务吧。”偷懒的现状问题。
 
-### What to Say
+### 应该说什么
 
+```text
+开场确立三件事：
+1. 你是谁，简短介绍公司。
+2. 为什么来，说明目的而非产品。
+3. 获得提问的资格。
 ```
-Three things to establish in opening:
-1. Who you are (and your company - briefly)
-2. Why you're there (purpose, NOT product)
-3. Your right to ask questions
-```
 
-### Sample Opening (≤2 minutes)
+### 开场示例，不超过两分钟
 
-> "Thanks for the time, [Name]. I'm [Name] from [Company]. We work with [their type of company / industry] on [outcome they care about]. I'd like to spend the first 20 minutes asking some questions about how things work in your [department/area] today, then share what we've seen work for similar [companies/teams]. Would that be okay?"
+> “谢谢你抽时间，［姓名］。我是［公司］的［姓名］。我们帮助［他们这类公司／行业］实现［他们在意的结果］。我想先花 20 分钟了解目前［部门／领域］的运作，再分享我们在类似［公司／团队］见过的有效做法。可以吗？”
 
-This satisfies:
-- Who you are: "[Name] from [Company]"
-- Why: "asking how things work today, sharing what's worked for similar..."
-- Right to ask: "would that be okay?" (consent)
+它满足了：
+- 你是谁：“［公司］的［姓名］。”
+- 来意：“了解目前运作，分享同类客户的有效做法。”
+- 提问资格：“可以吗？”获得同意。
 
-Total time: 30-60 seconds. Now ask your first question.
+总耗时 30—60 秒，现在提出第一个问题。
 
 ---
 
-## Commitment Proposal Templates
+## 承诺建议模板
 
-Bad: "Should we move forward?" (open-ended; invites no)
+差：“要继续推进吗？”开放式提问，容易招来拒绝。
 
-Good (TELL, don't ask):
-- "Then the most logical next step would be for you and your accountant to come and see one of these systems in operation."
-- "Based on what you've described, I'd suggest a 30-minute call with your CFO so we can map out the budget impact."
-- "I think the right next step is a one-day pilot in your warehouse so your team can validate the savings claims with their own data."
+好，提出建议而非笼统询问：
+- “那么，最合理的下一步，是请你和会计一起看看这样一套系统的实际运行。”
+- “根据你刚才描述的情况，我建议与 CFO 通话 30 分钟，一起梳理对预算的影响。”
+- “我认为合适的下一步，是在仓库试点一天，让团队用自己的数据验证节省幅度。”
 
-### Two Tests
+### 两项测试
 
-1. **Does it ADVANCE the sale?** (specific action, not "we'll be in touch")
-2. **Is it the HIGHEST realistic commitment?** (don't propose a tiny step if a bigger one is realistic)
+1. **能推进交易吗？**要具体行动，不是“保持联系”。
+2. **是现实中最高程度的承诺吗？**更大一步可行时，不要只提微不足道的一步。
 
 ---
 
-## Objection Pre-Mortem
+## 异议事前预演
 
-Before the call, predict the 3 most likely objections.
+会谈前，预测最可能出现的三个异议。
 
-| Likely Objection | Underlying Cause | Prevention |
+| 可能异议 | 底层原因 | 预防方式 |
 |------------------|-------------------|------------|
-| "It's too expensive" | Need not built strongly enough | More Implication Questions |
-| "We're happy with current vendor" | No Implied Need surfaced | More Problem Questions |
-| "Let me think about it" | Weak commitment proposal or missing summary | Better summary + tell-don't-ask close |
+| “太贵了” | 需求建立得不够强 | 增加影响提问 |
+| “现有供应商挺好” | 未揭示隐含需求 | 增加问题提问 |
+| “让我想想” | 承诺建议太弱或缺少总结 | 更好地总结，并明确建议下一步 |
 
-If you find yourself getting the same objection repeatedly, the cure is upstream (in Investigating), not downstream (in handling).
+反复遇到同一异议，补救应在上游探询阶段，而非下游异议处理阶段。
 
 ---
 
-## Granular Behavioral Self-Audit
+## 细粒度行为自查
 
-Record one of your calls. Count question types. Compare to targets.
+录下一次会谈，统计问题类型，与目标比较。
 
-| Question Type | Target | Your Count | Diagnosis |
+| 问题类型 | 目标 | 实际数量 | 诊断 |
 |---------------|--------|-----------|-----------|
-| Situation | <5 in major sales | ___ | If high: do more homework |
-| Problem | 6+ | ___ | If <6: practice Phase 2 |
-| Implication | 3-5 | ___ | If <3: plan in advance |
-| Need-payoff | 3+ | ___ | If 0: practice Phase 4 |
+| 现状 | 大额销售少于五个 | ___ | 过多则多做功课 |
+| 问题 | 六个以上 | ___ | 少于六个则练第二阶段 |
+| 影响 | 三至五个 | ___ | 少于三个则提前准备 |
+| 需求收益 | 三个以上 | ___ | 为零则练第四阶段 |
 
-Avg call length: ___ minutes
-% time on Preliminaries: ___ (target ≤20%)
-Outcome: Order / Advance / Continuation / No-sale
+平均会谈时长：___ 分钟。
+开场时间占比：___，目标不超过 20%。
+结果：订单／推进／延续／不成交。
 
-If outcome was Continuation, the call objective was probably weak. Set an Advance objective next time.
+若只是延续，会谈目标可能太弱。下次设置推进目标。
 
 ---
 
-## "Plan an Implication Chain" Worked Example
+## “规划影响提问链”完整实例
 
-### Setup
+### 背景
 
-You sell a workforce-management SaaS to mid-market manufacturers. Discovery just surfaced: "Our scheduling is mostly Excel-based and updated by one person."
+你向中型制造商销售劳动力管理 SaaS。需求探索刚发现：“排班主要用 Excel，由一个人更新。”
 
-### Step 1: Spot the Implied Need
+### 第一步：识别隐含需求
 
-"Excel-based, single person" = an Implied Need (operational fragility).
+“Excel、一个人”意味着运营脆弱性，是隐含需求。
 
-### Step 2: Design the Implication Chain
+### 第二步：设计影响提问链
 
-| Q# | Type | Question |
+| 问题序号 | 类型 | 提问 |
 |----|------|----------|
-| 1 | Implication | "What happens when that person is out sick?" |
-| 2 | Implication | "How long does it take to update the schedule when someone calls in?" |
-| 3 | Implication | "Has there been a shift you couldn't fill because the schedule was out of date?" |
-| 4 | Implication | "What's the labor cost of being short-staffed for an unfilled shift?" |
-| 5 | Implication | "And the customer-impact cost - missed shipments?" |
-| 6 | NPQ | "If the schedule updated itself in real time, how would that change those numbers?" |
-| 7 | NPQ | "Who else on your team would benefit if scheduling didn't depend on one person?" |
+| 1 | 影响 | “那个人请病假时会怎样？” |
+| 2 | 影响 | “有人临时来电请假时，更新排班要多久？” |
+| 3 | 影响 | “有没有因为排班表过时，导致某班次无人顶上的情况？” |
+| 4 | 影响 | “班次缺员带来的人工成本是多少？” |
+| 5 | 影响 | “对客户的影响呢，比如错过发货？” |
+| 6 | 需求收益 | “如果排班能实时自动更新，这些数字会怎样变化？” |
+| 7 | 需求收益 | “如果排班不再依赖一个人，团队中还有谁会受益？” |
 
-### Step 3: Watch for the Explicit Need
+### 第三步：留意明确需求
 
-After Q5-Q7, listen for:
-- "We really need real-time scheduling" → Explicit Need (success)
-- "Yeah, that's a problem" → still Implied (do more Implication)
-- "We've made it work for years" → buyer is at Stage 1 dissatisfaction; back up
+第五至第七问之后，听客户怎么说：
+- “我们确实需要实时排班。”→ 明确需求，成功。
+- “对，这是个问题。”→ 仍是隐含需求，需要更多影响提问。
+- “我们这样也运转了很多年。”→ 买家还在第一阶段的不满，退回前面。
 
-### Step 4: Map Capability to Explicit Need (Real Benefit)
+### 第四步：把能力对应到明确需求，形成真实利益
 
-Customer: "We need real-time, multi-user scheduling."
-Seller: "Our platform does exactly that - any change updates everyone's view in real time, with no single point of failure."
+客户：“我们需要实时、多用户的排班。”
+销售：“我们的平台正好做到：任何修改都会实时更新到所有人的视图，不再依赖单一环节。”
 
-That's a Benefit. Approval probable. Move to commitment proposal.
+这就是利益，很可能获得认可。接下来提出承诺建议。
 
 ---
 
-## Compressed SPIN for 30-Min Zoom Calls
+## 适用于 30 分钟 Zoom 会谈的压缩 SPIN
 
-Modern reality: most discovery is 30 minutes on Zoom, not 60+ in person.
+现代现实是：多数需求探索只有 30 分钟视频会，而非一小时以上面谈。
 
-### Recommended Compression
+### 建议的压缩方式
 
-| Stage | Old (60 min) | New (30 min) |
+| 阶段 | 过去，60 分钟 | 现在，30 分钟 |
 |-------|--------------|--------------|
-| Preliminaries | 12 min | 4 min |
-| Investigating | 35 min | 18 min |
-| Demo Capability | 8 min | 5 min |
-| Commitment | 5 min | 3 min |
+| 开场 | 12 分钟 | 4 分钟 |
+| 探询 | 35 分钟 | 18 分钟 |
+| 展示能力 | 8 分钟 | 5 分钟 |
+| 承诺 | 5 分钟 | 3 分钟 |
 
-### What to Cut
+### 删减什么
 
-- Most Situation Questions (do homework)
-- Long product demos (save for follow-up Advance)
-- Benefits Stack (1-2 max, tied to expressed needs)
+- 大多数现状问题，提前做功课。
+- 冗长产品演示，留到后续推进安排。
+- 利益堆叠，最多一至两个，并关联已表达需求。
 
-### What to Keep
+### 保留什么
 
-- 2-3 Problem Questions (planned)
-- 1-2 Implication Questions (planned)
-- 1-2 Need-payoff Questions (planned)
-- Clear commitment proposal
+- 两至三个事先准备的问题提问。
+- 一至两个事先准备的影响提问。
+- 一至两个事先准备的需求收益提问。
+- 清晰的承诺建议。
 
-The discipline scales down. The principles don't change.
+执行可缩短，原则不变。

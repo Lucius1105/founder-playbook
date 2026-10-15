@@ -1,320 +1,380 @@
-# Frameworks - The Four Steps to the Epiphany
+> 中文译文｜[英文对照](frameworks.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/four-steps/frameworks.md)。原项目整理：AgentSeal；书籍来源：《The Four Steps to the Epiphany》— Steve Blank；AI辅助翻译。
 
-## Customer Discovery - Detailed Phase Breakdown
+<a id="frameworks---the-four-steps-to-the-epiphany"></a>
+# 框架——The Four Steps to the Epiphany
 
-### Phase 0: Get Buy-In
+<a id="customer-discovery---detailed-phase-breakdown"></a>
+## 客户探索：各阶段详解
 
-Before anything else, get agreement from board, founders, and executive staff that Customer Development is the process. This is unique to Customer Discovery - no other step has a Phase 0.
+<a id="phase-0-get-buy-in"></a>
+### 第 0 阶段：取得认同
 
-Deliverables:
-- Board/exec agreement to use Customer Development
-- Mission statement drafted
-- Core values articulated
-- Product Development team commits to spending **at least 15% of time outside the building** talking to customers
+先让董事会、创始人和高管团队同意采用客户开发流程。这是客户探索独有的步骤，其他步骤没有第 0 阶段。
 
-### Phase 1: State Your Hypotheses
+交付物：
 
-Write briefs (not business plans) capturing assumptions in six categories:
+- 董事会／高管同意使用客户开发。
+- 起草使命陈述。
+- 明确核心价值观。
+- 产品开发团队承诺**至少用 15% 的时间走出办公室**，与客户交谈。
 
-**1. Customer & Problem Hypothesis**
-- Who is the customer? (Buyer vs. user vs. influencer)
-- What problem do they have?
-- How painful is the problem? (Use the earlyvangelist pain hierarchy)
-- A day-in-the-life scenario without your product
+<a id="phase-1-state-your-hypotheses"></a>
+### 第 1 阶段：陈述假设
 
-**2. Product Hypothesis**
-- What are the product features?
-- What benefits do they deliver?
-- What does a day-in-the-life look like WITH your product?
-- What is the minimum feature set for the first release?
+撰写简报，而非商业计划书，记录六类假设：
 
-**3. Distribution & Pricing Hypothesis**
-- How will the product get to customers? (Direct, web, retail, OEM, partner)
-- What is the pricing model? (One-time, subscription, per-seat, per-use)
-- What is the expected price point?
+**1. 客户与问题假设**
 
-**4. Demand Creation Hypothesis**
-- How will customers learn about the product?
-- What media/channels do target customers rely on?
-- What is the expected customer acquisition cost?
+- 客户是谁？区分购买者、使用者、影响者。
+- 他们有什么问题？
+- 问题有多痛苦？使用早期核心客户的痛点层次。
+- 没有你的产品时，典型一天是什么样？
 
-**5. Market Type Hypothesis**
-- Which of the four Market Types are you entering?
-- What evidence supports this choice?
-- What are the implications for timing and spending?
+**2. 产品假设**
 
-**6. Competitive Hypothesis**
-- Who are the competitors (including non-consumption)?
-- What is the basis of competition?
-- What are their strengths and weaknesses?
+- 产品有哪些功能？
+- 能提供哪些收益？
+- 有了你的产品后，典型一天是什么样？
+- 首版的最小功能集是什么？
 
-### Phase 2: Test the Problem ("Get Outside the Building")
+**3. 分销与定价假设**
 
-Activities:
-- Develop a list of 50 potential customers
-- Contact and schedule meetings with first 10-15
-- Create a **"problem presentation"** (NOT a product pitch)
-- Listen: Do they have the problem? How do they solve it today? How painful is it?
-- Map the organizational buying process (B2B): Who has the problem? Who influences the decision? Who controls the budget?
+- 产品怎样到达客户？直销、网络、零售、OEM、合作伙伴？
+- 定价模式是什么？一次性、订阅、按席位、按使用量？
+- 预期价位是多少？
 
-Key rules:
-- **Listen more than you talk.** The ratio should be 80/20 in the customer's favor.
-- You are NOT selling. You are learning.
-- Document everything. Capture exact quotes.
+**4. 需求创造假设**
 
-### Phase 3: Test the Product Concept
+- 客户怎样知道产品？
+- 目标客户依赖哪些媒体／渠道？
+- 预期获客成本是多少？
 
-Activities:
-- Create a **"product presentation"** (solution demo, not sales pitch)
-- Present to the same customers from Phase 2 + new ones
-- Test: Does this solve your problem? Would you pay for it? How much?
-- Test the distribution and pricing hypotheses
-- Identify first advisory board candidates
+**5. 市场类型假设**
 
-Key shift: now you're showing the product concept (not just discussing the problem). But you're still learning, not selling.
+- 你正在进入四种市场类型中的哪一种？
+- 有哪些证据支持这个选择？
+- 对时间安排与支出有什么影响？
 
-### Phase 4: Verify
+**6. 竞争假设**
 
-Three verification checks:
-1. **Verify the problem** - Is it real, painful, and worth paying for?
-2. **Verify the product** - Does your solution address the problem?
-3. **Verify the business model** - Can you make money solving this problem for these customers?
+- 谁是竞争者，包括“不消费”的选择？
+- 竞争基础是什么？
+- 他们有什么优劣势？
 
-Decision rule: If all three verify → proceed to Customer Validation. If any fail → iterate within Discovery or exit.
+<a id="phase-2-test-the-problem-get-outside-the-building"></a>
+### 第 2 阶段：检验问题（“走出办公室”）
+
+活动：
+
+- 列出 50 位潜在客户。
+- 联系并约见最初的 10—15 位。
+- 制作**“问题演示”**，不是产品推介。
+- 倾听：他们有这个问题吗？现在怎么解决？有多痛苦？
+- 绘制 B2B 组织采购流程：谁有问题？谁影响决定？谁控制预算？
+
+关键规则：
+
+- **多听少说。**时间比例应为客户 80%、你 20%。
+- 你不是在销售，而是在学习。
+- 记录一切，保留准确原话。
+
+<a id="phase-3-test-the-product-concept"></a>
+### 第 3 阶段：检验产品概念
+
+活动：
+
+- 制作**“产品演示”**，展示解决方案，而非销售推介。
+- 向第 2 阶段的客户及新客户演示。
+- 检验：它能解决你的问题吗？愿意付费吗？付多少？
+- 检验分销与定价假设。
+- 寻找首批顾问委员会候选人。
+
+关键变化：现在开始展示产品概念，而不只是讨论问题，但仍以学习为目的，不是销售。
+
+<a id="phase-4-verify"></a>
+### 第 4 阶段：核实
+
+三项核实：
+
+1. **核实问题**：它真实、痛苦，值得付费解决吗？
+2. **核实产品**：你的方案能解决问题吗？
+3. **核实商业模式**：为这些客户解决此问题，能赚钱吗？
+
+决策规则：三项全部通过，进入客户验证；任何一项失败，就在探索中继续迭代，或退出。
 
 ---
 
-## Customer Validation - Detailed Phase Breakdown
+<a id="customer-validation---detailed-phase-breakdown"></a>
+## 客户验证：各阶段详解
 
-### Phase 1: Get Ready to Sell
+<a id="phase-1-get-ready-to-sell"></a>
+### 第 1 阶段：准备销售
 
-Activities:
-- Refine value proposition into a sales presentation
-- Develop sales materials (NOT marketing materials - things that help close deals)
-- Build a channel plan
-- Develop a preliminary sales roadmap
+活动：
 
-The sales roadmap must answer:
-- Who are the target earlyvangelists?
-- What is the organizational map (buyer, user, influencer, saboteur)?
-- What is the buying process?
-- What is the expected sales cycle length?
-- What are the key objections?
+- 将价值主张完善成销售演示。
+- 制作销售材料，不是营销材料，而是帮助成交的东西。
+- 制定渠道计划。
+- 建立初步销售路线图。
 
-### Navigating Multi-Stakeholder B2B Deals
+销售路线图必须回答：
 
-In B2B sales, the person with the problem is rarely the person who signs the check. Mapping all stakeholders before your first meeting prevents deals from dying in the final stage.
+- 目标早期核心客户是谁？
+- 组织关系图是什么样，谁是购买者、使用者、影响者、阻挠者？
+- 采购流程是什么？
+- 预计销售周期多长？
+- 关键异议有哪些？
 
-**Economic Buyer:** Controls the budget. This is the only person who can say YES and mean it. Often NOT the person experiencing the problem day-to-day. Find them by asking: "Who approves purchases over $X at your company?" Do not leave a sales process without knowing who this person is.
+<a id="navigating-multi-stakeholder-b2b-deals"></a>
+### 推进涉及多个利益相关者的 B2B 交易
 
-**Champion:** Your internal advocate inside the account. Must have two things: (1) the problem or direct exposure to it, and (2) organizational influence (people listen to them). Train your champion to sell internally - give them the deck, the ROI math, the objection answers. Without a champion, you are selling blind.
+在 B2B 销售中，遇到问题的人通常不是签支票的人。首次会面前识别所有相关方，可以避免交易在最后阶段夭折。
 
-**Technical Buyer / Gatekeeper:** IT, security, legal, procurement. Can say NO but cannot say YES. Do not try to sell to them - neutralize them. Address their concerns directly and early (security questionnaire, SOC 2, insurance certificates). Stalling here is the most common cause of late-stage deal death.
+**经济决策者：**控制预算，唯一能真正拍板说“是”的人，往往不是每天经历问题的人。可问：“贵公司超过 X 美元的采购由谁批准？”销售流程中不能始终不知道此人是谁。
 
-**Saboteur:** Benefits from the status quo. The most common saboteur is the person whose manual process, job function, or internal tool your product replaces. Identify them early by asking: "Who built the current solution? Who owns it?" Do not ignore saboteurs - they will surface objections you never heard in the demo.
+**内部支持者：**客户组织内替你倡导的人，必须同时满足两个条件：一是有这个问题，或直接接触它；二是有组织影响力，别人愿意听他说话。教会他在内部销售，提供演示稿、ROI 计算、异议回答。没有内部支持者，你就是在盲卖。
 
-**End User:** Actually uses the product daily. Different from the buyer. Their enthusiasm is necessary but not sufficient to close a deal. If end users hate the product, the deal will churn fast even if you close it.
+**技术采购者／把关人：**IT、安全、法务、采购。他们能否决，却不能最终批准。不要试图向他们销售，而应化解他们的阻力。及早直接处理关注点，例如安全问卷、SOC 2、保险证明。卡在这里是后期交易失败最常见的原因。
 
-| Role | How to Identify | What They Care About | Your Move |
+**阻挠者：**从现状中受益的人。最常见的是负责你将替代的人工流程、岗位职能或内部工具的人。及早问：“现在的方案是谁建的？谁负责？”不要忽视他们，因为他们会提出演示时从未听过的异议。
+
+**终端用户：**每天实际使用产品的人，与购买者不同。其热情是成交的必要条件，但不是充分条件。如果终端用户讨厌产品，即使成交，也会很快流失。
+
+| 角色 | 如何识别 | 关注什么 | 你的行动 |
 |---|---|---|---|
-| Economic Buyer | "Who approves purchases over $X?" | ROI, risk, budget fit | Quantify the cost of the problem |
-| Champion | Who brings you into meetings, forwards your emails | Being right, looking smart to their org | Arm them to sell internally |
-| Technical Gatekeeper | Shows up uninvited to security/legal reviews | Risk, compliance, integration burden | Pre-empt with documentation; never fight them |
-| Saboteur | Built or owns the thing you're replacing | Job security, status quo | Acknowledge their work; reframe your product as augmentation |
-| End User | Attends the demo, asks feature questions | Ease of use, not losing their workflow | Get them involved in pilot design |
+| 经济决策者 | “超过 X 美元的采购谁批准？” | ROI、风险、预算适配 | 量化问题造成的成本 |
+| 内部支持者 | 把你带入会议、转发邮件的人 | 判断正确，在组织里显得有能力 | 给他内部销售所需的材料 |
+| 技术把关人 | 未经邀请就出现在安全／法务审查中的人 | 风险、合规、集成负担 | 提前提供文档，绝不要与其对抗 |
+| 阻挠者 | 建立或负责被替代方案的人 | 工作保障、维持现状 | 认可其工作，把产品表述为能力增强 |
+| 终端用户 | 参加演示、询问功能的人 | 易用，不失去现有工作流程 | 让他们参与试点设计 |
 
 ---
 
-### Phase 2: Sell to Earlyvangelists
+<a id="phase-2-sell-to-earlyvangelists"></a>
+### 第 2 阶段：向早期核心客户销售
 
-Activities:
-- Contact earlyvangelists from Customer Discovery
-- Use the sales roadmap to guide the process
-- **Sell at list price** - this is a sanity test of real demand
-- Be flexible on terms (delivery-contingent payment), tough on discounts
-- Target: **3-5 purchase orders** for an unfinished product
+活动：
 
-Rules:
-- **Founders sell.** Not the VP of Sales, not salespeople. Founders.
-- If founders cannot close, hire **one Sales Closer** (not a VP of Sales)
-- No free products. Betas pay.
-- "The smallest/least complicated problem the customer will pay for" defines the first release.
+- 联系客户探索阶段找到的早期核心客户。
+- 用销售路线图引导流程。
+- **按标价销售**，检验需求是否真实。
+- 付款条款可以灵活，例如交付后付款；折扣要坚持。
+- 目标：为尚未完成的产品拿到 **3—5 份采购订单**。
 
-### Phase 3: Develop Positioning
+规则：
 
-Activities:
-- Based on customer feedback, refine company and product positioning
-- Test positioning in subsequent sales conversations
-- Present to industry analysts for feedback (NOT for press coverage)
-- Formalize advisory boards (Technical, Customer, Industry)
+- **创始人亲自卖。**不是销售副总裁，不是销售员，而是创始人。
+- 如果创始人无法成交，聘请**一名成交型销售人员**，不是销售副总裁。
+- 不免费送产品，测试版也要付费。
+- 首版由“客户愿意付费解决的最小／最简单问题”决定。
 
-### Phase 4: Verify
+<a id="phase-3-develop-positioning"></a>
+### 第 3 阶段：形成定位
 
-Four verification checks:
-1. **Verify the product** - Does it solve a real problem for paying customers?
-2. **Verify the sales process** - Is it repeatable (not one-off heroics)?
-3. **Verify the channel** - Can the distribution model work at scale?
-4. **Verify the financial model** - Does unit economics work?
+活动：
 
-Decision rule: All four pass → proceed to Customer Creation. Any fail → **pivot back to Customer Discovery** (the canonical pivot).
+- 根据客户反馈完善公司与产品定位。
+- 在后续销售会谈中检验定位。
+- 向行业分析师展示以获取反馈，不是为了媒体报道。
+- 正式建立技术、客户、行业顾问委员会。
+
+<a id="phase-4-verify-1"></a>
+### 第 4 阶段：核实
+
+四项核实：
+
+1. **核实产品**：是否为付费客户解决真实问题？
+2. **核实销售流程**：是否可重复，而非靠一次性的英雄式努力？
+3. **核实渠道**：分销模式能否规模化？
+4. **核实财务模式**：单位经济模型是否成立？
+
+决策规则：四项全部通过，进入客户创造；任何一项失败，都要**转回客户探索**，这就是典型的转型。
 
 ---
 
-## The Earlyvangelist Identification Framework
+<a id="the-earlyvangelist-identification-framework"></a>
+## 早期核心客户识别框架
 
-### The Five-Point Test
+<a id="the-five-point-test"></a>
+### 五点测试
 
-Score each potential customer 1-5 on each characteristic:
+按每个特征给潜在客户打 1—5 分：
 
-| Characteristic | Score 1 (Weak) | Score 5 (Strong) |
+| 特征 | 1 分：弱 | 5 分：强 |
 |---|---|---|
-| Has a problem | Vaguely aware | Can articulate precisely + quantify cost |
-| Understands the problem | "Maybe someday" | "This is killing us right now" |
-| Actively searching | Passive | Has a timetable and has evaluated alternatives |
-| Cobbled together solution | Nothing | Built homegrown version (IT project, spreadsheet, duct tape) |
-| Has/can acquire budget | "We'll see" | Budget line item exists or can be created in 30 days |
+| 有问题 | 隐约察觉 | 能准确表达并量化成本 |
+| 理解问题 | “也许将来吧。” | “这件事现在快把我们拖垮了。” |
+| 主动寻找方案 | 被动 | 有时间表，已评估替代方案 |
+| 已拼凑自己的方案 | 什么都没有 | 自己做了一个版本，例如 IT 项目、表格、临时拼接方案 |
+| 有预算或能争取预算 | “再看看。” | 已有预算项目，或 30 天内能建立 |
 
-**Score ≥ 20 = strong earlyvangelist candidate.**
-**Score 15-19 = possible, investigate further.**
-**Score < 15 = not an earlyvangelist. Move on.**
+**20 分以上：很强的早期核心客户候选。**
+**15—19 分：有可能，继续了解。**
+**不足 15 分：不是早期核心客户，转向别人。**
 
-Earlyvangelists live only at the top of the pain hierarchy. Don't waste time on latent-need customers during Steps 1-2.
+早期核心客户只处在痛点层次顶端。在第 1—2 步，不要把时间浪费在只有潜在需求的人身上。
 
 ---
 
-## New Lanchester Strategy - Cost of Entry Calculator
+<a id="new-lanchester-strategy---cost-of-entry-calculator"></a>
+## 新兰彻斯特战略：进入成本计算器
 
-### Step 1: Identify the market leader(s)
+<a id="step-1-identify-the-market-leaders"></a>
+### 第 1 步：找出市场领导者
 
-Research published market share data for your target market.
+研究目标市场已公布的份额数据。
 
-### Step 2: Apply the rules
+<a id="step-2-apply-the-rules"></a>
+### 第 2 步：应用规则
 
-| If... | Then... | Your Minimum Budget |
+| 如果…… | 那么…… | 你的最低预算 |
 |---|---|---|
-| Single player ≥74% | Monopoly - don't attack head-on | 3× their S&M budget (likely unaffordable) |
-| Top 2 combined ≥74%, within 1.7× of each other | Duopoly - also unassailable | Don't enter this market directly |
-| One player ≥41%, ≥1.7× the next | Clear leader | Resegment or create new market |
-| Biggest player 26-41% | Unstable market | 1.7× weakest relevant player's budget |
-| Biggest player <26% | Fragmented | Lowest cost of entry; market ripe for innovation |
-| No comparable competitors | New market | No market-share spending needed; invest in education + adoption |
+| 单个企业份额≥74% | 垄断，不要正面攻击 | 其销售与营销预算的三倍，通常负担不起 |
+| 前两名合计≥74%，彼此差距在 1.7 倍以内 | 双寡头，同样难以攻破 | 不要直接进入该市场 |
+| 一家≥41%，且≥第二名的 1.7 倍 | 领导者明确 | 重新细分或创造新市场 |
+| 最大企业占 26%—41% | 市场不稳定 | 最弱相关竞争者预算的 1.7 倍 |
+| 最大企业不足 26% | 市场分散 | 进入成本最低，适合创新 |
+| 没有可比较的竞争者 | 新市场 | 不需要争夺份额的支出，投资教育与采用 |
 
-### Step 3: Choose your strategy
+<a id="step-3-choose-your-strategy"></a>
+### 第 3 步：选择策略
 
-- If entry cost is affordable → **Existing Market** strategy
-- If entry cost is unaffordable but a subset of customers is underserved → **Resegmented Market** strategy
-- If no competitors exist → **New Market** strategy
+- 如果承担得起进入成本，采用**现有市场**策略。
+- 如果承担不起，但某一子群体服务不足，采用**重新细分市场**策略。
+- 如果没有竞争者，采用**新市场**策略。
 
-### Important caveat for diversified competitors
+<a id="important-caveat-for-diversified-competitors"></a>
+### 关于多元化竞争者的重要说明
 
-When competing against a division of a larger company, calculate 1.7× or 3× against **that division's** S&M budget, not the whole company's. This can make entry feasible where it initially looks impossible.
-
----
-
-## Positioning Templates by Market Type
-
-### Existing Market
-
-**Company positioning:** How you are **different and credible**.
-> "[Company] is a [category] company that [how you're different from incumbents]."
-
-**Product positioning:** How your product is different along an **existing axis of competition**.
-Three forms of differentiation:
-1. Product attributes (faster, cheaper, more features)
-2. Distribution channel (different delivery method)
-3. Service (better warranty, support, guarantee)
-
-### New Market
-
-**Company positioning:** Communicate a **vision and passion** of what could be.
-> "[Company] is [changing/enabling] [what's wrong with the world that you want to make right]."
-
-**Product positioning:** Describe the **problem it solves**, not features.
-> "[Product] enables [target customer] to [do something they couldn't do before] by [how it works in plain language]."
-
-Features are meaningless in a new market - there's no context to understand them.
-
-### Resegmented Market
-
-**Company positioning:** About **segmentation**, not differentiation.
-> "[Company] is the first [category] designed specifically for [underserved segment] who need [specific thing incumbents don't provide]."
-
-**Product positioning:** Hybrid - describes how your new segment is **different and important**.
-
-Two subtypes:
-- **Low-cost:** "Same results at a fraction of the cost for customers who [specific use case]"
-- **Niche:** "Purpose-built for [specific segment] who are poorly served by [incumbent approach]"
+与大公司的某个部门竞争时，1.7 倍或三倍应以**该部门**的销售与营销预算计算，而非整个公司。这样原先看似不可能的进入，可能变得可行。
 
 ---
 
-## Customer Creation - Four-Phase Detail
+<a id="positioning-templates-by-market-type"></a>
+## 按市场类型划分的定位模板
 
-### Phase 1: Get Ready to Launch
+<a id="existing-market"></a>
+### 现有市场
 
-1. **Construct Market-Type Questionnaire** - ask existing earlyvangelists and prospects to help determine your Market Type
-2. **Choose Market Type** - final, definitive answer (informed by questionnaire + Lanchester analysis + risk assessment)
-3. **Set year-1 objectives:**
-   - Existing: market share target + serviceable available market estimate
-   - New: adoption target (zero to meaningful) + education goals
-   - Resegmented: share target + segment education goals
+**公司定位：**说明你如何**不同且可信**。
 
-### Phase 2: Position Company and Product
+> “[公司]是一家[品类]公司，[与现有企业的不同之处]。”
 
-1. **Select PR agency** - hire for strategic communications capability, not just "how to get press." They must understand Market Type.
-2. **Conduct audits:**
-   - External: PR firm + founders call customers and messengers (analysts, press, influencers). Establish perception baseline.
-   - Internal: Same questions to founding team. Expect to discover "a cacophony of voices."
-3. **Match positioning to Market Type** (see templates above)
+**产品定位：**说明产品沿着**已有竞争维度**如何差异化。
+三种差异化形式：
 
-### Phase 3: Launch Company and Product
+1. 产品属性：更快、更便宜、功能更多。
+2. 分销渠道：不同的交付方式。
+3. 服务：更好的保修、支持、保障。
 
-1. **Select launch type** - onslaught / early adopter / niche (matched to Market Type)
-2. **Select audiences** - the narrow group that carries the most influence, not "everyone"
-3. **Select messengers** - experts, evangelists, connectors
-4. **Craft messages** - must be memorable and "sticky." For new markets, create a TLA or memorable phrase.
-5. **Understand context** - same message succeeds or fails depending on external conditions
-6. **Select media** - based on what early customers actually rely on, not readership numbers
-7. **Measure success** - re-run audits post-launch, compare to baseline, press audit for message pickup
+<a id="new-market"></a>
+### 新市场
 
-### Phase 4: Create Demand
+**公司定位：**传达对可能未来的**愿景与热情**。
 
-1. **Align demand-creation goals with sales goals** - they must be identical
-2. **Work backwards from revenue target** - units needed → active customers → qualified leads → raw leads → cost per lead
-3. **Measure and iterate** - "Mistakes were accepted as part of the normal learning process. Covering them up or not having a method to measure was grounds for termination."
+> “[公司]正在[改变／实现][你想纠正的世界问题]。”
+
+**产品定位：**描述它**解决的问题**，而非功能。
+
+> “[产品]通过[用直白语言解释原理]，让[目标客户]能够[做到此前做不到的事]。”
+
+在新市场里，功能没有意义，因为客户缺少理解这些功能的背景。
+
+<a id="resegmented-market"></a>
+### 重新细分市场
+
+**公司定位：**围绕**细分**，而非差异化。
+
+> “[公司]是首个专为[服务不足的客群]设计的[品类]，他们需要[现有企业未提供的具体东西]。”
+
+**产品定位：**采用混合方式，说明新细分市场**如何不同，以及为何重要**。
+
+两种子类型：
+
+- **低成本：**“为[具体使用场景]的客户，用一小部分成本达到相同结果。”
+- **利基：**“专为[特定客群]打造，他们没有被[现有方式]很好地服务。”
 
 ---
 
-## Company Building - Mission-Centric Organization Framework
+<a id="customer-creation---four-phase-detail"></a>
+## 客户创造：四阶段详解
 
-### Departmental Mission Template
+<a id="phase-1-get-ready-to-launch"></a>
+### 第 1 阶段：准备推出
 
-Before staffing any department, answer:
-1. Why do employees in this department come to work?
-2. What do they need to do all day?
-3. How will they know they succeeded?
-4. What is their contribution to revenue and profit goals?
+1. **制作市场类型问卷**：请现有早期核心客户与潜在客户协助判断市场类型。
+2. **确定市场类型**：结合问卷、兰彻斯特分析与风险评估，给出最终明确答案。
+3. **设定第一年目标：**
+   - 现有市场：份额目标＋可服务可获得市场规模估算。
+   - 新市场：采用目标，从零到形成有意义的规模＋教育目标。
+   - 重新细分市场：份额目标＋细分市场教育目标。
 
-### Department Roles by Market Type
+<a id="phase-2-position-company-and-product"></a>
+### 第 2 阶段：为公司和产品定位
 
-| Department | Existing Market | New Market | Resegmented Market |
+1. **选择公关公司**：看战略传播能力，而非只看“如何获得报道”。对方必须理解市场类型。
+2. **开展审计：**
+   - 外部：公关公司与创始人联系客户及传播者，包括分析师、媒体、影响者，建立认知基线。
+   - 内部：向创始团队问同样的问题，通常会发现“众说纷纭”。
+3. **让定位匹配市场类型**，参见前面的模板。
+
+<a id="phase-3-launch-company-and-product"></a>
+### 第 3 阶段：推出公司与产品
+
+1. **选择推出类型**：全面猛攻、早期采用者、利基，匹配市场类型。
+2. **选择受众**：最有影响力的狭窄人群，而非“所有人”。
+3. **选择传播者**：专家、布道者、连接者。
+4. **制作信息**：必须容易记住、有“黏性”。新市场可以创造三字母缩写（TLA）或好记的短语。
+5. **理解情境**：相同信息会因外部条件而成功或失败。
+6. **选择媒体**：根据早期客户真正依赖的媒体，而非读者数量。
+7. **衡量成功**：推出后重新做审计，与基线比较，并检查媒体是否采用了你的核心信息。
+
+<a id="phase-4-create-demand"></a>
+### 第 4 阶段：创造需求
+
+1. **让需求创造目标与销售目标一致**，两者必须相同。
+2. **从收入目标倒推**：所需销量 → 活跃客户 → 合格线索 → 原始线索 → 单条线索成本。
+3. **衡量与迭代**：“错误被视为正常学习的一部分。但掩盖错误，或者没有衡量方法，则构成解雇理由。”
+
+---
+
+<a id="company-building---mission-centric-organization-framework"></a>
+## 公司建设：以使命为中心的组织框架
+
+<a id="departmental-mission-template"></a>
+### 部门使命模板
+
+为任何部门配备人员之前，先回答：
+
+1. 这个部门的员工为什么来上班？
+2. 他们每天需要做什么？
+3. 怎样知道自己成功了？
+4. 对收入和利润目标有什么贡献？
+
+<a id="department-roles-by-market-type"></a>
+### 不同市场类型下的部门职责
+
+| 部门 | 现有市场 | 新市场 | 重新细分市场 |
 |---|---|---|---|
-| **Sales** | Build org for repeatable execution; comp plan rewards consistency | Don't scale on earlyvangelist roadmap; use earlyvangelists as beachhead fulcrum | Dual track: sell into existing market + find new differentiated customers |
-| **Marketing** | Shift to execution: qualified leads, competitive analysis, case studies, sales training | Identify mainstream customers, design chasm-crossing strategy; do NOT spend on demand creation yet | Drive positioning + branding to peel off existing customers into new segment |
-| **Bus Dev** | Assemble "whole product" via partnerships (not a synonym for sales) | Alliances congruent with beachhead niches; build whole product | Unique partnerships that constitute the differentiating whole product |
+| **销售** | 建立可重复执行的组织，薪酬方案奖励稳定表现 | 不按早期核心客户路线图直接扩张，以早期客户作为滩头市场支点 | 双线推进：向现有市场销售，同时寻找新的差异化客户 |
+| **营销** | 转向执行：合格线索、竞争分析、案例、销售培训 | 识别主流客户，设计跨越鸿沟策略，此时不要投入需求创造 | 推动定位与品牌，把现有客户吸引进新细分市场 |
+| **业务拓展** | 通过合作组装“完整产品”，它不是销售的同义词 | 建立与滩头利基一致的联盟，构建完整产品 | 建立独特合作关系，形成差异化的完整产品 |
 
-### OODA Loop at Department Level
+<a id="ooda-loop-at-department-level"></a>
+### 部门层面的 OODA 循环
 
-| Phase | What It Means for a Department |
+| 阶段 | 对部门意味着什么 |
 |---|---|
-| **Observe** | Information gathering is integral; bad news travels fast; messengers are rewarded |
-| **Orient** | Culture for understanding market/customers/competitors; dispassionate product review |
-| **Decide** | Managers make independent decisions in context of mission |
-| **Act** | Efficient execution; synchronization process; lessons-learned reviews |
+| **观察（Observe）** | 信息收集不可或缺；坏消息快速传递，报告者受到奖励 |
+| **判断方位（Orient）** | 建立理解市场、客户、竞争者的文化，冷静客观地审查产品 |
+| **决策（Decide）** | 管理者在使命背景下独立决策 |
+| **行动（Act）** | 高效执行、同步协调、复盘经验 |
 
-### Three Views Every Executive Needs
+<a id="three-views-every-executive-needs"></a>
+### 每位高管都需要的三个视角
 
-1. **First-hand knowledge** - executives in the field quarterly; weekly company-wide updates from customer-facing staff
-2. **Bird's-eye synthesized view** - sales data, win/loss analysis, market research, competitive analysis
-3. **View from the other side** - "If I were my own competitor, what would my next move be?"
+1. **第一手知识**：高管每季度走进现场，面向客户的员工每周向全公司更新情况。
+2. **综合鸟瞰**：销售数据、赢单／丢单分析、市场研究、竞争分析。
+3. **站在对面的视角**：“如果我是自己的竞争对手，下一步会怎么走？”
 
-> "Understanding sales losses is more important than understanding sales wins."
+> “理解丢单，比理解赢单更重要。”

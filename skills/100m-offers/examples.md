@@ -1,254 +1,272 @@
-# 100m-offers - Templates and Examples
+> 中文译文｜[英文对照](examples.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/100m-offers/examples.md)。原项目整理：AgentSeal；书籍来源：《$100M Offers》— Alex Hormozi；AI辅助翻译。
 
-## One-Page Offer Presentation Template
+<a id="100m-offers---templates-and-examples"></a>
+# 100m-offers——模板与示例
 
-```
+<a id="one-page-offer-presentation-template"></a>
+## 一页式销售方案展示模板
+
+```text
 ═══════════════════════════════════════════════
-[OFFER NAME using MAGIC formula]
-[One-line benefit: "So you can [dream outcome] in [timeline]"]
+[用 MAGIC 公式命名的销售方案]
+[一句话收益：“让你在[时间范围]内实现[理想结果]”]
 
-For: [Target avatar]
-═══════════════════════════════════════════════
-
-THE PROBLEM:
-[2-3 sentences addressing top obstacles - use customer language]
-
-THE SOLUTION:
-[2 sentences on unique approach]
-
-WHAT'S INCLUDED:
-✓ [Module 1] - [One-line benefit]                ($X value)
-✓ [Module 2] - [One-line benefit]                ($X value)
-✓ [Module 3] - [One-line benefit]                ($X value)
-✓ [Module 4] - [One-line benefit]                ($X value)
-✓ [Module 5] - [One-line benefit]                ($X value)
-✓ [Module 6] - [One-line benefit]                ($X value)
-
-BONUSES:
-+ [Bonus 1] - [Specific obstacle this solves]    ($X value)
-+ [Bonus 2] - [Specific obstacle this solves]    ($X value)
-+ [Bonus 3] - [Specific obstacle this solves]    ($X value)
-
-GUARANTEE:
-[Specific risk reversal]
-
-INVESTMENT:
-TOTAL VALUE:        $XX,XXX
-YOUR INVESTMENT:    $X,XXX
-YOU SAVE:           $XX,XXX (XX%)
-
-SCARCITY:
-[Specific limit on availability]
-
-URGENCY:
-[Specific deadline]
-
-NEXT STEP:
-[Clear single CTA]
-═══════════════════════════════════════════════
-```
-
-## Worked Example: B2B Coaching Offer
-
-```
-═══════════════════════════════════════════════
-The 90-Day Revenue Growth Accelerator
-for Mid-Market SaaS CEOs
-
-So you can add $1M ARR in 90 days without 
-hiring more sales reps.
-
-For: SaaS CEOs at $5M-$20M ARR
+适合：[目标客户画像]
 ═══════════════════════════════════════════════
 
-THE PROBLEM:
-Your sales team is hitting quota individually but 
-revenue is flat. You're hiring more reps but each 
-new rep takes 6 months to ramp. Your CFO is asking 
-when efficiency is going to improve.
+问题：
+[用客户语言，以两三句话说明最重要的障碍]
 
-THE SOLUTION:
-The Accelerator diagnoses your specific revenue 
-constraint, fixes it in the first 30 days, then 
-installs a repeatable growth system in days 31-90.
+解决方案：
+[用两句话说明独特方法]
 
-WHAT'S INCLUDED:
-✓ Revenue Diagnostic Sprint - 7-day deep audit
-  of pipeline, conversion, and ICP            ($5,000 value)
-✓ Custom Growth Playbook - 40-page document
-  specific to your business                   ($5,000 value)
-✓ Weekly 90-min Strategy Calls (12 total)
-  Direct work with senior advisor             ($9,000 value)
-✓ Sales Rep Ramp Acceleration Workshop
-  Cuts new-rep time-to-quota from 6 to 3mo    ($4,000 value)
-✓ Pipeline Health Dashboard
-  Custom-built for your CRM                   ($3,000 value)
-✓ Monthly Board-Ready Growth Review
-  Done-for-you executive update               ($2,000 value)
+包含内容：
+✓ [模块 1]——[一句话收益]                （价值 X 美元）
+✓ [模块 2]——[一句话收益]                （价值 X 美元）
+✓ [模块 3]——[一句话收益]                （价值 X 美元）
+✓ [模块 4]——[一句话收益]                （价值 X 美元）
+✓ [模块 5]——[一句话收益]                （价值 X 美元）
+✓ [模块 6]——[一句话收益]                （价值 X 美元）
 
-BONUSES:
-+ ICP Refinement Workshop                     ($1,500 value)
-+ Compensation Plan Audit                     ($1,500 value)
-+ Voicemail/email template library            ($500 value)
+赠品：
++ [赠品 1]——[解决的具体障碍]            （价值 X 美元）
++ [赠品 2]——[解决的具体障碍]            （价值 X 美元）
++ [赠品 3]——[解决的具体障碍]            （价值 X 美元）
 
-GUARANTEE:
-If you don't see 20% improvement in qualified 
-pipeline within 60 days, we work for free until 
-you do.
+保障：
+[具体的风险转移安排]
 
-INVESTMENT:
-TOTAL VALUE:        $31,500
-YOUR INVESTMENT:    $9,000
-YOU SAVE:           $22,500 (71%)
+投入：
+总价值：       XX,XXX 美元
+你的投入：      X,XXX 美元
+节省：         XX,XXX 美元（XX%）
 
-SCARCITY:
-We accept 3 new CEOs per quarter.
+稀缺性：
+[具体的供应限制]
 
-URGENCY:
-Q3 cohort starts March 15. Next intake July 1.
+紧迫感：
+[具体截止时间]
 
-NEXT STEP:
-Book a 30-min fit call: [link]
+下一步：
+[一个清楚的行动指引]
 ═══════════════════════════════════════════════
 ```
 
-## Bundle Naming Examples
+<a id="worked-example-b2b-coaching-offer"></a>
+## 完整示例：B2B 教练服务方案
 
-| Generic | Stacked Bundle Name |
+```text
+═══════════════════════════════════════════════
+中型 SaaS 企业 CEO 的
+90 天收入增长加速器
+
+无需增加销售代表，
+90 天内增加 100 万美元 ARR（年度经常性收入）。
+
+适合：ARR 为 500 万—2,000 万美元的 SaaS 企业 CEO
+═══════════════════════════════════════════════
+
+问题：
+销售团队成员各自完成指标，但整体收入停滞。
+你在招更多销售，可每位新人都需要六个月进入状态。
+CFO 一直在追问，效率到底什么时候能提高。
+
+解决方案：
+加速器诊断你的具体收入瓶颈，在前 30 天修复它，
+随后在第 31—90 天建立可复制的增长系统。
+
+包含内容：
+✓ 收入诊断冲刺——用七天深入审计
+  销售管道、转化和理想客户画像（ICP）       （价值 5,000 美元）
+✓ 定制增长操作手册——专门针对你的业务
+  编写的 40 页文档                         （价值 5,000 美元）
+✓ 每周 90 分钟策略会谈（共 12 次）
+  直接与资深顾问合作                       （价值 9,000 美元）
+✓ 销售新人上手加速工作坊
+  将新人达标时间从六个月缩短至三个月       （价值 4,000 美元）
+✓ 销售管道健康仪表盘
+  为你的 CRM 定制                         （价值 3,000 美元）
+✓ 每月可直接提交董事会的增长复盘
+  替你完成高管更新材料                     （价值 2,000 美元）
+
+赠品：
++ ICP 优化工作坊                          （价值 1,500 美元）
++ 薪酬计划审计                            （价值 1,500 美元）
++ 语音留言／邮件模板库                    （价值 500 美元）
+
+保障：
+如果 60 天内合格销售管道没有提高 20%，
+我们免费继续服务，直到达标。
+
+投入：
+总价值：      31,500 美元
+你的投入：     9,000 美元
+节省：        22,500 美元（71%）
+
+稀缺性：
+每季度只接收三位新 CEO。
+
+紧迫感：
+第三季度班于 3 月 15 日开始，下一次接收客户为 7 月 1 日。
+
+下一步：
+预约一次 30 分钟适配会谈：[链接]
+═══════════════════════════════════════════════
+```
+
+> 译注：上游示例将“第三季度班”与“3 月 15 日”并列，存在季度与日期不一致；此处保留原示例，使用模板时应核实实际时间。
+
+<a id="bundle-naming-examples"></a>
+## 组合内容命名示例
+
+| 泛泛的名称 | 叠加后的组合名称 |
 |---------|---------------------|
-| "Email Templates" | "The Cold Email Conversion Library: 47 Proven Scripts" |
-| "Group Coaching" | "The Weekly Founder Roundtable" |
-| "Course" | "The 30-Day Implementation System" |
-| "Consulting" | "The Done-With-You Strategy Sprint" |
-| "Software" | "The Automated Pipeline Engine" |
-| "Workshop" | "The Half-Day Growth Diagnostic" |
+| “邮件模板” | “陌生邮件转化库：47 个经过验证的脚本” |
+| “小组教练” | “每周创始人圆桌会” |
+| “课程” | “30 天落地实施系统” |
+| “咨询” | “陪你完成的策略冲刺” |
+| “软件” | “自动化销售管道引擎” |
+| “工作坊” | “半天增长诊断” |
 
-## MAGIC Formula Worked Examples
+<a id="magic-formula-worked-examples"></a>
+## MAGIC 公式完整示例
 
-| Component | Example 1 | Example 2 | Example 3 |
+| 组成部分 | 示例 1 | 示例 2 | 示例 3 |
 |-----------|-----------|-----------|-----------|
-| **M**agnet | The Proven | The Ultimate | The Rapid |
-| **A**vatar | Solo Consultants | Tech Startups | Mid-Market CFOs |
-| **G**oal | Lead Generation | Hiring | Revenue Growth |
-| **I**nterval | 6-Week | 12-Month | 90-Day |
-| **C**ontainer | Blueprint | System | Accelerator |
-| **Result** | The Proven 6-Week Lead Generation Blueprint for Solo Consultants | The Ultimate 12-Month Hiring System for Tech Startups | The Rapid 90-Day Revenue Growth Accelerator for Mid-Market CFOs |
+| **M**agnet：吸引点 | 经过验证的 | 终极 | 快速 |
+| **A**vatar：客户画像 | 独立顾问 | 科技创业公司 | 中型企业 CFO |
+| **G**oal：目标 | 获取销售线索 | 招聘 | 收入增长 |
+| **I**nterval：时间区间 | 六周 | 12 个月 | 90 天 |
+| **C**ontainer：载体 | 蓝图 | 系统 | 加速器 |
+| **结果** | 独立顾问经过验证的六周获客蓝图 | 科技创业公司终极 12 个月招聘系统 | 中型企业 CFO 的快速 90 天收入增长加速器 |
 
-## Obstacle-to-Component Worked Example
+<a id="obstacle-to-component-worked-example"></a>
+## 从障碍到组成部分的完整示例
 
-For a "lose 20 lbs in 8 weeks" offer:
+以“八周减掉 20 磅”的方案为例：
 
-| Obstacle | Category | Component | Format |
+| 障碍 | 类别 | 组成部分 | 形式 |
 |----------|----------|-----------|--------|
-| "I don't know what to eat" | Knowledge | Personalized 8-week meal plan | DFY PDF |
-| "I can't cook" | Skill | 12 simple recipe video tutorials | Video library |
-| "I travel a lot" | Environmental | Restaurant eating decision tree | Mobile-friendly card |
-| "My family won't eat 'diet food'" | Environmental | Family-friendly recipe collection | DFY meal plan variant |
-| "I always quit at week 3" | Psychological | Daily 60-second check-in app | Tech + accountability |
-| "I don't have time" | Environmental | 20-min full-body workout library | Video library |
-| "Healthy food is expensive" | Knowledge + Environmental | Bargain grocery shopping guide | DFY shopping list |
-| "I plateau and give up" | Psychological + Knowledge | Weekly check-in with adjustment | 1-on-1 brief call |
-| "I don't have gym access" | Environmental | Bodyweight-only program | Course |
-| "I drink alcohol socially" | Environmental + Skill | Smart drinking guide | DFY PDF |
-| "I'm always tired" | Knowledge | Sleep + recovery protocol | Course module |
-| "Friends sabotage me" | Psychological | Social situations playbook | DFY guide |
-| "I lose motivation" | Psychological | Goal tracking + reward system | App |
-| "I don't see fast results" | Psychological | First-week quick-win protocol | DFY plan |
-| "I forget what I'm doing" | Knowledge | Daily checklist | DFY printable |
+| “不知道该吃什么。” | 知识 | 个性化八周膳食计划 | 替客户做好 PDF |
+| “我不会做饭。” | 技能 | 12 个简单菜谱视频教程 | 视频库 |
+| “我经常出差。” | 环境 | 外出就餐决策树 | 适合手机查看的卡片 |
+| “家人不吃‘减肥餐’。” | 环境 | 全家都能吃的菜谱集 | 替客户制作的膳食计划变体 |
+| “我总在第三周放弃。” | 心理 | 每日 60 秒打卡应用 | 技术＋监督 |
+| “我没有时间。” | 环境 | 20 分钟全身训练库 | 视频库 |
+| “健康食品太贵。” | 知识＋环境 | 省钱采购指南 | 替客户做好购物清单 |
+| “进入平台期就放弃。” | 心理＋知识 | 每周跟进与调整 | 简短的一对一通话 |
+| “我去不了健身房。” | 环境 | 纯自重训练计划 | 课程 |
+| “社交时我会喝酒。” | 环境＋技能 | 聪明饮酒指南 | 替客户做好 PDF |
+| “我总觉得疲惫。” | 知识 | 睡眠与恢复流程 | 课程模块 |
+| “朋友会拖我后腿。” | 心理 | 社交场景应对手册 | 替客户做好指南 |
+| “我失去动力。” | 心理 | 目标追踪与奖励系统 | 应用 |
+| “我看不到快速效果。” | 心理 | 第一周快速见效流程 | 替客户做好计划 |
+| “我总忘记该做什么。” | 知识 | 每日检查表 | 做好的可打印材料 |
 
-15 obstacles → 15 candidate components. After value-cost scoring, trim to the 6-10 strongest.
+15 个障碍形成 15 个候选组成部分。完成价值成本评分后，删减到最强的 6—10 个。
 
-## Components That Usually Get Cut
+<a id="components-that-usually-get-cut"></a>
+## 通常会被删掉的内容
 
-After the value-cost scoring, these tend to be cuts:
+价值成本评分后，以下内容通常会被删去：
 
-| Component | Why Cut |
+| 内容 | 删除原因 |
 |-----------|---------|
-| Generic motivational content | Low value (everyone has it for free on YouTube) |
-| Long unstructured live calls | High cost, moderate value |
-| Massive feature lists | Low individual value, dilutes offer |
-| Anything you'd Google in 30 seconds | Low value |
-| Complex tools that need training | High effort = negative value |
+| 泛泛的励志内容 | 价值低，YouTube 上人人都能免费看到 |
+| 漫长且缺少结构的实时通话 | 成本高，价值中等 |
+| 庞大功能清单 | 单项价值低，稀释方案 |
+| 30 秒就能用 Google 查到的东西 | 价值低 |
+| 需要专门培训的复杂工具 | 高投入意味着负价值 |
 
-## Components That Usually Stay
+<a id="components-that-usually-stay"></a>
+## 通常会保留的内容
 
-| Component | Why Keep |
+| 内容 | 保留原因 |
 |-----------|----------|
-| Specific outcome guarantee | High value, moderate cost |
-| Done-for-you initial setup | High value, manageable cost |
-| Custom-to-them artifact (audit, plan) | Very high value, moderate cost |
-| Direct access to expert (limited) | High value, scalable if bounded |
-| Specific framework/playbook | High value, low marginal cost |
-| Speed/urgency element | High value, low cost |
+| 具体结果保障 | 价值高，成本中等 |
+| 替客户完成初始设置 | 价值高，成本可控 |
+| 为客户定制的成果，例如审计、计划 | 价值极高，成本中等 |
+| 有限度地直接请教专家 | 价值高，设好边界即可规模化 |
+| 具体框架／操作手册 | 价值高，边际成本低 |
+| 速度／紧迫感要素 | 价值高，成本低 |
 
-## Pricing Display Comparisons
+<a id="pricing-display-comparisons"></a>
+## 价格展示对比
 
-### Bad Display
-"Marketing consulting - $9,000"
+<a id="bad-display"></a>
+### 不好的展示
 
-### Better Display
-```
-The Revenue Growth Accelerator
-- 12 strategy calls
-- Custom playbook
-- Pipeline dashboard
-- Quarterly reviews
+“营销咨询——9,000 美元。”
 
-$9,000
-```
+<a id="better-display"></a>
+### 更好的展示
 
-### Best Display
-```
-The Revenue Growth Accelerator
-✓ 12 strategy calls       ($9,000 value)
-✓ Custom playbook         ($5,000 value)
-✓ Pipeline dashboard      ($3,000 value)
-✓ Quarterly reviews       ($2,000 value)
-✓ ICP workshop            ($1,500 value)
-✓ Comp plan audit         ($1,500 value)
-✓ 60-day guarantee        (PRICELESS)
+```text
+收入增长加速器
+- 12 次策略会谈
+- 定制操作手册
+- 销售管道仪表盘
+- 季度复盘
 
-TOTAL VALUE:    $22,000
-YOUR PRICE:      $9,000
-YOU SAVE:       $13,000
+9,000 美元
 ```
 
-Same offer, three completely different perceived-value impressions.
+<a id="best-display"></a>
+### 最好的展示
 
-## Quick Pre-Launch Checklist
+```text
+收入增长加速器
+✓ 12 次策略会谈       （价值 9,000 美元）
+✓ 定制操作手册        （价值 5,000 美元）
+✓ 销售管道仪表盘      （价值 3,000 美元）
+✓ 季度复盘            （价值 2,000 美元）
+✓ ICP 工作坊          （价值 1,500 美元）
+✓ 薪酬计划审计        （价值 1,500 美元）
+✓ 60 天保障           （无价）
 
-Before sending the offer to prospects:
+总价值：  22,000 美元
+你的价格： 9,000 美元
+节省：    13,000 美元
+```
 
-- [ ] Dream outcome is specific (timeframe + emotional benefit)
-- [ ] 15+ obstacles listed (4 categories represented)
-- [ ] Each kept component scores 8+ on value
-- [ ] Total components: 6-10 (not 20)
-- [ ] Each component named with benefit, not feature
-- [ ] Whole offer named with MAGIC formula
-- [ ] Total value > 5x price (rule of thumb)
-- [ ] Guarantee is specific and risk-reversing
-- [ ] Scarcity is real (not invented)
-- [ ] Urgency has true deadline
-- [ ] Display shows three numbers (value/price/savings)
-- [ ] CTA is single and unambiguous
+同一个方案，带来三种完全不同的感知价值印象。
 
-## Blank Offer-Building Worksheet
+<a id="quick-pre-launch-checklist"></a>
+## 推出前快速检查表
 
-Copy and fill in for each new offer.
+向潜在客户发送方案之前：
+
+- [ ] 理想结果明确，包含时间范围和情感收益。
+- [ ] 至少列出 15 个障碍，覆盖四类。
+- [ ] 每个保留项的价值评分达到 8 分以上。
+- [ ] 总共 6—10 个组成部分，而不是 20 个。
+- [ ] 每个部分按收益命名，而非按功能命名。
+- [ ] 整体方案使用 MAGIC 公式命名。
+- [ ] 总价值大于价格的五倍（经验法则）。
+- [ ] 保障具体，并能转移风险。
+- [ ] 稀缺性真实，而非编造。
+- [ ] 紧迫感有真实截止日期。
+- [ ] 展示包含三个数字：价值／价格／节省金额。
+- [ ] 行动指引只有一个，且明确无歧义。
+
+<a id="blank-offer-building-worksheet"></a>
+## 空白销售方案设计工作表
+
+每设计一个新方案，就复制并填写一次。
 
 ---
 
-**Dream Outcome:** _____
+**理想结果：**_____
 
-**Perceived Likelihood:** _____
+**感知到的成功可能性：**_____
 
-**Time Delay:** _____
+**时间延迟：**_____
 
-**Effort & Sacrifice:** _____
+**努力与牺牲：**_____
 
 ---
 
-**Top 10 obstacles to the dream outcome:**
+**实现理想结果的十大障碍：**
 
 1. _____
 2. _____
@@ -263,9 +281,9 @@ Copy and fill in for each new offer.
 
 ---
 
-**Obstacle → Solution → Delivery Vehicle → Name (MAGIC)**
+**障碍 → 方案 → 交付方式 → 名称（MAGIC）**
 
-| # | Obstacle | Solution ("How to...") | Delivery Vehicle | Bundle Name |
+| 编号 | 障碍 | 方案（“如何……”） | 交付方式 | 组合名称 |
 |---|----------|------------------------|------------------|-------------|
 | 1 | | | | |
 | 2 | | | | |
@@ -280,9 +298,9 @@ Copy and fill in for each new offer.
 
 ---
 
-**Bonuses:**
+**赠品：**
 
-| Bonus Name | What It Solves | Perceived Value |
+| 赠品名称 | 解决什么问题 | 感知价值 |
 |------------|----------------|-----------------|
 | | | |
 | | | |
@@ -290,8 +308,8 @@ Copy and fill in for each new offer.
 
 ---
 
-**Guarantee type:** _____ (unconditional / conditional / anti-guarantee)
+**保障类型：**_____（无条件／有条件／反保障）
 
-**Scarcity mechanism:** _____
+**稀缺机制：**_____
 
-**Urgency mechanism:** _____
+**紧迫机制：**_____

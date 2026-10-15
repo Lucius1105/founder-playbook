@@ -1,463 +1,503 @@
 ---
 name: crossing-the-chasm
-description: "Applies Geoffrey Moore's chasm-crossing strategy for B2B tech products moving from visionary early adopters to pragmatist mainstream. Use when a product has early traction but stalls before mainstream adoption, when planning a beachhead/niche strategy, when designing whole-product offerings, when positioning against established competitors, or when scaling from innovator usage to industry standard. Triggers include 'stuck between early adopters and mainstream', 'we need a beachhead', 'pragmatist customers won't buy', 'how do we go from 10 to 1000 customers'. NOT for PLG/freemium SaaS (Slack, Notion, Cursor), pure consumer apps, two-sided marketplaces, or AI-native products with bottoms-up viral adoption - their dynamics break the visionary-to-pragmatist sequence."
+description: "应用 Geoffrey Moore 的跨越鸿沟战略，帮助 B2B 科技产品从具有远见的早期采用者进入以实用主义者为主的主流市场。适用于产品已有早期增长却在主流采用前停滞、规划滩头或利基战略、设计完整产品、针对成熟竞品定位，或从创新者使用扩展为行业标准。触发情境包括‘卡在早期采用者与主流之间’‘需要滩头市场’‘实用主义客户不买’‘如何从 10 个客户发展到 1,000 个’。不适用于产品驱动增长／免费增值 SaaS（Slack、Notion、Cursor）、纯消费应用、双边市场，或靠自下而上病毒式传播的 AI 原生产品；这些产品的机制打破了从愿景者到实用主义者的顺序。"
 ---
 
-> **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
+> 中文译文｜[英文对照](SKILL.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/crossing-the-chasm/SKILL.md)。原项目整理：AgentSeal；书籍来源：《Crossing the Chasm》— Geoffrey Moore；AI辅助翻译。
 
+> **说明：** 本技能是独立的分析与评论，并非原书文本的复制。它将书中核心思想与当代创业实践结合，指出框架过时或不完整之处，并融合相邻学科视角。完整论证与背景请阅读原书。
 
-# Crossing the Chasm
+<a id="crossing-the-chasm"></a>
+# Crossing the Chasm（跨越鸿沟）
 
-> "The point of greatest peril in the development of a high-tech market lies in making the transition from an early market dominated by a few visionary customers to a mainstream market dominated by a large block of customers who are predominantly pragmatists in orientation." - Geoffrey Moore
+> “高科技市场发展中最危险的时刻，是从由少数愿景型客户主导的早期市场，转向由大量主要持实用主义态度的客户主导的主流市场。”——Geoffrey Moore
 
-## Should You Use This Skill?
-
-```
-Is your product targeting enterprise buyers (>$10K deals, multi-stakeholder)?
-├─ YES → Continue to next question
-└─ NO  → Pure consumer / PLG / marketplace?
-        ├─ Pure consumer (TikTok, gaming) → SKIP this skill entirely
-        ├─ PLG SaaS (Slack, Notion, Figma) → Use positioning + whole product concepts only; for adoption strategy, see **$100M Leads**
-        ├─ Marketplace (Airbnb-like) → Two-sided dynamics don't map to TALC; use **Blue Ocean Strategy** for market creation
-        └─ AI-native (Cursor, Claude) → Adoption patterns unprecedented; use **Four Steps to Epiphany** for customer discovery, this skill for enterprise positioning only
-
-Do you have at least 10 paying customers or repeatable early-adopter revenue?
-├─ YES → Continue
-└─ NO  → You're still in Customer Discovery/Validation. Use **four-steps** and **mom-test** first. Come back when you have real traction.
-
-Are you currently in early market (visionaries buying)?
-├─ YES → This skill is for you
-└─ NO, you're already mainstream → You're past the chasm. Use Inside the Tornado concepts (bowling alley, tornado, main street)
-
-Do you have months/years for strategy execution?
-├─ YES → Full framework applies
-└─ NO (<6 months runway) → Apply tactical bits (positioning, beachhead) without multi-year choreography
-```
-
----
-
-## The Core Insight
-
-Most tech adoption models show a smooth bell curve. **It's a lie.** The reality:
+<a id="should-you-use-this-skill"></a>
+## 你应该使用本技能吗？
 
 ```
-        EARLY                          MAINSTREAM
-        MARKET     [ THE CHASM ]        MARKET
-   ┌─────────────┐                ┌─────────────────┐
-   │ Innovators  │     ░░░░░░     │ Early Majority  │
-   │ +           │     ░ THE ░    │ +               │
-   │ Early       │     ░ CHASM░   │ Late Majority   │
-   │ Adopters    │     ░░░░░░     │                 │
-   │ ~16%        │                │ ~68%            │
-   └─────────────┘                └─────────────────┘
-```
+产品是否面向企业买家，交易额超过 1 万美元、涉及多方决策？
+├─ 是 → 继续下一个问题
+└─ 否 → 属于纯消费／产品驱动增长／平台市场吗？
+        ├─ 纯消费，如 TikTok、游戏 → 完全跳过本技能
+        ├─ PLG SaaS，如 Slack、Notion、Figma → 只用定位与完整产品概念；采用战略见 $100M Leads
+        ├─ 平台市场，如 Airbnb → 双边机制不适配 TALC；用 Blue Ocean Strategy 探索市场创造
+        └─ AI 原生，如 Cursor、Claude → 采用模式前所未有；用 Four Steps to Epiphany 做客户探索，本技能仅用于企业市场定位
 
-**The chasm exists because:**
-- Early adopters (visionaries) buy a CHANGE AGENT - they want revolution
-- Early majority (pragmatists) buy a PRODUCTIVITY IMPROVEMENT - they want evolution
-- These motivations are fundamentally incompatible
-- Visionaries are TERRIBLE references for pragmatists (different psychographic)
+是否至少有 10 名付费客户，或可重复的早期采用者收入？
+├─ 是 → 继续
+└─ 否 → 仍处于客户探索／验证阶段，先用 four-steps 和 mom-test，有真实增长后再回来
+
+目前是否处于愿景者购买的早期市场？
+├─ 是 → 本技能适合你
+└─ 否，已进入主流 → 已跨越鸿沟；用 Inside the Tornado 的保龄球道、龙卷风、主街概念
+
+是否有数月／数年执行战略？
+├─ 是 → 完整框架适用
+└─ 否，现金跑道不足 6 个月 → 采用定位、滩头市场等战术部分，不套多年规划流程
+```
 
 ---
 
-## The Technology Adoption Life Cycle (TALC)
+<a id="the-core-insight"></a>
+## 核心洞见
 
-| Segment | Approx % | Buying Behavior | Reference Source |
-|---------|----------|-----------------|------------------|
-| **Innovators** (Tech Enthusiasts) | "very onset, ~3σ from norm" | Pursue tech aggressively | Themselves |
-| **Early Adopters** (Visionaries) | ~13.5% | Buy strategic vision, not products | Their own intuition |
-| **Early Majority** (Pragmatists) | ~34% | Buy productivity improvements; want references | Other pragmatists in same industry |
-| **Late Majority** (Conservatives) | ~34% | Buy established standards; want bundles | Established market leaders |
-| **Laggards** (Skeptics) | ~16% | Don't want tech; only buy when invisible | Cannot be sold to |
-
-### There Are 3 Gaps, Not 1 (Including the Chasm)
-
-| Gap | Between | Cause | Severity |
-|-----|---------|-------|----------|
-| **First crack** | Innovators ↔ Early Adopters | Tech is cool but no compelling application | Medium |
-| **THE CHASM** | Early Adopters ↔ Early Majority | Visionaries can't reference for pragmatists | **CATASTROPHIC** |
-| **Late crack** | Early Majority ↔ Late Majority | Product remains too hard for non-competent users | Medium |
-
-Detailed segment profiles: see [frameworks.md](frameworks.md#detailed-segment-profiles).
-
----
-
-## Why Visionaries Don't Reference Pragmatists
-
-Four characteristics of visionaries that ALIENATE pragmatists:
-
-| Visionary Trait | Why Pragmatists Hate It |
-|-----------------|-------------------------|
-| **Lack of respect for colleagues' experience** | Pragmatists deeply value peer references |
-| **More interest in tech than in their own industry** | Pragmatists want industry-specific expertise |
-| **Failing to recognize importance of existing infrastructure** | Pragmatists' careers are based on those connections |
-| **Overall disruptiveness** | Visionaries get out before disasters; pragmatists clean up the mess |
-
-The catch-22:
-- The only suitable reference for an early-majority customer is another early-majority member
-- No early-majority member will buy without first consulting several references
-
----
-
-## The D-Day Strategy
-
-> "Cross the chasm by targeting a very specific niche market where you can dominate from the outset, force your competitors out of that market niche, and then use it as a base for broader operations. Concentrate an overwhelmingly superior force on a highly focused target."
-
-### The Metaphor
-
-| D-Day | Business |
-|-------|----------|
-| Eisenhower's Europe | Long-term goal: enter mainstream market |
-| The Axis | Entrenched competitor |
-| The Allies | Other products and companies needed as invasion force |
-| England | Early market base |
-| Beaches at Normandy | Strategic target market segment |
-| The English Channel | The chasm |
-| D-Day | The crossing itself |
-| Securing the beachhead | Forcing competitor out of niche |
-| Districts of France | Adjacent segments to take next |
-| Liberation of Europe | Overall market domination |
-
-### The 3 Reasons Sales-Driven Strategy Is FATAL
-
-| Reason | Mechanism |
-|--------|-----------|
-| **Whole product leverage** | Whole-product commitments are expensive; only viable if focused on 1-2 niches |
-| **Word-of-mouth** | Pragmatists communicate vertically; 4-5 wins in ONE segment > 1-2 wins in 5 segments |
-| **Market leadership** | Pragmatists buy from leaders. Need ≥50% share to be the leader. **Pick on somebody your own size.** |
-
-### The Bowling Pin Strategy
-
-Pick a beachhead whose adjacent connections create entry into the next segment.
+多数技术采用模型呈现平滑钟形曲线。**这不符合现实。** 真实情况是：
 
 ```
-Documentum: Pharma regulatory affairs (40 depts, ~1000 people)
+      早期市场          [ 鸿沟 ]          主流市场
+   ┌─────────────┐                  ┌─────────────────┐
+   │ 创新者      │      ░░░░░░      │ 早期大众        │
+   │ ＋          │      ░ 鸿 ░      │ ＋              │
+   │ 早期采用者  │      ░ 沟 ░      │ 后期大众        │
+   │             │      ░░░░░░      │                 │
+   │ 约 16%      │                  │ 约 68%          │
+   └─────────────┘                  └─────────────────┘
+```
+
+**鸿沟存在的原因：**
+- 早期采用者，即愿景者，购买的是变革推动力，他们要革命。
+- 早期大众，即实用主义者，购买的是生产效率改进，他们要渐进演化。
+- 两种动机根本不兼容。
+- 愿景者的心理特征不同，因此是实用主义者很差的参考客户。
+
+---
+
+<a id="the-technology-adoption-life-cycle-talc"></a>
+## 技术采用生命周期：TALC
+
+| 群体 | 约占比 | 购买行为 | 参考来源 |
+|------|--------|----------|----------|
+| **创新者，技术爱好者** | “最早开始，距常态约 3σ” | 积极追逐技术 | 自己 |
+| **早期采用者，愿景者** | 约 13.5% | 购买战略愿景，而非产品 | 自己的直觉 |
+| **早期大众，实用主义者** | 约 34% | 购买效率改进，需要参考客户 | 同行业的其他实用主义者 |
+| **后期大众，保守者** | 约 34% | 购买既定标准，需要成套方案 | 成熟市场领导者 |
+| **落后者，怀疑者** | 约 16% | 不想要技术，只有技术隐形时才购买 | 无法向其推销 |
+
+<a id="there-are-3-gaps-not-1-including-the-chasm"></a>
+### 不止一道鸿沟：共有三处断裂
+
+| 断裂 | 位于谁之间 | 原因 | 严重程度 |
+|------|------------|------|----------|
+| **第一道裂缝** | 创新者 ↔ 早期采用者 | 技术很酷，却没有有力应用 | 中等 |
+| **鸿沟** | 早期采用者 ↔ 早期大众 | 愿景者无法为实用主义者提供有效背书 | **灾难性** |
+| **后期裂缝** | 早期大众 ↔ 后期大众 | 产品对能力不足的用户仍太难 | 中等 |
+
+详细群体画像见 [frameworks.md](frameworks.md#detailed-segment-profiles)。
+
+---
+
+<a id="why-visionaries-dont-reference-pragmatists"></a>
+## 愿景者为什么无法为实用主义者提供有效参考
+
+愿景者有四个特征，会疏远实用主义者：
+
+| 愿景者特征 | 实用主义者为何反感 |
+|------------|--------------------|
+| **不够尊重同事经验** | 实用主义者高度重视同行参考 |
+| **对技术的兴趣超过自身行业** | 实用主义者需要行业专长 |
+| **未认识到现有基础设施的重要性** | 实用主义者的职业发展建立在这些关系与连接之上 |
+| **总体上具有颠覆性** | 愿景者在灾难前脱身，实用主义者负责收拾残局 |
+
+两难困境：
+- 对早期大众客户，唯一合适的参考对象是另一名早期大众。
+- 可没有任何早期大众愿意在咨询几个参考客户之前购买。
+
+---
+
+<a id="the-d-day-strategy"></a>
+## 诺曼底登陆战略
+
+> “要跨越鸿沟，就瞄准一个非常具体、从一开始便能主导的利基市场，将竞争对手挤出该市场，再以此为基地开展更广泛行动。将压倒性的优势力量集中到高度聚焦的目标上。”
+
+<a id="the-metaphor"></a>
+### 比喻对应关系
+
+| 诺曼底登陆 | 商业 |
+|------------|------|
+| Eisenhower 眼中的欧洲 | 长期目标：进入主流市场 |
+| 轴心国 | 根基深厚的竞争者 |
+| 同盟国 | 登陆行动需要的其他产品与公司 |
+| 英格兰 | 早期市场基地 |
+| 诺曼底海滩 | 战略目标细分市场 |
+| 英吉利海峡 | 鸿沟 |
+| 登陆日 | 跨越行动本身 |
+| 巩固滩头阵地 | 将竞争者挤出利基市场 |
+| 法国各地区 | 下一步攻占的相邻细分市场 |
+| 解放欧洲 | 主导整体市场 |
+
+<a id="the-3-reasons-sales-driven-strategy-is-fatal"></a>
+### 销售驱动战略为何在此时致命：三个原因
+
+| 原因 | 机制 |
+|------|------|
+| **完整产品的复用效益** | 完整产品承诺成本很高，聚焦 1—2 个利基才可行 |
+| **口碑** | 实用主义者在垂直行业内交流；同一细分市场赢得 4—5 单，优于在 5 个市场各赢 1—2 单 |
+| **市场领导地位** | 实用主义者购买领导者的产品。成为领导者需要至少 50% 份额。**挑选与自己体量匹配的对手。** |
+
+<a id="the-bowling-pin-strategy"></a>
+### 保龄球瓶战略
+
+选择一个能通过相邻联系进入下一个细分市场的滩头。
+
+```
+Documentum：制药监管事务，40 个部门、约 1,000 人
             ↓
-            Researchers
+            研究人员
             ↓
-            Manufacturing floor
+            生产车间
             ↓
-            Plant construction & maintenance
+            工厂建设与维护
             ↓
-            Regulated chemicals
+            受监管的化工业
             ↓
-            Oil refineries → Wall Street swaps
+            炼油厂 → 华尔街互换交易
 ```
 
-**Knock over the head pin first.** Size doesn't matter; pain does. Biggest mistake: choosing a beachhead with no follow-on niches.
+**先击倒头瓶。** 规模不重要，痛点才重要。最大错误是选择没有后续相邻利基的滩头。
 
 ---
 
-## Targeting the Beachhead - The 9-Factor Checklist
+<a id="targeting-the-beachhead---the-9-factor-checklist"></a>
+## 选择滩头市场：九要素核对表
 
-**Show-stoppers (low score = eliminate):**
+**一票否决项，低分即排除：**
 
-| Factor | Question |
-|--------|----------|
-| **Target customer** | Single identifiable economic buyer, accessible, well-funded? |
-| **Compelling reason to buy** | Are economic consequences sufficient to mandate fixing this NOW? |
-| **Whole product** | Can we field complete solution within 3 months? |
-| **Competition** | Has someone else already crossed here? Don't attack a fortified hill. |
+| 要素 | 问题 |
+|------|------|
+| **目标客户** | 是否有单一、可识别、能触达、资金充足的经济决策者？ |
+| **迫切购买理由** | 经济后果是否严重到必须现在解决？ |
+| **完整产品** | 三个月内能提供完整解决方案吗？ |
+| **竞争** | 是否已有别人从这里跨越？不要进攻坚固设防的山头。 |
 
-**Nice-to-haves (rank order):**
+**加分项，按此排序：**
 
-| Factor | Question |
-|--------|----------|
-| **Partners and allies** | Whole-product partner relationships started? |
-| **Distribution** | Sales channel reaches this customer? |
-| **Pricing** | Whole-product price within budget? Channel rewarded? |
-| **Positioning** | Credible as a provider to this niche? |
-| **Next target customer** | Does this niche enable adjacent niches (bowling pin)? |
+| 要素 | 问题 |
+|------|------|
+| **伙伴与盟友** | 完整产品所需合作关系是否已建立？ |
+| **分销** | 销售渠道能触达这类客户吗？ |
+| **定价** | 完整产品价格在预算内吗？渠道有足够回报吗？ |
+| **定位** | 作为该利基的供应商是否可信？ |
+| **下一目标客户** | 该利基能否打开相邻利基，产生保龄球效应？ |
 
-**Critical:** Pick ONE beachhead. **"You cannot cross the chasm in two places."**
+**关键：** 只选一个滩头。**“你不能同时在两个地方跨越鸿沟。”**
 
-### Size Math (Heuristic, Not Formula)
+<a id="size-math-heuristic-not-formula"></a>
+### 规模计算：经验法则，不是公式
 
-Dominate a segment ≤ 2× your annual revenue target. Need to win ≥50% of new orders → de facto standard.
+主导一个规模不超过年度收入目标 2 倍的细分市场。需要拿下至少 50% 的新订单，成为事实标准。
 
-**Caveat:** This is Moore's heuristic, not a measured rule. Compounds two 50% assumptions. Treat as a sanity check, not a precise calculation.
-
----
-
-## The Whole Product (4 Layers - Theodore Levitt's Model)
-
-| Layer | What It Is | PC Example |
-|-------|------------|------------|
-| **Generic** | What ships in the box | The PC itself |
-| **Expected** | What customer thought they were buying | Monitor included |
-| **Augmented** | Maximum chance of buying objective | Software, hard drive, printer, training, service |
-| **Potential** | Room for growth | Emerging ancillary products |
-
-### The Key Rule
-
-**80-90% of a whole product is typical in high tech. Pragmatists demand effectively 100%.**
-
-This is rhetorical - Moore's actual claim is a gradient, not a hard threshold. But the principle is real: anything significantly less than 100% means customers either supply the rest themselves (visionaries do this; pragmatists don't) or feel cheated, and the market stalls.
-
-### Why Pragmatists Pick "Inferior" Products
-
-In every case, the "winner" had inferior generic product but superior whole product. See [frameworks.md](frameworks.md#the-pragmatist-whole-product-examples-why-inferior-wins) for the full Intel/Oracle/Word/HP table.
-
-Full whole-product framework, doughnut diagram, partner management: see [frameworks.md](frameworks.md#whole-product-management).
+**提醒：** 这是 Moore 的经验法则，不是测量所得规律，叠加了两个 50% 的假设。用来做合理性检查，而非精确计算。
 
 ---
 
-## Define the Battle (Competitive Positioning)
+<a id="the-whole-product-4-layers---theodore-levitts-model"></a>
+## 完整产品：Theodore Levitt 的四层模型
 
-### The Counter-Intuitive Truth
+| 层次 | 含义 | PC 示例 |
+|------|------|---------|
+| **通用产品** | 包装箱里交付的东西 | PC 本身 |
+| **期望产品** | 客户以为自己买到的东西 | 包含显示器 |
+| **增强产品** | 让购买目标最大可能实现的内容 | 软件、硬盘、打印机、培训、服务 |
+| **潜在产品** | 未来增长空间 | 新兴配套产品 |
 
-**Pragmatists need to see strong competition.** It validates the market.
+<a id="the-key-rule"></a>
+### 关键规则
 
-If you came from visionary success, that competition doesn't exist in pragmatist-recognizable form. **You must create it.**
+**高科技行业通常只提供完整产品的 80%—90%，实用主义者要求的实际上是 100%。**
 
-### The Two Reference Competitors
+这是一种强调性的说法；Moore 的实际主张是连续程度，而非硬阈值。但原则成立：明显不足 100% 时，客户要么自行补齐，愿景者愿意这样做而实用主义者不愿意；要么觉得受骗，市场随之停滞。
 
-You need exactly TWO competitors to triangulate your position:
+<a id="why-pragmatists-pick-inferior-products"></a>
+### 实用主义者为何选择“较差”的产品
 
-#### 1. Market Alternative
-- Company customer has bought from FOR YEARS
-- Same problem you address
-- The budget you intend to preempt
-- Helps customer identify: target customer (common) + compelling reason to buy (different)
+各个案例中，“赢家”的通用产品更差，完整产品却更强。完整的 Intel／Oracle／Word／HP 表见 [frameworks.md](frameworks.md#the-pragmatist-whole-product-examples-why-inferior-wins)。
 
-#### 2. Product Alternative
-- Company that's also harnessed a discontinuous innovation
-- Positions itself like you (technology leader)
-- Helps customer appreciate: technology leverage (common) + niche commitment (different)
+完整产品框架、甜甜圈图与伙伴管理见 [frameworks.md](frameworks.md#whole-product-management)。
 
-### The Two-Sentence Positioning Formula
+---
+
+<a id="define-the-battle-competitive-positioning"></a>
+## 定义战场：竞争定位
+
+<a id="the-counter-intuitive-truth"></a>
+### 反直觉的真相
+
+**实用主义者需要看到强有力的竞争。** 竞争能证明市场成立。
+
+如果你此前靠愿景者取得成功，这种竞争尚未以实用主义者能识别的形式存在，**你必须把它构建出来。**
+
+<a id="the-two-reference-competitors"></a>
+### 两个参考竞争者
+
+你恰好需要两个竞争者，以三角关系确定位置：
+
+<a id="1-market-alternative"></a>
+#### 1. 市场替代方案
+- 客户多年来一直购买其产品的公司。
+- 解决与你相同的问题。
+- 占据你想争取的预算。
+- 帮助客户识别：共同的目标客户，以及不同的迫切购买理由。
+
+<a id="2-product-alternative"></a>
+#### 2. 产品替代方案
+- 同样运用了非连续性创新的公司。
+- 和你一样定位为技术领导者。
+- 帮助客户理解：共同的技术优势，以及不同的利基投入承诺。
+
+<a id="the-two-sentence-positioning-formula"></a>
+### 两句话定位公式
 
 ```
-For (target customer)
-Who is dissatisfied with (current market alternative)
-Our product is a (new product category)
-That provides (key problem-solving capability).
-Unlike (the product alternative),
-We have assembled (key whole product features for your specific application).
+面向（目标客户），
+他们不满意（当前市场替代方案）；
+我们的产品是一种（新产品品类），
+提供（解决关键问题的能力）。
+不同于（产品替代方案），
+我们已经整合了（针对你具体应用的关键完整产品要素）。
 ```
 
-**6 fill-in-the-blanks producing exactly 2 sentences.** That's your positioning statement.
+**六处填空，形成恰好两句话。** 这就是定位声明。
 
-### The Elevator Test
+<a id="the-elevator-test"></a>
+### 电梯测试
 
-> "Can you explain your product in the time it takes to ride up in an elevator?"
+> “你能在乘电梯上楼的时间里，解释清楚产品吗？”
 
-If you fail: word-of-mouth can't transmit; marketing scatters; R&D drifts; can't recruit partners; can't get experienced financing.
+未通过的后果：口碑无法传播，营销分散，研发偏离，招募不到伙伴，得不到有经验投资者的融资。
 
-Examples and the 4 stages of positioning through the lifecycle: see [frameworks.md](frameworks.md#positioning-lifecycle---4-stages-through-talc).
-
----
-
-## Launch the Invasion (Distribution & Pricing)
-
-### The Prime Directive
-
-> "The number-one corporate objective when crossing the chasm is to secure a channel into the mainstream market with which the pragmatist customer will be comfortable. This comes BEFORE revenues, before profits, before press, even before customer satisfaction."
-
-**Mantra:** Customer-oriented distribution + Distribution-oriented pricing.
-
-### The Critical Rule
-
-**Direct sales is the best channel for crossing the chasm.** You start the fire - no one else has a vested interest in your sales yet. Only channel responsive to your needs is your own.
-
-After dominating the niche, transition to a more efficient fulfillment channel.
-
-### Customer Pricing by Segment
-
-| Segment | Sensitivity | Pricing Strategy |
-|---------|-------------|------------------|
-| Visionaries | Low | Value-based (premium for special service) |
-| **Pragmatists** (target) | Medium | **Competition-based** (~30% premium tolerance for leader)* |
-| Conservatives | High | Cost-based (low margin above cost) |
-
-*Moore's heuristic from consulting practice, not measured.
-
-Full distribution channel table (8 channels) and pricing detail: see [frameworks.md](frameworks.md#distribution--pricing).
+示例及生命周期中的四阶段定位见 [frameworks.md](frameworks.md#positioning-lifecycle---4-stages-through-talc)。
 
 ---
 
-## Decision Trees
+<a id="launch-the-invasion-distribution--pricing"></a>
+## 发起登陆：分销与定价
 
-### "Is my product in the chasm?"
+<a id="the-prime-directive"></a>
+### 首要指令
+
+> “跨越鸿沟时，公司的第一目标，是打通一个让实用主义客户感到舒适的主流市场渠道。这先于收入、利润、媒体曝光，甚至先于客户满意。”
+
+**原则：** 分销以客户为导向，定价以分销为导向。
+
+<a id="the-critical-rule"></a>
+### 关键规则
+
+**直销是跨越鸿沟的最佳渠道。** 你必须亲自点火，此时还没有别人与你的销售成败有切身利益。唯一会响应你需求的渠道，就是自己的渠道。
+
+主导利基后，再转向更高效的履约渠道。
+
+<a id="customer-pricing-by-segment"></a>
+### 按客户群体定价
+
+| 群体 | 价格敏感度 | 定价策略 |
+|------|------------|----------|
+| 愿景者 | 低 | 价值定价，为特殊服务收取溢价 |
+| **实用主义者，目标群体** | 中 | **竞争定价**，对领导者约可容忍 30% 溢价* |
+| 保守者 | 高 | 成本定价，仅在成本上加少量利润 |
+
+*来自 Moore 咨询实践的经验法则，并非测量结论。
+
+八种分销渠道及定价详解见 [frameworks.md](frameworks.md#distribution--pricing)。
+
+---
+
+<a id="decision-trees"></a>
+## 决策树
+
+<a id="is-my-product-in-the-chasm"></a>
+### “我的产品在鸿沟中吗？”
 
 ```
-Have you sold to early adopters / visionaries?
-├─ NO  → You're in early market. Focus there first.
-└─ YES → Are pragmatist customers buying?
-         ├─ YES → You've crossed. Focus on bowling alley expansion.
-         └─ NO  → Are you reaching pragmatists at all?
-                 ├─ NO  → You're in the chasm. Pick a beachhead.
-                 └─ YES, but they reject → Whole product gap. Build it.
+是否已卖给早期采用者／愿景者？
+├─ 否 → 还在早期市场，先聚焦那里
+└─ 是 → 实用主义客户在购买吗？
+        ├─ 是 → 已跨越，聚焦保龄球道式扩展
+        └─ 否 → 你是否触达了实用主义者？
+                ├─ 否 → 身处鸿沟，选择滩头
+                └─ 是，但被拒绝 → 存在完整产品缺口，补齐它
 ```
 
-### "Which beachhead segment?"
+<a id="which-beachhead-segment"></a>
+### “选择哪个滩头细分市场？”
 
 ```
-For each candidate segment, score 1-5 on showstoppers:
-- Target customer: identifiable economic buyer?
-- Compelling reason to buy: economic consequences mandate action NOW?
-- Whole product: deliverable in 3 months?
-- Competition: not already fortified?
+对每个候选市场的一票否决项打 1—5 分：
+- 目标客户：能识别经济决策者吗？
+- 迫切购买理由：经济后果要求现在行动吗？
+- 完整产品：三个月内可交付吗？
+- 竞争：尚未被坚固设防吗？
 
-Any score ≤2 on a showstopper → eliminate
-For survivors, rank on nice-to-haves
-Pick the WINNER (singular). Pick hard.
+任一否决项不高于 2 分 → 排除
+对留下的候选，按加分项排名
+选择唯一赢家，果断选择
 ```
 
-### "What channel?"
+<a id="what-channel"></a>
+### “采用什么渠道？”
 
 ```
-Is this chasm-crossing or post-chasm?
-├─ Chasm-crossing → Direct sales (you start the fire)
-└─ Post-chasm → What price point?
-                ├─ <$10K consumer → Retail / Internet
-                ├─ $10K-$75K → No-Man's Land - need niche VARs or transition
-                └─ >$75K → Direct sales remains
+正在跨越鸿沟，还是已经跨越？
+├─ 正在跨越 → 直销，自己点火
+└─ 已跨越 → 什么价位？
+            ├─ 低于 1 万美元的消费产品 → 零售／互联网
+            ├─ 1 万—7.5 万美元 → 无人地带，需要利基增值经销商或过渡渠道
+            └─ 高于 7.5 万美元 → 保留直销
 ```
 
 ---
 
-## Critical Numbers & Rules of Thumb
+<a id="critical-numbers--rules-of-thumb"></a>
+## 关键数字与经验法则
 
-| Number | Rule |
-|--------|------|
-| **~16%** | Combined % of innovators + early adopters (the early market) |
-| **~68%** | Combined % of early + late majority (the mainstream) |
-| **≥50%** | Share of new orders needed in segment to be de facto standard |
-| **2x** | Maximum segment size relative to your revenue target |
-| **30%** | Premium pragmatists will pay for the market leader (Moore's heuristic) |
-| **80-90%** | Typical whole product completeness (inadequate) |
-| **100%** | Required whole product completeness |
-| **20-50** | Number of customer scenarios to develop |
-| **8-10** | Distinct alternatives that emerge from those scenarios |
-| **3 months** | Time-to-deliver whole product cutoff for beachhead viability |
-| **15-20%** | Max price ratio of partner product to yours (selling partnerships) |
-
----
-
-## Common Failure Patterns
-
-| Pattern | Description | Cure |
-|---------|-------------|------|
-| **High-tech marketing illusion** | Believing TALC is smooth | Recognize the gaps, especially the chasm |
-| **Sales-driven during chasm** | Spreading thin across segments | Pick ONE niche. Win it. |
-| **Hockey stick forecast** | Mortgaging future on miracle growth | Use staircase model |
-| **Spreading whole product thin** | Trying to satisfy multiple segments | One segment, complete whole product |
-| **Wrong reference base** | Pitching visionaries to pragmatists | Pragmatist references only |
-| **Pretending market leadership** | Claims without evidence | Real partner ecosystem proves it |
-| **OEM / Internet for chasm** | Wrong channels for demand creation | Direct sales for chasm-crossing |
-| **Pricing for visionary echo** | Charging what visionaries paid | Market leader price + channel premium |
-| **Not committing to one beachhead** | "We're going after multiple segments" | One. Beachhead. Period. |
+| 数字 | 含义 |
+|------|------|
+| **约 16%** | 创新者与早期采用者合计，即早期市场 |
+| **约 68%** | 早期大众与后期大众合计，即主流市场 |
+| **至少 50%** | 成为事实标准所需的细分市场新订单份额 |
+| **2 倍** | 细分市场规模相对于收入目标的上限 |
+| **30%** | 实用主义者愿为市场领导者支付的溢价，Moore 的经验判断 |
+| **80%—90%** | 常见但不足的完整产品完备程度 |
+| **100%** | 所需完整产品完备程度 |
+| **20—50** | 需要构建的客户场景数 |
+| **8—10** | 从场景中浮现的不同候选方案数 |
+| **3 个月** | 判定滩头可行性的完整产品交付时限 |
+| **15%—20%** | 销售合作中，伙伴产品价格相对于你产品价格的最大比例 |
 
 ---
 
-## Modern Relevance (1991 → 2026)
+<a id="common-failure-patterns"></a>
+## 常见失败模式
 
-The framework's core ideas are durable. Specific tactics, channels, and case studies are not.
-
-### When Crossing the Chasm STILL Applies
-
-- Enterprise software with committee buying ($50K+ deals)
-- Infrastructure plays where IT must approve
-- Categories with high switching costs and risk
-- Disruptive innovations requiring behavior change in conservative industries
-- Hardware and physical products
-
-### Where the Framework BREAKS in 2026
-
-- **PLG (Slack, Figma, Notion, Cursor, Linear)** - cross the chasm WITHOUT visionary executive sponsorship. Bottoms-up adoption. Breaks Moore's visionary→pragmatist sequence entirely.
-- **Open Source as a chasm-crossing tactic (MongoDB, HashiCorp, Hugging Face)** - Free distribution gets you into Fortune 500s before any sales conversation. Chasm becomes monetization, not adoption.
-- **Network effects products (Slack, Zoom, Discord)** - leap chasms via virality. Network effects substitute for whole product.
-- **Marketplaces (Airbnb, Uber, DoorDash)** - two-sided dynamics don't map to TALC.
-- **AI / Foundation models (Cursor, Claude, ChatGPT)** - mass adoption preceded enterprise sales. Unprecedented.
-- **Pure consumer apps (TikTok, Instagram)** - no buyer/payer/user separation; no "early adopter to majority" gap.
-
-### What Moore Got Wrong (Now Visible)
-
-- Internet as "not a chasm-crossing channel" - it now IS the channel for many products
-- Software-only deals at <$10K - now standard SaaS pricing, no longer No-Man's Land
-- Sales cycle assumptions don't match modern velocity (PLG can compress months to days)
-- VARs are largely obsolete; replaced by partners, MSPs, integrators, cloud marketplaces
-- Direct sales force always preferred for chasm - now often a worse choice than self-serve PLG
-- TALC bell curve assumes single market - modern products cross multiple sub-chasms simultaneously
-
-Full modern-relevance breakdown: see [integration.md](integration.md#modern-relevance-1991--2026).
+| 模式 | 表现 | 补救 |
+|------|------|------|
+| **高科技营销幻觉** | 相信 TALC 是平滑的 | 识别裂缝，尤其是鸿沟 |
+| **鸿沟期由销售驱动** | 分散到多个细分市场 | 选一个利基，拿下它 |
+| **曲棍球杆预测** | 将未来押在奇迹增长上 | 使用阶梯模型 |
+| **完整产品投入分散** | 试图满足多个细分市场 | 一个市场，一套完整产品 |
+| **错误参考客户群** | 向实用主义者宣传愿景者案例 | 只用实用主义者参考客户 |
+| **假装市场领导者** | 主张没有证据 | 用真实伙伴生态证明 |
+| **用 OEM／互联网跨越鸿沟** | 选择了不适合创造需求的渠道 | 跨越鸿沟使用直销 |
+| **沿用愿景者定价** | 仍收愿景者愿意支付的价格 | 市场领导者价格 + 渠道溢价 |
+| **不承诺唯一滩头** | “我们同时进入多个市场” | 只选一个滩头，别无例外 |
 
 ---
 
-## Quick Reference Checklist
+<a id="modern-relevance-1991--2026"></a>
+## 现代适用性：1991 → 2026
 
-**Diagnosing if you're in the chasm:**
-- [ ] Visionary customers signed up
-- [ ] Pragmatists rejecting / not buying
-- [ ] Sales cycles dragging
-- [ ] Cash flow reversing after early success
-- [ ] Competitors started counterattacking
+框架核心思想经久有效，具体战术、渠道和案例则不是。
 
-**Picking your beachhead:**
-- [ ] Single identifiable economic buyer
-- [ ] Compelling reason to buy NOW (not "someday")
-- [ ] Whole product deliverable in 3 months
-- [ ] No fortified competitor already there
-- [ ] Bowling pin potential to adjacent segments
+<a id="when-crossing-the-chasm-still-applies"></a>
+### Crossing the Chasm 仍然适用的情境
 
-**Building the whole product:**
-- [ ] Generic product covers core need
-- [ ] Expected product matches what customer assumes
-- [ ] Augmented product gives maximum success chance
-- [ ] Tactical alliances assembled for missing pieces
-- [ ] 100% whole product (not 80-90%)
+- 委员会采购的企业软件，交易额 5 万美元以上。
+- 必须经 IT 批准的基础设施业务。
+- 转换成本高、风险高的品类。
+- 保守行业中需要行为改变的颠覆性创新。
+- 硬件与实体产品。
 
-**Defining the battle:**
-- [ ] Market alternative identified (the budget you preempt)
-- [ ] Product alternative identified (the tech leader you triangulate against)
-- [ ] Two-sentence positioning written
-- [ ] Elevator test passed
-- [ ] One attribute owned in customer's mind
+<a id="where-the-framework-breaks-in-2026"></a>
+### 2026 年框架失效的情境
 
-**Launching the invasion:**
-- [ ] Direct sales force ready (or transitional channel)
-- [ ] Pricing at market-leader level + channel premium
-- [ ] "Look at this hot new market" message (not "new product")
-- [ ] Financial analyst + vertical media in motion
-- [ ] Whole product partners visible
+- **PLG，如 Slack、Figma、Notion、Cursor、Linear**——没有愿景型高管赞助，也能跨越鸿沟。自下而上采用，完全打破愿景者 → 实用主义者的顺序。
+- **开源作为跨越鸿沟手段，如 MongoDB、HashiCorp、Hugging Face**——免费分发让产品在销售对话之前就进入财富 500 强。鸿沟变成变现，而非采用。
+- **网络效应产品，如 Slack、Zoom、Discord**——通过病毒传播跃过鸿沟，网络效应替代完整产品。
+- **平台市场，如 Airbnb、Uber、DoorDash**——双边机制不适配 TALC。
+- **AI／基础模型，如 Cursor、Claude、ChatGPT**——大众采用先于企业销售，前所未有。
+- **纯消费应用，如 TikTok、Instagram**——买家、付款者、用户不分离，没有“早期采用者到大众”的鸿沟。
 
----
+<a id="what-moore-got-wrong-now-visible"></a>
+### 如今可见的 Moore 判断失误
 
-## The Big Idea
+- 互联网“不是跨越鸿沟的渠道”——如今对许多产品而言，它就是渠道。
+- 低于 1 万美元的纯软件交易——如今是标准 SaaS 定价，不再是无人地带。
+- 销售周期假设不符合现代速度，PLG 可将数月缩为数天。
+- VAR 增值经销商大多过时，被合作伙伴、MSP 托管服务商、集成商、云市场替代。
+- 跨越鸿沟总应优先直销团队——如今常常不如自助式 PLG。
+- TALC 钟形曲线假设单一市场——现代产品可能同时跨越多个小鸿沟。
 
-> "You start the fire. You spread the fire."
-
-Crossing the chasm is the most dangerous moment in a product's life. Most products die there. The ones that survive don't do it through brilliance - they do it through **discipline**:
-
-1. Pick ONE beachhead
-2. Build the COMPLETE whole product for it
-3. Position to triangulate market alternative + product alternative
-4. Sell direct to start the fire
-5. Win with discipline, not speed
-
-> "Cross the chasm by targeting a very specific niche market where you can dominate from the outset."
-
-The opposite of crossing the chasm isn't "moving fast." It's **focus.**
+完整现代适用性分析见 [integration.md](integration.md#modern-relevance-1991--2026)。
 
 ---
 
-## Supporting Files
+<a id="quick-reference-checklist"></a>
+## 速查核对表
 
-- **[frameworks.md](frameworks.md)** - Detailed segment profiles, application vs platform distinction, target-customer characterization (Day in the Life), sub-segmentation, whole-product layers and management (8 tips), positioning lifecycle (4 stages), distribution channels (8), pricing detail
-- **[cases.md](cases.md)** - Documentum (regulatory affairs beachhead), Lotus Notes (Sheldon Laube/Price Waterhouse 10,000-seat commitment), Microsoft Exception ("Evel Knievel"), Silicon Graphics (Hollywood post-production), Quicken (paper checks/Tobias), Channelpoint (insurance agents), Wang/Lotus/Macintosh/Silicon Graphics death-by-tornado, Steve Jobs/Xerox PARC
-- **[examples.md](examples.md)** - Two-sentence positioning template, 9-factor target selection scoring sheet, doughnut diagram, target-customer characterization (5+3 elements), staircase vs hockey stick model
-- **[integration.md](integration.md)** - Beyond the Chasm (Inside the Tornado: bowling alley, tornado, Main Street), Pioneers vs Settlers org transition, Modern Relevance details, conflicts with Mom Test/Monetizing Innovation/$100M Offers/SPIN Selling
+**诊断是否处于鸿沟：**
+- [ ] 已有愿景型客户签约。
+- [ ] 实用主义者拒绝／不购买。
+- [ ] 销售周期拖长。
+- [ ] 早期成功后现金流逆转。
+- [ ] 竞争者开始反击。
+
+**选择滩头：**
+- [ ] 单一、可识别的经济决策者。
+- [ ] 现在就必须购买的迫切理由，而非“将来某天”。
+- [ ] 三个月内可交付完整产品。
+- [ ] 没有已经牢固设防的竞争者。
+- [ ] 能通过保龄球效应进入相邻市场。
+
+**构建完整产品：**
+- [ ] 通用产品满足核心需求。
+- [ ] 期望产品符合客户默认预期。
+- [ ] 增强产品最大程度保障成功。
+- [ ] 已建立补齐缺口的战术联盟。
+- [ ] 完整程度为 100%，而非 80%—90%。
+
+**定义战场：**
+- [ ] 识别市场替代方案，即要争取的预算来源。
+- [ ] 识别产品替代方案，即用于三角定位的技术领导者。
+- [ ] 写好两句话定位。
+- [ ] 通过电梯测试。
+- [ ] 在客户心中占据一个属性。
+
+**发起登陆：**
+- [ ] 直销团队或过渡渠道准备就绪。
+- [ ] 定价为市场领导者水平，加渠道溢价。
+- [ ] 传播“看看这个热门新市场”，而非“新产品”。
+- [ ] 金融分析师与垂直媒体开始行动。
+- [ ] 完整产品伙伴清晰可见。
 
 ---
 
-## Honest Scope of the Book
+<a id="the-big-idea"></a>
+## 核心思想
 
-- **Published:** 1991, revised 1998
-- **Examples:** Mostly 1990s tech (Lotus 1-2-3, Oracle, AutoCAD, Documentum). Many no longer relevant
-- **Empirical base:** Anecdotes and case studies. No statistical validation - this is a strategy framework, not a research study
-- **Where it shines:** B2B enterprise software, infrastructure, complex platforms
-- **Where it's weak:** Pure consumer apps, low-friction SaaS (PLG works differently), free/freemium products
-- **Author's commercial interest:** Moore founded The Chasm Group consulting firm
+> “你来点火，你来传播火势。”
 
-The framework is durable. The specific examples are dated. Adapt accordingly.
+跨越鸿沟是产品生命周期最危险的时刻，多数产品死在这里。幸存者靠的不是聪明绝顶，而是**纪律**：
+
+1. 选择一个滩头。
+2. 为它构建完备的完整产品。
+3. 用市场替代方案与产品替代方案进行三角定位。
+4. 通过直销亲自点火。
+5. 以纪律，而非速度取胜。
+
+> “瞄准一个非常具体、从一开始就能主导的利基市场，来跨越鸿沟。”
+
+“跨越鸿沟”的反面不是“快速行动”，而是**聚焦**。（译注：原文此句为“The opposite of crossing the chasm isn't ‘moving fast.’ It's focus.”，逻辑表述如此，照译保留。）
+
+---
+
+<a id="supporting-files"></a>
+## 配套文件
+
+- **[frameworks.md](frameworks.md)**——详细群体画像、应用与平台区别、目标客户刻画（日常生活）、进一步细分、完整产品层次与八项管理建议、定位生命周期四阶段、八种分销渠道、定价详解。
+- **[cases.md](cases.md)**——Documentum 监管事务滩头、Lotus Notes 与 Sheldon Laube／Price Waterhouse 的 10,000 席位承诺、Microsoft 例外“Evel Knievel”、Silicon Graphics 好莱坞后期制作、Quicken 纸质支票／Tobias、Channelpoint 保险代理人、Wang／Lotus／Macintosh／Silicon Graphics 在龙卷风中衰败、Steve Jobs／Xerox PARC。
+- **[examples.md](examples.md)**——两句话定位模板、九要素目标评分表、甜甜圈图、目标客户刻画的 5+3 要素、阶梯与曲棍球杆模型。
+- **[integration.md](integration.md)**——鸿沟之后的 Inside the Tornado：保龄球道、龙卷风、主街；先驱者到定居者的组织转型；现代适用性；与 Mom Test／Monetizing Innovation／$100M Offers／SPIN Selling 的冲突。
+
+---
+
+<a id="honest-scope-of-the-book"></a>
+## 如实说明本书范围
+
+- **出版：** 1991 年，1998 年修订。
+- **案例：** 多为 1990 年代科技企业，如 Lotus 1-2-3、Oracle、AutoCAD、Documentum，许多已不再适用。
+- **实证基础：** 轶事与案例研究，没有统计验证；这是战略框架，不是研究报告。
+- **优势领域：** B2B 企业软件、基础设施、复杂平台。
+- **薄弱领域：** 纯消费应用、低摩擦 SaaS，PLG 的机制不同，以及免费／免费增值产品。
+- **作者商业利益：** Moore 创立了 The Chasm Group 咨询公司。
+
+框架经久有效，具体案例已经陈旧，应相应调整。

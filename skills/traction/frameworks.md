@@ -1,521 +1,555 @@
-# Frameworks - Traction
+> 中文译文｜[英文对照](frameworks.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/traction/frameworks.md)。原项目整理：AgentSeal；书籍来源：《Traction》— Gabriel Weinberg 与 Justin Mares；AI辅助翻译。
 
-## The Bullseye Framework - Deep Dive
+<a id="frameworks---traction"></a>
+# Traction——框架
 
-### Step 1: Brainstorm - Detailed
+<a id="the-bullseye-framework---deep-dive"></a>
+## 靶心框架：深入说明
 
-The brainstorm is the most important step because it forces you to consider channels you'd normally ignore. Most founders skip straight to the 3-4 channels they know. **The channel that will work is usually one you haven't considered.**
+<a id="step-1-brainstorm---detailed"></a>
+### 第一步：头脑风暴详解
 
-**Bias audit checklist:**
+头脑风暴最重要，因为它迫使你考虑通常忽略的渠道。多数创始人直接跳到熟悉的 3—4 个。**真正有效的通常是你没考虑过的渠道。**
 
-```
-Before brainstorming, identify your biases:
-
-[ ] Am I only considering channels I've used before?
-[ ] Am I avoiding channels that seem "beneath" my product?
-[ ] Am I skipping channels that require effort I find unpleasant?
-    (cold calling, trade shows, partnership negotiations)
-[ ] Am I assuming my customers are ONLY reachable online?
-[ ] Am I dismissing paid channels because "organic is better"?
-[ ] Am I dismissing free channels because "you have to spend money"?
-[ ] Am I ignoring channels my competitors use (because "we're different")?
-[ ] Am I ignoring channels my competitors DON'T use (because "there must
-    be a reason")?
-```
-
-**For each of the 19 channels, generate at least one SPECIFIC idea:**
-
-Not "try SEO" but "write comparison pages for each of our 5 main competitors targeting '[competitor name] alternative' searches."
-
-Not "do content marketing" but "publish a weekly data analysis using our proprietary dataset that financial bloggers would want to cite."
-
-### Step 2: Rank - Detailed
-
-Sort into three columns using your best judgment + any data you have:
-
-**Column A (Inner Circle):** Channels where you have evidence or strong reason to believe they'll work. Maybe a competitor uses it successfully. Maybe your audience is concentrated there. Maybe you have a unique advantage (engineering team for "engineering as marketing," strong brand for PR).
-
-**Column B (Potential):** Channels that could plausibly work but you're less certain. Worth testing if Column A fails.
-
-**Column C (Long-shot):** Channels that seem unlikely for your specific product/market. Don't test now, but don't forget they exist.
-
-**Common ranking mistakes:**
-- Putting all online channels in A and all offline in C (bias)
-- Ranking based on what you WANT to do vs. what's likely to work
-- Ranking based on what competitors do (they may be wrong too)
-
-### Step 3: Prioritize - Detailed
-
-Narrow Column A to exactly 3. For each, score on four dimensions:
-
-| Dimension | Question | How to Estimate |
-|---|---|---|
-| **CPA** | What will one customer cost through this channel? | Competitor benchmarks, channel averages, quick $250 test |
-| **Volume** | How many customers are available? | TAM in the channel, audience size, search volume |
-| **Quality** | Are these the right customers? | Match to ICP, willingness to pay, retention potential |
-| **Time** | How long from first touch to customer? | Channel cycle time, sales cycle length |
-
-### Step 4: Test - Detailed
-
-**Testing protocol per channel:**
+**偏见审查表：**
 
 ```
-CHANNEL: _________________________
-TEST DURATION: 1-2 weeks
-TEST BUDGET: ~$250 (for paid) or equivalent time (for organic)
+头脑风暴前，识别偏见：
 
-BEFORE TESTING:
-1. Define success criteria: "This channel works if CPA < $___ 
-   and volume > ___ customers/month"
-2. Set up tracking (unique URL, promo code, UTM parameters)
-3. Build minimum creative (2-4 ads, 1-2 landing pages)
-
-DURING TESTING:
-1. Run the test without optimization
-2. Don't change creative mid-test
-3. Record raw numbers daily
-
-AFTER TESTING:
-1. Calculate CPA, volume, quality, cycle time
-2. Compare to success criteria
-3. Decision: [ ] Focus (this is the one)
-             [ ] Optimize (promising but needs work)
-             [ ] Kill (doesn't meet criteria)
+[ ] 是否只考虑用过的渠道？
+[ ] 是否回避看起来配不上产品的渠道？
+[ ] 是否跳过那些需要付出令我不舒服努力的渠道？
+    例如冷电话、展会、伙伴谈判。
+[ ] 是否假设客户只能在线上触达？
+[ ] 是否因“自然增长更好”而排斥付费渠道？
+[ ] 是否因“必须花钱”而排斥免费渠道？
+[ ] 是否因“我们不同”而忽略竞品使用的渠道？
+[ ] 是否因“肯定有原因”而忽略竞品不用的渠道？
 ```
 
-### Step 5: Focus - Detailed
+**为 19 个渠道各生成至少一个具体想法：**
 
-Once you've identified the winning channel:
+不是“试 SEO”，而是“为五个主要竞品分别写对比页，瞄准‘[竞品名称]替代方案’搜索”。
 
-1. **Double down.** Move all traction effort to this channel.
-2. **Optimize aggressively.** A/B test everything. Running one test per week can improve channel efficiency 2-3x.
-3. **Build infrastructure.** If it's content marketing, hire a full-time writer. If it's sales, build the pipeline process. If it's SEO, invest in the content machine.
-4. **Monitor saturation signals:** rising CPA, flattening volume, diminishing returns on optimization.
-5. **When the channel saturates, re-run Bullseye from Step 1.** Don't panic - this is expected.
+不是“做内容营销”，而是“每周用专有数据发布一篇金融博主愿意引用的数据分析”。
+
+<a id="step-2-rank---detailed"></a>
+### 第二步：排序详解
+
+结合最佳判断与已有数据分为三列：
+
+**A 列，内圈：** 有证据或充分理由认为有效的渠道。可能竞品用得成功，受众集中于此，或你有独特优势，例如工程团队适合工程营销，强品牌适合公关。
+
+**B 列，有潜力：** 可能有效但不够确定。A 列失败后值得测。
+
+**C 列，希望较小：** 对你的具体产品／市场不太可能有效。暂不测试，但别忘了它们。
+
+**常见排序错误：**
+- 全部线上渠道放 A、全部线下放 C，这是偏见。
+- 按自己想做什么，而非什么可能有效排序。
+- 按竞品做什么排序，他们也可能错。
+
+<a id="step-3-prioritize---detailed"></a>
+### 第三步：优先级详解
+
+将 A 列缩到恰好三个，并在四个维度评分：
+
+| 维度 | 问题 | 估算方式 |
+|------|------|----------|
+| **CPA** | 该渠道获一客要多少钱？ | 竞品基准、渠道均值、快速 250 美元测试 |
+| **数量** | 能获得多少客户？ | 渠道内可服务市场、受众规模、搜索量 |
+| **质量** | 是否正确客户？ | 理想客户画像匹配、支付意愿、留存潜力 |
+| **时间** | 首次接触到成为客户多久？ | 渠道循环时间、销售周期 |
+
+<a id="step-4-test---detailed"></a>
+### 第四步：测试详解
+
+**每渠道测试流程：**
+
+```
+渠道：_________________________
+测试时长：1—2 周
+测试预算：付费渠道约 250 美元；自然渠道投入等价时间
+
+测试前：
+1. 定义成功标准：“CPA 低于 ___ 美元，
+   且每月客户数大于 ___，就视为有效。”
+2. 设置追踪：独立 URL、优惠码、UTM 参数。
+3. 制作最少素材：2—4 个广告、1—2 个落地页。
+
+测试中：
+1. 运行测试，不做优化。
+2. 中途不换素材。
+3. 每日记录原始数字。
+
+测试后：
+1. 计算 CPA、数量、质量、周期。
+2. 对照成功标准。
+3. 决策：[ ] 聚焦，就是它。
+         [ ] 优化，有希望但需改进。
+         [ ] 停止，不达标准。
+```
+
+<a id="step-5-focus---detailed"></a>
+### 第五步：聚焦详解
+
+找到胜出渠道后：
+
+1. **加大投入。** 全部增长精力转向此渠道。
+2. **积极优化。** 对各项做 A/B 测试，每周一个测试可使渠道效率提高 2—3 倍。
+3. **建设基础设施。** 内容营销就雇全职作者；销售就建设管道流程；SEO 就投入内容生产机制。
+4. **监测饱和信号：** CPA 上升、数量走平、优化收益递减。
+5. **饱和时从第一步重跑靶心框架。** 不要慌，这是预期中的事。
 
 ---
 
-## Critical Path Methodology
+<a id="critical-path-methodology"></a>
+## 关键路径方法
 
-### Constructing a Critical Path
-
-```
-1. Set ONE traction goal
-   Example: "1,000 paying customers" or "$100K MRR" or "1% market share"
-
-2. List EVERY milestone needed to reach that goal
-   Example: product launch, first 10 customers, pricing validated,
-   channel identified, channel optimized, 100 customers, 500 customers...
-
-3. Identify dependencies
-   Example: "channel optimized" depends on "channel identified"
-   which depends on "Bullseye tests completed"
-
-4. Order into a critical path
-   The longest chain of dependent milestones = your critical path
-
-5. Ruthlessly cut everything not on the path
-   Blog redesign? Not on the path. Don't do it.
-   New feature request? Does it advance a milestone? No? Don't do it.
-   Conference in Barcelona? Does it advance a milestone? No? Don't go.
-```
-
-### Sub-Paths
-
-Departments and individuals each have sub-paths that sum to the company's critical path:
+<a id="constructing-a-critical-path"></a>
+### 构建关键路径
 
 ```
-COMPANY CRITICAL PATH:
-  Bullseye test --> Channel identified --> 100 customers --> ...
+1. 设定唯一增长目标。
+   例如：1,000 名付费客户、10 万美元 MRR、1% 市场份额。
 
-MARKETING SUB-PATH:
-  Write test ads --> Run 3 channel tests --> Analyze results --> ...
+2. 列出达到目标所需的全部里程碑。
+   例如：产品发布、首批 10 客、定价验证、
+   找到渠道、优化渠道、100 客、500 客……
 
-ENGINEERING SUB-PATH:
-  Ship MVP --> Add tracking --> Build referral feature --> ...
+3. 识别依赖。
+   例如：优化渠道依赖找到渠道，
+   找到渠道依赖完成靶心测试。
 
-Every person should know: "What am I doing today, and which
-milestone on the critical path does it advance?"
+4. 排成关键路径。
+   有依赖关系的最长里程碑链，就是关键路径。
+
+5. 坚决砍掉路径之外的事。
+   重做博客？不在路径上，就不做。
+   新功能请求？不能推进里程碑，就不做。
+   巴塞罗那会议？不能推进里程碑，就不去。
+```
+
+<a id="sub-paths"></a>
+### 子路径
+
+部门与个人各有子路径，合起来构成公司关键路径：
+
+```
+公司关键路径：
+  靶心测试 → 找到渠道 → 100 个客户 → ……
+
+营销子路径：
+  写测试广告 → 运行三个渠道测试 → 分析结果 → ……
+
+工程子路径：
+  交付 MVP → 添加追踪 → 构建推荐功能 → ……
+
+每个人都应知道：今天在做什么，
+它推进了关键路径上的哪个里程碑？
 ```
 
 ---
 
-## The 19 Channels - Detailed Tactics
+<a id="the-19-channels---detailed-tactics"></a>
+## 19 个渠道：详细战术
 
-### Channel 1: Viral Marketing
+<a id="channel-1-viral-marketing"></a>
+### 渠道一：病毒营销
 
-**Six viral loop types:**
+**六种传播循环：**
 
-| Loop Type | Mechanic | Example |
-|---|---|---|
-| **Word of mouth** | Product is so good people talk about it | Apple products |
-| **Inherent** | Using the product exposes non-users | Skype, WhatsApp (you call non-users) |
-| **Collaboration** | Multi-user features pull in new users | Google Docs, Slack |
-| **Embedded** | Product inserts marketing into its output | "Sent from my iPhone," Hotmail signature |
-| **Incentivized** | Reward users for bringing others | Dropbox extra storage, Uber credits |
-| **Social broadcast** | Usage auto-shares to social networks | Spotify "now playing," Strava activities |
+| 类型 | 机制 | 示例 |
+|------|------|------|
+| **口碑** | 产品好到人们主动谈论 | Apple 产品 |
+| **内生传播** | 使用时让非用户接触产品 | Skype、WhatsApp，给非用户打电话 |
+| **协作** | 多人功能拉入新用户 | Google Docs、Slack |
+| **嵌入传播** | 产品在输出中加入营销信息 | “从我的 iPhone 发送”、Hotmail 签名 |
+| **激励传播** | 奖励带来新用户的人 | Dropbox 额外空间、Uber 额度 |
+| **社交广播** | 使用活动自动分享到社交网络 | Spotify“正在播放”、Strava 活动 |
 
-**Optimization priority:** Fix the leakiest step first. If 80% of users see the invite screen but only 2% click, that's a 5-10x opportunity. Don't optimize the landing page until the invite rate is fixed.
+**优化优先级：** 先修流失最多的环节。如果 80% 用户看到邀请页，只有 2% 点击，这就是 5—10 倍机会。邀请率未解决前，别先优化落地页。
 
-**Viral pockets:** Certain subgroups may have K > 1 even when overall K < 1. Find them and target them specifically.
+**局部病毒群：** 总体 K＜1 时，某些子群也可能 K＞1。找到它们，定向触达。
 
-**Cycle time > coefficient:** A viral loop that completes in minutes (YouTube) beats one that completes in days (email invite flow), even with a lower K.
+**循环时间优于系数：** 即使 K 更低，几分钟完成的 YouTube 循环，也胜过数天完成的邮件邀请循环。
 
-### Channel 2: Public Relations
+<a id="channel-2-public-relations"></a>
+### 渠道二：公共关系
 
-**The filter-up media chain:**
-
-```
-Tier 1: Niche forums (HN, reddit, niche subreddits, industry forums)
-  |
-  v
-Tier 2: Mid-tier blogs (TechCrunch, Lifehacker, Mashable, industry blogs)
-  |
-  v
-Tier 3: Major outlets (NYT, CNN, WSJ, TV networks)
-
-DON'T pitch Tier 3 directly. Get coverage at Tier 1, 
-which Tier 2 reads. Tier 2 coverage catches Tier 3's attention.
-```
-
-**PR tactics:**
-- **HARO** (Help A Reporter Out): respond to journalist queries. Free source of press.
-- **Build relationships before you need them:** Follow reporters on Twitter, comment on their articles, share their work.
-- **Give a "handle":** Make it easy for the reporter to position your story. Don't make them figure out why it's interesting.
-- **Bundle small announcements:** Save up minor news for one big story rather than drip-feeding.
-- **Follow-up stories:** "How We Built X" or "How We Got Our First 1,000 Customers" - reporters love process stories.
-
-### Channel 3: Unconventional PR
-
-**Publicity stunts - engineering spectacles:**
-- Must be genuinely surprising or remarkable
-- Low-cost relative to impact is the sweet spot
-- Can't be repeated - one-shot by definition
-- Risk: it can backfire or seem desperate
-
-**Customer appreciation - scalable kindness:**
-- Handwritten notes, small gifts, unexpected upgrades
-- Zappos treats support spend as marketing spend
-- Cost per customer is tiny; word-of-mouth impact is outsized
-- Can be systematized and repeated
-
-### Channel 4: Search Engine Marketing (SEM)
-
-**Only works when existing search demand exists.** If nobody is searching for your category, SEM will produce nothing.
-
-**Key concepts:**
-- **CTR** (Click-Through Rate): % of people who see your ad and click
-- **CPC** (Cost Per Click): what you pay per click
-- **CPA** (Cost Per Acquisition): CPC / conversion rate
-- **Quality Score**: primarily driven by CTR. Higher QS = lower CPC.
-- **Long-tail keywords**: less competition, higher intent, lower CPC
-- **Negative keywords**: exclude irrelevant searches to improve CTR
-
-**Testing approach:** Start with ~$250 on 2-4 keyword groups. Measure CPA. If CPA < target, optimize. If CPA is 10x target, this channel probably won't work.
-
-**Advanced tactics:**
-- **Retargeting** (AdRoll, Perfect Audience): 3-10x higher CTR than cold ads
-- **Content Network**: cheaper clicks but lower quality; requires separate optimization
-- **Conversion Optimizer**: Google's automated bidding once you have enough conversion data
-
-### Channel 5: Social & Display Ads
-
-**Demand harvesting** (search ads) vs. **demand generation** (social/display ads). Social ads create awareness among people who aren't actively searching.
-
-**Platform selection:**
-- **LinkedIn**: B2B, job-title targeting. Expensive but precise.
-- **Facebook/Instagram**: Broad reach, interest/behavior targeting.
-- **Twitter/X**: Real-time event hooks, conversation targeting.
-- **Reddit**: Subreddit targeting. Creative must match the culture (funny/authentic).
-- **YouTube**: Pre-roll video. Good for products that need demonstration.
-
-**Nikhil Sethi (Adaptly) rule:** Build affinity first, convert later. Social ads that go straight for the sale underperform ads that build awareness then retarget.
-
-**Reverse-engineering competitors:** Use MixRank or Adbeat to see where competitors are placing ads and what creative they're using.
-
-### Channel 6: Offline Ads
-
-**Remnant inventory:** Unsold ad space can be negotiated up to 90% off rate card through agencies. This makes offline ads affordable for startups.
-
-| Format | Cost Range | Notes |
-|---|---|---|
-| **TV (national)** | $350K+ per spot | Usually out of reach for startups |
-| **TV (infomercial)** | Variable | P90X did $400M through infomercials |
-| **Radio (local)** | $500-$1,500/week | Test one market before expanding |
-| **Radio (major market)** | $4,000-$8,000/week | Chicago benchmark |
-| **Magazines** | Varies widely | US has ~7,000 titles. Target niche. |
-| **Billboards** | $5K-$10K/month | DuckDuckGo's SF billboard doubled userbase |
-| **Direct mail** | ~$100 per 1,000 names | Highly targetable, measurable |
-
-**Tracking offline:** Unique URLs, promo codes, "How did you hear about us?" surveys, phone numbers with tracking.
-
-### Channel 7: Search Engine Optimization (SEO)
-
-**Two strategies:**
-
-| Strategy | Target | Volume | Competition | Example |
-|---|---|---|---|---|
-| **Fat-head** | Top category terms | 18.5% of all searches | Very high | "project management software" |
-| **Long-tail** | Specific multi-word queries | 70% of all searches | Lower | "best project management tool for remote teams" |
-
-**Validate before investing:** Use AdWords to test whether fat-head terms convert. If they don't convert as ads, they won't convert as organic results either.
-
-**Long-tail machine (Patrick McKenzie):** "Build a machine that takes money on one end and spits rankings out the other." Outsource content creation. Auto-generate pages from data your business collects (Yelp reviews, TripAdvisor listings, Wikipedia articles).
-
-**Two pillars:** Content (what you publish) + Links (who links to you). Stay white-hat - never buy links. Guest posts, data studies, and free tools earn links naturally.
-
-### Channel 8: Content Marketing
-
-**Takes ~6 months minimum.** This is not a quick win. It's a compounding asset.
-
-**Feeds 8 other channels:** SEO, PR, email, blog targeting, community, events, platforms, BD.
-
-**Tactics:**
-- Email capture on every post
-- Guest posts on relevant blogs (especially months 1-6)
-- Create one "pillar" piece of content that becomes a permanent reference
-- Reach out to Twitter/social influencers who share similar content
-- Do things that don't scale early (manual outreach, personal responses)
-
-**Content types that perform:**
-- Data analysis using proprietary data (OkCupid blog)
-- Comprehensive guides ("Noob Guide to Online Marketing" by Unbounce)
-- Controversial or surprising findings
-- Tools and calculators (engineering as marketing crossover)
-
-### Channel 9: Email Marketing
-
-**Five uses:** Acquisition, engagement, retention, revenue, referrals.
-
-**Lifecycle emails:** Trigger based on user behavior, not calendar schedule.
-- New signup --> onboarding sequence
-- Used feature A but not B --> feature discovery email
-- Inactive for 7 days --> re-engagement email
-- Completed milestone --> celebration + upsell
-
-**Activation triggers vary by product:**
-- Twitter: sending a tweet OR following 5+ people
-- Dropbox: installing the app + uploading 1 file
-
-**Rules:**
-- A/B test subject lines, formats, timing
-- Send 9am-12pm in user's timezone
-- Never use noreply@ - use a personal address that invites replies
-- Automated "personal" emails (sent 30 min after signup) get 17% reply rate
-
-### Channel 10: Engineering as Marketing
-
-**Build free tools as permanent marketing assets instead of running ads.**
-
-**Three rules (Linford):**
-1. Provide real value with no strings attached
-2. Keep it relevant to your core product
-3. Demonstrate value fast (no lengthy onboarding)
-
-**Examples:**
-- HubSpot's Marketing Grader: 3M+ sites used
-- Moz's Open Site Explorer and Followerwonk
-- Codecademy's Code Year: 450K signups
-- DuckDuckGo's DontTrack.us
-- RJMetrics' querymongo.com: hundreds of leads/month
-
-**Host on its own domain** for SEO value. Link back to your main product.
-
-### Channel 11: Targeting Blogs
-
-**Best Phase I channel.** Niche blogs have engaged, trusting audiences that match specific customer profiles.
-
-**Finding relevant blogs:**
-- Search "top blogs for [your category]"
-- Twitter tools: Followerwonk, Klout
-- Social Mention, Delicious
-- Ask your existing customers directly: "What do you read?"
-
-**Outreach approaches:**
-- Sponsorship (direct ad buy on the blog)
-- Guest posting (write valuable content for their audience)
-- Product review (give them the product + a story angle)
-- Contest/giveaway partnership
-
-**Link-sharing communities:** Reddit, HN, Inbound.org. One front-page HN post can deliver 10K+ visitors in a day.
-
-### Channel 12: Business Development
-
-**BD is NOT sales.** BD trades value through partnerships; sales trades dollars for product.
-
-**Five partnership types:**
-1. **Standard:** Marketing or distribution agreements
-2. **Joint Ventures:** Co-develop a product or service
-3. **Licensing:** License your technology/content to partners
-4. **Distribution:** Partner sells/distributes your product
-5. **Supply:** Provide inputs to partner's product
-
-**Pipeline management (Charlie O'Donnell):** Maintain 50-100 active prospects in a spreadsheet: Company, Type, Contact, Size, Relevance, Ease, Priority.
-
-**BD 2.0 (low-touch):** APIs, embeds, feeds. SlideShare, Disqus, SoundCloud all grew through embeddable widgets. Land traditional deals first, then automate.
-
-### Channel 13: Sales
-
-**For high-priced, enterprise products** that require human touch.
-
-**The sales funnel:**
+**媒体逐级上行链：**
 
 ```
-GENERATE leads (marketing, content, outreach)
-     |
-QUALIFY prospects (PNAME: Process, Need, Authority, Money, Estimated timing)
-     |
-CLOSE deals (SPIN: Situation, Problem, Implication, Need-payoff)
+第一层：利基论坛，HN、Reddit、细分版块、行业论坛
+  ↓
+第二层：中型博客，TechCrunch、Lifehacker、Mashable、行业博客
+  ↓
+第三层：大型媒体，NYT、CNN、WSJ、电视网
+
+不要直接投第三层。先获得第一层报道，第二层会阅读，
+第二层报道再吸引第三层。
 ```
 
-**Every drop-off in the funnel is a blockage.** Reduce blockages with:
-- SaaS delivery (vs. on-premise installation)
-- Free trials or demos
-- Low entry pricing (<$250/month for SMB; <$10K for enterprise)
-- References and case studies
-- Removing committee approval requirements
+**公关战术：**
+- **HARO，Help A Reporter Out：** 回应记者需求，获得免费报道。
+- **需要前先建立关系：** 在 Twitter 关注记者、评论文章、分享作品。
+- **给一个“抓手”：** 让记者容易找到故事角度，不要让他们自己猜为何有趣。
+- **合并小消息：** 将小新闻积累成一条大故事，而非零碎滴灌。
+- **后续故事：** “我们如何做出 X”“如何获得前 1,000 个客户”，记者喜欢过程故事。
 
-**A/B/C bucket system (Mark Suster):** A-deals (close in <3 months) get 66-75% of rep time. C-deals get none.
+<a id="channel-3-unconventional-pr"></a>
+### 渠道三：非常规公关
 
-### Channel 14: Affiliate Programs
+**宣传事件：设计吸睛场面。**
+- 必须真正出人意料或值得谈论。
+- 相对影响力成本低，才是理想状态。
+- 按定义是一次性，无法重复。
+- 风险：可能反噬，或显得绝望。
 
-**Best for high-CAC verticals:** Financial services, insurance, dating, hosting, weight loss, poker.
+**感谢客户：可规模化的善意。**
+- 手写便条、小礼物、意外升级。
+- Zappos 把客服支出视作营销支出。
+- 单客成本很小，口碑影响却很大。
+- 可以系统化、重复执行。
 
-**Networks:** Commission Junction ($2K+ setup), ShareASale ($500), ClickBank (100K+ affiliates, up to 75% commissions).
+<a id="channel-4-search-engine-marketing-sem"></a>
+### 渠道四：搜索引擎营销，SEM
 
-**Affiliate types:**
-- Coupon sites (RetailMeNot)
-- Loyalty/cashback (Ebates)
-- Aggregators (Nextag, PriceGrabber)
-- Email list curators (individuals with targeted lists)
+**仅在已有搜索需求时有效。** 无人搜索该品类，SEM 就没有结果。
 
-**Advantage over PPC:** Advertiser bears no click risk. Commission only on clean conversions.
+**关键概念：**
+- **CTR，点击率：** 看到广告的人中点击的比例。
+- **CPC，单次点击成本：** 每次点击付费。
+- **CPA，获客成本：** CPC ÷ 转化率。
+- **质量得分：** 主要由 CTR 驱动，越高则 CPC 越低。
+- **长尾关键词：** 竞争较少、意图较强、CPC 较低。
+- **否定关键词：** 排除不相关搜索，提高 CTR。
 
-### Channel 15: Existing Platforms
+**测试方法：** 先用约 250 美元测 2—4 组关键词，测 CPA。低于目标就优化；若高达目标十倍，此渠道很可能不可行。
 
-**App stores, browser extensions, social platforms, marketplaces.**
+**进阶战术：**
+- **再营销，AdRoll、Perfect Audience：** CTR 比冷广告高 3—10 倍。
+- **内容广告网络：** 点击便宜但质量较低，需要独立优化。
+- **Conversion Optimizer：** 转化数据足够后，采用 Google 自动竞价。
 
-**Flywheel (Mark Johnson):** Ads --> charts --> visibility --> organic downloads --> higher ranks --> word of mouth --> repeat.
+<a id="channel-5-social--display-ads"></a>
+### 渠道五：社交与展示广告
 
-**Three Evernote plays:**
-1. **Build early:** Be on every new platform day one
-2. **Multiple apps:** More category slots = more visibility
-3. **Special features for editors:** Build features that showcase platform capabilities (Evernote Peek for iPad Smart Cover --> #1 Education)
+搜索广告**收割需求**，社交／展示广告**创造需求**，让并未主动搜索的人建立认知。
 
-**Filling gaps:** YouTube filled MySpace's video gap. bit.ly filled Twitter's link-shortening gap. Imgur filled reddit's image hosting gap. AirBnB filled Craigslist's rental gap.
+**平台选择：**
+- **LinkedIn：** B2B、职位定向，贵但精确。
+- **Facebook／Instagram：** 覆盖广，按兴趣／行为定向。
+- **Twitter／X：** 实时事件切入、对话定向。
+- **Reddit：** 按版块定向，创意必须符合文化，幽默、真实。
+- **YouTube：** 片头视频广告，适合需要演示的产品。
 
-**Chris Dixon rule:** "Bet on emerging platforms not yet saturated where barriers to discovery are low."
+**Adaptly 的 Nikhil Sethi 原则：** 先建立好感，再转化。直接推销的社交广告，不如先建立认知再追投。
 
-### Channel 16: Trade Shows
+**逆向研究竞品：** 用 MixRank 或 Adbeat 看对方在哪里投、用什么素材。
 
-**Best for B2B in compressed time.**
+<a id="channel-6-offline-ads"></a>
+### 渠道六：线下广告
 
-**Selection (Brad Feld's 5 steps):**
-1. Set yearly goals
-2. List candidate events
-3. Evaluate each against goals
-4. Allocate quarterly budget
-5. Calculate ROI
+**剩余库存：** 通过代理可将未售广告位谈到比刊例价低最多 90%，让初创企业也负担得起。
 
-**Outbound > Inbound:** RJ Metrics found that outbound (walking the floor) was 3-4x more valuable than inbound (waiting at their booth). Only 28% of their leads were walk-ups.
+| 形式 | 成本范围 | 备注 |
+|------|----------|------|
+| **全国电视** | 每条 35 万美元以上 | 通常超出初创企业承受能力 |
+| **电视购物长广告** | 不固定 | P90X 通过此类广告实现 4 亿美元 |
+| **本地广播** | 每周 500—1,500 美元 | 扩展前先测一个市场 |
+| **大市场广播** | 每周 4,000—8,000 美元 | 芝加哥基准 |
+| **杂志** | 差异很大 | 美国约 7,000 种，瞄准利基 |
+| **广告牌** | 每月 5,000—10,000 美元 | DuckDuckGo 旧金山广告牌使用户翻倍 |
+| **直邮** | 每 1,000 个姓名约 100 美元 | 可精准定向、可测量 |
 
-### Channel 17: Offline Events
+**线下追踪：** 独立 URL、优惠码、“从哪里知道我们”问卷、可追踪电话号码。
 
-**Hosting your own events.** Meetups, mini-conferences, parties, dinners.
+<a id="channel-7-search-engine-optimization-seo"></a>
+### 渠道七：搜索引擎优化，SEO
 
-**Mini-conference cost:** Under $500 at a university lecture hall.
+**两种策略：**
 
-**Sponsoring events:** Co-sponsor dinners at industry events. Host after-parties. Put your brand where the right people gather.
+| 策略 | 目标 | 搜索量 | 竞争 | 示例 |
+|------|------|--------|------|------|
+| **头部词** | 顶级品类词 | 全部搜索的 18.5% | 很高 | “项目管理软件” |
+| **长尾词** | 具体多词查询 | 全部搜索的 70% | 较低 | “远程团队最佳项目管理工具” |
 
-### Channel 18: Speaking Engagements
+**投入前验证：** 用 AdWords 测头部词是否转化。作为广告不转化，作为自然结果也不会转化。
 
-**Three tiers:**
-- **Premier** (national conferences): 6-12 month lead time
-- **Regional** (within day's drive): 2-4 month lead time
-- **Local** (meetups, university events): 1-3 month lead time
+**Patrick McKenzie 的长尾机器：** “建一台机器，一头投入钱，另一头吐出排名。”外包内容生产，利用业务收集的数据自动生成页面，例如 Yelp 评论、TripAdvisor 条目、Wikipedia 文章。
 
-**Dan Martell's two-talk doctrine:** Never build custom talks. Build two solid talks and reuse with light tweaks. This lets you get very good at delivering them.
+**两根支柱：** 内容，即发布什么；链接，即谁链接你。坚持白帽，绝不买链接。客座文章、数据研究、免费工具会自然赢得链接。
 
-**Pitch tactic (Steve Barsh):** Ask organizers what topics they need, then craft your talk to match their gaps.
+<a id="channel-8-content-marketing"></a>
+### 渠道八：内容营销
 
-### Channel 19: Community Building
+**至少约六个月。** 不是快速取胜，而是复利资产。
 
-**Five pillars:**
-1. **Establish your mission** - shared purpose beyond "use our product"
-2. **Foster cross-connections** - member-to-member, not just member-to-company
-3. **Communicate personally** - founder emails, gifts, in-person meetings
-4. **Be transparent** - open feedback, co-creation, visible roadmap
-5. **Ensure quality** - define quality for your community, enforce standards early
+**支持另外八个渠道：** SEO、公关、邮件、博客触达、社群、活动、平台、BD。
 
-**Stack Overflow's biggest mistake:** No Meta site at launch. No place for cross-connections between community members about the community itself.
+**战术：**
+- 每篇文章都设置邮件订阅入口。
+- 在相关博客投稿，尤其前 1—6 个月。
+- 制作一份能长期被引用的支柱内容。
+- 联系分享相似内容的 Twitter／社交影响者。
+- 早期做不可规模化的事，例如手工触达、亲自回复。
+
+**表现好的内容类型：**
+- 使用专有数据分析，例如 OkCupid 博客。
+- 全面指南，例如 Unbounce 的“网络营销新手指南”。
+- 有争议或出人意料的发现。
+- 工具与计算器，与工程营销交叉。
+
+<a id="channel-9-email-marketing"></a>
+### 渠道九：邮件营销
+
+**五种用途：** 获客、互动、留存、收入、推荐。
+
+**生命周期邮件：** 按用户行为触发，而非日历安排。
+- 新注册 → 上手邮件序列。
+- 用过 A 功能但未用 B → 功能发现邮件。
+- 七天未活跃 → 重新互动邮件。
+- 达成里程碑 → 庆祝 + 增售。
+
+**不同产品的激活触发点：**
+- Twitter：发推文，或关注至少五个人。
+- Dropbox：安装应用，并上传一个文件。
+
+**规则：**
+- A/B 测试主题行、格式、发送时机。
+- 按用户时区上午 9 点至中午 12 点发送。
+- 不用 noreply@，用鼓励回复的个人地址。
+- 注册 30 分钟后自动发送的“个人”邮件，可获得 17% 回复率。
+
+<a id="channel-10-engineering-as-marketing"></a>
+### 渠道十：以工程做营销
+
+**构建免费工具作为长期营销资产，而非持续投广告。**
+
+**Linford 的三项规则：**
+1. 无附加条件地提供真实价值。
+2. 与核心产品相关。
+3. 快速展示价值，不要冗长上手流程。
+
+**案例：**
+- HubSpot Marketing Grader：超过 300 万网站使用。
+- Moz Open Site Explorer 与 Followerwonk。
+- Codecademy Code Year：45 万注册。
+- DuckDuckGo DontTrack.us。
+- RJMetrics querymongo.com：每月数百条线索。
+
+**使用独立域名**获取 SEO 价值，再链接主产品。
+
+<a id="channel-11-targeting-blogs"></a>
+### 渠道十一：定向接触博客
+
+**第一阶段最佳渠道。** 利基博客拥有投入、信任度高、符合具体客户画像的读者。
+
+**找相关博客：**
+- 搜索“[你的品类] 最佳博客”。
+- Twitter 工具：Followerwonk、Klout。
+- Social Mention、Delicious。
+- 直接问现有客户：“你读什么？”
+
+**触达方式：**
+- 赞助，直接购买博客广告。
+- 客座投稿，为其受众写有价值内容。
+- 产品评测，提供产品和故事角度。
+- 比赛／赠品合作。
+
+**链接分享社群：** Reddit、HN、Inbound.org。一次 HN 首页帖子，一天可能带来超过 10,000 名访客。
+
+<a id="channel-12-business-development"></a>
+### 渠道十二：商务拓展，BD
+
+**BD 不是销售。** BD 通过合作交换价值，销售用产品换金钱。
+
+**五类合作：**
+1. **标准合作：** 营销或分销协议。
+2. **合资：** 共同开发产品／服务。
+3. **授权：** 将技术／内容授权给伙伴。
+4. **分销：** 伙伴销售／分发你的产品。
+5. **供应：** 为伙伴产品提供投入要素。
+
+**Charlie O'Donnell 的管道管理：** 用表格保持 50—100 个活跃潜在伙伴，列公司、类型、联系人、规模、相关性、难易度、优先级。
+
+**低接触 BD 2.0：** API、嵌入、信息流。SlideShare、Disqus、SoundCloud 都通过可嵌入组件增长。先拿下传统合作，再自动化。
+
+<a id="channel-13-sales"></a>
+### 渠道十三：销售
+
+**适合需要人工接触的高价企业产品。**
+
+**销售漏斗：**
+
+```
+生成线索：营销、内容、主动触达
+     ↓
+筛选潜客：PNAME——流程、需求、权限、资金、预计时间
+     ↓
+成交：SPIN——背景、问题、影响、需求收益
+```
+
+**漏斗每处流失都是阻塞。** 通过以下方式减少：
+- SaaS 交付，替代本地安装。
+- 免费试用或演示。
+- 低门槛价格，中小企业每月低于 250 美元，企业低于 1 万美元。
+- 参考客户与案例。
+- 移除委员会审批要求。
+
+**Mark Suster 的 A/B/C 分类：** A 类交易，三个月内成交，占销售时间 66%—75%；C 类不投入时间。
+
+<a id="channel-14-affiliate-programs"></a>
+### 渠道十四：联盟营销计划
+
+**适合高获客成本领域：** 金融、保险、交友、主机托管、减重、扑克。
+
+**联盟网络：** Commission Junction，设置费 2,000 美元以上；ShareASale，500 美元；ClickBank，10 万以上联盟客、佣金最高 75%。
+
+**联盟客类型：**
+- 优惠券站，RetailMeNot。
+- 忠诚度／返现，Ebates。
+- 聚合站，Nextag、PriceGrabber。
+- 邮件名单运营者，拥有精准名单的个人。
+
+**相比 PPC 的优势：** 广告主不承担点击风险，仅对有效转化付佣金。
+
+<a id="channel-15-existing-platforms"></a>
+### 渠道十五：现有平台
+
+**应用商店、浏览器扩展、社交平台、交易市场。**
+
+**Mark Johnson 的飞轮：** 广告 → 榜单 → 可见度 → 自然下载 → 更高排名 → 口碑 → 重复。
+
+**Evernote 的三种打法：**
+1. **早做：** 每个新平台第一天就上线。
+2. **多个应用：** 更多品类位置意味着更多曝光。
+3. **为编辑打造特色功能：** 展示平台能力，例如 Evernote Peek 利用 iPad Smart Cover，成为教育榜第一。
+
+**补缺口：** YouTube 补 MySpace 视频缺口，bit.ly 补 Twitter 短链接缺口，Imgur 补 Reddit 图片托管缺口，Airbnb 补 Craigslist 租房缺口。
+
+**Chris Dixon 原则：** “押注尚未饱和、被发现门槛低的新兴平台。”
+
+<a id="channel-16-trade-shows"></a>
+### 渠道十六：行业展会
+
+**适合在集中时间内开展 B2B。**
+
+**Brad Feld 的五步选择：**
+1. 定年度目标。
+2. 列候选活动。
+3. 对照目标评估。
+4. 分配季度预算。
+5. 计算投资回报。
+
+**主动优于被动：** RJ Metrics 发现，主动逛展比守展位的价值高 3—4 倍，仅 28% 线索是自己走来的。
+
+<a id="channel-17-offline-events"></a>
+### 渠道十七：线下活动
+
+**自己办活动：** 聚会、小型会议、派对、晚宴。
+
+**小型会议成本：** 在大学报告厅可低于 500 美元。
+
+**赞助活动：** 在行业活动中联合赞助晚宴、举办会后派对，让品牌出现在正确人群聚集之处。
+
+<a id="channel-18-speaking-engagements"></a>
+### 渠道十八：演讲
+
+**三个层次：**
+- **顶级，全国会议：** 提前 6—12 个月。
+- **区域，一天车程以内：** 提前 2—4 个月。
+- **本地，聚会或大学活动：** 提前 1—3 个月。
+
+**Dan Martell 两套演讲原则：** 不要每次重新定制。准备两套扎实演讲，略作调整反复使用，让自己越讲越好。
+
+**Steve Barsh 的推介战术：** 问主办方需要什么主题，再按其缺口设计演讲。
+
+<a id="channel-19-community-building"></a>
+### 渠道十九：社群建设
+
+**五根支柱：**
+1. **确立使命**——共同目的超越“使用我们的产品”。
+2. **促进横向联系**——成员对成员，而非只与公司联系。
+3. **个性化沟通**——创始人邮件、礼物、见面。
+4. **保持透明**——公开反馈、共同创造、可见路线图。
+5. **保障质量**——定义社群质量，早期就执行标准。
+
+**Stack Overflow 最大错误：** 发布时没有 Meta 站，成员无处就社群自身展开横向讨论。
 
 ---
 
-## The Law of Shitty Click-Throughs (Andrew Chen)
+<a id="the-law-of-shitty-click-throughs-andrew-chen"></a>
+## Andrew Chen 的点击率衰减定律
 
-All marketing strategies decay over time. The first banner ad had 78% CTR. Today: 0.1%.
+所有营销策略随时间衰减。首个横幅广告点击率 78%，如今为 0.1%。
 
-**Implications:**
-1. No channel works forever. Plan for saturation.
-2. Early movers in any channel have an inherent advantage.
-3. The "new" channel that nobody's using yet is probably the best opportunity.
-4. Constant re-evaluation (re-running Bullseye) is not optional.
+**含义：**
+1. 没有渠道永远有效，应预先考虑饱和。
+2. 任何渠道的早入者都有先天优势。
+3. 尚无人使用的“新”渠道，很可能是最好机会。
+4. 持续重评、重跑靶心框架是必需动作。
 
-**Saturation signals:**
-- Rising CPA with same targeting and creative
-- Flattening volume despite increased spend
-- Audience overlap increasing across campaigns
-- Creative fatigue (declining CTR on proven ads)
+**饱和信号：**
+- 定向与素材不变，CPA 上升。
+- 投入增加，数量仍走平。
+- 各广告活动的受众重叠增加。
+- 创意疲劳，曾有效广告的 CTR 下降。
 
 ---
 
-## Phase-Channel Matching - Expanded
+<a id="phase-channel-matching---expanded"></a>
+## 阶段与渠道匹配：扩展版
 
-### Phase I: Making Something People Want
+<a id="phase-i-making-something-people-want"></a>
+### 第一阶段：做出人们想要的东西
 
-**Goal:** Get feedback, find early adopters, validate product.
+**目标：** 获得反馈、寻找早期采用者、验证产品。
 
-**Channel characteristics needed:** High-touch, feedback-rich, unscalable is OK.
+**需要的渠道特征：** 深度接触、反馈丰富，不可规模化也无妨。
 
-| Channel | Why It Works in Phase I |
-|---|---|
-| Targeting Blogs | Reach niche audiences directly |
-| Speaking | Face-to-face with potential customers |
-| Community Building | Deep relationships, product feedback |
-| Unconventional PR | Stand out cheaply |
-| Offline Events | Direct customer interaction |
-| Sales (direct) | Learn the buying process firsthand |
+| 渠道 | 第一阶段有效的原因 |
+|------|--------------------|
+| 接触博客 | 直接接触利基受众 |
+| 演讲 | 与潜在客户面对面 |
+| 社群建设 | 深层关系、产品反馈 |
+| 非常规公关 | 低成本脱颖而出 |
+| 线下活动 | 直接客户互动 |
+| 直销 | 亲自理解购买过程 |
 
-**Channels to AVOID in Phase I:**
-- SEO (takes 6+ months; you might pivot)
-- Offline Ads (expensive, no feedback loop)
-- Affiliate Programs (requires stable product + pricing)
+**第一阶段应避免：**
+- SEO，需要六个月以上，你可能会转型。
+- 线下广告，贵且没有反馈循环。
+- 联盟计划，需要稳定产品与定价。
 
-### Phase II: Marketing Something People Want
+<a id="phase-ii-marketing-something-people-want"></a>
+### 第二阶段：营销人们想要的东西
 
-**Goal:** Product works. The leaky bucket is plugged. Pour traction in.
+**目标：** 产品已有效，漏桶补好了，注入增长。
 
-**Channel characteristics needed:** Scalable, measurable, compounding.
+**需要的渠道特征：** 可规模化、可衡量、可积累复利。
 
-| Channel | Why It Works in Phase II |
-|---|---|
-| SEO | Compounding organic traffic |
-| SEM | Immediate, measurable demand capture |
-| Content Marketing | Feeds multiple other channels |
-| Email Marketing | Highest-ROI digital channel |
-| Viral Marketing | Product quality drives organic growth |
-| Engineering as Marketing | Permanent marketing assets |
+| 渠道 | 第二阶段有效的原因 |
+|------|--------------------|
+| SEO | 自然流量复利 |
+| SEM | 即时、可衡量地捕获需求 |
+| 内容营销 | 支持多个其他渠道 |
+| 邮件营销 | 投资回报最高的数字渠道 |
+| 病毒营销 | 产品质量推动自然增长 |
+| 工程营销 | 长期营销资产 |
 
-### Phase III: Scaling
+<a id="phase-iii-scaling"></a>
+### 第三阶段：扩大规模
 
-**Goal:** Maximize growth with proven product and channel.
+**目标：** 用已验证的产品与渠道实现最大增长。
 
-**Channel characteristics needed:** Volume, partnerships, broad reach.
+**需要的渠道特征：** 数量、伙伴关系、广覆盖。
 
-| Channel | Why It Works in Phase III |
-|---|---|
-| Offline Ads | Mass market reach |
-| Affiliate Programs | Performance-based volume |
-| Business Development | Distribution partnerships |
-| Existing Platforms | Leverage platform audiences |
-| Trade Shows | Enterprise pipeline at scale |
+| 渠道 | 第三阶段有效的原因 |
+|------|--------------------|
+| 线下广告 | 覆盖大众市场 |
+| 联盟计划 | 基于绩效扩大数量 |
+| 商务拓展 | 分销合作 |
+| 现有平台 | 利用平台受众 |
+| 行业展会 | 大规模企业销售管道 |

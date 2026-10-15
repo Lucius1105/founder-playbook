@@ -1,366 +1,367 @@
-# Frameworks - StoryBrand
+> 中文译文｜[英文对照](frameworks.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/storybrand/frameworks.md)。原项目整理：AgentSeal；书籍来源：《Building a StoryBrand》— Donald Miller；AI 辅助翻译。
 
-## SB7 Framework - Deep Dive
+# 框架——StoryBrand
 
-### Module 1: A Character - Advanced
+## 深入理解 SB7 框架
 
-The first mistake is making the brand the hero. The second mistake is giving the hero too many desires.
+### 模块一：一个角色——进阶
 
-**Story Gap mechanics:**
-- A story begins when a character wants something
-- The gap between desire and current state creates tension
-- Tension is what keeps people engaged (and buying)
-- Your marketing should open a story gap and position your product as the resolution
+第一个错误是把品牌设为英雄；第二个错误是给英雄太多愿望。
 
-**Choosing the right desire:**
+**故事缺口的机制：**
+- 角色想要某样东西，故事才开始。
+- 愿望与现状之间的差距产生张力。
+- 张力使人持续关注，也促使购买。
+- 营销应打开故事缺口，把产品定位为弥合缺口的方式。
+
+**选择合适愿望：**
+```text
+太模糊：“改善他们的生意”
+太多：  “省时间、省钱、井井有条、减少压力、增加收入”
+刚刚好：“一份他们真正看得懂的退休规划”
 ```
-TOO VAGUE:          "Improve their business"
-TOO MANY:           "Save time, save money, get organized, reduce stress, increase revenue"
-JUST RIGHT:         "A retirement plan they actually understand"
-```
 
-**The survival filter:** Every desire must connect to survival (physical, emotional, relational, or spiritual). If you can't trace your offer back to a survival need, the customer's brain won't prioritize it.
+**生存筛选：**每个愿望必须关联生存，可以是身体、情感、关系或精神层面。如果无法把所提供的价值追溯到生存需要，客户的大脑就不会优先处理它。
 
-**Desire selection exercise:**
-1. List every desire your customers have (brain dump)
-2. For each, ask: "Does this relate to survival/thriving?"
-3. Eliminate any that don't
-4. Of the remaining, which ONE creates the strongest story gap?
-5. That's your hero's desire
+**愿望选择练习：**
+1. 把客户的所有愿望列出来，先自由发散。
+2. 逐项问：“它与生存或过得更好有关吗？”
+3. 删掉无关项。
+4. 余下哪一个能产生最强的故事缺口？
+5. 这就是英雄的愿望。
 
 ---
 
-### Module 2: Has a Problem - Advanced
+### 模块二：遇到问题——进阶
 
-**The Villain Framework:**
+**反派框架：**
 
-The villain is the root cause of your customer's problem. A good villain:
-- Is relatable (customers immediately recognize it)
-- Is singular (one villain, not twelve)
-- Is real (not fabricated or exaggerated)
-- Is something your product can defeat
+反派是客户问题的根因。好的反派：
+- 容易共鸣，客户立刻认得出来。
+- 只有一个，不是十二个。
+- 真实，不是编造或夸大。
+- 是产品能够击败的。
 
-| Industry | Villain | External | Internal | Philosophical |
+| 行业 | 反派 | 外在问题 | 内在问题 | 理念问题 |
 |----------|---------|----------|----------|---------------|
-| Financial Planning | Complexity | "No retirement plan" | "Confused and anxious" | "Retiring well shouldn't require a finance degree" |
-| Pet Store | Impersonal big-box stores | "Can't find quality pet food" | "Feel like a number, not a pet parent" | "Pets deserve better than an aisle in a warehouse" |
-| Home Remodeling | Contractors who overcharge/underdeliver | "Kitchen is outdated" | "Dread dealing with contractors" | "Remodeling shouldn't be a nightmare" |
+| 财务规划 | 复杂性 | “没有退休规划” | “困惑又焦虑” | “安稳退休不该以拥有金融学位为前提” |
+| 宠物店 | 缺乏人情味的大型连锁卖场 | “找不到优质宠物食品” | “觉得自己只是数字，不是宠物家长” | “宠物值得更好的待遇，不只是仓库里的一条货架” |
+| 住宅改造 | 收费过高、交付不足的承包商 | “厨房过时了” | “害怕与承包商打交道” | “装修不该是一场噩梦” |
 
-**Why internal problems drive sales:**
+**为什么内在问题驱动销售：**
 
-Companies sell solutions to external problems. But customers make buying decisions based on internal frustration. Apple doesn't sell computers (external). Apple sells the feeling of being creative and different (internal). Tesla doesn't sell electric cars (external). Tesla sells the identity of being forward-thinking (internal).
+企业卖的是外在问题的解决方案，客户却根据内心挫败感作购买决定。Apple 卖的不是电脑这个外在对象，而是有创造力、与众不同的内在感受。Tesla 卖的不是电动车这个外在对象，而是具有前瞻眼光的内在身份。
 
-**The philosophical layer** is what turns customers into evangelists. When your product rights a wrong, customers feel they're part of something larger. This is what makes people recommend you without being asked.
+**理念层面**让客户成为主动传播者。产品纠正某种不对的事情时，客户会觉得自己参与了更大的事业，所以无需请求，也会向别人推荐。
 
 ---
 
-### Module 3: And Meets a Guide - Advanced
+### 模块三：遇见向导——进阶
 
-**Amy Cuddy's Two Questions:**
+**Amy Cuddy 的两个问题：**
 
-Research by Amy Cuddy at Harvard shows that when humans meet someone new, they ask two questions (usually unconsciously):
-1. "Can I trust this person?" (warmth/empathy)
-2. "Can I respect this person?" (competence/authority)
+哈佛的 Amy Cuddy 的研究显示，遇见陌生人时，人们通常会无意识地问：
+1. “我能信任这个人吗？”对应温暖与共情。
+2. “我能尊重这个人吗？”对应能力与权威。
 
-Your brand must answer both. In that order.
+品牌必须按这个顺序回答两个问题。
 
-**Empathy statements - formula:**
+**共情表述公式：**
+```text
+“我们理解［具体痛点］是什么感觉。”
+“我们知道，遇到［具体情境］时有多沮丧。”
+“［目标客户群］不该还要应付［反派］。”
 ```
-"We understand what it's like to [specific pain point]."
-"We know how frustrating it is when [specific scenario]."
-"[Target customer group] shouldn't have to deal with [villain]."
-```
 
-**Authority signals - hierarchy of strength:**
+**权威信号的强度排序：**
 
-| Signal | Strength | Example |
+| 信号 | 强度 | 例子 |
 |--------|----------|---------|
-| Transformation testimonials | Strongest | "Before: confused. After: confidently retired." |
-| Quantified results | Strong | "Helped 10,000+ families build retirement plans" |
-| Recognizable client logos | Strong | Row of company logos on website |
-| Awards/certifications | Moderate | "Certified Financial Planner" |
-| Years in business | Weakest alone | "Serving families since 1987" |
+| 转变型证言 | 最强 | “以前困惑，如今自信退休。” |
+| 量化结果 | 强 | “帮助超过 10,000 个家庭制定退休规划” |
+| 知名客户标志 | 强 | 网站上展示一排公司标志 |
+| 奖项／认证 | 中等 | “注册理财规划师” |
+| 从业年限 | 单独使用时最弱 | “自 1987 年起服务家庭” |
 
-**Common mistakes:**
-- Leading with authority before empathy (arrogant)
-- Overloading testimonials (3-4 strong ones beat 40 weak ones)
-- Using generic testimonials ("Great company!" = useless)
-- Forgetting that the guide is a supporting character, not the star
+**常见错误：**
+- 先权威后共情，显得傲慢。
+- 证言堆得太多；三至四条有力证言胜过四十条弱证言。
+- 使用泛泛证言：“公司真棒！”没有用。
+- 忘记向导是配角，而非主角。
 
 ---
 
-### Module 4: Who Gives Them a Plan - Advanced
+### 模块四：给出计划——进阶
 
-**Process Plan Design:**
+**流程计划设计：**
 
-| # Steps | When to Use |
+| 步骤数 | 使用场景 |
 |---------|-------------|
-| 3 | Simple products, impulse purchases, clear paths |
-| 4-5 | Most B2B services, SaaS products |
-| 6 | Complex engagements (consulting, enterprise, remodels) |
+| 3 | 简单产品、冲动购买、路径清晰 |
+| 4—5 | 多数 B2B 服务、SaaS 产品 |
+| 6 | 复杂合作，如咨询、大企业项目、装修 |
 
-**Naming your plan:** Give it a name that implies ease and results.
-- "The Easy Installation Plan"
-- "The 3-Step Growth System"  
-- "Our Simple Path to [Desired Outcome]"
+**为计划命名：**名称应暗示轻松与结果。
+- “轻松安装计划”。
+- “三步增长系统”。
+- “通向［理想结果］的简单路径”。
 
-**Process plan structure:**
+**流程计划结构：**
+```text
+第一步：［探索］  客户先做什么，如预约通话、完成测验。
+第二步：［定制］  你替客户做什么，如制定计划、构建方案。
+第三步：［结果］  之后生活是什么样，如享受成果、看到转变。
 ```
-Step 1: [DISCOVERY]     What the customer does first (schedule a call, take a quiz)
-Step 2: [CUSTOMIZATION] What you do for them (create a plan, build the solution)
-Step 3: [OUTCOME]       What life looks like after (enjoy the result, see the transformation)
-```
 
-**Agreement Plan Design:**
+**承诺计划设计：**
 
-Agreement plans address fears. List the top 3-5 fears customers have about doing business with you, then counter each one.
+承诺计划回应恐惧。列出客户与你交易时最大的三至五个顾虑，再逐一化解。
 
-| Customer Fear | Agreement |
+| 客户顾虑 | 承诺 |
 |--------------|-----------|
-| "What if it doesn't work?" | "100% money-back guarantee" |
-| "What if they spam me?" | "We'll never share your email" |
-| "What if I'm locked in?" | "Cancel anytime, no questions asked" |
-| "What if the process is painful?" | "We handle everything - you just approve" |
+| “如果不管用呢？” | “100% 退款保证” |
+| “如果他们发垃圾邮件呢？” | “绝不分享你的邮箱” |
+| “如果无法退出呢？” | “随时取消，无需说明理由” |
+| “如果过程很折腾呢？” | “一切由我们处理，你只需确认” |
 
 ---
 
-### Module 5: And Calls Them to Action - Advanced
+### 模块五：号召行动——进阶
 
-**The passivity problem:** Brands afraid to sell clearly end up selling nothing. "Learn More" is not a CTA. "Start Your Free Trial" is.
+**被动的问题：**害怕明确销售的品牌，最终什么也卖不出去。“了解更多”不是行动号召，“开始免费试用”才是。
 
-**Direct CTA placement rules:**
-1. Top right of navigation (or top center on mobile)
-2. Center of hero section
-3. Floating or sticky as user scrolls
-4. End of every section
-5. Bottom of page
+**直接行动号召的放置规则：**
+1. 导航栏右上角，移动端可放顶部中央。
+2. 首屏主视觉区域中央。
+3. 随滚动悬浮或固定显示。
+4. 每个区块末尾。
+5. 页面底部。
 
-**Transitional CTA hierarchy (by conversion power):**
+**过渡型行动号召的排序，按转化能力：**
 
-| Type | Conversion Power | Effort to Create |
+| 类型 | 转化能力 | 制作投入 |
 |------|-----------------|------------------|
-| Free trial | Highest | Lowest (if product exists) |
-| Assessment/quiz | High | Medium |
-| PDF guide/ebook | Medium-high | Medium |
-| Webinar/video series | Medium | High |
-| Sample/demo | Medium | Varies |
-| Email course | Medium | Medium |
-| Case study download | Lower | Low |
+| 免费试用 | 最高 | 最低，前提是产品已存在 |
+| 评估／测验 | 高 | 中等 |
+| PDF 指南／电子书 | 中高 | 中等 |
+| 线上讲座／系列视频 | 中等 | 高 |
+| 样品／演示 | 中等 | 不定 |
+| 邮件课程 | 中等 | 中等 |
+| 案例下载 | 较低 | 低 |
 
-**Lead generator rules:**
-- Solves a real (small) problem immediately
-- Demonstrates expertise
-- Positions your product as the natural next step
-- Is genuinely valuable on its own (not a veiled sales pitch)
-
----
-
-### Module 6: That Helps Them Avoid Failure - Advanced
-
-**Calibrating fear:**
-
-```
-TOO LITTLE STAKES:                    TOO MUCH STAKES:
-"You might miss out"                  "Your business will die and your family
-                                       will suffer"
-Result: No urgency, no action         Result: Paralysis, distrust, exits page
-
-JUST RIGHT:
-"Companies without a clear message waste thousands on marketing that doesn't convert.
-Meanwhile, competitors who clarify their message steal your customers."
-```
-
-**The "one of three" rule:** In any piece of marketing (webpage, email, brochure), reference failure only once for every three references to success. Failure opens the story gap. Success closes it. The overall tone should be aspirational, not fearful.
-
-**Failure language patterns:**
-- "Without [your solution], most [customer type] end up [specific negative outcome]"
-- "The cost of [villain] isn't just [external problem] - it's [internal feeling]"
-- "Every day without [solution], you're [specific loss]"
+**引流资料规则：**
+- 立即解决一个真实的小问题。
+- 展示专业能力。
+- 让产品成为自然的下一步。
+- 资料本身就有真实价值，不是伪装的推销。
 
 ---
 
-### Module 7: And Ends in a Success - Advanced
+### 模块六：避免失败——进阶
 
-**Specificity is everything.** "Your life will be better" is empty. "You'll cut your bookkeeping time from 10 hours per week to 2" is compelling.
+**校准恐惧：**
 
-**Success visualization checklist:**
+```text
+利害太轻：                        利害太重：
+“你可能会错过机会。”              “你的企业会倒闭，家人会受苦。”
+结果：没有紧迫感，不行动。        结果：瘫痪、不信任、离开页面。
+
+恰到好处：
+“表达不清的企业，会把成千上万的钱浪费在无法转化的营销上。
+与此同时，讲清价值的竞争对手正在抢走你的客户。”
 ```
-[ ] Does it paint a specific picture (not vague "improvement")?
-[ ] Does it address the internal problem (feeling), not just external?
-[ ] Does it show what their LIFE looks like, not just what the PRODUCT does?
-[ ] Can the customer literally picture themselves in the success scenario?
-[ ] Does it connect to the desire stated in Module 1?
+
+**“一比三”规则：**任何营销材料，包括网页、邮件、宣传册，每提三次成功，最多提一次失败。失败打开故事缺口，成功弥合它。整体基调应令人向往，而不是恐惧。
+
+**失败表达句式：**
+- “没有［你的解决方案］，多数［客户类型］最终会［具体负面结果］。”
+- “［反派］的代价不仅是［外在问题］，还有［内在感受］。”
+- “每一天没有［解决方案］，你都在［具体损失］。”
+
+---
+
+### 模块七：获得成功——进阶
+
+**具体至关重要。**“你的生活会更好”很空洞；“每周记账时间从十小时降至两小时”才有吸引力。
+
+**成功图景检查表：**
+```text
+[ ] 是否描绘具体画面，而非模糊的“改善”？
+[ ] 是否回应内在感受，而非只有外在问题？
+[ ] 是否展示客户生活的变化，而非只谈产品功能？
+[ ] 客户能否真的想象自己身处这个成功情境？
+[ ] 是否呼应模块一提出的愿望？
 ```
 
-**Identity Transformation - the most powerful success element:**
+**身份转变：最有力的成功元素。**
 
-The most compelling brands don't just solve problems - they transform identity.
+最有吸引力的品牌不只解决问题，还会改变身份。
 
-| Brand | FROM | TO |
+| 品牌 | 从 | 到 |
 |-------|------|-----|
-| Apple | Overwhelmed by tech | Creative professional |
-| Dave Ramsey | Drowning in debt | Financially at peace |
-| Harley-Davidson | Cubicle worker | Free spirit |
-| Crossfit | Out of shape | Athlete |
+| Apple | 被技术弄得不知所措 | 创意专业人士 |
+| Dave Ramsey | 深陷债务 | 财务安宁 |
+| Harley-Davidson | 格子间职员 | 自由灵魂 |
+| Crossfit | 身材走样 | 运动者 |
 
-**Crafting your transformation:**
-1. What negative identity does the customer currently hold? (overwhelmed, amateur, stressed)
-2. What aspirational identity does your product enable? (confident, professional, in control)
-3. Every piece of marketing should subtly reinforce this FROM → TO journey
-
----
-
-## Website Framework - Deep Dive
-
-### Above the Fold (First Screen)
-
-```
-+----------------------------------------------------------+
-|  LOGO    [Nav Item] [Nav Item] [CTA BUTTON - bold color]  |
-|                                                            |
-|    [HEADLINE: The offer - what you do]                     |
-|    [SUB: How it makes life better - 1 sentence]            |
-|                                                            |
-|    [CTA BUTTON]        [Transitional CTA - text link]      |
-|                                                            |
-|    [IMAGE: Customer in successful end state]                |
-+----------------------------------------------------------+
-```
-
-**Headline rules:**
-- States what you offer in 5-8 words max
-- Connects to a survival need
-- NOT your company name, NOT a clever slogan
-- Good: "A Website That Brings You Customers"
-- Bad: "Welcome to Acme Digital Solutions - Innovating Since 2005"
-
-**Image rules:**
-- Show the end state, not the process
-- Show people (not product screenshots unless the product IS the end state)
-- Show happiness, success, resolution
-- NOT your office, NOT your team photo, NOT abstract stock photos
-
-### Section 2: Stakes + Value
-
-Show what's at risk (failure) and what's to gain (success). Two short sections.
-
-### Section 3: The Plan
-
-Display your 3-step process plan with icons or numbers.
-
-### Section 4: Explanatory Paragraph
-
-One short paragraph that empathizes with the customer's pain and positions you as the guide. 3-4 sentences max.
-
-### Section 5: Video (Optional)
-
-If you use video, keep it under 2 minutes. Follow the SB7 structure within the video.
-
-### Section 6: Price/Product Breakdown
-
-If you have multiple offerings, show them as simple categories. Don't overwhelm.
-
-### Section 7: Bottom CTA
-
-Repeat the direct CTA. Different phrasing is fine. Same action.
+**设计转变：**
+1. 客户目前持有什么负面身份认知？如不堪重负、业余、压力大。
+2. 产品能帮助其获得什么向往的身份？如自信、专业、掌控局面。
+3. 每一份营销材料都应潜移默化地强化这条“从 → 到”的旅程。
 
 ---
 
-## Marketing Roadmap - Deep Dive
+## 深入理解网站框架
 
-### Task 1: The One-Liner
+### 首屏（无需滚动的第一屏）
 
-**Formula:** Problem + Solution + Result
+```text
++----------------------------------------------------------+
+|  标志    ［导航项］［导航项］［醒目颜色的行动按钮］       |
+|                                                          |
+|    ［标题：你提供什么］                                   |
+|    ［副标题：用一句话说清怎样让生活更好］                 |
+|                                                          |
+|    ［行动按钮］       ［过渡型行动号召：文字链接］         |
+|                                                          |
+|    ［图片：客户处于成功后的状态］                         |
++----------------------------------------------------------+
+```
 
-**Construction process:**
-1. Identify the villain/problem (1 sentence)
-2. Describe your solution (1 sentence)
-3. Paint the success picture (1 sentence)
+**标题规则：**
+- 最多用五至八个词说明提供什么。
+- 关联某项生存需要。
+- 不用公司名，也不用自以为聪明的口号。
+- 好例子：“为你带来客户的网站。”
+- 坏例子：“欢迎来到 Acme 数字解决方案——自 2005 年起持续创新。”
 
-**Where to use it:**
-- Email signature
-- Social media bios
-- Business cards
-- Elevator pitches
-- Website header or subhead
-- Conference name tags
-- Phone voicemail
-- Team training (everyone should be able to recite it)
+**图片规则：**
+- 展示结果状态，不展示过程。
+- 展示人；除非产品本身就是最终状态，否则不用产品截图。
+- 展示快乐、成功、问题解决。
+- 不用办公室、团队合影、抽象图库照片。
 
-### Task 2: Lead Generator
+### 第二部分：利害与价值
 
-**Five types that work:**
+用两个简短区块展示可能损失什么，即失败，以及可以获得什么，即成功。
 
-| Type | Best For | Example |
+### 第三部分：计划
+
+用图标或数字展示三步流程计划。
+
+### 第四部分：解释段落
+
+用一个短段落共情客户痛苦，并把你定位为向导，最多三至四句。
+
+### 第五部分：视频（可选）
+
+如果使用视频，控制在两分钟以内，视频内部遵循 SB7 结构。
+
+### 第六部分：价格／产品分类
+
+如果提供多种产品，用简单类别展示，不要让人不堪重负。
+
+### 第七部分：底部行动号召
+
+再次给出直接行动号召。措辞可以不同，要求的行动要一致。
+
+---
+
+## 深入理解营销路线图
+
+### 任务一：一句话介绍
+
+**公式：**问题 + 解决方案 + 结果。
+
+**构建过程：**
+1. 指明反派或问题，一句。
+2. 描述解决方案，一句。
+3. 描绘成功图景，一句。
+
+**使用位置：**
+- 邮件签名。
+- 社交媒体简介。
+- 名片。
+- 电梯推介。
+- 网站主标题或副标题。
+- 会议名牌。
+- 电话语音信箱。
+- 团队培训，每个人都应能复述。
+
+### 任务二：引流资料
+
+**五种有效形式：**
+
+| 类型 | 最适合 | 例子 |
 |------|----------|---------|
-| Downloadable PDF | Expertise-based businesses | "5 Mistakes That Cost Homeowners Thousands" |
-| Online course / video series | Complex products | "Free 3-Day Email Course: Master Your Finances" |
-| Software demo / free trial | SaaS products | "Try It Free for 14 Days" |
-| Assessment / quiz | Consulting, services | "Take Our 5-Minute Marketing Assessment" |
-| Live event / webinar | High-touch, B2B | "Join Our Free Workshop: Clarify Your Message" |
+| 可下载 PDF | 依赖专业知识的业务 | “让屋主损失数千美元的五个错误” |
+| 在线课程／系列视频 | 复杂产品 | “三天免费邮件课：掌控你的财务” |
+| 软件演示／免费试用 | SaaS 产品 | “免费试用 14 天” |
+| 评估／测验 | 咨询、服务 | “参加五分钟营销评估” |
+| 线下活动／线上讲座 | 高接触服务、B2B | “参加免费工作坊：讲清你的价值” |
 
-**Title formula:** "[Number] [Mistakes/Ways/Steps/Secrets] to [Desired Outcome]"
+**标题公式：**“实现［理想结果］的［数字］个［错误／方法／步骤／秘诀］”。
 
-### Task 3: Email Drip Campaign
+### 任务三：自动邮件序列
 
-**Nurture sequence structure (recommended):**
+**建议的培育序列结构：**
 
-| Email # | Type | Content |
+| 邮件序号 | 类型 | 内容 |
 |---------|------|---------|
-| 1 | Deliver asset | Lead generator + welcome |
-| 2 | Value | Tip or insight related to their problem |
-| 3 | Value | Case study or story |
-| 4 | Value | Another tip or resource |
-| 5 | Sales | Direct offer with CTA |
-| 6 | Value | More tips, establish ongoing relationship |
+| 1 | 交付资料 | 引流资料 + 欢迎 |
+| 2 | 价值 | 与客户问题相关的技巧或洞见 |
+| 3 | 价值 | 案例或故事 |
+| 4 | 价值 | 另一个技巧或资源 |
+| 5 | 销售 | 明确的购买方案与行动号召 |
+| 6 | 价值 | 更多技巧，建立持续关系 |
 
-**Rules:**
-- Nurture emails: 80% of sends. No selling, just value.
-- Sales emails: 20% of sends. Clear offer, clear CTA.
-- Every email should be short, scannable, and have ONE focus.
-- Subject lines should create curiosity (Unexpected principle from Made to Stick applies here).
+**规则：**
+- 培育邮件占发送量的 80%，不推销，只提供价值。
+- 销售邮件占 20%，方案清晰，行动号召明确。
+- 每封都要短、易扫读、只有一个重点。
+- 主题行要制造好奇，可应用 Made to Stick 的“意外”原则。
 
-### Task 4: Transformation Testimonials
+### 任务四：转变型证言
 
-**Don't collect:** "Great service!" / "5 stars!" / "Would recommend!"
+**不要收集：**“服务真棒！”“五星！”“值得推荐！”
 
-**Do collect:** Before/after stories using this prompt:
+**要收集：**前后对比的故事，用以下问题引导：
+```text
+1. 找到我们之前，你在应对什么问题？
+2. 尝试解决它时，那种挫败是什么感受？
+3. 我们的产品或服务有什么不同？
+4. 现在的生活是什么样？
 ```
-1. What was the problem you were dealing with before you found us?
-2. What did the frustration feel like as you tried to solve it?
-3. What was different about our product/service?
-4. What does life look like now?
-```
 
-**Format:** "[Before problem]. Then [discovery of your brand]. Now [transformed outcome]."
+**格式：**“［此前的问题］。后来［发现你的品牌］。如今［转变后的结果］。”
 
-### Task 5: Referral System
+### 任务五：转介绍系统
 
-**Simple system:**
-1. Identify your happiest customers (NPS 9-10, repeat buyers, vocal advocates)
-2. Create a shareable asset (referral link, gift card to give, co-branded content)
-3. Make the ask at the moment of highest satisfaction (right after success)
-4. Reward both referrer and referred (not just one)
+**简单系统：**
+1. 找到最满意的客户：净推荐值评分 9—10、重复购买者、积极推荐者。
+2. 制作可分享的材料：推荐链接、可赠送的礼品卡、联名内容。
+3. 在满意度最高的时刻提出邀请，即刚取得成功时。
+4. 同时奖励推荐者和被推荐者，而不是只奖励一方。
 
 ---
 
-## The SB7 in Company Culture
+## SB7 与企业文化
 
-The SB7 Framework isn't just for external marketing. It works internally:
+SB7 不只用于对外营销，也适用于内部：
 
-**Mission as narrative:**
+**把使命写成叙事：**
+```text
+外部版（营销）：“我们帮助［客户］克服［问题］，实现［成功］。”
+内部版（文化）：“我们是帮助［客户］击败［反派］的向导。”
 ```
-External version (marketing):   "We help [customer] overcome [problem] to achieve [success]."
-Internal version (culture):     "We are guides who help [customer] defeat [villain]."
-```
 
-When every employee understands the customer's story, they can make decisions aligned with it - without asking permission. This is StoryBrand's version of Commander's Intent (from Made to Stick).
+每位员工理解客户故事后，就能自主作出与之对齐的决定，无需事事请示。这是 StoryBrand 版本的“指挥官意图”，该概念见 Made to Stick。
 
-**Meeting structure using SB7:**
-1. What does the customer want? (Character)
-2. What's blocking them? (Problem)
-3. How are we guiding them? (Guide)
-4. What's our plan? (Plan)
-5. What specifically are we asking them/us to do? (CTA)
-6. What happens if we don't? (Failure)
-7. What does success look like? (Success)
+**用 SB7 组织会议：**
+1. 客户想要什么？角色。
+2. 什么阻碍着他们？问题。
+3. 我们如何引导他们？向导。
+4. 我们的计划是什么？计划。
+5. 具体希望他们或我们做什么？行动号召。
+6. 不做会怎样？失败。
+7. 成功是什么样？成功。

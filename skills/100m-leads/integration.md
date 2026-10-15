@@ -1,215 +1,249 @@
-# 100m-leads - Integration with Other Skills
+> 中文译文｜[英文对照](integration.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/100m-leads/integration.md)。原项目整理：AgentSeal；原书：Alex Hormozi《$100M Leads》；AI 辅助翻译。
 
-## The Hormozi Sequence
+<a id="100m-leads---integration-with-other-skills"></a>
+# 100m-leads — 与其他技能的配合
+
+<a id="the-hormozi-sequence"></a>
+## Hormozi 系列的使用顺序
 
 ```
 mom-test → 100m-offers → money-models → 100m-leads
    ↓             ↓              ↓             ↓
- discovery   packaging     monetization     traffic
+ 需求探索      方案包装        收入设计         引流
 ```
 
-100m-leads is the LAST step. It generates traffic to a validated, packaged, sequenced offer.
+`100m-leads` 是最后一步，为已经验证、包装好并设计好购买顺序的方案引流。
 
-## Skill Combinations
+<a id="skill-combinations"></a>
+## 技能组合
 
-### 100m-leads + mom-test
+<a id="100m-leads--mom-test"></a>
+### 100m-leads ＋ mom-test
 
-Use 100m-leads to GET conversations.
-Use mom-test to HAVE good conversations.
+用 `100m-leads` 获得对话机会，用 `mom-test` 把对话谈好。
 
-The leads framework fills your pipeline. The Mom Test ensures you learn from every conversation and don't waste the leads you worked hard to get.
+获客框架填充销售管道；《The Mom Test》的方法确保你从每次对话中学到东西，不浪费辛苦获得的线索。
 
-Specifically:
-- Cold outreach replies often turn into discovery calls → run them as Mom Test interviews
-- Content engagement (DMs) typically leads to discovery conversations → Mom Test applies
-- Warm outreach intros are inherently discovery → Mom Test framing prevents bias
+具体而言：
 
-### 100m-leads + 100m-offers
+- 陌生开发的回复常会转为需求探索会谈，按 Mom Test 访谈来进行。
+- 内容互动，例如私信，常会引出探索性对话，也适用 Mom Test。
+- 熟人介绍本就带有探索性质，采用 Mom Test 的问法能减少偏差。
 
-Don't generate leads for a bad offer. Sequence:
+<a id="100m-leads--100m-offers"></a>
+### 100m-leads ＋ 100m-offers
 
-1. Build and test the offer with warm traffic / referrals first
-2. Confirm it converts at acceptable rate
-3. Only then scale traffic via 100m-leads
+不要给不好的方案引流。顺序是：
 
-| Symptom | Diagnosis | Fix |
+1. 先用熟人流量或转介绍建立并测试方案。
+2. 确认转化率达到可接受水平。
+3. 再用 `100m-leads` 放大流量。
+
+| 症状 | 诊断 | 修正 |
 |---------|-----------|-----|
-| Lots of leads, no sales | Offer broken | Fix offer (100m-offers) |
-| Few leads, high close rate | Volume problem | Scale leads (this skill) |
-| Lots of leads + many sales but unprofitable | Unit economics | Fix LTGP or CAC |
-| Few leads, few sales | Multiple problems | Fix offer first, then leads |
+| 线索多，没有成交 | 方案存在问题 | 用 `100m-offers` 修正方案 |
+| 线索少，成交率高 | 数量问题 | 用本技能增加线索 |
+| 线索多、成交多，却不盈利 | 单位经济模型问题 | 修正 LTGP 或 CAC |
+| 线索少、成交少 | 多重问题 | 先修方案，再做获客 |
 
-### 100m-leads + money-models
+<a id="100m-leads--money-models"></a>
+### 100m-leads ＋ money-models
 
-Your money model sets how much you can afford to spend per lead. The more cash a new customer generates in the first 30 days (via upsells, downsells, continuity), the more channels become profitable - channels that look "too expensive" on a single-offer economics often work once the money model is fixed.
+收入模式决定你能为每条线索支付多少。新客户前30天通过追加销售、降阶销售、持续付费带来的现金越多，越多渠道能够盈利。只按单一产品算账显得“太贵”的渠道，修好收入模式后可能就行得通。
 
-| Symptom | Diagnosis | Fix |
+| 症状 | 诊断 | 修正 |
 |---------|-----------|-----|
-| The channels that reach our best customers are "too expensive" | Money model, not channel choice | Fix money model (money-models), then revisit channels |
-| CAC is fine on paper but cash is tight before the next sale | Front-loaded spend, no immediate monetization | Add an upsell/downsell in the first 30 days (money-models) |
-| Scaling a channel makes growth slower, not faster | Acquisition isn't self-funding | Fix money model first, then scale traffic |
+| 能触达最佳客户的渠道“太贵” | 收入模式问题，而非渠道选择 | 先用 `money-models` 修正，再重新评估渠道 |
+| 纸面 CAC 没问题，下笔成交前现金却紧张 | 支出前置，缺少即时变现 | 在前30天加入追加或降阶销售 |
+| 渠道放量反而拖慢增长 | 获客无法靠自身回款支持 | 先修收入模式，再放大流量 |
 
-Fix the money model before scaling paid traffic. Otherwise 100m-leads just spends faster into an offer sequence that can't fund itself.
+先修收入模式，再放大付费流量。否则，本技能只会让无法自我供血的产品序列更快花钱。
 
-### 100m-leads + crossing-the-chasm
+<a id="100m-leads--crossing-the-chasm"></a>
+### 100m-leads ＋ crossing-the-chasm
 
-Chasm logic predicts that channel choice should differ by adoption stage:
+跨越鸿沟的逻辑认为，不同采用阶段需要不同渠道：
 
-| Stage | Best Channels |
+| 阶段 | 最佳渠道 |
 |-------|---------------|
-| Innovators / Early adopters | Cold outreach (visionaries respond to bold pitches), founder-led content |
-| Crossing the chasm | Vertical-specific cold outreach + references + case studies |
-| Pragmatists | Paid ads + content + trade-press + analyst coverage |
-| Conservatives | Mature channels + price-driven ads + strong proof |
+| 创新者／早期采用者 | 陌生开发，愿景型客户会回应大胆主张；创始人主导内容 |
+| 跨越鸿沟 | 垂直行业的精准陌生开发＋客户推荐证明＋案例 |
+| 实用主义者 | 付费广告＋内容＋行业媒体＋分析师报道 |
+| 保守采用者 | 成熟渠道＋价格驱动广告＋充分证据 |
 
-Hormozi's framework treats channels somewhat universally. Reality is that early-adopter sales motions look different from pragmatist sales motions. Use both: Hormozi for channel mechanics, crossing-the-chasm for channel choice by stage.
+Hormozi 的渠道框架较为通用，现实中早期采用者与实用主义者的销售方式不同。两者结合：用 Hormozi 处理渠道执行，用 `crossing-the-chasm` 按阶段选择渠道。
 
-### 100m-leads + obviously-awesome
+<a id="100m-leads--obviously-awesome"></a>
+### 100m-leads ＋ obviously-awesome
 
-Obviously Awesome positions the company. 100m-leads chooses how to broadcast that positioning.
+`Obviously Awesome` 负责公司定位，`100m-leads` 决定如何传播定位。
 
-| Layer | Skill |
+| 层面 | 技能 |
 |-------|-------|
-| What category we play in | obviously-awesome |
-| Why our category matters | obviously-awesome |
-| How we get attention in market | 100m-leads |
-| What channels reach our audience | 100m-leads |
+| 我们属于哪个品类 | `obviously-awesome` |
+| 为什么这个品类重要 | `obviously-awesome` |
+| 如何获得市场注意 | `100m-leads` |
+| 哪些渠道触达目标人群 | `100m-leads` |
 
-Don't generate leads to a poorly-positioned product. The leads will be confused.
+不要给定位不清的产品引流，否则潜在客户只会困惑。
 
-### 100m-leads + influence
+<a id="100m-leads--influence"></a>
+### 100m-leads ＋ influence
 
-Cialdini's principles apply throughout the lead-gen funnel:
+Cialdini 的原则适用于获客漏斗各处：
 
-| Cialdini Principle | Where It Applies in 100m-leads |
+| Cialdini 原则 | 在 100m-leads 中的应用 |
 |--------------------|--------------------------------|
-| Reciprocity | Lead magnets (give first), Give-Give-Give-Ask |
-| Commitment / Consistency | Multi-step opt-ins, micro-commitments before big asks |
-| Social Proof | Testimonials in ads, case study content, customer count metrics |
-| Liking | Personalization, ACA framework |
-| Authority | Credibility statements in cold email, expert positioning in content |
-| Scarcity | Limited spots, deadline-driven calls-to-action |
-| Unity | "For [specific audience]" framing |
+| 互惠 | 引流品先提供价值；给予—给予—给予—请求 |
+| 承诺与一致 | 多步骤登记；提出大请求前先获得小承诺 |
+| 社会认同 | 广告中的证言、案例内容、客户数量 |
+| 喜好 | 个性化、ACA 框架 |
+| 权威 | 陌生邮件中的可信度陈述、内容中的专家定位 |
+| 稀缺 | 限定名额、有截止时间的行动号召 |
+| 联盟／共同身份 | “专为[特定人群]”的表达 |
 
-Use influence as the persuasion layer underneath the channel mechanics.
+把 `influence` 作为渠道执行之下的说服机制。
 
-### 100m-leads + spin-selling
+<a id="100m-leads--spin-selling"></a>
+### 100m-leads ＋ spin-selling
 
-100m-leads generates discovery calls. SPIN structures what to do on those calls.
+`100m-leads` 获得需求探索会谈，SPIN 规定会谈中如何提问。
 
 ```
-100m-leads channels → Discovery call booked → SPIN questions → Close
+100m-leads 渠道 → 预约探索会谈 → SPIN 提问 → 成交
 ```
 
-For low-ticket products, SPIN may be overkill. For B2B / high-ticket / complex sales, SPIN improves close rates significantly.
+低客单价产品可能不需要完整 SPIN；在企业客户、高客单价和复杂销售中，它能明显改善成交率。
 
-## Conflicts and Tensions
+<a id="conflicts-and-tensions"></a>
+## 冲突与张力
 
-### Conflict 1: "Master one channel" vs "diversification"
+<a id="conflict-1-master-one-channel-vs-diversification"></a>
+### 冲突1：“掌握一个渠道”与“多元化”
 
-**Hormozi:** Pick one, master it, then add another.
-**Conventional wisdom:** Don't put all eggs in one basket.
+**Hormozi：** 选一个，掌握，再加下一个。
 
-**Resolution:** They're not opposed. The "master one" rule is about LEARNING - you can't optimize four channels at once when starting. After mastery, diversifying across channels is healthy (and "More Better New" explicitly supports this).
+**常见观点：** 不要把鸡蛋放在同一个篮子里。
 
-The mistake is interpreting "diversification" as "spread thin from day one."
+**协调：** 两者并不矛盾。“掌握一个”针对学习过程：起步时无法同时优化四个渠道。掌握以后，渠道多元化是健康的，“更多、更好、更新”也明确支持。
 
-### Conflict 2: Volume mindset vs quality mindset
+错误在于把多元化理解成“第一天就分散投入”。
 
-**Hormozi:** Rule of 100 - volume solves most problems.
-**Sales literature:** Quality > quantity.
+<a id="conflict-2-volume-mindset-vs-quality-mindset"></a>
+### 冲突2：数量思维与质量思维
 
-**Resolution:** Both true at different stages.
-- Early stage: volume is the right default - you don't yet know what works
-- Optimized stage: quality (better targeting, better creative, better follow-up) outperforms more volume
-- Never: low-volume + low-quality (worst combination)
+**Hormozi：** 100法则，数量解决多数问题。
 
-### Conflict 3: "Speed wins" vs "thoughtful response"
+**销售资料：** 质量大于数量。
 
-**Hormozi:** Respond to leads in minutes.
-**Sales coaches:** Don't seem desperate.
+**协调：** 在不同阶段，两者都成立。
 
-**Resolution:** Speed != desperation. A fast response to "I'm interested" should be: prompt, professional, helpful, NOT pushy. The mistake is interpreting "fast" as "frantic."
+- 早期：默认增加数量，因为还不知道什么有效。
+- 优化期：更好的定位、素材和跟进，比单纯增加数量更有效。
+- 始终避免：低数量加低质量，这是最差组合。
 
-### Conflict 4: "Give until they ask" vs sales urgency
+<a id="conflict-3-speed-wins-vs-thoughtful-response"></a>
+### 冲突3：“速度取胜”与“审慎回应”
 
-**Hormozi (content):** Give-give-give-ask. Don't pitch until they reach out.
-**Sales:** Ask for the close.
+**Hormozi：** 几分钟内回复线索。
 
-**Resolution:** Different contexts. In CONTENT (1-to-many), you give until they engage. In SALES CONVERSATIONS (1-to-1, after they engaged), you ask for the close. Don't conflate the two.
+**销售教练：** 不要显得急切求单。
 
-### Conflict 5: Aggressive cold outreach vs deliverability
+**协调：** 速度不等于急切。对“我有兴趣”的迅速回应应当及时、专业、有帮助，而非施压。不要把“快”理解成“慌乱”。
 
-**Hormozi:** High volume cold email.
-**Email reality:** Spam laws (CAN-SPAM, GDPR), domain reputation, deliverability scoring.
+<a id="conflict-4-give-until-they-ask-vs-sales-urgency"></a>
+### 冲突4：“给予直到对方询问”与促成成交
 
-**Resolution:** Cold email at scale requires:
-- Proper sender authentication (SPF, DKIM, DMARC)
-- Warmed-up sending domains
-- Compliant unsubscribe mechanisms
-- Reasonable per-domain volume
-- List hygiene
+**Hormozi 的内容原则：** 给予—给予—给予—请求。对方主动联系前不推销。
 
-Hormozi's framework doesn't address technical deliverability. A pure volume play with bad infrastructure will burn the sending domain. Combine Hormozi tactics with proper email infrastructure.
+**销售原则：** 要提出成交请求。
 
-### Conflict 6: Hormozi's volume vs blue-ocean's redefinition
+**协调：** 场景不同。内容是一对多，持续给予直到对方互动；销售对话是在互动之后一对一进行，此时可以请求成交。不要混淆。
 
-**Hormozi:** Compete in existing channels harder than competitors.
-**Blue Ocean:** Find uncontested space.
+<a id="conflict-5-aggressive-cold-outreach-vs-deliverability"></a>
+### 冲突5：大规模陌生开发与邮件送达
 
-**Resolution:** They operate at different layers. Blue Ocean is about WHAT you sell and WHO you sell to (strategic). Hormozi is about HOW you reach them (tactical). A blue ocean strategy still needs lead generation - and Hormozi's mechanics work for novel categories too.
+**Hormozi：** 大量发送陌生开发邮件。
 
-### Conflict 7: Universal channels vs B2B/regulated specifics
+**邮件现实：** CAN-SPAM、GDPR 等规则，以及域名信誉和送达评分。
 
-**Hormozi:** Core Four works for everyone.
-**B2B / regulated reality:** Some channels are unavailable or compliance-restricted.
+**协调：** 规模化陌生邮件需要：
 
-| Restricted Context | Channel Limitations |
+- 正确设置发件认证：SPF、DKIM、DMARC。
+- 预热发送域名。
+- 合规的退订机制。
+- 合理的单域名发送量。
+- 清理和维护名单。
+
+Hormozi 的框架没有解决技术送达问题。基础设施不好，单纯堆量会毁掉发送域名的信誉。要把获客策略与正确的邮件设施结合。
+
+<a id="conflict-6-hormozis-volume-vs-blue-oceans-redefinition"></a>
+### 冲突6：Hormozi 的数量与蓝海战略的重新定义
+
+**Hormozi：** 在现有渠道比竞争者更努力。
+
+**蓝海战略：** 寻找未被争夺的空间。
+
+**协调：** 两者在不同层面工作。蓝海战略关心卖什么、卖给谁，属于战略；Hormozi 关心如何触达，属于战术。蓝海也需要获客，新品类同样能使用这些方法。
+
+<a id="conflict-7-universal-channels-vs-b2bregulated-specifics"></a>
+### 冲突7：通用渠道与企业客户／受监管行业的特殊性
+
+**Hormozi：** 核心四渠道适用于所有人。
+
+**企业客户和受监管行业的现实：** 某些渠道不可用，或受到合规限制。
+
+| 受限场景 | 渠道限制 |
 |--------------------|---------------------|
-| Healthcare | HIPAA limits cold outreach with patient data |
-| Finance | Regulatory limits on advertising claims |
-| Legal | Bar association restrictions on solicitation |
-| Government / defense | Restricted advertising channels |
-| Children's products | Strict ad policies on most platforms |
+| 医疗 | HIPAA 限制利用患者数据进行陌生触达 |
+| 金融 | 广告主张受到监管限制 |
+| 法律服务 | 律师协会对招揽客户有限制 |
+| 政府／国防 | 广告渠道受限 |
+| 儿童产品 | 多数平台有严格广告政策 |
 
-In these contexts, the mix shifts heavily toward warm outreach, content, and conferences. Cold and paid are constrained.
+这些场景通常更依赖熟人触达、内容和会议；陌生开发和付费广告受到约束。
 
-## When 100m-leads is the Wrong Tool
+> 译注：本节忠实转述原文中的地域性法律及平台举例，未将其改写成适用于中国或其他地区的现行合规结论。
 
-| Problem | Use Instead |
+<a id="when-100m-leads-is-the-wrong-tool"></a>
+## 何时不该使用 100m-leads
+
+| 问题 | 改用 |
 |---------|-------------|
-| Don't know what to build | mom-test |
-| Have product, can't articulate value | obviously-awesome |
-| Built offer, no one buys | 100m-offers |
-| Leads convert but each customer loses money | money-models |
-| Pricing question | monetizing-innovation |
-| Adoption stalled in mainstream | crossing-the-chasm |
-| New category creation | blue-ocean-strategy |
-| Persuasion mechanics | influence |
-| In-person enterprise sales | spin-selling |
+| 不知道该开发什么 | `mom-test` |
+| 有产品，说不清价值 | `obviously-awesome` |
+| 做好了方案，却没人买 | `100m-offers` |
+| 线索能转化，但每位客户都亏钱 | `money-models` |
+| 定价问题 | `monetizing-innovation` |
+| 主流市场采用停滞 | `crossing-the-chasm` |
+| 创建新品类 | `blue-ocean-strategy` |
+| 说服机制 | `influence` |
+| 面对面企业销售 | `spin-selling` |
 
-100m-leads is the right tool when:
-- Offer is validated and converting
-- Need to scale traffic
-- Channel choice or execution is the bottleneck
-- Have unit economics that support acquisition cost
+以下情况适合本技能：
 
-## The Dependency Stack
+- 方案已经验证，能产生转化。
+- 需要放大流量。
+- 渠道选择或执行是瓶颈。
+- 单位经济模型支持获客成本。
+
+<a id="the-dependency-stack"></a>
+## 依赖顺序
 
 ```
-mom-test (validate problem)
+mom-test（验证问题）
    ↓
-obviously-awesome (position product)
+obviously-awesome（产品定位）
    ↓
-100m-offers (package the offer)
+100m-offers（包装方案）
    ↓
-money-models (sequence the offer, make acquisition self-funding)
+money-models（安排购买顺序，让获客能自我供血）
    ↓
-100m-leads (THIS - drive traffic)
+100m-leads（本技能：引流）
    ↓
-spin-selling (close the deal)
+spin-selling（促成成交）
    ↓
-influence (apply throughout)
+influence（贯穿全程）
 ```
 
-100m-leads operates near the bottom of the stack. It assumes the upper layers are solid. If you're in this skill but the upper layers are unclear, go up first.
+`100m-leads` 位于流程后段，假设前面的基础已经扎实。如果使用本技能时，前面的层次还不清楚，就先回去补齐。

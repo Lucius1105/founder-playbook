@@ -1,272 +1,274 @@
-# SPIN Selling - Extended Frameworks
+> 中文译文｜[英文对照](frameworks.en.md)｜[上游原文](https://github.com/getagentseal/founder-playbook/blob/e811e63be42c9b64a208707220b145451ad4b6c8/skills/spin-selling/frameworks.md)。原项目整理：AgentSeal；书籍来源：《SPIN Selling》— Neil Rackham；AI 辅助翻译。
 
-Detailed frameworks referenced from [SKILL.md](SKILL.md).
+# SPIN 销售——扩展框架
+
+由 [SKILL.md](SKILL.md) 引用的详细框架。
 
 ---
 
-## Need Development Has 3 Stages, Not 2
+## 需求发展有三个阶段，不是两个
 
-Most sales training treats need development as binary (no need → has need). Reality is 3 stages.
+多数销售培训把需求当成二元状态：没有需求 → 有需求。现实有三个阶段。
 
-| Stage | Description | Example | Question Type |
+| 阶段 | 描述 | 例子 | 问题类型 |
 |-------|-------------|---------|---------------|
-| 1 | Minor imperfections (99.9% satisfied) | "It's almost perfect" | Situation Q's nudge to surface dissatisfaction |
-| 2 | Implied Need (clear problems/difficulties) | "I'm unhappy with reliability" | Problem Q's reveal these |
-| 3 | Explicit Need (wants/intentions to act) | "We need a more reliable system" | Need-payoff Q's create these |
+| 1 | 小瑕疵，满意度 99.9% | “几乎完美” | 现状问题促使不满浮现 |
+| 2 | 隐含需求，明确的问题或困难 | “我对可靠性不满” | 问题提问揭示它 |
+| 3 | 明确需求，想要并打算行动 | “我们需要更可靠的系统” | 需求收益提问促成它 |
 
-**Most buyers in major sales sit at stage 1 longer than stage 2.** Problem Questions don't work yet at stage 1 - the buyer needs to feel some dissatisfaction first. Use Situation Questions to surface the dissatisfaction, then PQs.
-
----
-
-## The Value Equation
-
-Every purchase decision balances:
-
-```
-   BUY  ←  ?  →  DON'T BUY
-   /                      \
-[Seriousness of Problem]  [Cost of Solution]
-```
-
-- **Small sale:** Cost is low. Implied Needs alone tip the equation.
-- **Large sale:** Cost is high. Need must be developed (via Implication Questions) until problem feels bigger than cost.
-
-> "In larger sales the cost isn't measured only in money. A bad decision can cost the buyer's job. The buyer perceives risks and hassles as adding to the cost side of the equation."
+**大额销售中，多数买家停留在第一阶段的时间比第二阶段更长。**第一阶段的问题提问还不起作用，买家须先感到某种不满。用现状问题揭示不满，再进行问题提问。
 
 ---
 
-## Why Advantages Run Out of Steam
+## 价值方程
 
-In a long sales cycle (avg 7.8 calls):
+每次购买决策都在权衡：
 
-- **Early calls:** Advantages help moderately
-- **Late calls:** Advantages have NO MORE IMPACT than Features
-
-Reason: Advantages are quickly forgotten; Benefits stick because they're tied to expressed needs.
-
-> "Do a good job of developing Explicit Needs and the Benefits almost look after themselves. If you can get your customers to say 'I want it,' it's not difficult to make a Benefit by replying 'We can give it to you.'"
-
----
-
-## Why Sellers Keep Closing (Even When It Hurts)
-
-Closing is the only behavior that gets IMMEDIATELY rewarded with an order in small sales. "Some of the time" rewards are psychologically more powerful than "all of the time" rewards. So sellers keep using closes even when they hurt large sales.
-
-This is operant conditioning at work. Aware of the trap, train yourself out of it.
-
----
-
-## Plan, Do, Review
-
-> "Most important lessons come from REVIEWING the calls you make."
-
-### Post-Call Review Questions
-
-- Did I achieve my objective?
-- If I made the call again, what would I do differently?
-- What have I learned that influences future calls on this account?
-- What have I learned I can use elsewhere?
-
-### Top Performers Differ on DETAILS, Not Strategy
-
-Many less-successful salespeople have impeccable strategic thinking. Top performers translate strategy into specific behaviors. They review at a granular level:
-- Which specific question had the most impact?
-- Which needs did the customer feel strongly?
-- Which behaviors worked best?
-
-> "Never be content with global conclusions like 'it went quite well.' Ask about details. Unless you analyze your selling on this level of detail, you'll miss important opportunities for learning."
-
----
-
-## The 4 Golden Rules of Skill Learning - Extended
-
-### Rule 1: Practice Only ONE Behavior at a Time
-
-Tom Landry's advice when asked for the single principle of skill learning:
-> "Work on one thing at a time, and get it right."
-
-**Wrong mindset:** "I'll cut closing AND ask more Problems AND hold back on solutions AND avoid Features AND..."
-
-### Rule 2: Try the New Behavior at Least 3 Times
-
-New skills feel awkward. You'll sound artificial. Don't judge effectiveness on attempt #1.
-
-200 golfers studied: 157 of 200 said they scored WORSE after their first lesson. The skill needs breaking in.
-
-### Rule 3: Quantity Before Quality
-
-Don't worry about asking the perfect question. Ask LOTS of questions. Quality follows quantity.
-
-A multinational spent $650K on a 9-month "quality" program with 74-step models. It was demotivating; learners walked out. Replacement program (1/10th cost): "We don't care if questions are good or bad. Ask lots of them." After training: students asked dozens of questions and quality also improved.
-
-### Rule 4: Practice in SAFE Situations
-
-A company president was about to negotiate the biggest sale of his career - selling his company. Rackham's advice:
-> "Forget every single thing you've heard on this program; otherwise you'll spend the rest of your life regretting you came here."
-
-**New skills go in SMALL accounts and well-known customers. Never in important sales.**
-
----
-
-## Implementation Sequence (Detailed)
-
-### Phase 1: Just Ask More Questions
-
-If you currently TELL too much, simply ask MORE questions. Most will be Situation Questions. That's fine. Get comfortable being the questioner.
-
-### Phase 2: Plan and Ask Problem Questions
-
-- Aim for 6+ Problem Questions per call
-- Plan 3+ potential problems your product solves before each call
-- Concentrate on QUANTITY, not quality
-
-### Phase 3: Move to Implication Questions (After PQs Feel Comfortable)
-
-Plan them in advance using this method:
-1. Imagine the customer saying "So what? It's not that serious."
-2. List arguments why the problem IS serious (lost efficiency, cost, demotivation)
-3. Turn each argument into a question
-
-Example:
-- Problem: "Hard to use machine"
-- "So what?" → "Causes operator turnover"
-- Question: "What's this turnover costing in training?"
-
-### Phase 4: Need-Payoff Questions (Last)
-
-Generic NPQs work across calls:
-- "How would that help you?"
-- "Why is that important?"
-- "What benefits do you see?"
-- "Is there any other way this could help?"
-
-**Practice exercise:** Try NPQs on a friend about their goals (new car, vacation). They'll talk themselves into wanting it more.
-
----
-
-## 18 Common Mistakes
-
-### In Investigating
-
-1. **Asking too many Situation Questions** - bores the buyer, signals inexperience
-2. **Stopping at Problem Questions** in large sales - failing to develop need
-3. **Not planning Implication Questions** in advance - they don't come spontaneously
-4. **Skipping NPQs entirely** (~50% of calls have zero)
-5. **Asking NPQs too early** before building need
-6. **Asking NPQs about needs you can't meet** - amplifies competitor's case
-
-### In Demonstrating Capability
-
-7. **Demonstrating capabilities too early** in the call
-8. **Confusing Advantages with Benefits** (the most common mistake)
-9. **Giving 3x more Features/Advantages** when selling NEW products (excitement trap)
-10. **Becoming product-centered** instead of customer-centered
-
-### In Closing
-
-11. **Using traditional closing techniques** in major sales
-12. **Setting weak call objectives** ("collect information," "build relationship")
-13. **Judging calls by customer compliments** instead of customer actions
-14. **Treating Continuations as success**
-
-### In Implementation
-
-15. **Trying to change too many behaviors at once** - violates Rule 1
-16. **Practicing new behaviors in important sales** - violates Rule 4
-17. **Worrying about quality before mastering quantity**
-18. **Reading without practicing** - knowledge ≠ skill
-
----
-
-## The Linda Marsh Mechanism (Why Advantages Cause Objections)
-
-When you offer a solution before the customer feels the problem deeply, they push back. The cost feels too high relative to the developed need. This is the mechanism behind the Linda Marsh correlation.
-
-**Pattern that creates objections:**
-
-```
-Problem Question → Implied Need → Advantage → Objection
+```text
+   买  ←  ？  →  不买
+   /                 \
+［问题的严重性］   ［解决方案的成本］
 ```
 
-**Pattern that creates approval:**
+- **小额销售：**成本低，仅隐含需求就足以使天平倾斜。
+- **大额销售：**成本高，必须通过影响提问发展需求，直到问题显得比成本更大。
 
-```
-Problem Question → Implied Need → Implication → Bigger Implied Need →
-Need-payoff → Explicit Need → Benefit → Approval
-```
-
-The difference is the Implication and Need-payoff loop in the middle. Skip it and Advantages create objections. Use it and Benefits create approval.
+> “大额销售中的成本不只用金钱衡量。错误决策可能让买家丢掉工作。买家会把风险与麻烦也算到成本一边。”
 
 ---
 
-## Why Job Title Affects Question Reception
+## 为什么优势会后继乏力
 
-| Audience | Best Question Type | Why |
+在平均 7.8 次会谈的长周期中：
+
+- **早期会谈：**优势有适度帮助。
+- **后期会谈：**优势的作用不再强于特征。
+
+原因是优势很快被遗忘，利益却因关联已表达的需求而被记住。
+
+> “把明确需求发展好，利益几乎就会自己出现。只要让客户说‘我想要’，再回应‘我们能给你’，构成利益就不难。”
+
+---
+
+## 为什么销售明知有害仍不断逼单
+
+在小额销售中，成交技巧是唯一会立即获得订单奖励的行为。从心理学看，“有时奖励”比“每次奖励”更有力量。因此，即使它损害大额销售，销售者仍会继续使用。
+
+这是操作性条件作用。认识陷阱，再训练自己摆脱它。
+
+---
+
+## 计划、执行、复盘
+
+> “最重要的经验来自复盘已经做过的会谈。”
+
+### 会后复盘问题
+
+- 达成目标了吗？
+- 如果再做一次，会改变什么？
+- 学到了什么，会影响以后对这个客户的会谈？
+- 学到了什么，可以用在其他地方？
+
+### 顶尖销售的差异在细节，而非策略
+
+许多业绩较差的销售，战略思考无可挑剔。高手能将策略转为具体行为，并细致复盘：
+- 哪个具体问题影响最大？
+- 哪些需求让客户感受强烈？
+- 哪些行为最有效？
+
+> “不要满足于‘总体不错’这样笼统的结论。追问细节。若不在这种细度上分析销售，就会错过重要的学习机会。”
+
+---
+
+## 技能学习的四条黄金规则：扩展版
+
+### 规则一：一次只练一种行为
+
+被问到技能学习最重要的单一原则时，Tom Landry 的建议是：
+> “一次专注一件事，并把它做好。”
+
+**错误心态：**“我要少用成交技巧、多问问题、克制方案介绍、避免谈特征，还要……”
+
+### 规则二：新行为至少试三次
+
+新技能会生涩，听起来不自然。不要第一次就判断效果。
+
+对 200 名球手的研究中，157 人说第一节课后成绩更差。技能需要磨合。
+
+### 规则三：先数量，后质量
+
+不要担心问题不完美，先大量提问，质量随后提高。
+
+一家跨国公司花 650,000 美元，做九个月、74 步模型的“质量”培训，结果令人泄气，学员离场。替代课程只花十分之一：“我们不在乎问题好坏，尽量多问。”之后学员能问几十个问题，质量也改善。
+
+### 规则四：在安全场景中练习
+
+一位公司总裁即将进行职业生涯最大的一笔交易——出售公司。Rackham 劝他：
+> “忘掉这次培训里听到的每一件事，否则余生你都会后悔来过这里。”
+
+**新技能要在小客户、熟悉客户身上练，绝不在重要交易中初试。**
+
+---
+
+## 实施顺序详解
+
+### 第一阶段：先多提问
+
+如果你现在讲得太多，就先多问。大多数可能是现状问题，没关系，先适应提问者角色。
+
+### 第二阶段：准备并提出问题提问
+
+- 每次会谈以六个以上为目标。
+- 每次会谈前准备至少三个产品能解决的潜在问题。
+- 关注数量，不先纠结质量。
+
+### 第三阶段：问题提问熟练后，转向影响提问
+
+提前用以下方法准备：
+1. 想象客户说：“那又怎样？没那么严重。”
+2. 列出它确实严重的理由，如效率损失、成本、士气下降。
+3. 把每条理由转成问题。
+
+例：
+- 问题：“机器难用。”
+- “那又怎样？”→“导致操作员流失。”
+- 提问：“这种流失带来多少培训成本？”
+
+### 第四阶段：最后加入需求收益提问
+
+通用问题可用于不同会谈：
+- “它会怎样帮助你？”
+- “为什么这很重要？”
+- “你看到哪些收益？”
+- “还有其他帮助吗？”
+
+**练习：**与朋友聊他们的目标，如买新车、度假，试着问需求收益问题。他们会把自己说得更想要。
+
+---
+
+## 十八个常见错误
+
+### 探询阶段
+
+1. **现状问题太多：**让买家厌烦，显得缺乏经验。
+2. **大额销售停在问题提问：**没有继续发展需求。
+3. **没有事先准备影响问题：**它们不会自动冒出来。
+4. **完全跳过需求收益问题：**约一半会谈一个都没有。
+5. **需求未建立就过早问收益。**
+6. **对无法满足的需求问收益：**反而增强竞品的理由。
+
+### 展示能力阶段
+
+7. **太早展示能力。**
+8. **把优势与利益混为一谈：**最常见的错误。
+9. **卖新产品时，特征／优势介绍多到三倍：**陷入兴奋陷阱。
+10. **以产品为中心，而非客户。**
+
+### 成交阶段
+
+11. **大额销售中使用传统成交技巧。**
+12. **目标过弱：**“收集信息”“建立关系”。
+13. **按客户赞美评价会谈，而非行动。**
+14. **把延续视为成功。**
+
+### 实施阶段
+
+15. **同时改变太多行为：**违反规则一。
+16. **在重要交易中练新行为：**违反规则四。
+17. **数量未掌握就担心质量。**
+18. **只读不练：**知识不等于技能。
+
+---
+
+## Linda Marsh 机制：为什么优势引发异议
+
+客户尚未深切感到问题，你就提出方案，他们会反对。相对于已发展的需求，成本显得太高。这就是 Linda Marsh 相关性背后的机制。
+
+**产生异议的模式：**
+
+```text
+问题提问 → 隐含需求 → 优势 → 异议
+```
+
+**产生认可的模式：**
+
+```text
+问题提问 → 隐含需求 → 影响 → 更大的隐含需求 →
+需求收益 → 明确需求 → 利益 → 认可
+```
+
+差别就在中间的影响与需求收益循环。跳过它，优势带来异议；使用它，利益带来认可。
+
+---
+
+## 为什么职位影响问题的接受程度
+
+| 对象 | 最合适的问题类型 | 原因 |
 |----------|---------------------|-----|
-| Decision makers (executive) | Implication Questions | "Implications are the language of decision makers" |
-| Users / influencers (operational) | Problem Questions | They feel daily pain; Implications can feel like over-reach |
-| Technical buyers (engineering) | Situation + Problem | They want concreteness; abstract Implications can read as fluff |
-| Procurement | Direct, no-frills | They want price, terms, RFP fit |
+| 高管决策者 | 影响提问 | “影响是决策者的语言” |
+| 运营层用户／影响者 | 问题提问 | 他们承受日常痛点，影响追问可能显得越界 |
+| 工程类技术买家 | 现状 + 问题 | 他们要具体，抽象影响可能被当作空话 |
+| 采购 | 直接、不绕弯 | 他们要价格、条款、对招标要求的匹配 |
 
-Plan question type to audience. Don't ask the CFO about operator turnover; ask about EBIT impact.
-
----
-
-## "Type A Benefits" vs Real Benefits
-
-Most legacy sales training uses "Type A Benefits" to mean "showing how a product helps." Rackham reclassifies these as **Advantages**.
-
-**Real Benefits require:**
-1. Customer first expresses an Explicit Need
-2. Seller then maps product capability to that explicit need
-
-If the customer hasn't said "I want X," any "this gives you X" statement is an Advantage, not a Benefit. Advantages are weaker. They generate objections in long cycles.
+按对象规划问题。不要向 CFO 追问操作员流失细节，要问对息税前利润的影响。
 
 ---
 
-## SPIN as a Discovery Framework, Not a Script
+## “A 类利益”与真正的利益
 
-**SPIN is a guideline, not a rigid sequence.** Top performers:
+传统销售培训多数用“A 类利益”表示“展示产品如何有帮助”。Rackham 把它重新归为**优势**。
 
-- Skip Situation Questions when they've done research
-- Jump straight to Implication when the problem is already named
-- Loop back to Problem questions if Implications aren't landing
-- Drop into Need-payoff early if the customer is excited
+**真正的利益要求：**
+1. 客户先表达明确需求。
+2. 销售再把产品能力对应到这项需求。
 
-**Stay flexible. The order S-P-I-N matters less than: minimum Situation, maximum Implication for executives, NPQ for value articulation.**
-
----
-
-## When the Buyer Knows SPIN
-
-Sophisticated buyers - procurement professionals, trained executives, veteran B2B purchasers - may recognize SPIN questioning when they hear it.
-
-**Signals to watch for:**
-- They call it out directly: "That sounds like a SPIN question" or "Are you running the SPIN framework on me?"
-- They resist Implication probing: "I don't want to speculate on downstream consequences - just tell me the price"
-- They deflect NPQs: "I know what solving it would be worth; let's skip the hypotheticals"
-
-**Response - acknowledge it openly:**
-
-> "You're right, I'm trying to understand the full impact before I recommend anything. That's the only way I can tell you honestly whether we can actually help."
-
-Transparency builds trust with sophisticated buyers far more than technique does. The moment they sense you're running a script, the technique works against you. Naming it neutralizes it.
-
-**Shift to collaborative discovery:**
-
-> "Help me understand the real scope of the problem so I can give you an honest assessment - not a pitch."
-
-Frame it as mutual due diligence. The buyer is evaluating you; you're evaluating fit. That framing is both honest and effective.
-
-**Never try to be sneaky about it.** A trained buyer who catches you hiding the technique will discount everything else you say. Directness is not a fallback - it's the correct play with this audience. The goal of SPIN questions is genuine need understanding; if you can get there through open dialogue instead of sequential prompts, the outcome is the same.
+客户未说“我想要 X”之前，任何“这会给你 X”的陈述都是优势而非利益。优势较弱，并在长周期中引发异议。
 
 ---
 
-## Granular Behavioral Counts (How Researchers Measured SPIN Use)
+## SPIN 是需求探索框架，不是台词脚本
 
-Huthwaite recorders sat on calls and counted question types. Inter-rater reliability was a problem - distinguishing Implication from Need-payoff was hard enough that the team admitted **Quincy's Rule was needed because they couldn't agree on classifications.**
+**SPIN 是指南，不是死板顺序。**高手会：
 
-This matters because:
-- Self-counting your questions is even harder
-- Use audio recording + post-call labeling for honest measurement
-- Don't trust gut estimates of "I asked lots of Implications" - measure
+- 做好调研后跳过现状问题。
+- 问题已明确时，直接问影响。
+- 影响提问没有触动对方时，退回问题提问。
+- 客户兴奋时，提前进入需求收益提问。
+
+**保持灵活。S-P-I-N 的顺序不如这些原则重要：少问现状、面对高管充分探讨影响、用需求收益问题让客户说出价值。**
+
+---
+
+## 当买家也懂 SPIN
+
+采购专业人士、受过训练的高管、资深 B2B 买家，可能听得出你在用 SPIN。
+
+**留意这些信号：**
+- 直接指出：“听起来像 SPIN 问题。”“你在对我套用 SPIN 框架吗？”
+- 抗拒影响追问：“我不想猜后续影响，直接告诉我价格。”
+- 避开收益问题：“我知道解决它值多少，跳过这些假设吧。”
+
+**回应：公开承认。**
+
+> “你说得对，我在推荐之前，想先理解完整影响。只有这样，才能诚实判断我们到底能不能帮上忙。”
+
+对成熟买家，透明比技巧更能建立信任。一旦他们感觉你在照台词演，技巧就会反噬。把它说破，反而消除阻力。
+
+**转为共同探索：**
+
+> “帮我理解问题的真实范围，这样我才能给出诚实评估，而不只是推销。”
+
+将其定义为相互尽职调查：买家评估你，你评估匹配度。这样既诚实又有效。
+
+**绝不要偷偷摸摸。**受过训练的买家一旦发现你刻意藏技巧，就会怀疑你之后的所有话。直接坦诚不是退而求其次，而是面对这类受众的正确做法。SPIN 的目标是真正理解需求；如果开放对话即可达成，无需逐步提示，结果一样。
+
+---
+
+## 细粒度行为统计：研究者怎样测量 SPIN 使用
+
+Huthwaite 的记录员现场旁听并统计问题类型。评定者之间的一致性存在问题，区分影响与需求收益实在困难，团队承认，**正因为无法就分类达成一致，才需要 Quincy 法则。**
+
+这意味着：
+- 自己统计自己的问题更难。
+- 要诚实测量，应录音并在会后标注。
+- 不要相信“我问了很多影响问题”的直觉估计，要实际计数。
